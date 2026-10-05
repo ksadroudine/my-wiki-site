@@ -72,7 +72,7 @@ a:hover { text-decoration: underline; color: var(--navy-hover); }
 .search input:focus { border-color: var(--navy); background: var(--input-focus-bg); }
 
 #nav details, .results { padding: 0 22px; }
-#nav > details { padding: 14px 22px; border-bottom: 1px solid var(--salmon-mid); margin: 0; }
+#nav > details { padding: 14px 22px; margin: 0; }
 #nav > details:last-of-type { border-bottom: none; }
 #nav details details { padding: 0; }
 
