@@ -34,7 +34,7 @@
     var sections = {};
     bok.forEach(function (b) { (sections[b.section] = sections[b.section] || []).push(b); });
     var html = '<div class="toc-link"><a href="#/bok" data-slug="bok">Table of contents</a></div>' +
-      Object.keys(sections).sort().map(function (name) {
+      Object.keys(sections).map(function (name) {
         return '<div class="tag-group"><details data-section="' + esc(tagId(name)) + '"><summary>' + esc(name) +
           ' <span class="count">(' + sections[name].length + ")</span></summary><ul class=\"list\">" +
           sections[name].map(bokLink).join("") + "</ul></details></div>";
@@ -131,7 +131,7 @@
     var sections = {};
     bok.forEach(function (b) { (sections[b.section] = sections[b.section] || []).push(b); });
     $("article").innerHTML = "<h1>Book of Knowledge</h1>" +
-      Object.keys(sections).sort().map(function (name) {
+      Object.keys(sections).map(function (name) {
         return "<h2>Section: " + esc(name) + "</h2><ul>" + sections[name].map(function (b) {
           return '<li><a href="#/bok/' + b.slug + '">' + esc(bokLabel(b)) + "</a> — <span class=\"muted\">" + esc(b.summary.split(". ")[0].replace(/\.$/, "")) + ".</span></li>";
         }).join("") + "</ul>";

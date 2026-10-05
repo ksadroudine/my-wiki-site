@@ -29,6 +29,11 @@ OUT_CONTENT = os.path.join(HERE, "content")
 OUT_BOK = os.path.join(OUT_CONTENT, "bok")
 BOK = os.path.join(VAULT, "02 WIKI", "BOK")
 TITLES = {}
+# Sections appear in this order in the book; a new section is added here.
+SECTION_ORDER = [
+    "AI", "Cloud", "Data", "Digital Business and Platforms", "Customer and Go-to-Market",
+    "Innovation", "Management and Leadership", "Telecom", "Economy and Geopolitics",
+]
 
 WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
 
@@ -131,7 +136,7 @@ def main():
 
     index.sort(key=lambda c: c["title"].lower())
     # book order: by section, numbered chapters first, then reference pages by title
-    bok.sort(key=lambda b: (b["section"], 0 if isinstance(b["chapter"], int) else 1,
+    bok.sort(key=lambda b: (SECTION_ORDER.index(b["section"]) if b["section"] in SECTION_ORDER else len(SECTION_ORDER), b["section"], 0 if isinstance(b["chapter"], int) else 1,
                             b["chapter"] if isinstance(b["chapter"], int) else 0, b["title"].lower()))
     with open(os.path.join(OUT_DATA, "index.json"), "w", encoding="utf8") as fh:
         json.dump(index, fh, ensure_ascii=False)
