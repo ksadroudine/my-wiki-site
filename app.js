@@ -35,7 +35,7 @@
     bok.forEach(function (b) { (sections[b.section] = sections[b.section] || []).push(b); });
     var html = '<ul class="list"><li><a href="#/bok" data-slug="bok">Table of contents</a></li></ul>' +
       Object.keys(sections).sort().map(function (name) {
-        return '<div class="tag-group"><details data-section="' + esc(tagId(name)) + '" open><summary>' + esc(name) +
+        return '<div class="tag-group"><details data-section="' + esc(tagId(name)) + '"><summary>' + esc(name) +
           ' <span class="count">(' + sections[name].length + ")</span></summary><ul class=\"list\">" +
           sections[name].map(bokLink).join("") + "</ul></details></div>";
       }).join("");
@@ -90,6 +90,7 @@
     var hits = document.querySelectorAll('#nav a[data-slug="' + slug + '"]');
     Array.prototype.forEach.call(hits, function (a) { a.classList.add("active"); });
     var first = document.querySelector('#nav a[data-slug="' + slug + '"]');
+    if (first) { var anc = first.closest("details"); while (anc) { anc.open = true; anc = anc.parentElement.closest("details"); } }
     if (first && !first.closest("details:not([open])")) first.scrollIntoView({ block: "nearest" });
   }
 

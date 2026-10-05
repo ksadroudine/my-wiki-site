@@ -39,15 +39,34 @@ Capabilities have five parts.
 
 ### Layer four, structure
 
-Structure has five elements. Reporting lines for cross-functional teams may need a two-in-a-box arrangement, in which one leader holds business accountability and another manages technical careers. The definition of work clarifies scope and ownership, in place of the narrow, siloed definitions of traditional IT. Operating units, such as a cloud center of excellence and a cloud business office, coordinate across units beyond the formal reporting lines. Location matters less, because the cloud lets operating units be placed virtually. Finally, interactions describe how units affect one another's ability to deliver value, in four patterns. They can be independent, coordinated, contracted or collaborative.
+Structure has five elements.
+
+- **Reporting lines** for cross-functional teams may need a two-in-a-box arrangement, in which one leader holds business accountability and another manages technical careers.
+- **The definition of work** clarifies scope and ownership, in place of the narrow, siloed definitions of traditional IT.
+- **Operating units**, such as a cloud center of excellence and a cloud business office, coordinate across units beyond the formal reporting lines.
+- **Location** matters less, because the cloud lets operating units be placed virtually.
+- **Interactions** describe how units affect one another's ability to deliver value. They can be independent, coordinated, contracted or collaborative.
 
 ### Layer five, governance
 
-Governance has five parts. Security uses Zero Trust, a model in which no user or device is trusted by default, as its foundation, and it maps the shared-responsibility model carefully. Compliance means building the GRC functions directly into the operating model, since a provider's own regulatory documents will not automatically match an organization's control framework. Decisions need a formal framework and catalog, to counter the cloud's constant pressure toward decentralized and inconsistent choices. Transparency means real-time dashboards, which replace the narrow, hierarchical reporting of the private data center era. Accountability uses RACI charts, which show who is responsible, accountable, consulted and informed. These charts are now wider in both pace and number of participants than they were in the data center era.
+Governance has five parts.
+
+- **Security** uses Zero Trust, a model in which no user or device is trusted by default, as its foundation, and it maps the shared-responsibility model carefully.
+- **Compliance** means building the GRC functions directly into the operating model, since a provider's own regulatory documents will not automatically match an organization's control framework.
+- **Decisions** need a formal framework and catalog, to counter the cloud's constant pressure toward decentralized and inconsistent choices.
+- **Transparency** means real-time dashboards, which replace the narrow, hierarchical reporting of the private data center era.
+- **Accountability** uses RACI charts, which show who is responsible, accountable, consulted and informed. These charts now cover more participants and move at a faster pace than they did in the data center era.
 
 ### Layer six, leadership
 
-Leadership covers six matters. Vision was rarely needed in early cloud adoption, but cloud-native technology and AI workloads now require an expansive vision tied to organizational goals. Strategy is the day-to-day reference point that puts the vision into practice. One example is adopting multicloud to address vendor concentration and sovereign-cloud rules. Culture matters because cloud technology is designed to support empowerment and collaboration, but an organization has to embrace that deliberately and not fall back on old habits. Performance is measured against one of four styles of IT, which are enabling, amplifying, cocreating and transforming, and not by automatically adopting the newest cloud service. Values matter because a cloud provider becomes a long-term strategic partner, and its policies on privacy and responsible AI become the customer's concern too. Finally, motivation means freeing IT staff from the rigidity of shared services to form empowered platform teams.
+Leadership covers six matters.
+
+- **Vision** was rarely needed in early cloud adoption, but cloud-native technology and AI workloads now require an expansive vision tied to organizational goals.
+- **Strategy** is the day-to-day reference point that puts the vision into practice. One example is adopting multicloud to address vendor concentration and sovereign-cloud rules.
+- **Culture** matters because cloud technology is designed to support empowerment and collaboration, but an organization has to embrace that deliberately and not fall back on old habits.
+- **Performance** is measured against one of four styles of IT, which are enabling, amplifying, cocreating and transforming, and not by automatically adopting the newest cloud service.
+- **Values** matter because a cloud provider becomes a long-term strategic partner, and its policies on privacy and responsible AI become the customer's concern too.
+- **Motivation** means freeing IT staff from the rigidity of shared services so that they can form empowered platform teams.
 
 ### Partners, architecture and sourcing
 

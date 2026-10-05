@@ -21,7 +21,7 @@ Users and applications no longer distinguish between a workload in the company d
 1. Software as a service applications, which the vendors largely manage, although IT still owns the customer relationship and the user experience.
 2. External public cloud resources, such as virtual machines, storage and databases that development teams use directly.
 3. Internal cloud resources, delivered through private or hybrid clouds to employees and partners.
-4. Internal services.
+4. Internal services that the company runs for its own staff.
 5. External services that the company delivers to customers in other companies.
 
 Cloud makes it easy for any employee to sign up for a new tool, which produces shadow IT. Business units adopt applications without IT's awareness, sometimes to work around legitimate constraints such as email attachment limits. The recommended answer is to act before it spreads. IT researches and approves a catalog of vetted tools that meet security and reliability standards, publishes the catalog where it is easy to find and invites employees to report unmet needs. The combined usage also gives IT bargaining power on price and support.

@@ -15,7 +15,7 @@ Cloud computing is the delivery of computing resources such as servers, storage 
 
 ### What makes something a cloud
 
-The best definition is based on what a cloud does. A cloud delivers computing resources as a service, and the delivery has three features. It is shared, standardized and automated. Resources include applications, computing power, storage, networking, development platforms and even business processes.
+A cloud is best defined by what it does. It delivers computing resources as a service, and the delivery has three features. It is shared, standardized and automated. Resources include applications, computing power, storage, networking, development platforms and even business processes.
 
 Standardization gives customers consistent interfaces. Automation provisions and releases resources according to business rules, the resources available and security demands. Without both features, a cloud would be merely infrastructure hosted somewhere else.
 
@@ -29,7 +29,7 @@ Cloud services are organized in three layers, and each is built on the one below
 - **Platform as a service (PaaS)** adds middleware, development tools and deployment services. The operating system is hidden from developers, so they work without operating-system expertise.
 - **Software as a service (SaaS)** is a complete multi-tenant business application, such as Salesforce, Google's G Suite or Adobe Creative Cloud. The customer cares only about functions, performance, availability and security.
 
-Platform services go together with two ways of working. DevOps merges development and operations so that features ship as soon as they are ready, and not in numbered releases. Agile development uses small cross-functional teams that work in sprints of two to four weeks. Platform services come in three variants. A public platform is the fastest route to deployment. A private platform runs inside a company's data center, which suits regulated industries whose auditors need in-person access. An open platform is built on open-source software to avoid dependence on one vendor.
+The platform layer is closely tied to two ways of working. DevOps merges development and operations so that features ship as soon as they are ready, and not in numbered releases. Agile development uses small cross-functional teams that work in sprints of two to four weeks. Platforms come in three variants. A public platform is the fastest route to deployment. A private platform runs inside a company's data center, which suits regulated industries whose auditors need in-person access. An open platform is built on open-source software to avoid dependence on one vendor.
 
 SaaS changes both the architecture and the economics of software. Every customer shares one code base, so customers avoid the capital cost of scaling their own infrastructure, and maintenance and updates are bundled into the subscription. A customer can configure the application's behavior without touching its code, which keeps upgrades simple. Heavy process customization makes upgrades harder.
 
@@ -41,13 +41,13 @@ The deployment models differ mainly in ownership, access and control, and not in
 
 - A **public cloud** is owned and operated by a third party for use by many customers. Some customers pay a premium for dedicated instances when governance rules forbid sharing infrastructure.
 - A **private cloud** is owned and operated by or exclusively for one organization, sits behind a firewall and is built around governance, security and compliance. Public vendors now sell appliance versions of their services that can be installed in a customer's own data center, which blurs the line between private and public.
-- **Community and government clouds** are variants. Open community clouds such as social networks offer low security and no service guarantee. Government clouds are segregated environments with stricter isolation and vetting, because a government data breach can become an international incident.
+- **Community and government clouds** are variants of public cloud. Open community clouds such as social networks offer low security and no service guarantee. Government clouds are segregated environments with stricter isolation and vetting, because a government data breach can become an international incident.
 
 The terms hybrid and multicloud are often used loosely, but careful usage draws a precise line. A hybrid cloud requires that private and public resources work together toward a shared goal. An example is a public development platform that sends data to a private application. A disconnected public-cloud prototype, or divisions that each chose their own single public cloud, are not hybrid.
 
 Multicloud means the coordinated use of two or more public clouds. Companies pursue it for developer choice, protection against one vendor's pricing or failures, and cost and performance advantages. Its goal of moving running workloads automatically between providers had not yet been reached, because the management tools and application portability were immature. In practice, multicloud often arises by accident, when teams or acquired companies choose different vendors.
 
-Cloud adoption does not remove the data center. Most medium and large companies still run one for core systems such as accounting and inventory. Many turn a virtualized data center into a private cloud, which becomes the foundation of a hybrid environment after the move to public cloud. Data sovereignty is a lasting reason for keeping some workloads in-house. It is the principle that stored data is subject to the laws of the country where it physically sits.
+Cloud adoption does not remove the data center. Most medium and large companies still run one for core systems such as accounting and inventory. Many turn a virtualized data center, in which software is separated from the hardware it runs on, into a private cloud, which becomes the foundation of a hybrid environment after the move to public cloud. Data sovereignty is a lasting reason for keeping some workloads in-house. It is the principle that stored data is subject to the laws of the country where it physically sits.
 
 ### Why hybrid became the default
 
