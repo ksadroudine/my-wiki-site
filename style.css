@@ -111,8 +111,8 @@ summary {
 .article::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
 
 .article h1 {
-  font-family: var(--font-serif); font-size: 26px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;
-  color: var(--text-black); line-height: 1.15; margin: 0; padding: 28px 0 12px; border-bottom: 1px solid var(--border);
+  font-family: var(--font-serif); font-size: 28px; font-weight: 700; letter-spacing: 0;
+  color: var(--text-black); line-height: 1.2; margin: 0; padding: 28px 0 12px; border-bottom: 1px solid var(--border);
 }
 .meta { font-family: var(--font-sans); font-size: 11.5px; color: var(--text-light); letter-spacing: 0.02em; margin: 10px 0 8px; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 24px; }
