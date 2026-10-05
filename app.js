@@ -166,7 +166,19 @@
       route();
     });
 
+  // ---------- Mobile drawer ----------
+  var sidebar = document.querySelector(".sidebar");
+  var overlay = $("sidebar-overlay");
+  function openDrawer() { sidebar.classList.add("sidebar-open"); overlay.classList.add("sidebar-open"); document.body.style.overflow = "hidden"; }
+  function closeDrawer() { sidebar.classList.remove("sidebar-open"); overlay.classList.remove("sidebar-open"); document.body.style.overflow = ""; }
+  $("filter-toggle").addEventListener("click", function () {
+    sidebar.classList.contains("sidebar-open") ? closeDrawer() : openDrawer();
+  });
+  overlay.addEventListener("click", closeDrawer);
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeDrawer(); });
+
   window.addEventListener("hashchange", function () {
+    closeDrawer();
     $("search").value = "";
     runSearch("");
     route();

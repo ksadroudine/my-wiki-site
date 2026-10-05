@@ -103,7 +103,7 @@ summary {
 
 /* ── Right column: header + article ────────────────────── */
 .main { display: flex; flex-direction: column; height: 100vh; min-width: 0; background: var(--main-bg); }
-#masthead { flex: none; height: var(--header-height); padding: 0 48px; display: flex; align-items: center; background: var(--salmon); border-bottom: 1px solid var(--salmon-mid); }
+#masthead { flex: none; height: var(--header-height); padding: 0 48px; display: flex; align-items: center; justify-content: space-between; gap: 12px; background: var(--salmon); border-bottom: 1px solid var(--salmon-mid); }
 #masthead a { font-family: var(--font-sans); font-size: 30px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--salmon-dark); line-height: 1; text-decoration: none; }
 #masthead a:hover { color: var(--navy); text-decoration: none; }
 .article { flex: 1; overflow-y: auto; padding: 0 48px 72px; background: var(--main-bg); }
@@ -137,11 +137,45 @@ summary {
 .src { font-family: var(--font-sans); font-size: 12px; font-style: italic; color: var(--text-light); }
 .muted { color: var(--text-xlight); font-family: var(--font-sans); font-size: 13.5px; }
 
-/* ── Narrow screens: stack the columns ─────────────────── */
+/* Filters button and overlay: hidden on desktop */
+#filter-toggle, #sidebar-overlay { display: none; }
+
+/* ── Narrow screens: left column becomes a slide-in drawer (same as My News Brief) ── */
 @media (max-width: 800px) {
-  .layout { grid-template-columns: 1fr; height: auto; }
-  .sidebar { max-height: 45vh; border-right: 0; border-bottom: 1px solid var(--salmon-mid); }
-  .main { height: auto; }
-  #masthead { padding: 0 18px; }
-  .article { padding: 0 18px 48px; overflow: visible; }
+  :root { --header-height: 60px; }
+
+  .layout { display: block; height: auto; }
+
+  /* The left column slides in from the left */
+  .sidebar {
+    position: fixed; top: 0; left: 0; z-index: 200;
+    width: min(86vw, 360px); height: 100vh; height: 100dvh;
+    transform: translateX(-110%); transition: transform 0.25s ease;
+    border-right: 1px solid var(--salmon-mid); max-height: none;
+  }
+  .sidebar.sidebar-open { transform: translateX(0); box-shadow: 4px 0 24px rgba(0,0,0,0.25); }
+
+  #sidebar-overlay {
+    display: block; position: fixed; inset: 0; z-index: 199;
+    background: rgba(0,0,0,0.35); opacity: 0; pointer-events: none; transition: opacity 0.25s ease;
+  }
+  #sidebar-overlay.sidebar-open { opacity: 1; pointer-events: auto; }
+
+  /* Header stays at the top while the article scrolls */
+  .main { height: auto; min-height: 100vh; }
+  #masthead { position: sticky; top: 0; z-index: 100; padding: 0 16px; }
+  #masthead a { font-size: 22px; }
+
+  #filter-toggle {
+    display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px;
+    font-family: var(--font-sans); font-size: 12px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;
+    color: var(--salmon-dark); background: var(--salmon); border: 1px solid var(--salmon-mid); border-radius: 2px;
+    cursor: pointer; white-space: nowrap; flex-shrink: 0;
+  }
+  #filter-toggle:active { background: var(--salmon-mid); }
+
+  .article { padding: 0 16px 56px; overflow: visible; }
+  .article h1 { font-size: 20px; padding-top: 20px; }
+  .article p, .article li { font-size: 14.5px; }
+  .article h2:first-of-type + p { padding: 14px; }
 }
