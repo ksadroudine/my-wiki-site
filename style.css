@@ -19,6 +19,33 @@
   --font-sans:     Arial, Helvetica, sans-serif;
   --sidebar-width: 450px;
   --header-height: 76px;
+  --input-bg:      rgba(255,255,255,0.7);
+  --input-focus-bg:#FFFFFF;
+  --hover-bg:      rgba(255,255,255,0.6);
+  --active-bg:     #FFFFFF;
+}
+
+/* Dark mode: follows the device/browser setting automatically. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --salmon:        #2A2320;
+    --salmon-mid:    #4A3A30;
+    --salmon-dark:   #D9955A;
+    --main-bg:       #1B1917;
+    --card-bg:       #242120;
+    --border:        #3A3531;
+    --border-light:  #2D2926;
+    --navy:          #8DB4E8;
+    --navy-hover:    #B1CDF3;
+    --text-black:    #F2EEE9;
+    --text-mid:      #D0CBC5;
+    --text-light:    #9A948E;
+    --text-xlight:   #6F6A65;
+    --input-bg:      rgba(255,255,255,0.07);
+    --input-focus-bg:#1B1917;
+    --hover-bg:      rgba(255,255,255,0.08);
+    --active-bg:     #1B1917;
+  }
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -38,11 +65,11 @@ a:hover { text-decoration: underline; color: var(--navy-hover); }
 .search { position: sticky; top: 0; background: var(--salmon); height: var(--header-height); padding: 0 22px; display: flex; align-items: center; z-index: 2; border-bottom: 1px solid var(--salmon-mid); }
 .search input {
   width: 100%; font-family: var(--font-sans); font-size: 12.5px; color: var(--text-black);
-  background: rgba(255,255,255,0.7); border: 1px solid var(--salmon-mid); border-radius: 2px;
+  background: var(--input-bg); border: 1px solid var(--salmon-mid); border-radius: 2px;
   padding: 7px 10px; outline: none;
 }
 .search input::placeholder { color: var(--text-xlight); }
-.search input:focus { border-color: var(--navy); background: #fff; }
+.search input:focus { border-color: var(--navy); background: var(--input-focus-bg); }
 
 #nav details, .results { padding: 0 22px; }
 #nav > details { padding: 14px 22px; border-bottom: 1px solid var(--salmon-mid); margin: 0; }
@@ -62,8 +89,8 @@ summary {
   display: block; padding: 4px 6px; border-radius: 2px;
   font-family: var(--font-sans); font-size: 12px; line-height: 1.4; color: var(--text-mid); text-decoration: none;
 }
-.list a:hover, .results a:hover { color: var(--navy); background: rgba(255,255,255,0.6); }
-.list a.active { color: var(--navy); background: #fff; font-weight: 700; }
+.list a:hover, .results a:hover { color: var(--navy); background: var(--hover-bg); }
+.list a.active { color: var(--navy); background: var(--active-bg); font-weight: 700; }
 
 /* tag tree: second level sits under the group label */
 .tag-group { margin-top: 2px; }
