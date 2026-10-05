@@ -130,7 +130,6 @@
     var sections = {};
     bok.forEach(function (b) { (sections[b.section] = sections[b.section] || []).push(b); });
     $("article").innerHTML = "<h1>Book of Knowledge</h1>" +
-      '<p class="lead">A reading guide to the wiki. Each chapter explains one topic in plain language and points to the Concepts that hold the detail.</p>' +
       Object.keys(sections).sort().map(function (name) {
         return "<h2>Section: " + esc(name) + "</h2><ul>" + sections[name].map(function (b) {
           return '<li><a href="#/bok/' + b.slug + '">' + esc(bokLabel(b)) + "</a> — <span class=\"muted\">" + esc(b.summary.split(". ")[0].replace(/\.$/, "")) + ".</span></li>";
