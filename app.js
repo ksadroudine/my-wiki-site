@@ -33,7 +33,7 @@
   function renderBokTree() {
     var sections = {};
     bok.forEach(function (b) { (sections[b.section] = sections[b.section] || []).push(b); });
-    var html = '<ul class="list"><li><a href="#/bok" data-slug="bok">Table of contents</a></li></ul>' +
+    var html = '<div class="toc-link"><a href="#/bok" data-slug="bok">Table of contents</a></div>' +
       Object.keys(sections).sort().map(function (name) {
         return '<div class="tag-group"><details data-section="' + esc(tagId(name)) + '"><summary>' + esc(name) +
           ' <span class="count">(' + sections[name].length + ")</span></summary><ul class=\"list\">" +

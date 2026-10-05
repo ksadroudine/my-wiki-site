@@ -1,6 +1,6 @@
 ## Summary
 
-Access to AI does not give a company a lasting advantage, because rivals can use the same tools. This chapter explains where advantage can still come from, how leaders can build an AI strategy step by step, and why executive understanding of AI matters more than technology choices. It also covers the AI factory as an operating model, the structures that let companies scale generative AI, the changing roles of senior leaders, the effect of AI on strategy work and the reasons partnerships with technology firms so often fail.
+Access to AI does not give a company a lasting advantage, because rivals can use the same tools. This chapter explains where advantage can still come from, how leaders can build an AI strategy step by step, and why executive understanding of AI matters more than technology choices. It also covers the AI factory as an operating model, the structures that let companies scale generative AI and the changing roles of senior leaders. Further sections look at the effect of AI on strategy work and at the reasons partnerships with technology firms so often fail. The chapter closes with how private equity firms build AI capability across the companies they own.
 
 ## Key Ideas
 
@@ -10,6 +10,7 @@ Access to AI does not give a company a lasting advantage, because rivals can use
 - Companies capture value when they build structures that bring business experts and technologists together and when they redesign processes instead of adding AI to old ones.
 - The operating model, meaning the systems that deliver the work, matters more than the business plan for realizing AI value.
 - Most AI partnerships fail to meet their goals, and the main causes are unclear value, misaligned incentives and disputes over data and ownership.
+- Private equity firms treat AI capability as something to build across many companies at once, and AI readiness has become a central question when they buy.
 
 ## Strategy and Competitive Advantage
 
@@ -65,6 +66,18 @@ Because everyone has access to the same models, the sources place lasting advant
 
 Companies often turn to partners for AI capability, including competitors. BCG studied 209 industrial and 93 technology companies and found that nine in ten technology-industry AI partnerships failed to meet their goals in 2024. It describes four types of partnership and six pitfalls. Four of the pitfalls arise when the deal is designed. They are a hazy value proposition, misaligned goals, unclear ownership of data and intellectual property, and weak governance. The other two arise during execution. The right partner also changes as a company's maturity grows. See [AI-Driven Partner Collaboration](#/concept/ai-driven-partner-collaboration).
 
+### Private equity and AI
+
+Private equity firms show what a systematic approach looks like. Apollo Global Management built a dedicated portfolio operations team roughly five years before the account reviewed here. It hired an operating partner to run AI capability-building across the companies it owns, and it later added a second AI executive as the work expanded.
+
+Apollo's process starts before the investment. An assessment specific to the industry and the target shows how AI is affecting the business and where it is heading, which filters out high-risk uses of AI before the purchase. Detailed due diligence, often with outside consultants, then identifies specific use cases and prepares an implementation plan that is ready to run once the deal closes. After the purchase, the aim is self-sufficiency. Apollo's central AI team supplies recommended tools, vendors, potential senior hires and consultants, but each company is expected to run its own AI capability eventually. With the venture firm 25madison, Apollo also runs an incubator for AI-native startups that can supply its portfolio companies and also grow into standalone software businesses.
+
+The measured results are concrete. The educational publisher Cengage runs eight AI projects at once. They have cut costs by 40 percent in some content production, by 15 to 20 percent in automated lead generation, by 15 percent in customer care and by 10 to 15 percent in software development. At Yahoo, engineering productivity has improved by more than 20 percent. Apollo also runs a central AI system that compares purchase prices across more than 40 portfolio companies. In one case it analyzed 15,000 software purchase agreements in minutes and helped one company cut procurement costs by more than 65 percent.
+
+From the buyer's side, AI readiness has become a key question in due diligence. Enterprise IT services companies have lost more than a third of their value since 2021, and A.D. Little frames this as a reprioritization and not a decline, because Gartner projects that global spending on AI services will reach $478 billion by 2028. That creates an opening to buy underpriced but AI-ready companies. Its diligence framework tests four dimensions of the target. The capabilities test looks for referenceable AI use cases with measurable results. The commercial test asks what share of revenue is truly AI-driven, watching for ordinary projects relabeled as AI. Operations asks how mature AI is in delivery and in internal work. The regulatory test covers data residency, sovereign AI and compliance with AI ethics rules.
+
+Software buyouts face a harder setting. Bain reports that growth in US public software revenue has fallen from about 20 percent to roughly 10 percent by 2025. It also reports that technology buyouts from 2020 to 2022 are tracking a median purchase multiple of 2.1 times, against 2.9 times for entries from 2010 to 2019. Diligence now has to assess how far AI could affect or replace the workflows that a product supports, and it should ask for evidence of AI traction, not only strategy statements. Traditional software metrics such as annual recurring revenue and net revenue retention mislead for AI products that are priced on usage and outcomes. Bain recommends tracking traditional machine learning, AI add-ons and agent-based products as separate revenue groups, each with its own compute and talent costs. See [Private Equity AI Value Creation](#/concept/private-equity-ai-value-creation).
+
 ## Go Deeper
 
 - [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — Why AI is not a lasting advantage and where advantage moves.
@@ -74,3 +87,4 @@ Companies often turn to partners for AI capability, including competitors. BCG s
 - [AI-First C-Suite Playbook](#/concept/ai-first-c-suite-playbook) — How each senior role changes.
 - [AI in Strategy and Decision-Making](#/concept/ai-in-strategy-and-decision-making) — How AI changes strategy work.
 - [AI-Driven Partner Collaboration](#/concept/ai-driven-partner-collaboration) — Partnership types and pitfalls.
+- [Private Equity AI Value Creation](#/concept/private-equity-ai-value-creation) — How a private equity firm builds AI capability and how AI readiness changes due diligence.

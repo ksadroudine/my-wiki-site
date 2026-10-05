@@ -1,6 +1,6 @@
 ## Summary
 
-Modern AI is software that learns patterns from data instead of following rules written by programmers. This chapter explains how that learning works, how it led to foundation models and the language models behind chatbots, and why those models still make mistakes that cannot be fully removed. It also covers what scaling can and cannot be expected to deliver, the new vocabulary of 2025, the state of the debate about artificial general intelligence, and two practical ways of thinking about where AI fits in a business, as cheap prediction and as a choice between analytical and generative tools.
+Modern AI is software that learns patterns from data instead of following rules written by programmers. This chapter explains how that learning works, how it led to foundation models and the language models behind chatbots, and why those models still make mistakes that cannot be fully removed. It also covers what scaling can and cannot be expected to deliver, the new vocabulary of 2025 and the state of the debate about artificial general intelligence. Two practical ways of thinking about where AI fits in a business follow, which are cheap prediction and a choice between analytical and generative tools. The chapter ends with one author's experience of writing with AI and for AI readers.
 
 ## Key Ideas
 
@@ -10,6 +10,7 @@ Modern AI is software that learns patterns from data instead of following rules 
 - Better prediction has been the reliable result of scaling, while new abilities have not been predictable, and the supply of high-quality training data is a limit.
 - No system has shown human-level general intelligence, although some researchers now expect AI to start improving itself within a few years.
 - Economically, AI makes prediction cheap, which raises the value of human judgment and of the data and actions that surround each prediction.
+- A web page now has two audiences, people and the AI agents that read for them, and the best way to serve the second is honest, transparent design and not hidden tricks.
 
 ## Foundations of AI
 
@@ -69,6 +70,12 @@ The first is economic. The book Prediction Machines argues that what has become 
 
 The second is a choice of tool. Analytical AI, such as forecasting and fraud detection, suits narrow decisions that have clear goals, good data and quick feedback. Generative AI suits broad, ambiguous decisions, such as repositioning a brand, where it helps people see assumptions and options but should not make the decision. For narrow decisions it works best as an accelerator around an analytical core, for example by turning complaint transcripts into data a forecasting model can use. McKinsey's 2025 survey found that 88 percent of companies use AI, yet only about 40 percent see a positive effect on profit, which the research links to applying one kind of AI to every problem. See [Matching AI Type to Decision Type](#/concept/matching-ai-type-to-decision-type).
 
+### Writing with AI, and for AI readers
+
+Ethan Mollick describes writing his book Co-Existence with AI under a firm rule. He drafted every chapter himself. He judged AI a poor long-form writer, with weak storytelling, obvious textual tells and dull prose at length. He also believed that a reader expects an authentic authorial voice, which works as an implicit contract that matters more than anything AI could produce. He still used AI deliberately within that rule. It acted as a reader that gave feedback on each chapter, and a council of AI models helped check citations while he verified every cited paper himself. He accepts the trade-off that this help may have settled some intellectual struggles too quickly or subtly redirected his thinking. Building the book's website was the opposite case. Instructions, the book text and the cover art given to an AI coding tool produced a finished site in minutes, and he only reviewed it and asked for changes.
+
+The same experience points to a new design problem. AI agents increasingly read web content on behalf of people and decide what to recommend, so a page now has two audiences. Satisfying an AI evaluator is a different task from persuading a person. An earlier, cruder solution was a hidden prompt injection, which is text colored to match the background that tells any AI reading the page to praise the work. It worked against weaker models. It no longer works against current ones, and the author now finds it ethically uncomfortable. The current approach is honest design. He showed draft copy to several leading models and asked for direct feedback. One of them flagged the line "Buy your human this book" as shaped like a prompt injection, which a cautious agent might treat as an untrusted instruction. He rewrote the line more honestly. He then used another model to show the draft page to dozens of simulated users and to run informal tests, and it combined the results into a final version. See [Designing for AI Readers](#/concept/designing-for-ai-readers).
+
 ## Go Deeper
 
 - [AI and Machine Learning Foundations](#/concept/ai-and-machine-learning-foundations) — The vocabulary and history of AI, deep learning, foundation models and the Transformer.
@@ -79,3 +86,4 @@ The second is a choice of tool. Analytical AI, such as forecasting and fraud det
 - [Artificial General Intelligence](#/concept/artificial-general-intelligence) — What AGI would require and how close it may be.
 - [Prediction Machines](#/concept/prediction-machines) — The economics of cheap prediction.
 - [Matching AI Type to Decision Type](#/concept/matching-ai-type-to-decision-type) — Choosing between analytical and generative AI.
+- [Designing for AI Readers](#/concept/designing-for-ai-readers) — Writing with AI and designing web pages for both human and AI readers.
