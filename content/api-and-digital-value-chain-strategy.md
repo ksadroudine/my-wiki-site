@@ -42,10 +42,10 @@ AI and end-to-end ecosystem integration are expected to accelerate the trend. Ma
 
 ## Related
 
-- [platform business models](#/concept/platform-business-models) — APIs are the technical substrate of plug-and-play platform participation described there, and this concept covers the API-specific business strategy beneath platform strategy generally.
-- [cloud computing foundations](#/concept/cloud-computing-foundations) — APIs and interoperability standards are closely related mechanisms for letting external systems integrate with a firm's infrastructure.
-- [ai factory](#/concept/ai-factory) — That concept describes APIs as the throttle that controls data flow into and out of an AI factory's data platform.
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — The Coase-based firm-boundary theory there is the economic logic that API-driven hyperspecialization and orchestration here illustrate in a concrete, non-AI-specific form.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — APIs are the technical substrate of plug-and-play platform participation described there, and this concept covers the API-specific business strategy beneath platform strategy generally.
+- [Cloud Computing Foundations](#/concept/cloud-computing-foundations) — APIs and interoperability standards are closely related mechanisms for letting external systems integrate with a firm's infrastructure.
+- [AI Factory](#/concept/ai-factory) — That concept describes APIs as the throttle that controls data flow into and out of an AI factory's data platform.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — The Coase-based firm-boundary theory there is the economic logic that API-driven hyperspecialization and orchestration here illustrate in a concrete, non-AI-specific form.
 
 ## Open Questions
 

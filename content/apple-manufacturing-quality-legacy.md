@@ -24,8 +24,8 @@ The same extraction playbook that hollowed out Japan's manufacturing leadership 
 
 ## Related
 
-- [sovereign ai ecosystems](#/concept/sovereign-ai-ecosystems) — The same US-Japan-China industrial-capability transfer dynamic this concept documents for consumer electronics manufacturing is playing out again, in real time, for AI compute and model capability specifically.
-- [deepseek and chinas ai ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — China's demonstrated ability to absorb foreign technical knowhow and turn it into independently competitive capability (illustrated here by BYD) is the same underlying pattern DeepSeek's AI-model efficiency breakthrough represents in a different industry.
+- [Sovereign AI Ecosystems](#/concept/sovereign-ai-ecosystems) — The same US-Japan-China industrial-capability transfer dynamic this concept documents for consumer electronics manufacturing is playing out again, in real time, for AI compute and model capability specifically.
+- [DeepSeek and China's AI Ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — China's demonstrated ability to absorb foreign technical knowhow and turn it into independently competitive capability (illustrated here by BYD) is the same underlying pattern DeepSeek's AI-model efficiency breakthrough represents in a different industry.
 
 ## Open Questions
 

@@ -16,7 +16,7 @@ This source is an introductory programming text covering C and Objective-C funda
 
 ## Related
 
-- [data mining fundamentals](#/concept/data-mining-fundamentals) — No direct topical connection, but both are foundational technical-reference sources in this vault's Readwise/Books collection.
+- [Data Mining Fundamentals](#/concept/data-mining-fundamentals) — No direct topical connection, but both are foundational technical-reference sources in this vault's Readwise/Books collection.
 
 ## Open Questions
 

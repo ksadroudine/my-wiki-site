@@ -26,7 +26,7 @@ Read together, the three sources are not directly contradicting each other so mu
 
 ## Related
 
-- [ai investment bubble](#/concept/ai-investment-bubble) — That concept examines whether the financial structure behind current AI infrastructure spending meets a strict definition of an economic bubble, a related but distinct question from this concept's focus on the market-size-versus-GDP-impact gap.
+- [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble) — That concept examines whether the financial structure behind current AI infrastructure spending meets a strict definition of an economic bubble, a related but distinct question from this concept's focus on the market-size-versus-GDP-impact gap.
 - [Strategy in an Era of Abundant Expertise](#/concept/ai-sustainable-competitive-advantage) — A complementary account of how AI collapses the cost of accessing expertise, offering one mechanism by which Acemoglu's "reliable, context-dependent information" prescription might actually be realized in practice.
 
 ## Open Questions

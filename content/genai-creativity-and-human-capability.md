@@ -41,10 +41,10 @@ Recommended practices follow from the sequencing finding, namely human-first ide
 
 ## Related
 
-- [generative ai market research](#/concept/generative-ai-market-research) — The Actor ideation role there, in which LLM personas roughly simulate customer responses, parallels that concept's digital-twin and synthetic-persona research, and the sources cross-reference each other.
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — Its Question Zero problem-framing argument, that ideation is cheap and the scarce resource is choosing the problem worth solving, is the strategic counterpart to this concept's tactical ideation techniques, and the AI wall here is an empirical instance of its argument that companies must identify which of their own expertise has to evolve.
-- [working with generative ai](#/concept/working-with-generative-ai) — That concept covers the same skill of deliberate, reflective AI collaboration from a broader angle, with self-audit habits and virtual advisory personas for personal AI use.
-- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — Amazon's Catalog AI system there addresses the output-quality dimension of gen AI risk that complements this concept's focus on human capability and skill development.
+- [Generative AI Market Research](#/concept/generative-ai-market-research) — The Actor ideation role there, in which LLM personas roughly simulate customer responses, parallels that concept's digital-twin and synthetic-persona research, and the sources cross-reference each other.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — Its Question Zero problem-framing argument, that ideation is cheap and the scarce resource is choosing the problem worth solving, is the strategic counterpart to this concept's tactical ideation techniques, and the AI wall here is an empirical instance of its argument that companies must identify which of their own expertise has to evolve.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — That concept covers the same skill of deliberate, reflective AI collaboration from a broader angle, with self-audit habits and virtual advisory personas for personal AI use.
+- [AI Risk Controls and Output Reliability](#/concept/ai-risk-controls-and-reliability) — Amazon's Catalog AI system there addresses the output-quality dimension of gen AI risk that complements this concept's focus on human capability and skill development.
 
 ## Open Questions
 

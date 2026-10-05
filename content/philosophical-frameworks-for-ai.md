@@ -23,8 +23,8 @@ The article's second half turns to why philosophical training becomes newly urge
 
 ## Related
 
-- [intelligent choice architectures](#/concept/intelligent-choice-architectures) — By the same author pair (Michael Schrage and David Kiron) and published in the same window, this concept's libertarian-paternalism/choice-architect framing directly draws on the same Thaler-Sunstein choice-architecture theory underlying the separate intelligent-choice-architecture research, though the two concepts are not explicitly linked as a series and address distinct core questions (philosophical training of AI reasoning versus AI-generated decision-option sets and decision rights).
-- [ai governance programs](#/concept/ai-governance-programs) — That concept addresses the ethics/governance dimension of AI deployment this concept explicitly argues is only one part, not the whole, of philosophy's role in shaping effective AI.
+- [Intelligent Choice Architectures](#/concept/intelligent-choice-architectures) — By the same author pair (Michael Schrage and David Kiron) and published in the same window, this concept's libertarian-paternalism/choice-architect framing directly draws on the same Thaler-Sunstein choice-architecture theory underlying the separate intelligent-choice-architecture research, though the two concepts are not explicitly linked as a series and address distinct core questions (philosophical training of AI reasoning versus AI-generated decision-option sets and decision rights).
+- [AI Governance and Responsible AI Programs](#/concept/ai-governance-programs) — That concept addresses the ethics/governance dimension of AI deployment this concept explicitly argues is only one part, not the whole, of philosophy's role in shaping effective AI.
 
 ## Open Questions
 

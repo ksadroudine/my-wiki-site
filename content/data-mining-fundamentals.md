@@ -25,9 +25,9 @@ On the ethics and governance of the underlying data itself, the source cites rei
 
 ## Related
 
-- [prediction machines](#/concept/prediction-machines) — Prediction Machines applies the economic consequences of exactly the classification/prediction capability described here; this concept supplies the underlying technical vocabulary (structural vs. black-box, the bias taxonomy) that book largely takes for granted.
-- [cloud operations data and security](#/concept/cloud-operations-data-and-security) — That concept covers the storage, privacy, and integration infrastructure that data mining depends on as an input.
-- [ai factory](#/concept/ai-factory) — That concept describes how data pipelines and algorithms of the kind described here are operationalized at continuous, production scale inside a digital firm.
+- [Prediction Machines](#/concept/prediction-machines) — Prediction Machines applies the economic consequences of exactly the classification/prediction capability described here; this concept supplies the underlying technical vocabulary (structural vs. black-box, the bias taxonomy) that book largely takes for granted.
+- [Cloud Operations, Data and Security](#/concept/cloud-operations-data-and-security) — That concept covers the storage, privacy, and integration infrastructure that data mining depends on as an input.
+- [AI Factory](#/concept/ai-factory) — That concept describes how data pipelines and algorithms of the kind described here are operationalized at continuous, production scale inside a digital firm.
 
 ## Open Questions
 

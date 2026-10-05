@@ -51,13 +51,13 @@ PwC's three must-do strategies are to design with intent, since adding agents wi
 
 ## Related
 
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — McKinsey's "agentic AI mesh" and "agent factory" concepts there are the organizational and strategic counterpart to this concept's platform-architecture design principles.
-- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — The "digital insiders" risk drivers and lifecycle security controls covered there apply directly to the governance and adaptive-security layer this concept's platform architecture needs to embed.
-- [cloud operating model design](#/concept/cloud-operating-model-design) — Forrester's six-layer cloud operating model framework parallels this concept's platform-architecture layers, applied one level up at the broader cloud (not agent-specific) infrastructure layer.
-- [semantic layer for agentic ai](#/concept/semantic-layer-for-agentic-ai) — The context hub in this concept's harness engineering framework and the semantic/knowledge-graph layer covered there address the same underlying problem (agents lacking the context to reason coherently) from complementary angles.
-- [agentic software and technology delivery](#/concept/agentic-software-and-technology-delivery) — That concept presents the software-development view of the same governance, verification and life-cycle problems.
-- [agentic ai governance and autonomy](#/concept/agentic-ai-governance-and-autonomy) — This concept's "balance autonomy with control" strategy applies the broader autonomy-calibration logic covered there specifically to a team of interacting agents.
-- [agentic ai fundamentals](#/concept/agentic-ai-fundamentals) — The agent-type taxonomy and execution-loop mechanics covered there underlie how any individual agent within an orchestrated multi-agent system actually operates.
+- [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation) — McKinsey's "agentic AI mesh" and "agent factory" concepts there are the organizational and strategic counterpart to this concept's platform-architecture design principles.
+- [Agentic AI Security Frameworks](#/concept/agentic-ai-security-frameworks) — The "digital insiders" risk drivers and lifecycle security controls covered there apply directly to the governance and adaptive-security layer this concept's platform architecture needs to embed.
+- [Cloud Operating Model Design](#/concept/cloud-operating-model-design) — Forrester's six-layer cloud operating model framework parallels this concept's platform-architecture layers, applied one level up at the broader cloud (not agent-specific) infrastructure layer.
+- [Semantic Layer for Agentic AI](#/concept/semantic-layer-for-agentic-ai) — The context hub in this concept's harness engineering framework and the semantic/knowledge-graph layer covered there address the same underlying problem (agents lacking the context to reason coherently) from complementary angles.
+- [Agentic Software and Technology Delivery](#/concept/agentic-software-and-technology-delivery) — That concept presents the software-development view of the same governance, verification and life-cycle problems.
+- [Agentic AI Governance and Autonomy](#/concept/agentic-ai-governance-and-autonomy) — This concept's "balance autonomy with control" strategy applies the broader autonomy-calibration logic covered there specifically to a team of interacting agents.
+- [Agentic AI Fundamentals](#/concept/agentic-ai-fundamentals) — The agent-type taxonomy and execution-loop mechanics covered there underlie how any individual agent within an orchestrated multi-agent system actually operates.
 
 ## Open Questions
 

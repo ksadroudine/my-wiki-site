@@ -23,8 +23,8 @@ Finally, "vibes" captures a notable shift in how AI insiders themselves judge ch
 
 ## Related
 
-- [ai and machine learning foundations](#/concept/ai-and-machine-learning-foundations) — The foundational AI/ML/deep-learning vocabulary and history this concept's more recent, frontier-model-specific terminology builds on top of.
-- [measuring ai project value and quality](#/concept/measuring-ai-project-value-and-quality) — That concept covers formal evaluation methodology for GenAI applications in more depth than this concept's brief treatment of "evals" as an industry term.
+- [AI and Machine Learning Foundations](#/concept/ai-and-machine-learning-foundations) — The foundational AI/ML/deep-learning vocabulary and history this concept's more recent, frontier-model-specific terminology builds on top of.
+- [Measuring AI Project Value and Quality](#/concept/measuring-ai-project-value-and-quality) — That concept covers formal evaluation methodology for GenAI applications in more depth than this concept's brief treatment of "evals" as an industry term.
 
 ## Open Questions
 

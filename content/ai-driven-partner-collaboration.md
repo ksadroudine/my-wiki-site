@@ -28,9 +28,9 @@ From this analysis, the article proposes a six-step blueprint spanning strategic
 
 ## Related
 
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — That concept covers the related but distinct question of whether AI itself confers durable advantage; this concept's ecosystem partnerships are one candidate mechanism for building the kind of hard-to-replicate collaborative moat that concept's sources treat as increasingly rare.
-- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — The AutoGen-style multi-agent coordination this concept describes as an emerging collaboration substrate raises the same security and accountability questions that concept addresses for agentic AI deployments generally.
-- [telecom ai transformation](#/concept/telecom-ai-transformation) — KPN's partnership with McKinsey/QuantumBlack to build in-house agentic capability, documented there, is a concrete real-world instance of this concept's Tech Co-creator archetype.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — That concept covers the related but distinct question of whether AI itself confers durable advantage; this concept's ecosystem partnerships are one candidate mechanism for building the kind of hard-to-replicate collaborative moat that concept's sources treat as increasingly rare.
+- [Agentic AI Security Frameworks](#/concept/agentic-ai-security-frameworks) — The AutoGen-style multi-agent coordination this concept describes as an emerging collaboration substrate raises the same security and accountability questions that concept addresses for agentic AI deployments generally.
+- [Telecom AI Transformation](#/concept/telecom-ai-transformation) — KPN's partnership with McKinsey/QuantumBlack to build in-house agentic capability, documented there, is a concrete real-world instance of this concept's Tech Co-creator archetype.
 
 ## Open Questions
 

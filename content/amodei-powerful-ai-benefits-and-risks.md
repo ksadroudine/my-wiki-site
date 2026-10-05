@@ -52,13 +52,13 @@ The essay closes on the structural difficulty across all five categories. Mitiga
 
 ## Related
 
-- [llm mechanics limitations and scaling](#/concept/llm-mechanics-limitations-and-scaling) — That concept offers a more skeptical view of how much further capability can be gained from scaling, which is relevant context for evaluating the timeline assumptions here.
-- [ai safety research and evaluation](#/concept/ai-safety-research-and-evaluation) — That concept argues that safety depends on deployment context rather than on the model alone, which bears on the model-level defenses such as Constitutional AI and interpretability proposed here.
-- [telecom ai technology](#/concept/telecom-ai-technology) — That concept gives a concrete, near-term, industry-specific example of the autonomous multi-agent systems that these essays discuss in the abstract.
+- [LLM Mechanics, Limitations and Scaling](#/concept/llm-mechanics-limitations-and-scaling) — That concept offers a more skeptical view of how much further capability can be gained from scaling, which is relevant context for evaluating the timeline assumptions here.
+- [AI Safety Research and Evaluation](#/concept/ai-safety-research-and-evaluation) — That concept argues that safety depends on deployment context rather than on the model alone, which bears on the model-level defenses such as Constitutional AI and interpretability proposed here.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — That concept gives a concrete, near-term, industry-specific example of the autonomous multi-agent systems that these essays discuss in the abstract.
 
 ## Open Questions
 
-- The central timeline assumption, that powerful AI could arrive within a few years, with the risk essay giving a strong chance within one to two years, is the author's own estimate rather than a result derived from evidence in the essays, and [llm mechanics limitations and scaling](#/concept/llm-mechanics-limitations-and-scaling) documents a more skeptical view of near-term capability trajectories that this wiki has not reconciled with it. <span class="src">Machines of Loving Grace</span> <span class="src">The Adolescence of Technology</span>
+- The central timeline assumption, that powerful AI could arrive within a few years, with the risk essay giving a strong chance within one to two years, is the author's own estimate rather than a result derived from evidence in the essays, and [LLM Mechanics, Limitations and Scaling](#/concept/llm-mechanics-limitations-and-scaling) documents a more skeptical view of near-term capability trajectories that this wiki has not reconciled with it. <span class="src">Machines of Loving Grace</span> <span class="src">The Adolescence of Technology</span>
 - The essays acknowledge that their economic, governance and work-and-meaning predictions are far less confidently grounded than their biology and neuroscience predictions and leave scenarios such as how a post-labor economy would be organized unresolved. <span class="src">Machines of Loving Grace</span> <span class="src">The Adolescence of Technology</span>
 - The risk essay does not say how progressive taxation targeted at AI-driven revenue would be designed or enforced internationally. <span class="src">The Adolescence of Technology</span>
 

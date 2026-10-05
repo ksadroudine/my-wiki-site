@@ -19,11 +19,11 @@ The a16z analysis supplies production-level evidence for the same shift from the
 
 ## Related
 
-- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — The seat-based subscription threat there is the other side of the labor-to-software conversion Bain describes here.
-- [agentic ai startups vs incumbents](#/concept/agentic-ai-startups-vs-incumbents) — The argument there that a general-purpose agent cannot reconstruct a full cross-system job matches Bain's cross-workflow context thesis.
-- [ai customer service agents](#/concept/ai-customer-service-agents) — Customer support is one of the highest-automation functions in Bain's sizing, and Sierra is cited here as an example.
-- [semantic layer for agentic ai](#/concept/semantic-layer-for-agentic-ai) — The digitized contextual knowledge both sources call the binding constraint is the problem a semantic layer addresses.
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — Harness design and cache-to-code patterns affect the token economics managed there.
+- [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models) — The seat-based subscription threat there is the other side of the labor-to-software conversion Bain describes here.
+- [Agentic AI Startups vs Incumbents](#/concept/agentic-ai-startups-vs-incumbents) — The argument there that a general-purpose agent cannot reconstruct a full cross-system job matches Bain's cross-workflow context thesis.
+- [AI Customer Service Agents](#/concept/ai-customer-service-agents) — Customer support is one of the highest-automation functions in Bain's sizing, and Sierra is cited here as an example.
+- [Semantic Layer for Agentic AI](#/concept/semantic-layer-for-agentic-ai) — The digitized contextual knowledge both sources call the binding constraint is the problem a semantic layer addresses.
+- [Enterprise AI Token Cost Management](#/concept/enterprise-ai-token-cost-management) — Harness design and cache-to-code patterns affect the token economics managed there.
 
 ## Open Questions
 

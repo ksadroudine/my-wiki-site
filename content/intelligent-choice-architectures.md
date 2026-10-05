@@ -31,10 +31,10 @@ Read together as a deliberate two-part research series, the articles build from 
 
 ## Related
 
-- [philosophical frameworks for ai](#/concept/philosophical-frameworks-for-ai) — By the same author pair (Michael Schrage and David Kiron), published in the same window; draws on the same Thaler-Sunstein choice-architecture theory to argue agentic AI needs deliberate philosophical training, a complementary but distinct argument from this concept's decision-rights focus.
-- [matching ai type to decision type](#/concept/matching-ai-type-to-decision-type) — That concept provides a complementary framework for calibrating analytical AI and generative AI to specific decisions, addressing a related but distinct question from this concept's focus on how AI reshapes decision rights and organizational power once deployed.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general thesis of AI pressuring organizations to redesign structures and processes, of which this concept's decision-rights redistribution is one specific mechanism.
-- [ai in strategy and decision making](#/concept/ai-in-strategy-and-decision-making) — The strategy-process and decision-agent material there applies this concept's decision-rights logic to the executive committee.
+- [Philosophical Frameworks for AI](#/concept/philosophical-frameworks-for-ai) — By the same author pair (Michael Schrage and David Kiron), published in the same window; draws on the same Thaler-Sunstein choice-architecture theory to argue agentic AI needs deliberate philosophical training, a complementary but distinct argument from this concept's decision-rights focus.
+- [Matching AI Type to Decision Type](#/concept/matching-ai-type-to-decision-type) — That concept provides a complementary framework for calibrating analytical AI and generative AI to specific decisions, addressing a related but distinct question from this concept's focus on how AI reshapes decision rights and organizational power once deployed.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general thesis of AI pressuring organizations to redesign structures and processes, of which this concept's decision-rights redistribution is one specific mechanism.
+- [AI in Strategy and Decision-Making](#/concept/ai-in-strategy-and-decision-making) — The strategy-process and decision-agent material there applies this concept's decision-rights logic to the executive committee.
 
 ## Open Questions
 

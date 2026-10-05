@@ -44,12 +44,12 @@ The typology yields guidance for three groups. Founders are urged to ask what ki
 
 ## Related
 
-- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — The vendor-side systems-of-control and tollgating dynamics there are the SaaS-specific instance of the startup-versus-incumbent competition described here.
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — McKinsey's and EY's diagnoses there of why incumbents struggle to scale agentic value internally mirror this concept's external competitive-threat analysis.
-- [private equity ai value creation](#/concept/private-equity-ai-value-creation) — The private-capital financing of AI-native consulting challengers here is the counterpart to the private-equity opportunity in enterprise IT services described there.
-- [ai factory](#/concept/ai-factory) — The AI factory concept that corporate buyers are advised to build internally before partnering with infrastructure-builder startups is covered in full there.
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — Its account of how AI collapses the cost of expertise is the economic force behind the low entry barriers on which enhancers and optimizers depend.
-- [deepseek and chinas ai ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — DeepSeek is an originator experimenting with smaller, more focused models, and that concept covers its wider market disruption.
+- [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models) — The vendor-side systems-of-control and tollgating dynamics there are the SaaS-specific instance of the startup-versus-incumbent competition described here.
+- [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation) — McKinsey's and EY's diagnoses there of why incumbents struggle to scale agentic value internally mirror this concept's external competitive-threat analysis.
+- [Private Equity AI Value Creation](#/concept/private-equity-ai-value-creation) — The private-capital financing of AI-native consulting challengers here is the counterpart to the private-equity opportunity in enterprise IT services described there.
+- [AI Factory](#/concept/ai-factory) — The AI factory concept that corporate buyers are advised to build internally before partnering with infrastructure-builder startups is covered in full there.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — Its account of how AI collapses the cost of expertise is the economic force behind the low entry barriers on which enhancers and optimizers depend.
+- [DeepSeek and China's AI Ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — DeepSeek is an originator experimenting with smaller, more focused models, and that concept covers its wider market disruption.
 
 ## Open Questions
 

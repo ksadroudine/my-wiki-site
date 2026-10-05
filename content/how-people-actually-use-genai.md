@@ -26,9 +26,9 @@ Running alongside this three-part usage-pattern research program, a distinct and
 
 ## Related
 
-- [gen ai organizational learning and knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — The "verification-evaluation-learning capture" flywheel covered there is a direct organizational answer to the calibration problem this concept's MIT research identifies (knowing when to trust AI output versus override it).
-- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — The risk-slope and value-creation-pyramid frameworks covered there for staging enterprise gen AI adoption are complementary to this concept's finding that usage itself concentrates heavily in a small number of high-impact categories.
-- [genai creativity and human capability](#/concept/genai-creativity-and-human-capability) — The "AI wall" and creativity-tax findings covered there connect directly to this concept's own unresolved tension over whether gen AI use strengthens or erodes users' independent thinking capacity.
+- [Gen AI Organizational Learning and Knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — The "verification-evaluation-learning capture" flywheel covered there is a direct organizational answer to the calibration problem this concept's MIT research identifies (knowing when to trust AI output versus override it).
+- [Gen AI Value-Creation Frameworks](#/concept/gen-ai-value-creation-frameworks) — The risk-slope and value-creation-pyramid frameworks covered there for staging enterprise gen AI adoption are complementary to this concept's finding that usage itself concentrates heavily in a small number of high-impact categories.
+- [Generative AI, Creativity and Human Capability](#/concept/genai-creativity-and-human-capability) — The "AI wall" and creativity-tax findings covered there connect directly to this concept's own unresolved tension over whether gen AI use strengthens or erodes users' independent thinking capacity.
 
 ## Open Questions
 

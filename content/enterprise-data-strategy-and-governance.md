@@ -62,14 +62,14 @@ PwC proposes five steps to move from fragmented, IT-owned risk to an enterprise 
 
 ## Related
 
-- [data mining fundamentals](#/concept/data-mining-fundamentals) — The governance and pipeline discipline here is the organizational precondition for the data mining and analytics techniques there to work reliably on real enterprise data.
-- [cloud operations data and security](#/concept/cloud-operations-data-and-security) — The storage, integration and big-data infrastructure there is the technical substrate to which this concept's governance discipline is applied.
-- [ai factory](#/concept/ai-factory) — The data pipeline component of an AI factory is a production-scale instance of the ETL-to-ELT and governance discipline described here.
-- [data leadership roles evolution](#/concept/data-leadership-roles-evolution) — The data product manager and CDO roles there are the organizational mechanisms that carry out the quality, monetization and cross-functional work described here.
-- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — The monetization patterns here parallel the consumption-based AI pricing models there, since both describe enterprises learning to price a previously uncommoditized asset for the first time.
-- [gen ai organizational learning and knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — The groundwork of getting data and documents in order there is the same discipline that this concept treats as a prerequisite for AI success and data monetization.
-- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept documents what happens after deployment when the Right Data due-diligence questions were not asked beforehand.
-- [enterprise cyber resilience strategy](#/concept/enterprise-cyber-resilience-strategy) — PwC's 2026 cybersecurity priorities there overlap with this concept's data-protection and data-loss risk categories.
+- [Data Mining Fundamentals](#/concept/data-mining-fundamentals) — The governance and pipeline discipline here is the organizational precondition for the data mining and analytics techniques there to work reliably on real enterprise data.
+- [Cloud Operations, Data and Security](#/concept/cloud-operations-data-and-security) — The storage, integration and big-data infrastructure there is the technical substrate to which this concept's governance discipline is applied.
+- [AI Factory](#/concept/ai-factory) — The data pipeline component of an AI factory is a production-scale instance of the ETL-to-ELT and governance discipline described here.
+- [Data Leadership Roles Evolution](#/concept/data-leadership-roles-evolution) — The data product manager and CDO roles there are the organizational mechanisms that carry out the quality, monetization and cross-functional work described here.
+- [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models) — The monetization patterns here parallel the consumption-based AI pricing models there, since both describe enterprises learning to price a previously uncommoditized asset for the first time.
+- [Gen AI Organizational Learning and Knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — The groundwork of getting data and documents in order there is the same discipline that this concept treats as a prerequisite for AI success and data monetization.
+- [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept documents what happens after deployment when the Right Data due-diligence questions were not asked beforehand.
+- [Enterprise Cyber Resilience](#/concept/enterprise-cyber-resilience-strategy) — PwC's 2026 cybersecurity priorities there overlap with this concept's data-protection and data-loss risk categories.
 
 ## Open Questions
 

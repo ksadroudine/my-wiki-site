@@ -28,8 +28,8 @@ Taken together, the three books converge on four tenets that distinguish a genui
 
 ## Related
 
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — BCG's Five Promises of Personalization framework operationalizes a similar customer-value-first logic at the level of individual engagement design, complementary to this concept's portfolio-level CLV framing. A telecom-specific application of value-driven customer engagement strategy that parallels Fader's CLV-driven resource allocation.
-- [behavioral product design](#/concept/behavioral-product-design) — The Hook Model and human-centered design principles describe how to design the individual product experiences that customer-centric organizations use to retain and grow the high-value customers this concept identifies.
+- [Customer Personalization Strategy and Execution](#/concept/customer-personalization-strategy) — BCG's Five Promises of Personalization framework operationalizes a similar customer-value-first logic at the level of individual engagement design, complementary to this concept's portfolio-level CLV framing. A telecom-specific application of value-driven customer engagement strategy that parallels Fader's CLV-driven resource allocation.
+- [Behavioral Product Design](#/concept/behavioral-product-design) — The Hook Model and human-centered design principles describe how to design the individual product experiences that customer-centric organizations use to retain and grow the high-value customers this concept identifies.
 
 ## Open Questions
 

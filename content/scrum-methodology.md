@@ -26,8 +26,8 @@ Estimation is handled through relative sizing rather than absolute time estimate
 
 ## Related
 
-- [lean startup customer development](#/concept/lean-startup-customer-development) — The source explicitly recommends pairing Customer Development with Agile/Scrum engineering so that validated customer learning converts into working increments quickly.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept provides a broader account of how organizations restructure work around AI, complementary to Scrum's narrower focus on team-level iteration and estimation practice.
+- [Lean Startup and Customer Development](#/concept/lean-startup-customer-development) — The source explicitly recommends pairing Customer Development with Agile/Scrum engineering so that validated customer learning converts into working increments quickly.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept provides a broader account of how organizations restructure work around AI, complementary to Scrum's narrower focus on team-level iteration and estimation practice.
 
 ## Open Questions
 

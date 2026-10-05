@@ -28,9 +28,9 @@ Bain situates both of these ground-level shifts — professional developers work
 
 ## Related
 
-- [managing technical debt in the ai era](#/concept/managing-technical-debt-in-the-ai-era) — Bain's warning that rising velocity can mask growing technical debt, and the FT's "comprehension debt" concern, are the direct risk-side counterpart to this concept's productivity-gain narrative.
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — The same Claude Code adoption driving the productivity gains documented here is also the proximate cause of the token-cost rationing (Microsoft limiting Claude Code access, Uber's budget exhaustion) documented there.
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — MCP, cited here as one of Anthropic's two key breakthroughs, is the same interoperability protocol covered in architectural depth in that concept.
+- [Managing Technical Debt in the AI Era](#/concept/managing-technical-debt-in-the-ai-era) — Bain's warning that rising velocity can mask growing technical debt, and the FT's "comprehension debt" concern, are the direct risk-side counterpart to this concept's productivity-gain narrative.
+- [Enterprise AI Token Cost Management](#/concept/enterprise-ai-token-cost-management) — The same Claude Code adoption driving the productivity gains documented here is also the proximate cause of the token-cost rationing (Microsoft limiting Claude Code access, Uber's budget exhaustion) documented there.
+- [Agentic AI Platform Architecture](#/concept/agentic-ai-platform-architecture) — MCP, cited here as one of Anthropic's two key breakthroughs, is the same interoperability protocol covered in architectural depth in that concept.
 
 ## Open Questions
 

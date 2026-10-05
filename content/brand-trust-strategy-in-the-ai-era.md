@@ -26,8 +26,8 @@ A third HBR analysis, by Oguz Acar and David Schweidel, addresses a distinct but
 
 ## Related
 
-- [platform business models](#/concept/platform-business-models) — The "share of model" discipline and agentic-commerce brand strategy covered here are the brand-side response to exactly the AI-agent-bypassing-interfaces dynamic that concept describes eroding platforms' advertising and transaction-fee revenue (note: create this concept when that source is processed in a future batch).
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — PwC's finding there that trust in AI agents drops sharply for high-stakes, autonomous use cases directly parallels this concept's finding that consumer receptivity to brand agents is lowest precisely in high-stakes, personally meaningful, or luxury purchase domains.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — The "share of model" discipline and agentic-commerce brand strategy covered here are the brand-side response to exactly the AI-agent-bypassing-interfaces dynamic that concept describes eroding platforms' advertising and transaction-fee revenue (note: create this concept when that source is processed in a future batch).
+- [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation) — PwC's finding there that trust in AI agents drops sharply for high-stakes, autonomous use cases directly parallels this concept's finding that consumer receptivity to brand agents is lowest precisely in high-stakes, personally meaningful, or luxury purchase domains.
 
 ## Open Questions
 

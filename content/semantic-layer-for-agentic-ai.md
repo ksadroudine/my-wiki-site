@@ -31,10 +31,10 @@ A telecom-specific application of the same author's underlying thesis, reporting
 
 ## Related
 
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — The composable, MCP/A2A-based platform-architecture discipline covered there operates one layer above this concept's semantic and streaming foundations; an agentic mesh without the data foundations described here has nothing coherent to reason over.
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — EY's "intelligence/context layer," the precondition for cross-functional agent orchestration in that concept's seven-layer Agentic Enterprise model, is functionally the same semantic layer this concept describes in depth.
-- [telecom ai technology](#/concept/telecom-ai-technology) — The security, privacy, and compliance risk analysis there is the risk-management counterpart to this concept's telecom data-streaming application.
-- [agentic workflow automation opportunity](#/concept/agentic-workflow-automation-opportunity) — The digitized-context constraint there is the practical form of the substrate problem.
+- [Agentic AI Platform Architecture](#/concept/agentic-ai-platform-architecture) — The composable, MCP/A2A-based platform-architecture discipline covered there operates one layer above this concept's semantic and streaming foundations; an agentic mesh without the data foundations described here has nothing coherent to reason over.
+- [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation) — EY's "intelligence/context layer," the precondition for cross-functional agent orchestration in that concept's seven-layer Agentic Enterprise model, is functionally the same semantic layer this concept describes in depth.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — The security, privacy, and compliance risk analysis there is the risk-management counterpart to this concept's telecom data-streaming application.
+- [Agentic Workflow Automation Opportunity](#/concept/agentic-workflow-automation-opportunity) — The digitized-context constraint there is the practical form of the substrate problem.
 
 ## Open Questions
 

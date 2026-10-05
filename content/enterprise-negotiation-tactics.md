@@ -25,8 +25,8 @@ The prescribed fix works by attacking both problems simultaneously rather than s
 
 ## Related
 
-- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — The stakeholder-mapping discipline of the Ethical Matrix parallels this concept's principal-agent distinction between a counterparty organization and the specific individuals negotiating on its behalf.
-- [pyramid principle](#/concept/pyramid-principle) — Minto's structured approach to organizing an argument is a complementary communication discipline for the "business plan" recommendations this concept's empowered-but-uncommitted negotiators bring back to decision-makers.
+- [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures) — The stakeholder-mapping discipline of the Ethical Matrix parallels this concept's principal-agent distinction between a counterparty organization and the specific individuals negotiating on its behalf.
+- [The Pyramid Principle](#/concept/pyramid-principle) — Minto's structured approach to organizing an argument is a complementary communication discipline for the "business plan" recommendations this concept's empowered-but-uncommitted negotiators bring back to decision-makers.
 
 ## Open Questions
 

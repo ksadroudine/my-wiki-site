@@ -22,9 +22,9 @@ A less formalized but explicitly named ingredient of how the Algorithm actually 
 
 ## Related
 
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — Musk's chip-supply single-point-of-failure logic is a concrete instance of the broader Coasian make-versus-buy calculation covered there, resolved here decisively toward "make" despite the cost and unfamiliarity of the new industry.
-- [scrum methodology](#/concept/scrum-methodology) — The Algorithm's "accelerate cycle time" step and Scrum's emphasis on visible, improvable team velocity both target the same underlying goal of compounding advantage through faster iteration.
-- [organizational prioritization frameworks](#/concept/organizational-prioritization-frameworks) — The Algorithm's "delete every possible step" discipline is a specific, aggressive version of the deliberate deprioritization this concept identifies as the step most organizations skip.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — Musk's chip-supply single-point-of-failure logic is a concrete instance of the broader Coasian make-versus-buy calculation covered there, resolved here decisively toward "make" despite the cost and unfamiliarity of the new industry.
+- [Scrum Methodology](#/concept/scrum-methodology) — The Algorithm's "accelerate cycle time" step and Scrum's emphasis on visible, improvable team velocity both target the same underlying goal of compounding advantage through faster iteration.
+- [Organizational Prioritization Frameworks](#/concept/organizational-prioritization-frameworks) — The Algorithm's "delete every possible step" discipline is a specific, aggressive version of the deliberate deprioritization this concept identifies as the step most organizations skip.
 
 ## Open Questions
 

@@ -27,9 +27,9 @@ A complementary account of what happens once a startup has validated its busines
 
 ## Related
 
-- [platform business models](#/concept/platform-business-models) — Platform launch strategies share the same chicken-or-egg, evidence-before-scale logic that Customer Development applies to single-sided products.
-- [scrum methodology](#/concept/scrum-methodology) — Agile/Scrum is the engineering-side discipline that Customer Development is explicitly meant to be paired with, so that validated learning from customers can be converted into working product increments quickly.
-- [cloud and saas business economics](#/concept/cloud-and-saas-business-economics) — That concept describes how, once a company moves past validation into execution, ongoing usage data continues to drive the same build-measure-learn cycle inside an already-scaled product.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — Platform launch strategies share the same chicken-or-egg, evidence-before-scale logic that Customer Development applies to single-sided products.
+- [Scrum Methodology](#/concept/scrum-methodology) — Agile/Scrum is the engineering-side discipline that Customer Development is explicitly meant to be paired with, so that validated learning from customers can be converted into working product increments quickly.
+- [Cloud and SaaS Business Economics](#/concept/cloud-and-saas-business-economics) — That concept describes how, once a company moves past validation into execution, ongoing usage data continues to drive the same build-measure-learn cycle inside an already-scaled product.
 
 ## Open Questions
 

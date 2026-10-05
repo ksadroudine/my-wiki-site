@@ -12,10 +12,14 @@
   <div class="layout">
     <aside class="sidebar">
       <div class="search">
-        <input id="search" type="search" placeholder="Search concepts…" autocomplete="off" aria-label="Search">
+        <input id="search" type="search" placeholder="Search the wiki…" autocomplete="off" aria-label="Search">
       </div>
       <div id="results" class="results" hidden></div>
       <nav id="nav">
+        <details id="bok-section" open>
+          <summary>Book of Knowledge</summary>
+          <div id="bok-tree"></div>
+        </details>
         <details id="concepts-section" open>
           <summary>Concepts <span id="concept-count" class="count"></span></summary>
           <ul id="concept-list" class="list"></ul>

@@ -22,8 +22,8 @@ The broader stake the source identifies goes beyond this one vendor dispute: if 
 
 ## Related
 
-- [telecom ai technology](#/concept/telecom-ai-technology) — That concept provides a differently-scoped account of AI agent governance and access control, in a context (telecom infrastructure) where the gatekeeping stakes are even higher.
-- [working with generative ai](#/concept/working-with-generative-ai) — Background on how user-driven, request-triggered AI interaction (the pattern this concept defends) actually works from the user's side of the exchange.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — That concept provides a differently-scoped account of AI agent governance and access control, in a context (telecom infrastructure) where the gatekeeping stakes are even higher.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — Background on how user-driven, request-triggered AI interaction (the pattern this concept defends) actually works from the user's side of the exchange.
 
 ## Open Questions
 

@@ -33,10 +33,10 @@ Four named portfolio-company case studies illustrate the playbook's results in p
 
 ## Related
 
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — The Coase-based logic there (AI collapsing the cost of accessing expertise) explains why a centralized firm like Apollo can economically supply AI capability-building across dozens of otherwise-unrelated portfolio companies at once.
-- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — PwC's private-equity diligence guidance there for software-specific assets is a complementary, narrower-scope counterpart to this concept's broader operational AI-capability-building playbook across an entire portfolio. That concept covers the SaaS disruption forces behind the buyout pressure described here.
-- [ai factory](#/concept/ai-factory) — Apollo's cross-portfolio procurement AI, reused as a proprietary benchmark for future deal diligence, is a private-equity-specific instance of turning an internal AI capability into a durable, reusable decision-making asset.
-- [agentic ai startups vs incumbents](#/concept/agentic-ai-startups-vs-incumbents) — The AI-native consulting challengers attracting private capital there are a demand-side instance of the same IT-services-sector AI disruption this concept's A.D. Little source addresses from the acquirer's side.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — The Coase-based logic there (AI collapsing the cost of accessing expertise) explains why a centralized firm like Apollo can economically supply AI capability-building across dozens of otherwise-unrelated portfolio companies at once.
+- [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models) — PwC's private-equity diligence guidance there for software-specific assets is a complementary, narrower-scope counterpart to this concept's broader operational AI-capability-building playbook across an entire portfolio. That concept covers the SaaS disruption forces behind the buyout pressure described here.
+- [AI Factory](#/concept/ai-factory) — Apollo's cross-portfolio procurement AI, reused as a proprietary benchmark for future deal diligence, is a private-equity-specific instance of turning an internal AI capability into a durable, reusable decision-making asset.
+- [Agentic AI Startups vs Incumbents](#/concept/agentic-ai-startups-vs-incumbents) — The AI-native consulting challengers attracting private capital there are a demand-side instance of the same IT-services-sector AI disruption this concept's A.D. Little source addresses from the acquirer's side.
 
 ## Open Questions
 

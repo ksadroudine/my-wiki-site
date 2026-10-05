@@ -26,9 +26,9 @@ Beyond identifying the right partner, the article names practical obstacles that
 
 ## Related
 
-- [enterprise data strategy and governance](#/concept/enterprise-data-strategy-and-governance) — The broader enterprise data strategy discipline this concept's four-type data-assessment framework operates within, specifically for the cross-organizational-collaboration use case.
-- [genai supply chain and procurement](#/concept/genai-supply-chain-and-procurement) — A parallel account of AI-driven cross-organizational collaboration, though built around supply-chain data-sharing rather than model-training collaboration specifically.
-- [data mining fundamentals](#/concept/data-mining-fundamentals) — The general data-mining vocabulary and process this concept's federated-training-specific techniques extend into a privacy-preserving, multi-organizational setting.
+- [Enterprise Data Strategy and Governance](#/concept/enterprise-data-strategy-and-governance) — The broader enterprise data strategy discipline this concept's four-type data-assessment framework operates within, specifically for the cross-organizational-collaboration use case.
+- [GenAI in Supply Chain and Procurement](#/concept/genai-supply-chain-and-procurement) — A parallel account of AI-driven cross-organizational collaboration, though built around supply-chain data-sharing rather than model-training collaboration specifically.
+- [Data Mining Fundamentals](#/concept/data-mining-fundamentals) — The general data-mining vocabulary and process this concept's federated-training-specific techniques extend into a privacy-preserving, multi-organizational setting.
 
 ## Open Questions
 

@@ -21,8 +21,8 @@ The accompanying leader generalises the argument: affordability combines phantom
 
 ## Related
 
-- [rich world public debt and inflation risk](#/concept/rich-world-public-debt-and-inflation-risk) — The debt-driven inflation risk analysed there would worsen the price-level grievances that drive the affordability politics documented here.
-- [ai investment bubble](#/concept/ai-investment-bubble) — The data-centre electricity-price claim examined here (and found weak by the Economist's own analysis) connects to the rural and energy backlash documented there.
+- [Rich-World Public Debt and Inflation Risk](#/concept/rich-world-public-debt-and-inflation-risk) — The debt-driven inflation risk analysed there would worsen the price-level grievances that drive the affordability politics documented here.
+- [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble) — The data-centre electricity-price claim examined here (and found weak by the Economist's own analysis) connects to the rural and energy backlash documented there.
 
 ## Open Questions
 

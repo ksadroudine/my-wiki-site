@@ -27,9 +27,9 @@ An earlier, broader MIT SMR piece on the same underlying problem — co-authored
 
 ## Related
 
-- [vibe coding and ai led development](#/concept/vibe-coding-and-ai-led-development) — Bain's warning there that rising AI-driven velocity can mask accumulating technical debt is the direct productivity-side counterpart to the debt-accumulation risk detailed in depth here.
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — Both concepts describe costs that are structurally invisible until specifically measured for (token spend there, technical debt here), and both recommend dedicated, protected budget lines as the fix.
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — McKinsey QuantumBlack's build/partner/buy discipline and this concept's orchestrated-toolchain finding both converge on the same lesson: no single AI tool or model should be trusted to handle an entire complex technical task alone.
+- [Vibe Coding and AI-Led Development](#/concept/vibe-coding-and-ai-led-development) — Bain's warning there that rising AI-driven velocity can mask accumulating technical debt is the direct productivity-side counterpart to the debt-accumulation risk detailed in depth here.
+- [Enterprise AI Token Cost Management](#/concept/enterprise-ai-token-cost-management) — Both concepts describe costs that are structurally invisible until specifically measured for (token spend there, technical debt here), and both recommend dedicated, protected budget lines as the fix.
+- [Agentic AI Platform Architecture](#/concept/agentic-ai-platform-architecture) — McKinsey QuantumBlack's build/partner/buy discipline and this concept's orchestrated-toolchain finding both converge on the same lesson: no single AI tool or model should be trusted to handle an entire complex technical task alone.
 
 ## Open Questions
 

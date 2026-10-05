@@ -27,8 +27,8 @@ On the future of the underlying software industry, the source draws a distinctio
 
 ## Related
 
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — Cites AI-native customer support as one of the first business domains to complete a full agentic transition, consistent with the account given here.
-- [telecom ai technology](#/concept/telecom-ai-technology) — That concept gives a parallel account of agentic AI adoption and risk management, including human-in-the-loop oversight, in a different and more safety-critical industry.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — Cites AI-native customer support as one of the first business domains to complete a full agentic transition, consistent with the account given here.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — That concept gives a parallel account of agentic AI adoption and risk management, including human-in-the-loop oversight, in a different and more safety-critical industry.
 
 ## Open Questions
 

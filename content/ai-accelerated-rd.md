@@ -25,14 +25,14 @@ Realizing this potential, per the article, depends on organizational changes wel
 
 ## Related
 
-- [organizational innovation capability](#/concept/organizational-innovation-capability) — That concept covers the general organizational-capability-building discipline (business-model design, strategic-innovation function, scaling playbook, external ecosystem engagement) that this concept's AI-specific acceleration channels operate alongside, and depend on for actually converting throughput gains into commercialized value.
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — A complementary Coase-based account of how AI collapses the cost of accessing expertise, a related but distinct mechanism from this concept's design-generation and evaluation-acceleration channels.
-- [ai and machine learning foundations](#/concept/ai-and-machine-learning-foundations) — The foundation-model and deep-learning mechanics this concept's design-generation and surrogate-model channels are built on.
+- [Organizational Innovation Capability](#/concept/organizational-innovation-capability) — That concept covers the general organizational-capability-building discipline (business-model design, strategic-innovation function, scaling playbook, external ecosystem engagement) that this concept's AI-specific acceleration channels operate alongside, and depend on for actually converting throughput gains into commercialized value.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — A complementary Coase-based account of how AI collapses the cost of accessing expertise, a related but distinct mechanism from this concept's design-generation and evaluation-acceleration channels.
+- [AI and Machine Learning Foundations](#/concept/ai-and-machine-learning-foundations) — The foundation-model and deep-learning mechanics this concept's design-generation and surrogate-model channels are built on.
 
 ## Open Questions
 
 - The article's economic estimates assume unconstrained demand and no downstream bottlenecks beyond the R&D process itself (regulatory approval, production capacity, supply chain), which it acknowledges are real constraints in practice — no source quantifies how much of the estimated $360-560 billion would actually be realized once those constraints are factored back in.
-- Neither this source nor others in the vault address how the three acceleration channels interact with the physical AI-infrastructure supply constraints (chip, memory, energy scarcity) documented in [ai investment bubble](#/concept/ai-investment-bubble) — R&D-specific AI compute presumably competes with training and inference compute for the same constrained resources.
+- Neither this source nor others in the vault address how the three acceleration channels interact with the physical AI-infrastructure supply constraints (chip, memory, energy scarcity) documented in [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble) — R&D-specific AI compute presumably competes with training and inference compute for the same constrained resources.
 
 ## Sources
 

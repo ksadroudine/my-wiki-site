@@ -33,9 +33,9 @@ Across all six roles, BCG returns repeatedly to the same underlying ratio, somet
 
 ## Related
 
-- [data leadership roles evolution](#/concept/data-leadership-roles-evolution) — A complementary, more skeptical account of whether the CDO and Chief AI Officer titles should persist as standalone C-suite seats at all, which stands in some tension with this concept's assumption that existing C-suite roles simply need re-mandating.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — The broader organizational-redesign literature this concept's role-by-role reinvention (especially the COO and CFO sections) draws on and extends.
-- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — MIT CISR's and KPMG's maturity/scaling frameworks describe the same pilot-to-production gap this concept's CTrO and CFO sections diagnose from a leadership-mandate angle rather than an architecture angle.
+- [Data Leadership Roles Evolution](#/concept/data-leadership-roles-evolution) — A complementary, more skeptical account of whether the CDO and Chief AI Officer titles should persist as standalone C-suite seats at all, which stands in some tension with this concept's assumption that existing C-suite roles simply need re-mandating.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — The broader organizational-redesign literature this concept's role-by-role reinvention (especially the COO and CFO sections) draws on and extends.
+- [AI Maturity, Scaling and Project Selection](#/concept/ai-scaling-and-maturity) — MIT CISR's and KPMG's maturity/scaling frameworks describe the same pilot-to-production gap this concept's CTrO and CFO sections diagnose from a leadership-mandate angle rather than an architecture angle.
 
 ## Open Questions
 

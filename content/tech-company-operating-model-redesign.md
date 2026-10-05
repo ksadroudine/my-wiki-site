@@ -36,11 +36,11 @@ A companion Bain report, <span class="src">Updating Enterprise Technology to Sca
 
 ## Related
 
-- [vibe coding and ai led development](#/concept/vibe-coding-and-ai-led-development) — Bain's own companion research there on the "AI development life cycle" describes the same organizational redesign pressure at the level of individual engineering teams, rather than the whole-company operating-model level covered here.
-- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — The operating-model agility this concept describes is a direct enabler of the pricing-model and go-to-market redesign that concept argues SaaS incumbents need to execute quickly to survive AI disruption.
-- [cloud operating model design](#/concept/cloud-operating-model-design) — Forrester's six-layer cloud-specific operating model is a complementary, more narrowly-scoped companion to this concept's whole-company operating-model redesign thesis, with direct overlap in Layer Four (structure) and Layer Five (governance).
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — A broader, cross-industry account of AI-driven hierarchy flattening that this concept's tech-sector-specific escalation-vs-front-line-resolution findings instantiate.
-- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — KPMG's five-priority CIO roadmap there addresses the same pilot-to-production and centralization-vs-devolution questions this concept's AI hub phases describe, from an enterprise-architecture rather than organizational-structure angle.
+- [Vibe Coding and AI-Led Development](#/concept/vibe-coding-and-ai-led-development) — Bain's own companion research there on the "AI development life cycle" describes the same organizational redesign pressure at the level of individual engineering teams, rather than the whole-company operating-model level covered here.
+- [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models) — The operating-model agility this concept describes is a direct enabler of the pricing-model and go-to-market redesign that concept argues SaaS incumbents need to execute quickly to survive AI disruption.
+- [Cloud Operating Model Design](#/concept/cloud-operating-model-design) — Forrester's six-layer cloud-specific operating model is a complementary, more narrowly-scoped companion to this concept's whole-company operating-model redesign thesis, with direct overlap in Layer Four (structure) and Layer Five (governance).
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — A broader, cross-industry account of AI-driven hierarchy flattening that this concept's tech-sector-specific escalation-vs-front-line-resolution findings instantiate.
+- [AI Maturity, Scaling and Project Selection](#/concept/ai-scaling-and-maturity) — KPMG's five-priority CIO roadmap there addresses the same pilot-to-production and centralization-vs-devolution questions this concept's AI hub phases describe, from an enterprise-architecture rather than organizational-structure angle.
 
 ## Open Questions
 

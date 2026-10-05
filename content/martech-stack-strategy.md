@@ -59,13 +59,13 @@ Because go-to-market strategy is a corporate asset that touches every function, 
 
 ## Related
 
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — That concept covers the personalization strategy, data and technology framework that operationalizes the personalization capability named here as one of the five required stack capabilities.
-- [enterprise data strategy and governance](#/concept/enterprise-data-strategy-and-governance) — The data-accountability model there is the organizational precedent that this concept's data management and identity resolution differentiator applies to marketing.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the broader pressure to redesign organizations around AI-era work, which this concept's dedicated marketing technologist role instantiates for the CMO's function.
-- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — The people, process, implementation and measurement framework here and the frameworks there address the same operationalization challenge from a martech-specific and an enterprise-wide angle.
-- [data leadership roles evolution](#/concept/data-leadership-roles-evolution) — The martech technologist and data-fabric ownership questions here connect to that concept's account of who should own data capability.
-- [customer centricity](#/concept/customer-centricity) — Fader's lifetime-value-driven organizational argument parallels this concept's push toward audience-first rather than product-first go-to-market thinking.
-- [organizational prioritization frameworks](#/concept/organizational-prioritization-frameworks) — The general discipline of prioritization and deprioritization there is what this concept's market-strategy and buyer-strategy areas apply to segment and persona selection.
+- [Customer Personalization Strategy and Execution](#/concept/customer-personalization-strategy) — That concept covers the personalization strategy, data and technology framework that operationalizes the personalization capability named here as one of the five required stack capabilities.
+- [Enterprise Data Strategy and Governance](#/concept/enterprise-data-strategy-and-governance) — The data-accountability model there is the organizational precedent that this concept's data management and identity resolution differentiator applies to marketing.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the broader pressure to redesign organizations around AI-era work, which this concept's dedicated marketing technologist role instantiates for the CMO's function.
+- [Gen AI Value-Creation Frameworks](#/concept/gen-ai-value-creation-frameworks) — The people, process, implementation and measurement framework here and the frameworks there address the same operationalization challenge from a martech-specific and an enterprise-wide angle.
+- [Data Leadership Roles Evolution](#/concept/data-leadership-roles-evolution) — The martech technologist and data-fabric ownership questions here connect to that concept's account of who should own data capability.
+- [Customer Centricity](#/concept/customer-centricity) — Fader's lifetime-value-driven organizational argument parallels this concept's push toward audience-first rather than product-first go-to-market thinking.
+- [Organizational Prioritization Frameworks](#/concept/organizational-prioritization-frameworks) — The general discipline of prioritization and deprioritization there is what this concept's market-strategy and buyer-strategy areas apply to segment and persona selection.
 
 ## Open Questions
 

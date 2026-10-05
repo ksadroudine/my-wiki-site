@@ -44,12 +44,12 @@ That discipline shows in returns. Weighted-average measured ROI on generative AI
 
 ## Related
 
-- [ai governance programs](#/concept/ai-governance-programs) — The governance controls there are needed once a deep and narrow or scaled deployment moves from pilot into production risk.
-- [ai strategy](#/concept/ai-strategy) — That concept covers the general staged process for building an enterprise AI strategy that this concept's project-selection frameworks operationalize at the level of individual initiatives.
-- [working with generative ai](#/concept/working-with-generative-ai) — The field-experiment findings there on where AI helps and where it does not are a worker-level lens on the same question of where AI should go that this concept addresses at the project-portfolio level.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the organizational-redesign pressure to which this concept's shift from command and control to coach and communicate, and its culture and talent imperative, apply specifically in AI scaling.
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — KPMG's data-fabric and integration-standardization prescriptions here are the enterprise-architecture instance of the composable platform discipline covered there.
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — The finding that token visibility enables permissive usage extends the cost-management material covered there.
+- [AI Governance and Responsible AI Programs](#/concept/ai-governance-programs) — The governance controls there are needed once a deep and narrow or scaled deployment moves from pilot into production risk.
+- [AI Strategy](#/concept/ai-strategy) — That concept covers the general staged process for building an enterprise AI strategy that this concept's project-selection frameworks operationalize at the level of individual initiatives.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — The field-experiment findings there on where AI helps and where it does not are a worker-level lens on the same question of where AI should go that this concept addresses at the project-portfolio level.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the organizational-redesign pressure to which this concept's shift from command and control to coach and communicate, and its culture and talent imperative, apply specifically in AI scaling.
+- [Agentic AI Platform Architecture](#/concept/agentic-ai-platform-architecture) — KPMG's data-fabric and integration-standardization prescriptions here are the enterprise-architecture instance of the composable platform discipline covered there.
+- [Enterprise AI Token Cost Management](#/concept/enterprise-ai-token-cost-management) — The finding that token visibility enables permissive usage extends the cost-management material covered there.
 
 ## Open Questions
 

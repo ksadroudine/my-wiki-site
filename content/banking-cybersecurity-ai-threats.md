@@ -38,8 +38,8 @@ A cluster of incidents from August 2026 directly complicates the Project Glasswi
 
 ## Related
 
-- [enterprise cyber resilience strategy](#/concept/enterprise-cyber-resilience-strategy) — PwC's 2026 cybersecurity outlook names both AI-discovered vulnerabilities and quantum computing as top emerging-technology priorities, mirroring the specific threats covered here in the banking sector. The CrowdStrike case study's third-party accountability and update-risk questions apply directly to the vendor and supply-chain dependencies described in this concept's banking context. The proactive, board-level cyber governance recommended there is the leadership counterpart to the regulatory and technical resilience measures documented here.
-- [ai power concentration and new tycoons](#/concept/ai-power-concentration-and-new-tycoons) — That concept covers the political and regulatory backlash that the Mythos moment documented here triggered, including the case for restricting powerful models to a handful of trusted firms.
+- [Enterprise Cyber Resilience](#/concept/enterprise-cyber-resilience-strategy) — PwC's 2026 cybersecurity outlook names both AI-discovered vulnerabilities and quantum computing as top emerging-technology priorities, mirroring the specific threats covered here in the banking sector. The CrowdStrike case study's third-party accountability and update-risk questions apply directly to the vendor and supply-chain dependencies described in this concept's banking context. The proactive, board-level cyber governance recommended there is the leadership counterpart to the regulatory and technical resilience measures documented here.
+- [AI Power Concentration and New Tycoons](#/concept/ai-power-concentration-and-new-tycoons) — That concept covers the political and regulatory backlash that the Mythos moment documented here triggered, including the case for restricting powerful models to a handful of trusted firms.
 
 ## Open Questions
 

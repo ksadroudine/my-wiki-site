@@ -20,9 +20,9 @@ Where Siegel's research addresses predictive ML specifically, Rama Ramakrishnan'
 
 ## Related
 
-- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — The "verification-evaluation-learning capture" flywheel covered there for general gen AI value creation shares its core verify-then-learn logic with this concept's specific GenAI-app evals process, applied one level more concretely to LLM application development.
-- [kpi design in the ai era](#/concept/kpi-design-in-the-ai-era) — The business-metrics-over-technical-metrics argument here connects directly to that concept's account of Goodhart's Law and metric gaming, since both concern the gap between what's easy to measure and what actually reflects genuine value.
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — PwC's finding there that few companies have concrete workload-tiering plans for agentic AI parallels this concept's finding that few ML/GenAI teams have rigorous plans for measuring what their models or applications are actually worth.
+- [Gen AI Value-Creation Frameworks](#/concept/gen-ai-value-creation-frameworks) — The "verification-evaluation-learning capture" flywheel covered there for general gen AI value creation shares its core verify-then-learn logic with this concept's specific GenAI-app evals process, applied one level more concretely to LLM application development.
+- [KPI Design in the AI Era](#/concept/kpi-design-in-the-ai-era) — The business-metrics-over-technical-metrics argument here connects directly to that concept's account of Goodhart's Law and metric gaming, since both concern the gap between what's easy to measure and what actually reflects genuine value.
+- [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation) — PwC's finding there that few companies have concrete workload-tiering plans for agentic AI parallels this concept's finding that few ML/GenAI teams have rigorous plans for measuring what their models or applications are actually worth.
 
 ## Open Questions
 

@@ -26,8 +26,8 @@ The same underpricing dynamic that undermines AI vendors' own profitability is, 
 
 ## Related
 
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — That concept is the mirror image of this one, because the same below-cost vendor pricing that Wu identifies as the source of AI's profitability problem is what enterprises are now scrambling to ration and manage on the cost side. That concept presents the buyer-side view of the same token-metering issue.
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — PwC's finding that AI agent trust is lowest for high-stakes, autonomous use cases connects to Wu's commodity/differentiation argument: undifferentiated models compete primarily on price precisely because they're hard to trust-differentiate.
+- [Enterprise AI Token Cost Management](#/concept/enterprise-ai-token-cost-management) — That concept is the mirror image of this one, because the same below-cost vendor pricing that Wu identifies as the source of AI's profitability problem is what enterprises are now scrambling to ration and manage on the cost side. That concept presents the buyer-side view of the same token-metering issue.
+- [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation) — PwC's finding that AI agent trust is lowest for high-stakes, autonomous use cases connects to Wu's commodity/differentiation argument: undifferentiated models compete primarily on price precisely because they're hard to trust-differentiate.
 
 ## Open Questions
 

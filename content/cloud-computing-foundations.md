@@ -47,12 +47,12 @@ Many organizations contribute to this work from different angles. The Cloud Secu
 
 ## Related
 
-- [cloud operations data and security](#/concept/cloud-operations-data-and-security) — The operational challenges (SLA management, shadow IT, portability) of managing SaaS and PaaS resources once adopted at scale. The security standards catalogued here in overview are covered in operational depth there.
-- [cloud and saas business economics](#/concept/cloud-and-saas-business-economics) — The deeper treatment of the Rule of 40 benchmark this concept's companion source cites only briefly as a framework Box adopted for balancing SaaS growth against profitability.
-- [cloud strategy and migration](#/concept/cloud-strategy-and-migration) — That concept covers the staged planning process for deciding which deployment models to use and when.
-- [telecom ai technology](#/concept/telecom-ai-technology) — An industry-specific application of hybrid cloud deployment decisions to AI-driven telecom workloads.
-- [api and digital value chain strategy](#/concept/api-and-digital-value-chain-strategy) — Microservices communicate exclusively through APIs, making this concept's architecture the direct technical substrate the API-strategy literature is built on.
-- [platform business models](#/concept/platform-business-models) — The end-to-end design principle (keeping a platform's core simple and pushing application-specific logic to the edge) parallels this concept's microservices decomposition discipline.
+- [Cloud Operations, Data and Security](#/concept/cloud-operations-data-and-security) — The operational challenges (SLA management, shadow IT, portability) of managing SaaS and PaaS resources once adopted at scale. The security standards catalogued here in overview are covered in operational depth there.
+- [Cloud and SaaS Business Economics](#/concept/cloud-and-saas-business-economics) — The deeper treatment of the Rule of 40 benchmark this concept's companion source cites only briefly as a framework Box adopted for balancing SaaS growth against profitability.
+- [Cloud Strategy and Migration](#/concept/cloud-strategy-and-migration) — That concept covers the staged planning process for deciding which deployment models to use and when.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — An industry-specific application of hybrid cloud deployment decisions to AI-driven telecom workloads.
+- [API Strategy and Digital Value Chain Unbundling](#/concept/api-and-digital-value-chain-strategy) — Microservices communicate exclusively through APIs, making this concept's architecture the direct technical substrate the API-strategy literature is built on.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — The end-to-end design principle (keeping a platform's core simple and pushing application-specific logic to the edge) parallels this concept's microservices decomposition discipline.
 
 ## Open Questions
 

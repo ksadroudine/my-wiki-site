@@ -23,7 +23,7 @@ The article closes on the practice's most unresolved dimension: ownership of the
 
 ## Related
 
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept provides a broader account of AI redistributing organizational work and hierarchy, of which the executive-digital-twin pattern is one specific, high-profile instance.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept provides a broader account of AI redistributing organizational work and hierarchy, of which the executive-digital-twin pattern is one specific, high-profile instance.
 - [Strategy in an Era of Abundant Expertise](#/concept/ai-sustainable-competitive-advantage) — That concept covers the economic logic (collapsing cost of accessing expertise) that helps explain why replicating a single executive's judgment at scale is now commercially attractive.
 
 ## Open Questions

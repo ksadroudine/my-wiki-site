@@ -39,13 +39,13 @@ Taken together, the sources agree that the gap between leaders and laggards is e
 
 ## Related
 
-- [cloud strategy and migration](#/concept/cloud-strategy-and-migration) — That concept covers the staged planning process (assess, imagine, explore, plan, implement) and BCG's own five-traps/five-success-factors framework that this concept's value-realization research builds directly on top of.
-- [cloud computing foundations](#/concept/cloud-computing-foundations) — The public/private/hybrid taxonomy and market data this concept's platform and workload-affinity principles assume as their technical foundation.
-- [cloud operations data and security](#/concept/cloud-operations-data-and-security) — That concept covers the day-to-day operational discipline (SLAs, monitoring, workload management) that Forrester's "practices" category and BCG's FinOps/platform-team interventions both formalize at greater maturity.
-- [cloud operating model design](#/concept/cloud-operating-model-design) — Forrester's six-layer operating-model framework is the detailed organizational blueprint for reaching the "Strategic Value Creator" state this concept describes.
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — The Coase-grounded strategic logic there for how AI reshapes firm boundaries directly underlies PwC's finding that proprietary data, not commodity GenAI access, is what differentiates Top Performers.
-- [enterprise data strategy and governance](#/concept/enterprise-data-strategy-and-governance) — The data-governance discipline PwC finds Top Performers have already mastered (98% confidence in GenAI-ready data architecture) is the same discipline covered in depth there.
-- [cloud and saas business economics](#/concept/cloud-and-saas-business-economics) — The vendor-side counterpart to this concept's buyer-side maturity models; both independently find that genuine rightsizing and organizational change, not migration alone, is what separates real cloud value capture from disappointed expectations.
+- [Cloud Strategy and Migration](#/concept/cloud-strategy-and-migration) — That concept covers the staged planning process (assess, imagine, explore, plan, implement) and BCG's own five-traps/five-success-factors framework that this concept's value-realization research builds directly on top of.
+- [Cloud Computing Foundations](#/concept/cloud-computing-foundations) — The public/private/hybrid taxonomy and market data this concept's platform and workload-affinity principles assume as their technical foundation.
+- [Cloud Operations, Data and Security](#/concept/cloud-operations-data-and-security) — That concept covers the day-to-day operational discipline (SLAs, monitoring, workload management) that Forrester's "practices" category and BCG's FinOps/platform-team interventions both formalize at greater maturity.
+- [Cloud Operating Model Design](#/concept/cloud-operating-model-design) — Forrester's six-layer operating-model framework is the detailed organizational blueprint for reaching the "Strategic Value Creator" state this concept describes.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — The Coase-grounded strategic logic there for how AI reshapes firm boundaries directly underlies PwC's finding that proprietary data, not commodity GenAI access, is what differentiates Top Performers.
+- [Enterprise Data Strategy and Governance](#/concept/enterprise-data-strategy-and-governance) — The data-governance discipline PwC finds Top Performers have already mastered (98% confidence in GenAI-ready data architecture) is the same discipline covered in depth there.
+- [Cloud and SaaS Business Economics](#/concept/cloud-and-saas-business-economics) — The vendor-side counterpart to this concept's buyer-side maturity models; both independently find that genuine rightsizing and organizational change, not migration alone, is what separates real cloud value capture from disappointed expectations.
 
 ## Open Questions
 

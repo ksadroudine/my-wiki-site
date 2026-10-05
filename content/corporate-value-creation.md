@@ -30,8 +30,8 @@ On capital structure, the source argues the trade-off between financial flexibil
 
 ## Related
 
-- [ai strategy](#/concept/ai-strategy) — The "ranking initiatives by cost, time-to-validate, strategic upside, and measurable upside" logic in AI strategy planning mirrors this concept's ROIC-and-growth prioritization discipline applied to a different kind of investment.
-- [pyramid principle](#/concept/pyramid-principle) — The discipline of segmenting an audience (here, intrinsic investors specifically) and tailoring communication to what that specific audience needs is a domain-specific instance of the audience-centered communication principle covered there.
+- [AI Strategy](#/concept/ai-strategy) — The "ranking initiatives by cost, time-to-validate, strategic upside, and measurable upside" logic in AI strategy planning mirrors this concept's ROIC-and-growth prioritization discipline applied to a different kind of investment.
+- [The Pyramid Principle](#/concept/pyramid-principle) — The discipline of segmenting an audience (here, intrinsic investors specifically) and tailoring communication to what that specific audience needs is a domain-specific instance of the audience-centered communication principle covered there.
 
 ## Open Questions
 

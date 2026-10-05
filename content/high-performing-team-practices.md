@@ -22,8 +22,8 @@ A further habit — staying close to the actual work — describes leaders and s
 
 ## Related
 
-- [organizational bottleneck management](#/concept/organizational-bottleneck-management) — A complementary framework for diagnosing and clearing what actually limits team and organizational throughput, relevant to why some teams sustain the experimentation habit this concept describes and others don't.
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — That concept discusses psychological safety as a precondition for AI-adoption experimentation, the same underlying mechanism this concept identifies behind the curiosity-over-ego and early-problem-surfacing habits.
+- [Organizational Bottleneck Management](#/concept/organizational-bottleneck-management) — A complementary framework for diagnosing and clearing what actually limits team and organizational throughput, relevant to why some teams sustain the experimentation habit this concept describes and others don't.
+- [Organizational Readiness for AI Collaboration](#/concept/organizational-readiness-for-ai-collaboration) — That concept discusses psychological safety as a precondition for AI-adoption experimentation, the same underlying mechanism this concept identifies behind the curiosity-over-ego and early-problem-surfacing habits.
 
 ## Open Questions
 

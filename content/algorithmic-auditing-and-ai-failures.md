@@ -43,10 +43,10 @@ His practical contribution is a two-question test for any AI tool, first whether
 
 ## Related
 
-- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — McKinsey's guardrail taxonomy there is the runtime-enforcement counterpart to the pre-deployment auditing frameworks here, and HBR's team-based judgment layer is a complementary human-review discipline.
-- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — The OWASP-based threat modeling and red-teaming case study there is an industry application of the red-teaming discipline described here.
-- [ai safety research and evaluation](#/concept/ai-safety-research-and-evaluation) — That concept argues from the same author and publication that safety and reliability depend on deployment context, which explains why these tools' claimed laboratory accuracy failed once deployed.
-- [ai strategy](#/concept/ai-strategy) — The Executive AI Fluency framework there emphasizes realistic expectations and independent validation, an organizational counter to the vendor bait-and-switch pattern documented here.
+- [AI Risk Controls and Output Reliability](#/concept/ai-risk-controls-and-reliability) — McKinsey's guardrail taxonomy there is the runtime-enforcement counterpart to the pre-deployment auditing frameworks here, and HBR's team-based judgment layer is a complementary human-review discipline.
+- [Agentic AI Security Frameworks](#/concept/agentic-ai-security-frameworks) — The OWASP-based threat modeling and red-teaming case study there is an industry application of the red-teaming discipline described here.
+- [AI Safety Research and Evaluation](#/concept/ai-safety-research-and-evaluation) — That concept argues from the same author and publication that safety and reliability depend on deployment context, which explains why these tools' claimed laboratory accuracy failed once deployed.
+- [AI Strategy](#/concept/ai-strategy) — The Executive AI Fluency framework there emphasizes realistic expectations and independent validation, an organizational counter to the vendor bait-and-switch pattern documented here.
 
 ## Open Questions
 

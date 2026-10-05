@@ -45,11 +45,11 @@ Platform responses so far test which design principles survive contact with an i
 
 ## Related
 
-- [ai factory](#/concept/ai-factory) — That concept explains how a digital operating model's data pipeline and algorithms create the internal engine that platform businesses use for matching and curation.
-- [lean startup customer development](#/concept/lean-startup-customer-development) — The solve-the-chicken-or-egg and find-product-market-fit-before-scaling logic there is shared by platform launch strategies.
-- [cloud and saas business economics](#/concept/cloud-and-saas-business-economics) — That concept gives a parallel account of how SaaS and cloud businesses shift value creation toward continuous, usage-driven interaction rather than one-time product delivery.
-- [ai investment bubble](#/concept/ai-investment-bubble) — The training-to-inference shift there is the infrastructure-side counterpart to this concept's demand-side account of AI agents reshaping how value is captured online.
-- [telecom ai transformation](#/concept/telecom-ai-transformation) — That concept is a telecom-specific instance of firms trying to build the platform and network position described here through AI partnerships and infrastructure investment.
+- [AI Factory](#/concept/ai-factory) — That concept explains how a digital operating model's data pipeline and algorithms create the internal engine that platform businesses use for matching and curation.
+- [Lean Startup and Customer Development](#/concept/lean-startup-customer-development) — The solve-the-chicken-or-egg and find-product-market-fit-before-scaling logic there is shared by platform launch strategies.
+- [Cloud and SaaS Business Economics](#/concept/cloud-and-saas-business-economics) — That concept gives a parallel account of how SaaS and cloud businesses shift value creation toward continuous, usage-driven interaction rather than one-time product delivery.
+- [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble) — The training-to-inference shift there is the infrastructure-side counterpart to this concept's demand-side account of AI agents reshaping how value is captured online.
+- [Telecom AI Transformation](#/concept/telecom-ai-transformation) — That concept is a telecom-specific instance of firms trying to build the platform and network position described here through AI partnerships and infrastructure investment.
 
 ## Open Questions
 

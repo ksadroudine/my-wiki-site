@@ -46,15 +46,15 @@ AT&T illustrates governance and return discipline at much larger scale, with ove
 
 ## Related
 
-- [corporate value creation](#/concept/corporate-value-creation) — This concept's value-creator research is a telecom-specific instance of the general growth and return-on-capital framework described there.
-- [telecom growth beyond core](#/concept/telecom-growth-beyond-core) — Infrastructure-monetization growth strategies there complement the operations-and-personalization-driven growth described here.
-- [telecom ai technology](#/concept/telecom-ai-technology) — The multi-agent architecture, compute and network prerequisites and hybrid-cloud placement of AI workloads are covered there.
-- [ai strategy](#/concept/ai-strategy) — SK Telecom's pyramid strategy is a telecom example of the general strategy-formation process described there.
-- [quantum computing enterprise strategy](#/concept/quantum-computing-enterprise-strategy) — Quantum computing is a second technology front in which operators are investing alongside AI.
-- [telecom pricing and personalization](#/concept/telecom-pricing-and-personalization) — That concept applies AI-native customer data to new monetization and pricing mechanisms.
-- [ai factory](#/concept/ai-factory) — The general AI factory concept of Iansiti and Lakhani is the basis for the telecom AI factory model described here.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — The industry-agnostic account there covers the organizational redesign that this concept applies to telecom operations.
-- [ai driven partner collaboration](#/concept/ai-driven-partner-collaboration) — KPN's work with McKinsey and QuantumBlack is an instance of the partnership dynamics examined there.
+- [Corporate Value Creation](#/concept/corporate-value-creation) — This concept's value-creator research is a telecom-specific instance of the general growth and return-on-capital framework described there.
+- [Telecom Growth Beyond Core Connectivity](#/concept/telecom-growth-beyond-core) — Infrastructure-monetization growth strategies there complement the operations-and-personalization-driven growth described here.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — The multi-agent architecture, compute and network prerequisites and hybrid-cloud placement of AI workloads are covered there.
+- [AI Strategy](#/concept/ai-strategy) — SK Telecom's pyramid strategy is a telecom example of the general strategy-formation process described there.
+- [Quantum Computing Enterprise Strategy](#/concept/quantum-computing-enterprise-strategy) — Quantum computing is a second technology front in which operators are investing alongside AI.
+- [Telecom Pricing Power and Personalization](#/concept/telecom-pricing-and-personalization) — That concept applies AI-native customer data to new monetization and pricing mechanisms.
+- [AI Factory](#/concept/ai-factory) — The general AI factory concept of Iansiti and Lakhani is the basis for the telecom AI factory model described here.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — The industry-agnostic account there covers the organizational redesign that this concept applies to telecom operations.
+- [AI-Driven Partner Collaboration](#/concept/ai-driven-partner-collaboration) — KPN's work with McKinsey and QuantumBlack is an instance of the partnership dynamics examined there.
 
 ## Open Questions
 

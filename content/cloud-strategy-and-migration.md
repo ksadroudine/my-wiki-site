@@ -47,11 +47,11 @@ A companion set of do's and don'ts turns this planning into tactics. The do's ar
 
 ## Related
 
-- [cloud computing foundations](#/concept/cloud-computing-foundations) — That concept covers the deployment model choices (public, private, hybrid, multicloud) that this concept's staged planning process is used to decide between.
-- [cloud operations data and security](#/concept/cloud-operations-data-and-security) — The ongoing operational management this concept's Stage 5 implementation and "unified service management" guidance leads into.
-- [ai strategy](#/concept/ai-strategy) — That concept provides a general-purpose, industry-agnostic AI strategy staging process with a broadly parallel shape (assess maturity, envision, discover, rank, roadmap) to this concept's five cloud-strategy stages.
-- [cloud and saas business economics](#/concept/cloud-and-saas-business-economics) — That concept covers the vendor-side mirror image of this concept's customer-side cost analysis: how cloud/SaaS pricing shifts risk onto the supplier.
-- [telecom ai technology](#/concept/telecom-ai-technology) — A telecom-specific illustration of the same Retain-versus-migrate logic, applied to AI training and network-function workloads specifically.
+- [Cloud Computing Foundations](#/concept/cloud-computing-foundations) — That concept covers the deployment model choices (public, private, hybrid, multicloud) that this concept's staged planning process is used to decide between.
+- [Cloud Operations, Data and Security](#/concept/cloud-operations-data-and-security) — The ongoing operational management this concept's Stage 5 implementation and "unified service management" guidance leads into.
+- [AI Strategy](#/concept/ai-strategy) — That concept provides a general-purpose, industry-agnostic AI strategy staging process with a broadly parallel shape (assess maturity, envision, discover, rank, roadmap) to this concept's five cloud-strategy stages.
+- [Cloud and SaaS Business Economics](#/concept/cloud-and-saas-business-economics) — That concept covers the vendor-side mirror image of this concept's customer-side cost analysis: how cloud/SaaS pricing shifts risk onto the supplier.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — A telecom-specific illustration of the same Retain-versus-migrate logic, applied to AI training and network-function workloads specifically.
 
 ## Open Questions
 

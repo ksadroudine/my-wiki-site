@@ -24,8 +24,8 @@ Read side by side, the two articles' apparent contradiction resolves into someth
 
 ## Related
 
-- [agentic software and technology delivery](#/concept/agentic-software-and-technology-delivery) — The "24-hour sprint" and knowledge-graph infrastructure described there for internal software delivery orgs assumes something close to Nelson and Davenport's permanent product-team model, since agent memory and institutional knowledge compound best with a stable, ongoing team rather than one that disbands at each project's end.
-- [tech company operating model redesign](#/concept/tech-company-operating-model-redesign) — Bain's "habit cultivators / authority weavers / flow instrumentalists" framework there addresses the same underlying problem (how to reduce escalation-driven friction and move faster) from a decision-rights angle rather than a projects-vs-products structural angle.
+- [Agentic Software and Technology Delivery](#/concept/agentic-software-and-technology-delivery) — The "24-hour sprint" and knowledge-graph infrastructure described there for internal software delivery orgs assumes something close to Nelson and Davenport's permanent product-team model, since agent memory and institutional knowledge compound best with a stable, ongoing team rather than one that disbands at each project's end.
+- [Tech Company Operating Model Redesign](#/concept/tech-company-operating-model-redesign) — Bain's "habit cultivators / authority weavers / flow instrumentalists" framework there addresses the same underlying problem (how to reduce escalation-driven friction and move faster) from a decision-rights angle rather than a projects-vs-products structural angle.
 
 ## Open Questions
 

@@ -28,8 +28,8 @@ The Hackett Group's June 2026 study argues that finance's value comes from end-t
 
 ## Related
 
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general thesis of AI pressuring organizational and leadership practice to change, of which this concept's finance-function-specific leadership findings are one domain instance. The process-redesign methods there are the general version of the finance-specific redesign Hackett describes.
-- [gen ai organizational learning and knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — That concept covers organizational learning mechanisms for gen AI more broadly, complementary to this concept's finance-specific experimentation and diffusion practices.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general thesis of AI pressuring organizational and leadership practice to change, of which this concept's finance-function-specific leadership findings are one domain instance. The process-redesign methods there are the general version of the finance-specific redesign Hackett describes.
+- [Gen AI Organizational Learning and Knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — That concept covers organizational learning mechanisms for gen AI more broadly, complementary to this concept's finance-specific experimentation and diffusion practices.
 
 ## Open Questions
 

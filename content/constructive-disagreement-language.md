@@ -23,8 +23,8 @@ The article specifically recommends focusing organizational effort on language r
 
 ## Related
 
-- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — The collective-judgment component there (teams discussing AI outputs together) depends directly on the constructive-disagreement skills covered in this concept to function without descending into unproductive conflict.
-- [working with generative ai](#/concept/working-with-generative-ai) — This concept's finding that people are more willing to disagree with AI than with colleagues is a specific instance of the broader human-AI interaction patterns studied there.
+- [AI Risk Controls and Output Reliability](#/concept/ai-risk-controls-and-reliability) — The collective-judgment component there (teams discussing AI outputs together) depends directly on the constructive-disagreement skills covered in this concept to function without descending into unproductive conflict.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — This concept's finding that people are more willing to disagree with AI than with colleagues is a specific instance of the broader human-AI interaction patterns studied there.
 
 ## Open Questions
 

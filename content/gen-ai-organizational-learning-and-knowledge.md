@@ -28,10 +28,10 @@ A third analysis, from Harvard Business Review, challenges the framing both prio
 
 ## Related
 
-- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — The AI-spine organizational structure and verification-evaluation-learning-capture flywheel covered there address a closely related question (how to organize and sustain gen AI value capture) from a slightly different angle than this concept's focus specifically on knowledge flow and collective cognition.
-- [agentic software and technology delivery](#/concept/agentic-software-and-technology-delivery) — The knowledge-graph-as-AI-memory-layer infrastructure described there for software delivery is a domain-specific instance of the collective-memory function this concept describes at the whole-organization level.
-- [managing technical debt in the ai era](#/concept/managing-technical-debt-in-the-ai-era) — The "get your data and documents in order" groundwork requirement here parallels that concept's finding that AI-generated technical debt compounds fastest on messy, poorly structured (brownfield) foundations.
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — The later HBR middle-manager research there shows why the informal learning this article recommends often fails without protected time.
+- [Gen AI Value-Creation Frameworks](#/concept/gen-ai-value-creation-frameworks) — The AI-spine organizational structure and verification-evaluation-learning-capture flywheel covered there address a closely related question (how to organize and sustain gen AI value capture) from a slightly different angle than this concept's focus specifically on knowledge flow and collective cognition.
+- [Agentic Software and Technology Delivery](#/concept/agentic-software-and-technology-delivery) — The knowledge-graph-as-AI-memory-layer infrastructure described there for software delivery is a domain-specific instance of the collective-memory function this concept describes at the whole-organization level.
+- [Managing Technical Debt in the AI Era](#/concept/managing-technical-debt-in-the-ai-era) — The "get your data and documents in order" groundwork requirement here parallels that concept's finding that AI-generated technical debt compounds fastest on messy, poorly structured (brownfield) foundations.
+- [Organizational Readiness for AI Collaboration](#/concept/organizational-readiness-for-ai-collaboration) — The later HBR middle-manager research there shows why the informal learning this article recommends often fails without protected time.
 
 ## Open Questions
 

@@ -39,8 +39,8 @@ Read together, the four articles trace a single line of research spanning nearly
 
 ## Related
 
-- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — A complementary set of frameworks for scaling gen AI value organization-wide, addressing the "how to organize for AI value" question this concept's decision-calibration framework operates alongside.
-- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — That concept covers frameworks for scoping and prioritizing AI projects once candidates exist (risk/demand matrices, pilot traits, deep-vs-broad deployment); this concept's ideation-workshop material addresses the earlier step of generating those candidates in the first place.
+- [Gen AI Value-Creation Frameworks](#/concept/gen-ai-value-creation-frameworks) — A complementary set of frameworks for scaling gen AI value organization-wide, addressing the "how to organize for AI value" question this concept's decision-calibration framework operates alongside.
+- [AI Maturity, Scaling and Project Selection](#/concept/ai-scaling-and-maturity) — That concept covers frameworks for scoping and prioritizing AI projects once candidates exist (risk/demand matrices, pilot traits, deep-vs-broad deployment); this concept's ideation-workshop material addresses the earlier step of generating those candidates in the first place.
 
 ## Open Questions
 

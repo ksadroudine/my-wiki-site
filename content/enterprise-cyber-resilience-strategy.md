@@ -48,11 +48,11 @@ The proposed response is explainable cyber risk management, a paradigm meant to 
 
 ## Related
 
-- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — That concept covers securing agentic AI systems as attack surfaces, while this concept covers the inverse, using agentic AI as the defensive tool through the autonomy envelope and agentic remediation.
-- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — McKinsey's guardrail taxonomy for AI outputs there is a close technical relative of the securing-AI priority described here.
-- [cloud operations data and security](#/concept/cloud-operations-data-and-security) — The general cloud security and governance material there is what this concept's cloud-protection priority builds on for the AI-driven context.
-- [corporate value creation](#/concept/corporate-value-creation) — The point here that attacks can create unexpected value through consolidation and process visibility parallels McKinsey's cornerstones of how value is created in a firm.
-- [banking cybersecurity ai threats](#/concept/banking-cybersecurity-ai-threats) — The financial sector's third-party risk tiering and continuous testing regime there is one institutional response to the accountability and dependency questions raised here.
+- [Agentic AI Security Frameworks](#/concept/agentic-ai-security-frameworks) — That concept covers securing agentic AI systems as attack surfaces, while this concept covers the inverse, using agentic AI as the defensive tool through the autonomy envelope and agentic remediation.
+- [AI Risk Controls and Output Reliability](#/concept/ai-risk-controls-and-reliability) — McKinsey's guardrail taxonomy for AI outputs there is a close technical relative of the securing-AI priority described here.
+- [Cloud Operations, Data and Security](#/concept/cloud-operations-data-and-security) — The general cloud security and governance material there is what this concept's cloud-protection priority builds on for the AI-driven context.
+- [Corporate Value Creation](#/concept/corporate-value-creation) — The point here that attacks can create unexpected value through consolidation and process visibility parallels McKinsey's cornerstones of how value is created in a firm.
+- [Banking Cybersecurity and AI-Discovered Vulnerabilities](#/concept/banking-cybersecurity-ai-threats) — The financial sector's third-party risk tiering and continuous testing regime there is one institutional response to the accountability and dependency questions raised here.
 
 ## Open Questions
 

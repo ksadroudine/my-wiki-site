@@ -24,10 +24,10 @@ Waymo's self-driving taxi service offers a concrete illustration of applying thi
 
 ## Related
 
-- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — That concept covers the technical security and data-risk controls that complement this concept's higher-level governance and autonomy-calibration framing.
-- [agentic ai fundamentals](#/concept/agentic-ai-fundamentals) — That concept covers the underlying definitions of agentic AI (agent types, execution loop) that this concept's governance discussion assumes.
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — Orchestration design (role clarity, supervisory logic) is the practical mechanism through which the autonomy calibration discussed here gets implemented across a team of agents.
-- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — Guardrails are one concrete technical implementation of the "internal resources" this concept's Ethical Nightmare Challenge calls for building.
+- [Agentic AI Security Frameworks](#/concept/agentic-ai-security-frameworks) — That concept covers the technical security and data-risk controls that complement this concept's higher-level governance and autonomy-calibration framing.
+- [Agentic AI Fundamentals](#/concept/agentic-ai-fundamentals) — That concept covers the underlying definitions of agentic AI (agent types, execution loop) that this concept's governance discussion assumes.
+- [Agentic AI Platform Architecture](#/concept/agentic-ai-platform-architecture) — Orchestration design (role clarity, supervisory logic) is the practical mechanism through which the autonomy calibration discussed here gets implemented across a team of agents.
+- [AI Risk Controls and Output Reliability](#/concept/ai-risk-controls-and-reliability) — Guardrails are one concrete technical implementation of the "internal resources" this concept's Ethical Nightmare Challenge calls for building.
 
 ## Open Questions
 

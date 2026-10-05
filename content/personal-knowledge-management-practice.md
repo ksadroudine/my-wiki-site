@@ -34,7 +34,7 @@ The three sources divide the labor differently but share a design logic. The hum
 
 ## Related
 
-- [pyramid principle](#/concept/pyramid-principle) — That concept shares the "structure before you write" discipline; the Pyramid Principle governs how a distilled set of notes gets sequenced into a persuasive argument once the Express/writing stage begins.
+- [The Pyramid Principle](#/concept/pyramid-principle) — That concept shares the "structure before you write" discipline; the Pyramid Principle governs how a distilled set of notes gets sequenced into a persuasive argument once the Express/writing stage begins.
 
 ## Open Questions
 

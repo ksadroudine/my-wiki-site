@@ -24,10 +24,10 @@ Three BCG pieces from mid-2026 describe the same shift from different seats. <sp
 
 ## Related
 
-- [brand trust strategy in the ai era](#/concept/brand-trust-strategy-in-the-ai-era) — The "share of model" discipline and agentic-commerce brand strategy covered there is the HBR-sourced counterpart to this concept's agent-mediated discovery and promise-performance material.
-- [martech stack strategy](#/concept/martech-stack-strategy) — Forrester's martech ecosystem and genAI adoption-maturity work is the earlier framing that BCG's agentic four-layer stack extends.
-- [ai first c suite playbook](#/concept/ai-first-c-suite-playbook) — BCG's AI-first CMO profile there is the leadership-mandate view of the same function.
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — The cross-functional "agentic mesh" and value-gap analysis there are the enterprise-wide counterpart to this concept's marketing-specific transformation.
+- [Brand Trust Strategy in the AI Era](#/concept/brand-trust-strategy-in-the-ai-era) — The "share of model" discipline and agentic-commerce brand strategy covered there is the HBR-sourced counterpart to this concept's agent-mediated discovery and promise-performance material.
+- [Martech Stack and Go-to-Market Strategy](#/concept/martech-stack-strategy) — Forrester's martech ecosystem and genAI adoption-maturity work is the earlier framing that BCG's agentic four-layer stack extends.
+- [AI-First C-Suite Playbook](#/concept/ai-first-c-suite-playbook) — BCG's AI-first CMO profile there is the leadership-mandate view of the same function.
+- [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation) — The cross-functional "agentic mesh" and value-gap analysis there are the enterprise-wide counterpart to this concept's marketing-specific transformation.
 
 ## Open Questions
 

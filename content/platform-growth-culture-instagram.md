@@ -21,9 +21,9 @@ Despite this deliberate cultural distinction, the source documents Instagram con
 
 ## Related
 
-- [platform business models](#/concept/platform-business-models) — Instagram's curation and matching decisions (suggested user list, editorial content strategy) are a real-world instance of the "facilitate" and "match" functions described in that concept's platform-design framework.
-- [behavioral product design](#/concept/behavioral-product-design) — The metrics-driven behavior change documented here (users optimizing for likes/followers) is a large-scale case of the same behavior-design mechanisms covered in the Hook Model.
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — That concept contrasts with Instagram's deliberately manual, human-curated approach to personalization versus the largely algorithmic approaches described there.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — Instagram's curation and matching decisions (suggested user list, editorial content strategy) are a real-world instance of the "facilitate" and "match" functions described in that concept's platform-design framework.
+- [Behavioral Product Design](#/concept/behavioral-product-design) — The metrics-driven behavior change documented here (users optimizing for likes/followers) is a large-scale case of the same behavior-design mechanisms covered in the Hook Model.
+- [Customer Personalization Strategy and Execution](#/concept/customer-personalization-strategy) — That concept contrasts with Instagram's deliberately manual, human-curated approach to personalization versus the largely algorithmic approaches described there.
 
 ## Open Questions
 

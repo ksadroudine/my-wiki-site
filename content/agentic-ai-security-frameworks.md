@@ -26,10 +26,10 @@ BCG completes the picture by arguing that the organizational structure most comp
 
 ## Related
 
-- [agentic ai governance and autonomy](#/concept/agentic-ai-governance-and-autonomy) — That concept covers the higher-level risk-assessment and autonomy-calibration framing that this concept's technical security controls are designed to implement.
-- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — McKinsey's guardrails taxonomy (checker/corrector/rail/guard) is a specific technical mechanism referenced by this concept's input/output-guardrail recommendations.
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — Agent-to-agent communication protocols and supervisory logic discussed there are the coordination layer this concept's agent-to-agent security controls must secure.
-- [agentic ai fundamentals](#/concept/agentic-ai-fundamentals) — The baseline definitions of agentic AI and its execution loop that this concept's risk frameworks assume.
+- [Agentic AI Governance and Autonomy](#/concept/agentic-ai-governance-and-autonomy) — That concept covers the higher-level risk-assessment and autonomy-calibration framing that this concept's technical security controls are designed to implement.
+- [AI Risk Controls and Output Reliability](#/concept/ai-risk-controls-and-reliability) — McKinsey's guardrails taxonomy (checker/corrector/rail/guard) is a specific technical mechanism referenced by this concept's input/output-guardrail recommendations.
+- [Agentic AI Platform Architecture](#/concept/agentic-ai-platform-architecture) — Agent-to-agent communication protocols and supervisory logic discussed there are the coordination layer this concept's agent-to-agent security controls must secure.
+- [Agentic AI Fundamentals](#/concept/agentic-ai-fundamentals) — The baseline definitions of agentic AI and its execution loop that this concept's risk frameworks assume.
 
 ## Open Questions
 

@@ -49,11 +49,11 @@ Walmart illustrates the orchestration problem that PwC finds beneath the more co
 
 ## Related
 
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — The platform design principles there, including composable architecture, MCP and A2A protocols and build-partner-buy choices, are the technical layer beneath the agentic AI mesh and agent factory described here, and PwC's call for an operating system to orchestrate agents from many vendors is the organizational challenge that concept addresses.
-- [agentic ai governance and autonomy](#/concept/agentic-ai-governance-and-autonomy) — The risk-complexity model and autonomy-calibration framework there inform the governed-autonomy principle and the agent-sprawl concerns described here.
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — The framing there of AI collapsing the cost of expertise parallels this concept's account of agents shifting value creation from labor to technology.
-- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — The deep-and-narrow deployment discipline there is the logic that this concept applies to the lighthouse approach for agentic process redesign.
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — The accountability and trust risks that BCG flags here echo the management-system problems described there.
+- [Agentic AI Platform Architecture](#/concept/agentic-ai-platform-architecture) — The platform design principles there, including composable architecture, MCP and A2A protocols and build-partner-buy choices, are the technical layer beneath the agentic AI mesh and agent factory described here, and PwC's call for an operating system to orchestrate agents from many vendors is the organizational challenge that concept addresses.
+- [Agentic AI Governance and Autonomy](#/concept/agentic-ai-governance-and-autonomy) — The risk-complexity model and autonomy-calibration framework there inform the governed-autonomy principle and the agent-sprawl concerns described here.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — The framing there of AI collapsing the cost of expertise parallels this concept's account of agents shifting value creation from labor to technology.
+- [AI Maturity, Scaling and Project Selection](#/concept/ai-scaling-and-maturity) — The deep-and-narrow deployment discipline there is the logic that this concept applies to the lighthouse approach for agentic process redesign.
+- [Organizational Readiness for AI Collaboration](#/concept/organizational-readiness-for-ai-collaboration) — The accountability and trust risks that BCG flags here echo the management-system problems described there.
 
 ## Open Questions
 

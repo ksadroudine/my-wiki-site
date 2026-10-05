@@ -2,6 +2,8 @@
   "use strict";
 
   var index = [];
+  var bok = [];
+  var bokBySlug = {};
   var bySlug = {};
   var searchData = null;
   var searchLoading = null;
@@ -17,6 +19,27 @@
   // ---------- Sidebar ----------
   function link(c) {
     return '<li><a href="#/concept/' + c.slug + '" data-slug="' + c.slug + '">' + esc(c.title) + "</a></li>";
+  }
+
+  function bokLabel(b) {
+    return (typeof b.chapter === "number" ? b.chapter + ". " : "") + b.title;
+  }
+
+  function bokLink(b) {
+    return '<li><a href="#/bok/' + b.slug + '" data-slug="bok/' + b.slug + '">' + esc(bokLabel(b)) + "</a></li>";
+  }
+
+  // Sections (for example "AI") contain chapters in book order, then reference pages.
+  function renderBokTree() {
+    var sections = {};
+    bok.forEach(function (b) { (sections[b.section] = sections[b.section] || []).push(b); });
+    var html = '<ul class="list"><li><a href="#/bok" data-slug="bok">Table of contents</a></li></ul>' +
+      Object.keys(sections).sort().map(function (name) {
+        return '<div class="tag-group"><details data-section="' + esc(tagId(name)) + '" open><summary>' + esc(name) +
+          ' <span class="count">(' + sections[name].length + ")</span></summary><ul class=\"list\">" +
+          sections[name].map(bokLink).join("") + "</ul></details></div>";
+      }).join("");
+    $("bok-tree").innerHTML = html;
   }
 
   function renderConceptList() {
@@ -66,13 +89,13 @@
     if (!slug) return;
     var hits = document.querySelectorAll('#nav a[data-slug="' + slug + '"]');
     Array.prototype.forEach.call(hits, function (a) { a.classList.add("active"); });
-    var first = $("concept-list").querySelector('a[data-slug="' + slug + '"]');
-    if (first && $("concepts-section").open) first.scrollIntoView({ block: "nearest" });
+    var first = document.querySelector('#nav a[data-slug="' + slug + '"]');
+    if (first && !first.closest("details:not([open])")) first.scrollIntoView({ block: "nearest" });
   }
 
   // ---------- Article ----------
   function showHome() {
-    $("article").innerHTML = "<p class=\"muted\" style=\"margin-top:28px\">Choose a concept on the left, browse by tag, or search.</p>";
+    $("article").innerHTML = "<p class=\"muted\" style=\"margin-top:28px\">Start with the <a href=\"#/bok\">Book of Knowledge</a>, choose a concept on the left, browse by tag, or search.</p>";
     markActive(null);
   }
 
@@ -97,9 +120,60 @@
       .catch(function () { $("article").innerHTML = "<p>Could not load this page.</p>"; });
   }
 
+  function chips(tags) {
+    return tags.map(function (t) {
+      return '<a class="chip" href="#/tag/' + tagId(t) + '">' + esc(t) + "</a>";
+    }).join("");
+  }
+
+  function showBokHome() {
+    var sections = {};
+    bok.forEach(function (b) { (sections[b.section] = sections[b.section] || []).push(b); });
+    $("article").innerHTML = "<h1>Book of Knowledge</h1>" +
+      '<p class="lead">A reading guide to the wiki. Each chapter explains one topic in plain language and points to the Concepts that hold the detail.</p>' +
+      Object.keys(sections).sort().map(function (name) {
+        return "<h2>Section: " + esc(name) + "</h2><ul>" + sections[name].map(function (b) {
+          return '<li><a href="#/bok/' + b.slug + '">' + esc(bokLabel(b)) + "</a> — <span class=\"muted\">" + esc(b.summary.split(". ")[0].replace(/\.$/, "")) + ".</span></li>";
+        }).join("") + "</ul>";
+      }).join("");
+    markActive("bok");
+    document.title = "Book of Knowledge — Karim's Knowledge Database";
+  }
+
+  function showBok(slug) {
+    var b = bokBySlug[slug];
+    if (!b) { $("article").innerHTML = "<h1>Not found</h1><p>No page called " + esc(slug) + ".</p>"; return; }
+    document.title = b.title + " — Karim's Knowledge Database";
+    fetch("content/bok/" + encodeURIComponent(slug) + ".md")
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+      .then(function (md) {
+        var pos = bok.indexOf(b);
+        var prev = bok[pos - 1], next = bok[pos + 1];
+        if (prev && prev.section !== b.section) prev = null;
+        if (next && next.section !== b.section) next = null;
+        var pager = '<div class="pager">' +
+          (prev ? '<a href="#/bok/' + prev.slug + '">← ' + esc(bokLabel(prev)) + "</a>" : "<span></span>") +
+          (next ? '<a href="#/bok/' + next.slug + '">' + esc(bokLabel(next)) + " →</a>" : "<span></span>") + "</div>";
+        var where = "Section: " + esc(b.section) + (typeof b.chapter === "number" ? " · Chapter " + b.chapter : " · Reference");
+        $("article").innerHTML =
+          "<h1>" + esc(b.title) + "</h1>" +
+          '<div class="meta">' + where + " · Published " + esc(b.published) + " · Modified " + esc(b.modified) +
+          (b.status && b.status !== "final" ? " · Status: " + esc(b.status) : "") + "</div>" +
+          '<div class="chips">' + chips(b.tags) + "</div>" + marked.parse(md) + pager;
+        $("article").scrollTop = 0;
+        window.scrollTo(0, 0);
+        markActive("bok/" + slug);
+      })
+      .catch(function () { $("article").innerHTML = "<p>Could not load this page.</p>"; });
+  }
+
   function showTag(tag) {
     var list = index.filter(function (c) { return c.tags.indexOf(tag) !== -1; });
-    $("article").innerHTML = "<h1>Tag: " + esc(tag) + "</h1><ul>" + list.map(function (c) {
+    var chapters = bok.filter(function (b) { return b.tags.indexOf(tag) !== -1; });
+    $("article").innerHTML = "<h1>Tag: " + esc(tag) + "</h1>" +
+      (chapters.length ? "<h2>Book of Knowledge</h2><ul>" + chapters.map(function (b) {
+        return '<li><a href="#/bok/' + b.slug + '">' + esc(bokLabel(b)) + "</a> — <span class=\"muted\">" + esc(b.summary) + "</span></li>";
+      }).join("") + "</ul><h2>Concepts</h2>" : "") + "<ul>" + list.map(function (c) {
       return '<li><a href="#/concept/' + c.slug + '">' + esc(c.title) + "</a> — <span class=\"muted\">" + esc(c.summary) + "</span></li>";
     }).join("") + "</ul>";
     var d = document.querySelector('details[data-tag="' + tagId(tag) + '"]');
@@ -109,7 +183,10 @@
 
   function route() {
     var h = decodeURIComponent(location.hash.replace(/^#\/?/, ""));
-    var m = h.match(/^concept\/(.+)$/);
+    if (h === "bok") return showBokHome();
+    var m = h.match(/^bok\/(.+)$/);
+    if (m) return showBok(m[1]);
+    m = h.match(/^concept\/(.+)$/);
     if (m) return showConcept(m[1]);
     m = h.match(/^tag\/(.+)$/);
     if (m) return showTag(m[1]);
@@ -132,9 +209,12 @@
     loadSearch().then(function (text) {
       var terms = q.split(/\s+/);
       var scored = [];
-      index.forEach(function (c) {
+      var pages = index.map(function (c) { return { c: c, key: c.slug, href: "#/concept/" + c.slug, title: c.title }; })
+        .concat(bok.map(function (b) { return { c: b, key: "bok/" + b.slug, href: "#/bok/" + b.slug, title: "Book of Knowledge · " + bokLabel(b) }; }));
+      pages.forEach(function (p) {
+        var c = p.c;
         var head = (c.title + " " + c.summary + " " + c.tags.join(" ")).toLowerCase();
-        var body = text[c.slug] || "";
+        var body = text[p.key] || "";
         var score = 0;
         for (var i = 0; i < terms.length; i++) {
           var inHead = head.indexOf(terms[i]) !== -1;
@@ -142,12 +222,12 @@
           if (!inHead && !inBody) return;
           score += (c.title.toLowerCase().indexOf(terms[i]) !== -1 ? 5 : 0) + (inHead ? 3 : 0) + (inBody ? 1 : 0);
         }
-        scored.push({ c: c, s: score });
+        scored.push({ c: c, p: p, s: score });
       });
       scored.sort(function (a, b) { return b.s - a.s; });
       box.innerHTML = scored.length
         ? scored.slice(0, 40).map(function (x) {
-            return '<a href="#/concept/' + x.c.slug + '">' + esc(x.c.title) + "<small>" + esc(x.c.summary.slice(0, 110)) + "…</small></a>";
+            return '<a href="' + x.p.href + '">' + esc(x.p.title) + "<small>" + esc(x.c.summary.slice(0, 110)) + "…</small></a>";
           }).join("")
         : '<p class="muted">No matches.</p>';
       box.hidden = false;
@@ -156,11 +236,16 @@
   }
 
   // ---------- Start ----------
-  fetch("data/index.json")
-    .then(function (r) { return r.json(); })
+  Promise.all([
+    fetch("data/index.json").then(function (r) { return r.json(); }),
+    fetch("data/bok.json").then(function (r) { return r.json(); })
+  ])
     .then(function (data) {
-      index = data;
+      index = data[0];
+      bok = data[1];
       index.forEach(function (c) { bySlug[c.slug] = c; });
+      bok.forEach(function (b) { bokBySlug[b.slug] = b; });
+      renderBokTree();
       renderConceptList();
       renderTagTree();
       route();

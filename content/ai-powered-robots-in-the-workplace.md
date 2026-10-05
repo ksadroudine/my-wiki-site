@@ -39,10 +39,10 @@ Two further sources address problems this concept's deployment frameworks assume
 
 ## Related
 
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general thesis of AI redistributing organizational work and roles, of which this concept's human-robot collaboration frameworks are a physical-workplace instance.
-- [genai supply chain and procurement](#/concept/genai-supply-chain-and-procurement) — That concept covers AI's parallel advance into supply-chain planning and negotiation, a software-only complement to this concept's physical warehouse-robotics focus.
-- [ai investment bubble](#/concept/ai-investment-bubble) — Nvidia's "physical AI" revenue ambitions and Hadrian's software-scale valuation, covered here, are a physical-world instance of the same AI-infrastructure investment dynamics examined there.
-- [ai power concentration and new tycoons](#/concept/ai-power-concentration-and-new-tycoons) — Jensen Huang's "ChatGPT moment for robotics" declaration, covered here, is one more instance of the personal-declaration-as-market-signal pattern examined there.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general thesis of AI redistributing organizational work and roles, of which this concept's human-robot collaboration frameworks are a physical-workplace instance.
+- [GenAI in Supply Chain and Procurement](#/concept/genai-supply-chain-and-procurement) — That concept covers AI's parallel advance into supply-chain planning and negotiation, a software-only complement to this concept's physical warehouse-robotics focus.
+- [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble) — Nvidia's "physical AI" revenue ambitions and Hadrian's software-scale valuation, covered here, are a physical-world instance of the same AI-infrastructure investment dynamics examined there.
+- [AI Power Concentration and New Tycoons](#/concept/ai-power-concentration-and-new-tycoons) — Jensen Huang's "ChatGPT moment for robotics" declaration, covered here, is one more instance of the personal-declaration-as-market-signal pattern examined there.
 
 ## Open Questions
 

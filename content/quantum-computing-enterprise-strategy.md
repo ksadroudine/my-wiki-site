@@ -37,8 +37,8 @@ On security, operators are investing in quantum-safe networking, which spans Qua
 
 ## Related
 
-- [banking cybersecurity ai threats](#/concept/banking-cybersecurity-ai-threats) — The post-quantum migration timelines and long tail of non-upgradable systems described here are the encryption-side counterpart to the banking quantum-threat material covered there.
-- [telecom ai transformation](#/concept/telecom-ai-transformation) — Quantum computing investment is emerging alongside AI investment as a second, related front in telecom operators' technology transformation strategies.
+- [Banking Cybersecurity and AI-Discovered Vulnerabilities](#/concept/banking-cybersecurity-ai-threats) — The post-quantum migration timelines and long tail of non-upgradable systems described here are the encryption-side counterpart to the banking quantum-threat material covered there.
+- [Telecom AI Transformation](#/concept/telecom-ai-transformation) — Quantum computing investment is emerging alongside AI investment as a second, related front in telecom operators' technology transformation strategies.
 
 ## Open Questions
 

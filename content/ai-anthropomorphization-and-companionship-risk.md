@@ -24,8 +24,8 @@ The article's author, Kevin Roose, states directly that he is "nervous about the
 
 ## Related
 
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — That concept addresses trust and adoption dynamics around AI in professional settings, a more measured counterpart to the personal and emotional over-trust documented here.
-- [working with generative ai](#/concept/working-with-generative-ai) — That concept frames a deliberately collaborative, tool-like relationship with AI that stands in direct contrast to the parasocial, companion-like relationships this concept describes as a risk.
+- [Organizational Readiness for AI Collaboration](#/concept/organizational-readiness-for-ai-collaboration) — That concept addresses trust and adoption dynamics around AI in professional settings, a more measured counterpart to the personal and emotional over-trust documented here.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — That concept frames a deliberately collaborative, tool-like relationship with AI that stands in direct contrast to the parasocial, companion-like relationships this concept describes as a risk.
 
 ## Open Questions
 

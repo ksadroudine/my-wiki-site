@@ -41,8 +41,8 @@ Read together, the five articles describe the same underlying challenge from com
 
 ## Related
 
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the broader thesis of AI pressuring organizational redesign, including the "shadow AI" / "secret cyborgs" phenomenon this concept's clandestine-use findings directly corroborate with additional company examples. That concept covers task-level methodologies for redesigning work around AI capability, complementary to this concept's focus on the incentive and management-culture conditions that determine whether such redesigns actually get adopted.
-- [pro worker ai and labor displacement](#/concept/pro-worker-ai-and-labor-displacement) — The design-choice framing there complements this concept's management-system diagnosis.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the broader thesis of AI pressuring organizational redesign, including the "shadow AI" / "secret cyborgs" phenomenon this concept's clandestine-use findings directly corroborate with additional company examples. That concept covers task-level methodologies for redesigning work around AI capability, complementary to this concept's focus on the incentive and management-culture conditions that determine whether such redesigns actually get adopted.
+- [Pro-Worker AI and Labor Displacement](#/concept/pro-worker-ai-and-labor-displacement) — The design-choice framing there complements this concept's management-system diagnosis.
 
 ## Open Questions
 

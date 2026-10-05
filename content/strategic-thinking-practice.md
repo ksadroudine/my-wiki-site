@@ -16,8 +16,8 @@ Thinking Strategically (Avinash Dixit and Barry Nalebuff) contributes game theor
 
 ## Related
 
-- [pyramid principle](#/concept/pyramid-principle) — Both concepts address structured habits of thought (argument structuring there, strategic-input synthesis here) that improve the quality of business reasoning independent of subject-matter expertise.
-- [corporate value creation](#/concept/corporate-value-creation) — The "best owner" cornerstone and acquisition-archetype analysis there are exercises in exactly the kind of strategic, competitor-aware reasoning this concept's game-theory component describes.
+- [The Pyramid Principle](#/concept/pyramid-principle) — Both concepts address structured habits of thought (argument structuring there, strategic-input synthesis here) that improve the quality of business reasoning independent of subject-matter expertise.
+- [Corporate Value Creation](#/concept/corporate-value-creation) — The "best owner" cornerstone and acquisition-archetype analysis there are exercises in exactly the kind of strategic, competitor-aware reasoning this concept's game-theory component describes.
 
 ## Open Questions
 

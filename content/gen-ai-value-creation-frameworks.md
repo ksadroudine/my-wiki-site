@@ -61,11 +61,11 @@ MIT SMR's "Three Approaches to Measuring and Managing AI ROI" completes this com
 
 ## Related
 
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — The AI spine's business-value-tied funding model and the "measure the cycle, not just the output" discipline both directly anticipate the Agent FinOps cost-visibility problem covered there; without value measurement, cost measurement alone can't answer whether an agent is worth its price.
-- [managing technical debt in the ai era](#/concept/managing-technical-debt-in-the-ai-era) — The "small t" transformation risk slope's brownfield caution (customer-facing/product-integration risk highest) parallels that concept's greenfield-vs-brownfield technical-debt risk factor, both counseling staged, risk-calibrated AI deployment rather than uniform rollout.
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — PwC's finding there that "connecting agents across workflows" and organizational change readiness (not cost or security) are the deepest adoption barriers directly corroborates this concept's finding that structure (AI spine) and discipline (verify-evaluate-capture, organizational experiments), not raw technology access, are what separate value-capturing organizations from the rest.
-- [agentic software and technology delivery](#/concept/agentic-software-and-technology-delivery) — The later survey evidence there tests these panel claims about process redesign in one function.
-- [ai governance programs](#/concept/ai-governance-programs) — BCG's six agent controls in this survey extend the propagation-risk layer of adaptive governance to enterprise-wide agent programs.
+- [Enterprise AI Token Cost Management](#/concept/enterprise-ai-token-cost-management) — The AI spine's business-value-tied funding model and the "measure the cycle, not just the output" discipline both directly anticipate the Agent FinOps cost-visibility problem covered there; without value measurement, cost measurement alone can't answer whether an agent is worth its price.
+- [Managing Technical Debt in the AI Era](#/concept/managing-technical-debt-in-the-ai-era) — The "small t" transformation risk slope's brownfield caution (customer-facing/product-integration risk highest) parallels that concept's greenfield-vs-brownfield technical-debt risk factor, both counseling staged, risk-calibrated AI deployment rather than uniform rollout.
+- [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation) — PwC's finding there that "connecting agents across workflows" and organizational change readiness (not cost or security) are the deepest adoption barriers directly corroborates this concept's finding that structure (AI spine) and discipline (verify-evaluate-capture, organizational experiments), not raw technology access, are what separate value-capturing organizations from the rest.
+- [Agentic Software and Technology Delivery](#/concept/agentic-software-and-technology-delivery) — The later survey evidence there tests these panel claims about process redesign in one function.
+- [AI Governance and Responsible AI Programs](#/concept/ai-governance-programs) — BCG's six agent controls in this survey extend the propagation-risk layer of adaptive governance to enterprise-wide agent programs.
 
 ## Open Questions
 

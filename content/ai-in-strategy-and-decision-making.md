@@ -24,10 +24,10 @@ Two older pieces mark the limits. In 2023 Stadler and Reeves put strategy questi
 
 ## Related
 
-- [intelligent choice architectures](#/concept/intelligent-choice-architectures) — Decision-option sets and the redistribution of decision rights covered there are the organisational design counterpart to the strategy-process changes described here.
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — The argument that durable advantage rests on proprietary data, processes and unique assets is shared by this concept's HBR and BCG sources.
-- [strategic thinking practice](#/concept/strategic-thinking-practice) — Sloan's informal-learning account of how strategic thinking develops is the human-skill foundation behind BCG's four thinking modes.
-- [semantic layer for agentic ai](#/concept/semantic-layer-for-agentic-ai) — The semantic layer BCG says decision agents need is the same codified-business-logic foundation covered there.
+- [Intelligent Choice Architectures](#/concept/intelligent-choice-architectures) — Decision-option sets and the redistribution of decision rights covered there are the organisational design counterpart to the strategy-process changes described here.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — The argument that durable advantage rests on proprietary data, processes and unique assets is shared by this concept's HBR and BCG sources.
+- [Strategic Thinking Practice](#/concept/strategic-thinking-practice) — Sloan's informal-learning account of how strategic thinking develops is the human-skill foundation behind BCG's four thinking modes.
+- [Semantic Layer for Agentic AI](#/concept/semantic-layer-for-agentic-ai) — The semantic layer BCG says decision agents need is the same codified-business-logic foundation covered there.
 
 ## Open Questions
 

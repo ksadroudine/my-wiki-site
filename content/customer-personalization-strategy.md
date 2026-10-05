@@ -59,11 +59,11 @@ Next Best Experience instead recommends the ideal next interaction a customer sh
 
 ## Related
 
-- [ai factory](#/concept/ai-factory) — That concept covers the general data-pipeline, algorithm and experimentation-platform architecture of which this concept's personalization stack is a specific application.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept gives a broader account of the start-with-agile-pods-not-a-reorg principle that this concept applies to personalization programs.
-- [telecom pricing and personalization](#/concept/telecom-pricing-and-personalization) — That concept applies the personalization framework described here to monetization mechanisms specific to telecom.
-- [customer centricity](#/concept/customer-centricity) — Fader's lifetime-value framework there supplies the portfolio-level analysis of which customers matter most that complements this concept's engagement-level tactics.
-- [enterprise data strategy and governance](#/concept/enterprise-data-strategy-and-governance) — The data-silo and data-quality failures documented here are instances of the broader enterprise data-management discipline covered there.
+- [AI Factory](#/concept/ai-factory) — That concept covers the general data-pipeline, algorithm and experimentation-platform architecture of which this concept's personalization stack is a specific application.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept gives a broader account of the start-with-agile-pods-not-a-reorg principle that this concept applies to personalization programs.
+- [Telecom Pricing Power and Personalization](#/concept/telecom-pricing-and-personalization) — That concept applies the personalization framework described here to monetization mechanisms specific to telecom.
+- [Customer Centricity](#/concept/customer-centricity) — Fader's lifetime-value framework there supplies the portfolio-level analysis of which customers matter most that complements this concept's engagement-level tactics.
+- [Enterprise Data Strategy and Governance](#/concept/enterprise-data-strategy-and-governance) — The data-silo and data-quality failures documented here are instances of the broader enterprise data-management discipline covered there.
 
 ## Open Questions
 

@@ -27,10 +27,10 @@ This job-level anxiety about AI-driven change is a documented worker-side phenom
 
 ## Related
 
-- [ai strategy](#/concept/ai-strategy) — This concept's AI canvas and task-decomposition discipline is a concrete methodology for the "know a realistic range of AI use cases and capability boundaries" component of Executive AI Fluency.
-- [working with generative ai](#/concept/working-with-generative-ai) — The empirical BCG/Harvard study's finding that overreliance on AI degrades human performance on tasks outside its capability is a real-world instance of this concept's "unknown knowns" failure mode, where a confident-sounding AI prediction is actually wrong.
-- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — The vendor "human in the loop" bait-and-switch pattern documented there is a direct organizational failure to properly decompose prediction from judgment as this concept recommends.
-- [ai factory](#/concept/ai-factory) — That concept describes the data pipeline and algorithm infrastructure that operationalizes prediction machines at firm scale.
+- [AI Strategy](#/concept/ai-strategy) — This concept's AI canvas and task-decomposition discipline is a concrete methodology for the "know a realistic range of AI use cases and capability boundaries" component of Executive AI Fluency.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — The empirical BCG/Harvard study's finding that overreliance on AI degrades human performance on tasks outside its capability is a real-world instance of this concept's "unknown knowns" failure mode, where a confident-sounding AI prediction is actually wrong.
+- [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures) — The vendor "human in the loop" bait-and-switch pattern documented there is a direct organizational failure to properly decompose prediction from judgment as this concept recommends.
+- [AI Factory](#/concept/ai-factory) — That concept describes the data pipeline and algorithm infrastructure that operationalizes prediction machines at firm scale.
 
 ## Open Questions
 

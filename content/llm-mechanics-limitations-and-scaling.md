@@ -46,17 +46,17 @@ Narayanan frames the trend as a ladder of generality, a long-running progression
 
 ## Related
 
-- [ai and machine learning foundations](#/concept/ai-and-machine-learning-foundations) — That concept covers the broader AI, machine-learning and deep-learning vocabulary and history on which this concept's LLM-specific mechanics build.
-- [working with generative ai](#/concept/working-with-generative-ai) — The same BCG field-experiment population cited here is the source of the Jagged Frontier and Centaur and Cyborg concepts covered there, along with practical guidance for working within the mechanics described here.
-- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept documents the organizational consequences of the human-in-the-loop gap that this concept identifies as the core mitigation.
-- [amodei powerful ai benefits and risks](#/concept/amodei-powerful-ai-benefits-and-risks) — That concept offers a more optimistic view of the near-term trajectory that assumes continued rapid capability gains rather than an imminent scaling plateau.
-- [ai investment bubble](#/concept/ai-investment-bubble) — That concept examines whether the capital spent on the infrastructure discussed here is justified by realistic capability and revenue trajectories.
+- [AI and Machine Learning Foundations](#/concept/ai-and-machine-learning-foundations) — That concept covers the broader AI, machine-learning and deep-learning vocabulary and history on which this concept's LLM-specific mechanics build.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — The same BCG field-experiment population cited here is the source of the Jagged Frontier and Centaur and Cyborg concepts covered there, along with practical guidance for working within the mechanics described here.
+- [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept documents the organizational consequences of the human-in-the-loop gap that this concept identifies as the core mitigation.
+- [Amodei on the Benefits and Risks of Powerful AI](#/concept/amodei-powerful-ai-benefits-and-risks) — That concept offers a more optimistic view of the near-term trajectory that assumes continued rapid capability gains rather than an imminent scaling plateau.
+- [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble) — That concept examines whether the capital spent on the infrastructure discussed here is justified by realistic capability and revenue trajectories.
 
 ## Open Questions
 
 - The explainers' examples date from the 2022-2023 model generation, and the sources do not say which limitations have since eased. <span class="src">How LLMs Work — Top 10 Executive-Level Questions</span> <span class="src">The Working Limitations of Large Language Models</span> <span class="src">What Is Generative AI</span>
 - The scaling-myths source predates the reasoning-focused model releases of 2024 and later, so it is unclear how well its skepticism about emergent abilities from scale alone holds up against inference-time compute scaling. <span class="src">AI scaling myths</span>
-- The definitions of parameters, tokens and context windows given here are consistent with, but not cross-checked against, the technical detail in [ai and machine learning foundations](#/concept/ai-and-machine-learning-foundations). <span class="src">How LLMs Work — Top 10 Executive-Level Questions</span> <span class="src">What Are LLMs and Generative AI</span>
+- The definitions of parameters, tokens and context windows given here are consistent with, but not cross-checked against, the technical detail in [AI and Machine Learning Foundations](#/concept/ai-and-machine-learning-foundations). <span class="src">How LLMs Work — Top 10 Executive-Level Questions</span> <span class="src">What Are LLMs and Generative AI</span>
 
 ## Sources
 

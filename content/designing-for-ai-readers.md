@@ -26,7 +26,7 @@ The broader arc the author draws from this experience is that the working relati
 
 ## Related
 
-- [working with generative ai](#/concept/working-with-generative-ai) — That concept covers the practical prompting and iterative-use techniques (Cyborg-style back-and-forth with an AI reader/editor) that this concept's book-writing process applies directly. The same author's earlier, more systematic account of the Centaur/Cyborg human-AI division of labor this essay's writing process is a personal illustration of.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — That concept covers the practical prompting and iterative-use techniques (Cyborg-style back-and-forth with an AI reader/editor) that this concept's book-writing process applies directly. The same author's earlier, more systematic account of the Centaur/Cyborg human-AI division of labor this essay's writing process is a personal illustration of.
 
 ## Open Questions
 

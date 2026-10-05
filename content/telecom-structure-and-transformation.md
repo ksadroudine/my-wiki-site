@@ -42,10 +42,10 @@ Across these sources the argument runs from strategy to execution. Structural ch
 
 ## Related
 
-- [telecom growth beyond core](#/concept/telecom-growth-beyond-core) — The growth-oriented strategies there are a counterpart to this concept's structural separation, and some operators pursue both at once.
-- [telecom ai transformation](#/concept/telecom-ai-transformation) — Several sources here treat AI-native transformation as a further strategic lever alongside separation and consolidation.
-- [corporate value creation](#/concept/corporate-value-creation) — McKinsey's best-owner principle there parallels the delayering logic that different owners create different value from the same assets.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — The general account there of AI pressuring organizational redesign is the broader frame for this concept's telecom agile and architecture findings.
+- [Telecom Growth Beyond Core Connectivity](#/concept/telecom-growth-beyond-core) — The growth-oriented strategies there are a counterpart to this concept's structural separation, and some operators pursue both at once.
+- [Telecom AI Transformation](#/concept/telecom-ai-transformation) — Several sources here treat AI-native transformation as a further strategic lever alongside separation and consolidation.
+- [Corporate Value Creation](#/concept/corporate-value-creation) — McKinsey's best-owner principle there parallels the delayering logic that different owners create different value from the same assets.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — The general account there of AI pressuring organizational redesign is the broader frame for this concept's telecom agile and architecture findings.
 
 ## Open Questions
 

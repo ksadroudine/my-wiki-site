@@ -34,9 +34,9 @@ Read together, all three sources converge on the same picture from complementary
 
 ## Related
 
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — That concept covers the downstream application of customer insight to personalization programs, a natural next step after the research techniques this concept describes generate the underlying insight.
-- [ai and machine learning foundations](#/concept/ai-and-machine-learning-foundations) — The underlying LLM synthesis, coding, and interaction capabilities this concept's research techniques are built on.
-- [genai creativity and human capability](#/concept/genai-creativity-and-human-capability) — Its "Actor" ideation role (LLM personas simulating customer responses) directly parallels this concept's digital-twin research, and one of its sources explicitly cites "How Gen AI Is Transforming Market Research" as a companion piece.
+- [Customer Personalization Strategy and Execution](#/concept/customer-personalization-strategy) — That concept covers the downstream application of customer insight to personalization programs, a natural next step after the research techniques this concept describes generate the underlying insight.
+- [AI and Machine Learning Foundations](#/concept/ai-and-machine-learning-foundations) — The underlying LLM synthesis, coding, and interaction capabilities this concept's research techniques are built on.
+- [Generative AI, Creativity and Human Capability](#/concept/genai-creativity-and-human-capability) — Its "Actor" ideation role (LLM personas simulating customer responses) directly parallels this concept's digital-twin research, and one of its sources explicitly cites "How Gen AI Is Transforming Market Research" as a companion piece.
 
 ## Open Questions
 

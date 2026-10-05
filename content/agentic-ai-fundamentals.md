@@ -25,11 +25,11 @@ Despite this architectural sophistication, the evidence from real deployments is
 
 ## Related
 
-- [telecom ai technology](#/concept/telecom-ai-technology) — That concept provides a telecom-specific application of the general agentic AI architecture and governance concerns covered here.
-- [retrieval augmented generation](#/concept/retrieval-augmented-generation) — RAG is one of the tools a custom agent can use to ground its actions in enterprise-specific data, as noted in the McKinsey agent taxonomy.
-- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — That concept covers the specific technical mechanism ("scaffolding" in this concept's vocabulary) for constraining and monitoring agent behavior in production.
-- [working with generative ai](#/concept/working-with-generative-ai) — The Centaur/Cyborg human-AI collaboration patterns are the individual-level counterpart to this concept's team-composition guidance for human-agent teams.
-- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept documents what happens when the accountability and "human in the loop" governance this concept calls for is absent in practice.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — That concept provides a telecom-specific application of the general agentic AI architecture and governance concerns covered here.
+- [Retrieval-Augmented Generation (RAG)](#/concept/retrieval-augmented-generation) — RAG is one of the tools a custom agent can use to ground its actions in enterprise-specific data, as noted in the McKinsey agent taxonomy.
+- [AI Risk Controls and Output Reliability](#/concept/ai-risk-controls-and-reliability) — That concept covers the specific technical mechanism ("scaffolding" in this concept's vocabulary) for constraining and monitoring agent behavior in production.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — The Centaur/Cyborg human-AI collaboration patterns are the individual-level counterpart to this concept's team-composition guidance for human-agent teams.
+- [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept documents what happens when the accountability and "human in the loop" governance this concept calls for is absent in practice.
 
 ## Open Questions
 

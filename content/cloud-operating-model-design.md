@@ -34,9 +34,9 @@ A companion Forrester report, <span class="src">Architect Enterprise — Applica
 
 ## Related
 
-- [cloud value realization and maturity](#/concept/cloud-value-realization-and-maturity) — Bain's "Strategic Value Creator" state, the rarest and most valuable stage in that concept's maturity model, is the outcome a well-executed version of this concept's six-layer operating model is specifically designed to produce. Forrester's Next-Generation Cloud Strategy Model (platforms/partners/practices) there is a complementary, more externally-facing companion to this concept's more internally-facing operating-model layers.
-- [cloud strategy and migration](#/concept/cloud-strategy-and-migration) — The staged planning process covered there (assess, imagine, explore, plan, implement) precedes and feeds directly into the structural and governance decisions this concept's Layers Four and Five formalize.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general pressure toward redesigning organizational structure around AI that this concept's Layer Six (leadership vision, culture, performance) applies specifically to cloud operations.
+- [Cloud Value Realization and Maturity](#/concept/cloud-value-realization-and-maturity) — Bain's "Strategic Value Creator" state, the rarest and most valuable stage in that concept's maturity model, is the outcome a well-executed version of this concept's six-layer operating model is specifically designed to produce. Forrester's Next-Generation Cloud Strategy Model (platforms/partners/practices) there is a complementary, more externally-facing companion to this concept's more internally-facing operating-model layers.
+- [Cloud Strategy and Migration](#/concept/cloud-strategy-and-migration) — The staged planning process covered there (assess, imagine, explore, plan, implement) precedes and feeds directly into the structural and governance decisions this concept's Layers Four and Five formalize.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general pressure toward redesigning organizational structure around AI that this concept's Layer Six (leadership vision, culture, performance) applies specifically to cloud operations.
 
 ## Open Questions
 

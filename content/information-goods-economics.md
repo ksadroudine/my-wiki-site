@@ -25,9 +25,9 @@ Because information systems are typically assembled from complementary component
 
 ## Related
 
-- [platform business models](#/concept/platform-business-models) — Network externalities are the same underlying economic force examined there through the lens of platform design and the four-way network-effect taxonomy; this concept supplies the classical economic vocabulary (network externalities, dominant-firm vs. differentiated-product markets) that platform-strategy literature builds on.
-- [api and digital value chain strategy](#/concept/api-and-digital-value-chain-strategy) — The complementary-component and standards-competition logic here (encouraging competition among partners' components while protecting one's own) directly parallels API providers' decisions about how open to make their own platform.
-- [corporate value creation](#/concept/corporate-value-creation) — That concept shares an interest in pricing and competitive-positioning strategy, though applied to information goods specifically rather than corporate portfolios generally.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — Network externalities are the same underlying economic force examined there through the lens of platform design and the four-way network-effect taxonomy; this concept supplies the classical economic vocabulary (network externalities, dominant-firm vs. differentiated-product markets) that platform-strategy literature builds on.
+- [API Strategy and Digital Value Chain Unbundling](#/concept/api-and-digital-value-chain-strategy) — The complementary-component and standards-competition logic here (encouraging competition among partners' components while protecting one's own) directly parallels API providers' decisions about how open to make their own platform.
+- [Corporate Value Creation](#/concept/corporate-value-creation) — That concept shares an interest in pricing and competitive-positioning strategy, though applied to information goods specifically rather than corporate portfolios generally.
 
 ## Open Questions
 

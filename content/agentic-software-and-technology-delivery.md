@@ -46,12 +46,12 @@ Bain's market-side analysis shows how sharply the sector has repriced. Tech-serv
 
 ## Related
 
-- [vibe coding and ai led development](#/concept/vibe-coding-and-ai-led-development) — Bain's earlier shift from AI-assisted to AI-led development is the starting point for the architecture argument here.
-- [managing technical debt in the ai era](#/concept/managing-technical-debt-in-the-ai-era) — The debt accumulation McKinsey and Bain flag here is the subject of that concept's frameworks.
-- [tech company operating model redesign](#/concept/tech-company-operating-model-redesign) — Bain's finding there that escalation-dependent models break at scale parallels the centralized-decision bottleneck described here.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — The task-level redesign methods there generalize the workflow redesign this concept documents in software.
-- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — The shift away from time-and-material and per-seat billing toward outcome-linked and consumption-based pricing described here for tech services providers mirrors the SaaS pricing transition documented there.
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — The "agentic FinOps" discipline covered there is a direct input into the gain-share and pod-based commercial models tech services providers are adopting here, since accurately costing agent work is a prerequisite for pricing it.
+- [Vibe Coding and AI-Led Development](#/concept/vibe-coding-and-ai-led-development) — Bain's earlier shift from AI-assisted to AI-led development is the starting point for the architecture argument here.
+- [Managing Technical Debt in the AI Era](#/concept/managing-technical-debt-in-the-ai-era) — The debt accumulation McKinsey and Bain flag here is the subject of that concept's frameworks.
+- [Tech Company Operating Model Redesign](#/concept/tech-company-operating-model-redesign) — Bain's finding there that escalation-dependent models break at scale parallels the centralized-decision bottleneck described here.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — The task-level redesign methods there generalize the workflow redesign this concept documents in software.
+- [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models) — The shift away from time-and-material and per-seat billing toward outcome-linked and consumption-based pricing described here for tech services providers mirrors the SaaS pricing transition documented there.
+- [Enterprise AI Token Cost Management](#/concept/enterprise-ai-token-cost-management) — The "agentic FinOps" discipline covered there is a direct input into the gain-share and pod-based commercial models tech services providers are adopting here, since accurately costing agent work is a prerequisite for pricing it.
 
 ## Open Questions
 

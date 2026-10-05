@@ -23,8 +23,8 @@ Read together, the two sources describe complementary halves of AI's advance int
 
 ## Related
 
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept sets out the general thesis that AI redistributes work and organizational roles, which the supply-chain and procurement workforce-shift findings here illustrate in one specific function.
-- [enterprise negotiation tactics](#/concept/enterprise-negotiation-tactics) — That concept covers human negotiation skill and organizational dealmaking structure; this concept's supplier-negotiation material addresses a distinct mechanism (AI automation maturity) rather than human negotiator skill.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept sets out the general thesis that AI redistributes work and organizational roles, which the supply-chain and procurement workforce-shift findings here illustrate in one specific function.
+- [Enterprise Negotiation Tactics](#/concept/enterprise-negotiation-tactics) — That concept covers human negotiation skill and organizational dealmaking structure; this concept's supplier-negotiation material addresses a distinct mechanism (AI automation maturity) rather than human negotiator skill.
 
 ## Open Questions
 

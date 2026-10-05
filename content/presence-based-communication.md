@@ -25,9 +25,9 @@ To actually "own the room" across this widened landscape, the article identifies
 
 ## Related
 
-- [pyramid principle](#/concept/pyramid-principle) — A complementary discipline for structuring written business communication specifically, addressing the same underlying persuasion challenge this concept covers for live and multi-format presentation.
-- [constructive disagreement language](#/concept/constructive-disagreement-language) — That concept shares this concept's core finding that observable behavior (specific language and delivery choices), not underlying intention or content quality alone, is what determines a communication's actual effect on an audience. Another account of how observable language shapes how others perceive intentions.
-- [working with generative ai](#/concept/working-with-generative-ai) — The broader framework for calibrating what AI should versus shouldn't be delegated, a judgment call this concept applies specifically to presentation preparation and delivery.
+- [The Pyramid Principle](#/concept/pyramid-principle) — A complementary discipline for structuring written business communication specifically, addressing the same underlying persuasion challenge this concept covers for live and multi-format presentation.
+- [Constructive Disagreement Language](#/concept/constructive-disagreement-language) — That concept shares this concept's core finding that observable behavior (specific language and delivery choices), not underlying intention or content quality alone, is what determines a communication's actual effect on an audience. Another account of how observable language shapes how others perceive intentions.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — The broader framework for calibrating what AI should versus shouldn't be delegated, a judgment call this concept applies specifically to presentation preparation and delivery.
 
 ## Open Questions
 

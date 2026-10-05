@@ -24,8 +24,8 @@ The book's later chapters extend this same regulatory logic to the Internet era,
 
 ## Related
 
-- [telecom ai technology](#/concept/telecom-ai-technology) — That concept covers contemporary telecom operator strategy; this concept supplies the regulatory-economic history and vocabulary (network effects, natural monopoly, monopoly leveraging) underlying why telecom has historically been so heavily regulated compared to adjacent tech industries.
-- [platform business models](#/concept/platform-business-models) — The "one monopoly profit" and platform-leveraging concepts here directly parallel, and predate, the platform-economics literature covered in that concept, applied specifically to regulated network industries. That concept shares the network-effects vocabulary applied here to the specific historical case of telephone-market tipping.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — That concept covers contemporary telecom operator strategy; this concept supplies the regulatory-economic history and vocabulary (network effects, natural monopoly, monopoly leveraging) underlying why telecom has historically been so heavily regulated compared to adjacent tech industries.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — The "one monopoly profit" and platform-leveraging concepts here directly parallel, and predate, the platform-economics literature covered in that concept, applied specifically to regulated network industries. That concept shares the network-effects vocabulary applied here to the specific historical case of telephone-market tipping.
 
 ## Open Questions
 

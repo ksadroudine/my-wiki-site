@@ -24,9 +24,9 @@ Because few current directors were trained to use AI and many came of age before
 
 ## Related
 
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — The general change-management discipline for AI adoption this concept applies specifically to the unique constraints (part-time engagement, fiduciary responsibility, information asymmetry) of corporate boards.
-- [ai strategy](#/concept/ai-strategy) — The executive-fluency-building process covered there operates one organizational level below this concept's board-specific fluency-building process, and the two share a similar staged, learning-by-doing structure.
-- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — A complementary account of AI risk-prediction failures (vendor overselling, evaluation inflation) relevant to the sample-bias and anchoring risks this concept identifies for board-level AI use specifically.
+- [Organizational Readiness for AI Collaboration](#/concept/organizational-readiness-for-ai-collaboration) — The general change-management discipline for AI adoption this concept applies specifically to the unique constraints (part-time engagement, fiduciary responsibility, information asymmetry) of corporate boards.
+- [AI Strategy](#/concept/ai-strategy) — The executive-fluency-building process covered there operates one organizational level below this concept's board-specific fluency-building process, and the two share a similar staged, learning-by-doing structure.
+- [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures) — A complementary account of AI risk-prediction failures (vendor overselling, evaluation inflation) relevant to the sample-bias and anchoring risks this concept identifies for board-level AI use specifically.
 
 ## Open Questions
 

@@ -33,9 +33,9 @@ The report's conclusion follows Mankiw's five options, narrowed by elimination. 
 
 ## Related
 
-- [us affordability debate](#/concept/us-affordability-debate) — The US cost-of-living politics covered there is the household-level counterpart to this concept's sovereign-debt and inflation-risk argument.
-- [ai investment bubble](#/concept/ai-investment-bubble) — The argument here that AI-driven investment demand raises interest rates links directly to the AI infrastructure spending and financing risks examined there.
-- [ai economic impact gap](#/concept/ai-economic-impact-gap) — The AI productivity-growth estimates examined there are the same assumptions this concept's growth-will-not-save-budgets argument tests.
+- [US Affordability Debate](#/concept/us-affordability-debate) — The US cost-of-living politics covered there is the household-level counterpart to this concept's sovereign-debt and inflation-risk argument.
+- [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble) — The argument here that AI-driven investment demand raises interest rates links directly to the AI infrastructure spending and financing risks examined there.
+- [The AI Economic Impact Gap](#/concept/ai-economic-impact-gap) — The AI productivity-growth estimates examined there are the same assumptions this concept's growth-will-not-save-budgets argument tests.
 
 ## Open Questions
 

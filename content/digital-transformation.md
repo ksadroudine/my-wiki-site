@@ -35,10 +35,10 @@ Levi's illustrates a case where cultural change was the harder problem, not tech
 
 ## Related
 
-- [organizational innovation capability](#/concept/organizational-innovation-capability) — That concept provides a parallel account of building durable organizational capability (for innovation specifically rather than digital transformation broadly), sharing this concept's core lesson that permanent capability beats episodic initiative.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — A complementary account of how AI specifically reshapes organizational hierarchy and roles, a mechanism this concept's leaders must navigate as part of workforce transformation.
-- [ai strategy](#/concept/ai-strategy) — That concept covers the staged process for building an AI strategy specifically, which this concept's broader digital-dexterity framework operates alongside as organizations pursue AI as one part of a wider digital transformation.
-- [ai powered robots in the workplace](#/concept/ai-powered-robots-in-the-workplace) — Pfizer's manufacturing-execution-system foundation is the data/software counterpart to that concept's physical humanoid- and industrial-robot manufacturing material; both trace how unglamorous infrastructure work precedes any AI-driven payoff.
+- [Organizational Innovation Capability](#/concept/organizational-innovation-capability) — That concept provides a parallel account of building durable organizational capability (for innovation specifically rather than digital transformation broadly), sharing this concept's core lesson that permanent capability beats episodic initiative.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — A complementary account of how AI specifically reshapes organizational hierarchy and roles, a mechanism this concept's leaders must navigate as part of workforce transformation.
+- [AI Strategy](#/concept/ai-strategy) — That concept covers the staged process for building an AI strategy specifically, which this concept's broader digital-dexterity framework operates alongside as organizations pursue AI as one part of a wider digital transformation.
+- [AI-Powered Robots in the Workplace](#/concept/ai-powered-robots-in-the-workplace) — Pfizer's manufacturing-execution-system foundation is the data/software counterpart to that concept's physical humanoid- and industrial-robot manufacturing material; both trace how unglamorous infrastructure work precedes any AI-driven payoff.
 
 ## Open Questions
 

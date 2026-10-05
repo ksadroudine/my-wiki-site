@@ -39,8 +39,8 @@ The technical safe harbor is harder to implement than it sounds, because it requ
 
 ## Related
 
-- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept is a parallel critique from the same source and author, focused on real-world deployment failures of AI risk-assessment systems rather than model-level safety framing.
-- [telecom ai technology](#/concept/telecom-ai-technology) — That concept gives a domain-specific example of the human-in-the-loop, audit-oriented risk management that the technical safe harbor concept parallels.
+- [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept is a parallel critique from the same source and author, focused on real-world deployment failures of AI risk-assessment systems rather than model-level safety framing.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — That concept gives a domain-specific example of the human-in-the-loop, audit-oriented risk management that the technical safe harbor concept parallels.
 
 ## Open Questions
 

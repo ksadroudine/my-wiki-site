@@ -62,11 +62,11 @@ The article presents responsible AI and effective AI as products of one cultural
 
 ## Related
 
-- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept covers the Ethical Matrix and Explainable Fairness frameworks referenced in this concept's discussion of algorithmic auditing, and the shared lineage of Cathy O'Neil's work.
-- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — The digital-insider risk drivers and the converged data-risk taxonomy there are close relatives of this concept's propagation-risk layer for agentic systems.
-- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — The maturity stages and scaling imperatives there are what this concept's governance framework must be embedded in as an organization moves from pilot to enterprise-wide use.
-- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — The collective, domain and reflective judgment framework there is a lighter-weight, team-level analog of the conclusive-judgment practice described here.
-- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — The broader survey findings on value creation from the same report are covered there.
+- [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept covers the Ethical Matrix and Explainable Fairness frameworks referenced in this concept's discussion of algorithmic auditing, and the shared lineage of Cathy O'Neil's work.
+- [Agentic AI Security Frameworks](#/concept/agentic-ai-security-frameworks) — The digital-insider risk drivers and the converged data-risk taxonomy there are close relatives of this concept's propagation-risk layer for agentic systems.
+- [AI Maturity, Scaling and Project Selection](#/concept/ai-scaling-and-maturity) — The maturity stages and scaling imperatives there are what this concept's governance framework must be embedded in as an organization moves from pilot to enterprise-wide use.
+- [AI Risk Controls and Output Reliability](#/concept/ai-risk-controls-and-reliability) — The collective, domain and reflective judgment framework there is a lighter-weight, team-level analog of the conclusive-judgment practice described here.
+- [Gen AI Value-Creation Frameworks](#/concept/gen-ai-value-creation-frameworks) — The broader survey findings on value creation from the same report are covered there.
 
 ## Open Questions
 

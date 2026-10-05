@@ -35,10 +35,10 @@ While HBR's research addresses the operational role needed to turn data into dep
 
 ## Related
 
-- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — The AI spine's independent, revenue/savings-tied funding model addresses the same "prove business value or lose the mandate" pressure that this concept's CDO and CAIO research documents playing out at the executive level.
-- [enterprise data strategy and governance](#/concept/enterprise-data-strategy-and-governance) — The data product manager and CDO roles described here are the organizational mechanisms responsible for executing the quality, monetization, and cross-functional data-strategy work covered in depth there.
-- [philosophical frameworks for ai](#/concept/philosophical-frameworks-for-ai) — That concept is cited directly by this concept's CITO source as part of the case for cultural and ethical AI leadership, not just technical oversight.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the broader thesis of AI pressuring organizations to restructure work and process, of which the C-suite leadership consolidation covered here is the executive-level instance.
+- [Gen AI Value-Creation Frameworks](#/concept/gen-ai-value-creation-frameworks) — The AI spine's independent, revenue/savings-tied funding model addresses the same "prove business value or lose the mandate" pressure that this concept's CDO and CAIO research documents playing out at the executive level.
+- [Enterprise Data Strategy and Governance](#/concept/enterprise-data-strategy-and-governance) — The data product manager and CDO roles described here are the organizational mechanisms responsible for executing the quality, monetization, and cross-functional data-strategy work covered in depth there.
+- [Philosophical Frameworks for AI](#/concept/philosophical-frameworks-for-ai) — That concept is cited directly by this concept's CITO source as part of the case for cultural and ethical AI leadership, not just technical oversight.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the broader thesis of AI pressuring organizations to restructure work and process, of which the C-suite leadership consolidation covered here is the executive-level instance.
 
 ## Open Questions
 

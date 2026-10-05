@@ -21,8 +21,8 @@ Choosing a framework, however, solves only part of the problem, since establishi
 
 ## Related
 
-- [enterprise negotiation tactics](#/concept/enterprise-negotiation-tactics) — That concept's advice to decide upfront which deals and issues are worth negotiating hard is the same prioritization discipline applied specifically to enterprise dealmaking.
-- [pyramid principle](#/concept/pyramid-principle) — Minto's MECE grouping discipline is a complementary structuring tool for the kind of clear, unambiguous priority communication this concept finds most organizations fail at.
+- [Enterprise Negotiation Tactics](#/concept/enterprise-negotiation-tactics) — That concept's advice to decide upfront which deals and issues are worth negotiating hard is the same prioritization discipline applied specifically to enterprise dealmaking.
+- [The Pyramid Principle](#/concept/pyramid-principle) — Minto's MECE grouping discipline is a complementary structuring tool for the kind of clear, unambiguous priority communication this concept finds most organizations fail at.
 
 ## Open Questions
 

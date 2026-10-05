@@ -44,12 +44,12 @@ Whichever paths operators choose, capturing the AI-infrastructure opportunity re
 
 ## Related
 
-- [telecom structure and transformation](#/concept/telecom-structure-and-transformation) — The structural-separation strategies there are a counterpart to this concept's growth strategies, and some operators pursue both at once.
-- [api and digital value chain strategy](#/concept/api-and-digital-value-chain-strategy) — The general API strategy framework there is the basis for the standards-dependent network-API opportunity described here.
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — BCG's Five Promises framework there is the customer-engagement discipline behind much of the consumer ecosystem expansion described here.
-- [telecom ai transformation](#/concept/telecom-ai-transformation) — That concept covers operators' internal AI deployment for productivity and growth, including the sovereign AI infrastructure play that parallels the AI-infrastructure paths here.
-- [telecom ai technology](#/concept/telecom-ai-technology) — The network-architecture prerequisites for AI-native operations there complement this concept's treatment of infrastructure as a business line.
-- [cloud strategy and migration](#/concept/cloud-strategy-and-migration) — The capital and operating cost analysis framework there applies to evaluating the GPU-as-a-service and data-center paths described here.
+- [Telecom Structure and Organizational Transformation](#/concept/telecom-structure-and-transformation) — The structural-separation strategies there are a counterpart to this concept's growth strategies, and some operators pursue both at once.
+- [API Strategy and Digital Value Chain Unbundling](#/concept/api-and-digital-value-chain-strategy) — The general API strategy framework there is the basis for the standards-dependent network-API opportunity described here.
+- [Customer Personalization Strategy and Execution](#/concept/customer-personalization-strategy) — BCG's Five Promises framework there is the customer-engagement discipline behind much of the consumer ecosystem expansion described here.
+- [Telecom AI Transformation](#/concept/telecom-ai-transformation) — That concept covers operators' internal AI deployment for productivity and growth, including the sovereign AI infrastructure play that parallels the AI-infrastructure paths here.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — The network-architecture prerequisites for AI-native operations there complement this concept's treatment of infrastructure as a business line.
+- [Cloud Strategy and Migration](#/concept/cloud-strategy-and-migration) — The capital and operating cost analysis framework there applies to evaluating the GPU-as-a-service and data-center paths described here.
 
 ## Open Questions
 

@@ -55,12 +55,12 @@ The knowledge-work use of agentic coding tools is the same shift from conversati
 
 ## Related
 
-- [prediction machines](#/concept/prediction-machines) — The task-delegation spectrum here is an individual-level counterpart to that concept's formal decomposition of decisions into prediction, judgment and action.
-- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — The structural hallucination diagnosis here, that models cannot genuinely explain their own reasoning, supports the need to verify human-in-the-loop claims independently.
-- [ai strategy](#/concept/ai-strategy) — The four rules for individual AI adoption here are a worker-level counterpart to the Executive AI Fluency framework for organizational adoption there.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept gives a broader account of how AI reshapes workplace processes, which complements this concept's account of how it reshapes task execution.
-- [designing for ai readers](#/concept/designing-for-ai-readers) — That concept is a later reflection by one of this study's authors on how the human and AI working relationship has evolved beyond the cooperative-chatbot era captured here.
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — The orchestration layer that the directing-intelligence approach assumes is covered technically there.
+- [Prediction Machines](#/concept/prediction-machines) — The task-delegation spectrum here is an individual-level counterpart to that concept's formal decomposition of decisions into prediction, judgment and action.
+- [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures) — The structural hallucination diagnosis here, that models cannot genuinely explain their own reasoning, supports the need to verify human-in-the-loop claims independently.
+- [AI Strategy](#/concept/ai-strategy) — The four rules for individual AI adoption here are a worker-level counterpart to the Executive AI Fluency framework for organizational adoption there.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept gives a broader account of how AI reshapes workplace processes, which complements this concept's account of how it reshapes task execution.
+- [Designing for AI Readers](#/concept/designing-for-ai-readers) — That concept is a later reflection by one of this study's authors on how the human and AI working relationship has evolved beyond the cooperative-chatbot era captured here.
+- [Agentic AI Platform Architecture](#/concept/agentic-ai-platform-architecture) — The orchestration layer that the directing-intelligence approach assumes is covered technically there.
 
 ## Open Questions
 

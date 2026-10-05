@@ -32,10 +32,10 @@ Read together, the two articles describe AI transforming sales at two different 
 
 ## Related
 
-- [matching ai type to decision type](#/concept/matching-ai-type-to-decision-type) — A complementary general framework for calibrating analytical (predictive) AI versus generative AI to a decision; this concept's predictive-vs-generative sales split is a specific, function-level instance of that same underlying logic.
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — That concept covers the broader organizational and cultural barriers to AI adoption this concept's sales-specific findings (relationship-driven vs. data-driven culture resistance) directly instantiate.
-- [agentic marketing transformation](#/concept/agentic-marketing-transformation) — BCG's CMO-side transformation research covers the marketing half of the same commercial engine this concept's sales material addresses.
-- [telecom growth beyond core](#/concept/telecom-growth-beyond-core) — McKinsey's B2B buyer data there shares the Pulse survey lineage with the B2B growth-champion findings here.
+- [Matching AI Type to Decision Type](#/concept/matching-ai-type-to-decision-type) — A complementary general framework for calibrating analytical (predictive) AI versus generative AI to a decision; this concept's predictive-vs-generative sales split is a specific, function-level instance of that same underlying logic.
+- [Organizational Readiness for AI Collaboration](#/concept/organizational-readiness-for-ai-collaboration) — That concept covers the broader organizational and cultural barriers to AI adoption this concept's sales-specific findings (relationship-driven vs. data-driven culture resistance) directly instantiate.
+- [Agentic Marketing Transformation](#/concept/agentic-marketing-transformation) — BCG's CMO-side transformation research covers the marketing half of the same commercial engine this concept's sales material addresses.
+- [Telecom Growth Beyond Core Connectivity](#/concept/telecom-growth-beyond-core) — McKinsey's B2B buyer data there shares the Pulse survey lineage with the B2B growth-champion findings here.
 
 ## Open Questions
 

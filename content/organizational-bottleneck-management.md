@@ -27,9 +27,9 @@ The article translates these findings into a five-step practical process for man
 
 ## Related
 
-- [tech company operating model redesign](#/concept/tech-company-operating-model-redesign) — Bain's habit-cultivator/authority-weaver/flow-instrumentalist operating models describe complementary organizational-design responses to the same underlying escalation-and-coordination problem this concept analyzes through the task/resource bottleneck lens.
-- [organizational prioritization frameworks](#/concept/organizational-prioritization-frameworks) — The discipline of deliberately choosing what NOT to pursue is a complementary response to the same resource-scarcity dynamics this concept's fungibility/slack framework addresses at the task-execution level.
-- [cloud operating model design](#/concept/cloud-operating-model-design) — Forrester's Layer Three (capabilities: activities, metrics, skills, competencies, technologies) operationalizes a similar resource-alignment discipline specifically for cloud operating models.
+- [Tech Company Operating Model Redesign](#/concept/tech-company-operating-model-redesign) — Bain's habit-cultivator/authority-weaver/flow-instrumentalist operating models describe complementary organizational-design responses to the same underlying escalation-and-coordination problem this concept analyzes through the task/resource bottleneck lens.
+- [Organizational Prioritization Frameworks](#/concept/organizational-prioritization-frameworks) — The discipline of deliberately choosing what NOT to pursue is a complementary response to the same resource-scarcity dynamics this concept's fungibility/slack framework addresses at the task-execution level.
+- [Cloud Operating Model Design](#/concept/cloud-operating-model-design) — Forrester's Layer Three (capabilities: activities, metrics, skills, competencies, technologies) operationalizes a similar resource-alignment discipline specifically for cloud operating models.
 
 ## Open Questions
 

@@ -23,8 +23,8 @@ Since its initial application to global sales capacity planning, the framework h
 
 ## Related
 
-- [kpi design in the ai era](#/concept/kpi-design-in-the-ai-era) — That concept provides a complementary concern with designing metrics and KPIs that hold up under real organizational use, paralleling this concept's data-layer emphasis on shared, unambiguous metric definitions.
-- [how people actually use genai](#/concept/how-people-actually-use-genai) — That concept shares this concept's underlying theme that a tool's technical quality is not sufficient for adoption; usability and trust in how output is framed and understood matter as much as raw capability.
+- [KPI Design in the AI Era](#/concept/kpi-design-in-the-ai-era) — That concept provides a complementary concern with designing metrics and KPIs that hold up under real organizational use, paralleling this concept's data-layer emphasis on shared, unambiguous metric definitions.
+- [How People Actually Use Gen AI](#/concept/how-people-actually-use-genai) — That concept shares this concept's underlying theme that a tool's technical quality is not sufficient for adoption; usability and trust in how output is framed and understood matter as much as raw capability.
 
 ## Open Questions
 

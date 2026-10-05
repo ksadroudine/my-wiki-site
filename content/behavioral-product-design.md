@@ -19,9 +19,9 @@ Read together, these two disciplines describe complementary failure modes a prod
 
 ## Related
 
-- [cloud and saas business economics](#/concept/cloud-and-saas-business-economics) — That concept is the source of Norman's feature-overshoot diagnosis as cited here, and it covers the broader Consumption Development discipline that this design philosophy feeds into.
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — BCG's personalization framework shares the Hook Model's emphasis on triggers and rewards tailored to individual behavior, applied at the marketing-strategy level rather than the individual-product level.
-- [platform growth culture instagram](#/concept/platform-growth-culture-instagram) — That concept documents a large-scale, real-world case of variable-reward and investment mechanics, such as likes, follower counts and curated content, shaping user behavior across an entire platform.
+- [Cloud and SaaS Business Economics](#/concept/cloud-and-saas-business-economics) — That concept is the source of Norman's feature-overshoot diagnosis as cited here, and it covers the broader Consumption Development discipline that this design philosophy feeds into.
+- [Customer Personalization Strategy and Execution](#/concept/customer-personalization-strategy) — BCG's personalization framework shares the Hook Model's emphasis on triggers and rewards tailored to individual behavior, applied at the marketing-strategy level rather than the individual-product level.
+- [Platform Growth Culture (Instagram)](#/concept/platform-growth-culture-instagram) — That concept documents a large-scale, real-world case of variable-reward and investment mechanics, such as likes, follower counts and curated content, shaping user behavior across an entire platform.
 
 ## Open Questions
 

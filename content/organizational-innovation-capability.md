@@ -51,8 +51,8 @@ Read together, the five sources describe complementary layers of the same underl
 
 ## Related
 
-- [digital transformation](#/concept/digital-transformation) — That concept shares the theme of building organizational capability for sustained change rather than one-off initiatives.
-- [platform business models](#/concept/platform-business-models) — That concept provides a specific business-model category that the seven-essentials framework's design logic applies to.
+- [Digital Transformation Leadership](#/concept/digital-transformation) — That concept shares the theme of building organizational capability for sustained change rather than one-off initiatives.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — That concept provides a specific business-model category that the seven-essentials framework's design logic applies to.
 
 ## Open Questions
 

@@ -61,12 +61,12 @@ Across the three scales the sources share a warning against deploying AI as an i
 
 ## Related
 
-- [ai strategy](#/concept/ai-strategy) — The staged strategy-formation process there is what this concept's organizational redesign would typically follow or run alongside.
-- [working with generative ai](#/concept/working-with-generative-ai) — The informal, prompt-driven AI use described here is the practice covered in more technical detail there.
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — That concept applies the same start-with-agile-pods-not-a-reorg principle specifically to personalization programs.
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — That concept covers the technical role-clarity and coordination mechanics for multi-agent systems, which complement this concept's account of multi-agent workflow automation as the next stage of redesign.
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — The paradox of access here is a task-level instance of that concept's thesis that AI cannot be a sustainable advantage once universally accessible.
-- [ai customer service agents](#/concept/ai-customer-service-agents) — That concept covers the AI-native customer support transition cited here as a domain that has already completed this kind of transformation.
+- [AI Strategy](#/concept/ai-strategy) — The staged strategy-formation process there is what this concept's organizational redesign would typically follow or run alongside.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — The informal, prompt-driven AI use described here is the practice covered in more technical detail there.
+- [Customer Personalization Strategy and Execution](#/concept/customer-personalization-strategy) — That concept applies the same start-with-agile-pods-not-a-reorg principle specifically to personalization programs.
+- [Agentic AI Platform Architecture](#/concept/agentic-ai-platform-architecture) — That concept covers the technical role-clarity and coordination mechanics for multi-agent systems, which complement this concept's account of multi-agent workflow automation as the next stage of redesign.
+- [AI and Sustainable Competitive Advantage](#/concept/ai-sustainable-competitive-advantage) — The paradox of access here is a task-level instance of that concept's thesis that AI cannot be a sustainable advantage once universally accessible.
+- [AI Customer Service Agents](#/concept/ai-customer-service-agents) — That concept covers the AI-native customer support transition cited here as a domain that has already completed this kind of transformation.
 
 ## Open Questions
 

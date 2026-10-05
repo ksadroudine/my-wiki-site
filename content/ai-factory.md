@@ -38,11 +38,11 @@ This architectural challenge is deeper than a simple integration backlog: Conway
 
 ## Related
 
-- [platform business models](#/concept/platform-business-models) — The companion half of this book's argument, covering how network structure and learning effects (rather than the AI factory's internal mechanics) shape competitive advantage once a digital operating model exists.
-- [ai strategy](#/concept/ai-strategy) — That concept provides a more general, industry-agnostic staged process for AI strategy formation that this book's AI-factory maturity stages parallel.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept gives a complementary and more incremental account of how AI reshapes organizational process and structure.
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — That concept applies the data-pipeline, algorithm and experimentation architecture described here specifically to customer personalization.
-- [cloud operations data and security](#/concept/cloud-operations-data-and-security) — That concept covers the cloud storage, integration, and big-data infrastructure that an AI factory's data pipeline is typically built on top of.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — The companion half of this book's argument, covering how network structure and learning effects (rather than the AI factory's internal mechanics) shape competitive advantage once a digital operating model exists.
+- [AI Strategy](#/concept/ai-strategy) — That concept provides a more general, industry-agnostic staged process for AI strategy formation that this book's AI-factory maturity stages parallel.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — That concept gives a complementary and more incremental account of how AI reshapes organizational process and structure.
+- [Customer Personalization Strategy and Execution](#/concept/customer-personalization-strategy) — That concept applies the data-pipeline, algorithm and experimentation architecture described here specifically to customer personalization.
+- [Cloud Operations, Data and Security](#/concept/cloud-operations-data-and-security) — That concept covers the cloud storage, integration, and big-data infrastructure that an AI factory's data pipeline is typically built on top of.
 
 ## Open Questions
 

@@ -56,15 +56,15 @@ The two expertise sources describe complementary paths to the same shift, expert
 
 ## Related
 
-- [ai strategy](#/concept/ai-strategy) — That concept covers the operational roadmap for building enterprise AI capability, which is distinct from the strategic question here of whether the capability confers durable advantage.
-- [platform business models](#/concept/platform-business-models) — Network effects are one of the classic moats whose durability against AI-driven disruption is examined here.
-- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — Its paradox-of-access argument, that universal AI access erodes advantage when applied identically, restates this concept's core thesis at the task level.
-- [ai in strategy and decision making](#/concept/ai-in-strategy-and-decision-making) — The HBR and BCG strategy-process sources there make the same proprietary-data-and-process argument from the strategist's side.
-- [ai investment bubble](#/concept/ai-investment-bubble) — BCG's USD 750 billion 2026 capex figure and the compute-as-claimant argument tie to the infrastructure financing analysis there.
-- [working with generative ai](#/concept/working-with-generative-ai) — The BCG and Harvard field experiment cited here, with larger gains for lower performers, is covered there in full, including the Centaur and Cyborg framework.
-- [ai factory](#/concept/ai-factory) — The AI factory operating model there is a complementary account of how firms restructure operations around AI capability, from an operations-architecture angle.
-- [prediction machines](#/concept/prediction-machines) — The economic logic here, in which AI collapses the cost of one input and raises the value of its complements, parallels the framing of AI as cheap prediction there.
-- [api and digital value chain strategy](#/concept/api-and-digital-value-chain-strategy) — API-driven hyperspecialization and orchestration there is the concrete, non-AI-specific mechanism through which the Coasian firm-boundary logic here already plays out.
+- [AI Strategy](#/concept/ai-strategy) — That concept covers the operational roadmap for building enterprise AI capability, which is distinct from the strategic question here of whether the capability confers durable advantage.
+- [Platform Business Models and Network Effects](#/concept/platform-business-models) — Network effects are one of the classic moats whose durability against AI-driven disruption is examined here.
+- [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign) — Its paradox-of-access argument, that universal AI access erodes advantage when applied identically, restates this concept's core thesis at the task level.
+- [AI in Strategy and Decision-Making](#/concept/ai-in-strategy-and-decision-making) — The HBR and BCG strategy-process sources there make the same proprietary-data-and-process argument from the strategist's side.
+- [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble) — BCG's USD 750 billion 2026 capex figure and the compute-as-claimant argument tie to the infrastructure financing analysis there.
+- [Working Effectively with Generative AI](#/concept/working-with-generative-ai) — The BCG and Harvard field experiment cited here, with larger gains for lower performers, is covered there in full, including the Centaur and Cyborg framework.
+- [AI Factory](#/concept/ai-factory) — The AI factory operating model there is a complementary account of how firms restructure operations around AI capability, from an operations-architecture angle.
+- [Prediction Machines](#/concept/prediction-machines) — The economic logic here, in which AI collapses the cost of one input and raises the value of its complements, parallels the framing of AI as cheap prediction there.
+- [API Strategy and Digital Value Chain Unbundling](#/concept/api-and-digital-value-chain-strategy) — API-driven hyperspecialization and orchestration there is the concrete, non-AI-specific mechanism through which the Coasian firm-boundary logic here already plays out.
 
 ## Open Questions
 

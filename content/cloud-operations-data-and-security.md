@@ -53,9 +53,9 @@ Governance makes a security strategy enforceable and accountable. It combines po
 
 ## Related
 
-- [cloud computing foundations](#/concept/cloud-computing-foundations) — The deployment models (hybrid, multicloud) this concept covers the operational management of.
-- [ai factory](#/concept/ai-factory) — A complementary account of the data pipeline as the foundational layer of an AI-driven operating model, consistent with this concept's treatment of data as the prerequisite for cloud analytics.
-- [telecom ai technology](#/concept/telecom-ai-technology) — That concept offers a domain-specific parallel, with human-in-the-loop oversight, audit logging and layered monitoring serving as risk controls for a different kind of high-autonomy system.
+- [Cloud Computing Foundations](#/concept/cloud-computing-foundations) — The deployment models (hybrid, multicloud) this concept covers the operational management of.
+- [AI Factory](#/concept/ai-factory) — A complementary account of the data pipeline as the foundational layer of an AI-driven operating model, consistent with this concept's treatment of data as the prerequisite for cloud analytics.
+- [Telecom AI Technology and Infrastructure](#/concept/telecom-ai-technology) — That concept offers a domain-specific parallel, with human-in-the-loop oversight, audit logging and layered monitoring serving as risk controls for a different kind of high-autonomy system.
 
 ## Open Questions
 
