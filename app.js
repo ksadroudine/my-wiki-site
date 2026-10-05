@@ -72,7 +72,7 @@
 
   // ---------- Article ----------
   function showHome() {
-    $("article").innerHTML = "<h1>My Wiki</h1><p class=\"muted\">Choose a concept on the left, browse by tag, or search.</p>";
+    $("article").innerHTML = "<p class=\"muted\" style=\"margin-top:28px\">Choose a concept on the left, browse by tag, or search.</p>";
     markActive(null);
   }
 
