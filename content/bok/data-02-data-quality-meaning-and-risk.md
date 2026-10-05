@@ -16,7 +16,7 @@ Data is only useful when it is accurate, understood in the same way by everyone 
 
 Research from MIT Sloan Management Review finds that most organizations fall into one of two modes. In the first, called unmanaged, data moves like a daisy chain. Each department uses data for its own job and creates new data for the next group. People see themselves through functional roles, such as salesperson or market researcher, and not as participants in a shared system. Errors are corrected individually, with difficulty, or missed and then compounded downstream.
 
-The second mode is organized cleanup. A central team with tools finds and fixes errors faster and more cheaply. The gains are modest, because fixing errors correctly needs business context that a central team lacks, and so the organization is trapped in endless repair.
+The second mode is organized cleanup. A central team with tools finds and fixes errors faster and more cheaply. The gains are modest, because fixing errors correctly needs business context that a central team lacks, and so the organization stays stuck in endless reactive repair.
 
 The breakthrough is proactive prevention. It is a change of mindset in which people see themselves as both data creators and data customers. Customers clarify their requirements, and both sides measure the data against them. Creators run improvement projects and add controls that stop errors at the source. At scale this needs a core team that coordinates the program, trains creators and customers, maintains shared dashboards and informs senior management. It also needs connector roles that go by titles such as embedded data manager, data product manager, data ambassador or quality champion.
 
@@ -30,7 +30,7 @@ The lesson is that better tools or a dedicated team were not enough. The change 
 
 ### The right data for AI models
 
-The same prevention logic applies to the data behind AI models. Hoerl and Redman observe that data-science training concentrates on the mechanics of machine learning, and not on its limitations. Data scientists, like model builders, tend to fall in love with their models, while the data gets little attention. Senior managers decide whether and how widely to deploy a model, so closing this gap is a management responsibility, even though most managers lack technical backgrounds.
+The same prevention logic applies to the data behind AI models. The authors Hoerl and Redman observe that data-science training concentrates on the mechanics of machine learning, and not on its limitations. Data scientists, like model builders, tend to fall in love with their models, while the data gets little attention. Senior managers decide whether and how widely to deploy a model, so closing this gap is a management responsibility, even though most managers lack technical backgrounds.
 
 Their Right Data framework has five elements. The first is the problem and the population of interest, which are defined clearly before any data work begins. The second is the right data, which is a concept and not a dataset. It is judged against six criteria.
 
@@ -45,11 +45,11 @@ The other three elements are the training data actually used, the resulting mode
 
 Managers can walk developers through six questions across three phases. At problem definition, they ask how and where the model will be used and how the developers will obtain data that meets the criteria. During development, they ask what gaps exist between the training data and the criteria and how future data will be checked. Around deployment, they ask what controls will detect drift in the data or the model, and what the three most likely failure modes are, with plans to reduce them.
 
-The authors criticize the common practice of validating a model on a holdout set cut from the same training data, as on the Kaggle platform. A holdout set resembles the training data in every way that matters, so it is no substitute for testing on real future data. Amazon's facial recognition system, trained on data from one area but deployed far more widely, is the standard example of the poor calibration that results. See [Enterprise Data Strategy and Governance](#/concept/enterprise-data-strategy-and-governance).
+The authors criticize the common practice of validating a model on a holdout set cut from the same training data, as on the Kaggle platform. A holdout set resembles the training data in every way that matters, so it is no substitute for testing on real future data. Amazon's facial recognition system, trained on data from one area but deployed far more widely, is the standard example of the poor calibration that results.
 
 ### Giving data a shared meaning
 
-AI agents fail to scale less because the models lack intelligence than because enterprise data lacks shared meaning. The same term, such as customer or revenue, can have valid but different definitions in different systems. BCG Platinion calls this semantic debt. MIT CISR found that only 21 percent of 349 surveyed executives rated their data curation practices as well developed, and those with more developed practices were three times more likely to report effective AI initiatives that create value.
+AI agents often fail to scale. The cause is less a lack of model intelligence than a lack of shared meaning in enterprise data. The same term, such as customer or revenue, can have valid but different definitions in different systems. BCG Platinion calls this semantic debt. MIT CISR found that only 21 percent of 349 surveyed executives rated their data curation practices as well developed, and those with more developed practices were three times more likely to report effective AI initiatives that create value.
 
 The remedy is a semantic layer that machines can read. It has three levels. The first is standard definitions, with each entity defined once and reused everywhere. The second is ontologies, which model how entities relate, such as customers to products. The third is knowledge graphs, which store those relationships so that agents can reason across them. Retrieval-augmented generation alone does not solve the problem, because documents do not carry business logic, and two agents that retrieve different pieces can reach contradictory answers.
 
@@ -65,7 +65,7 @@ PwC likens the usual view of an organization's data to looking at the night sky 
 - The chief information security officer focuses on classification, encryption and loss prevention.
 - The chief compliance officer focuses on privacy and on coordinating compliance across departments.
 
-None of these views gives enterprise-wide visibility. The result is data at a dead end, which can quietly undermine migrations of old systems, slow the adoption of AI and erode the trust of regulators and consumers. In a 2025 PwC survey, 48 percent of executives said they would put data protection and trust ahead of technology modernization in the coming year, yet many still treat data risk as an IT problem.
+None of these views gives enterprise-wide visibility. Data therefore ends up at a dead end between functions, which can quietly undermine migrations of old systems, slow the adoption of AI and erode the trust of regulators and consumers. In a 2025 PwC survey, 48 percent of executives said they would put data protection and trust ahead of technology modernization in the coming year, yet many still treat data risk as an IT problem.
 
 PwC proposes five steps to turn this into an enterprise discipline.
 
@@ -73,7 +73,7 @@ PwC proposes five steps to turn this into an enterprise discipline.
 2. **Seek overall visibility.** This means a record of the data across its entire life cycle, because each function keeps its own tools and logs and reads them differently.
 3. **Work together.** Privacy, data, security, risk and technology teams identify, document and measure risk jointly, with training and external validation.
 4. **Ask role-specific questions.** For example, the chief financial officer asks whether data used in financial decisions is reliable and how its quality is measured. The security chief asks whether the location and sensitivity of data are known across on-premises and cloud environments.
-5. **Treat risk as part of innovation.** Discovery, cataloging and tracing the origin of data are prerequisites for meeting deletion obligations and for handling unstructured data. This requires accountability across departments, extended to third parties.
+5. **Treat risk as part of innovation.** Discovery, cataloging and tracing the origin of data are prerequisites for meeting deletion obligations and for handling unstructured data. This requires accountability across departments, extended to third parties. See [Enterprise Data Strategy and Governance](#/concept/enterprise-data-strategy-and-governance).
 
 ## Go Deeper
 

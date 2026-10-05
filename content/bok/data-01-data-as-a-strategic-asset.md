@@ -15,7 +15,7 @@ Enterprise data strategy treats data as an asset that must be managed with the s
 
 ### Treating data like an asset
 
-Data usually accumulates as a by-product of business processes. The book Modern Data Strategy argues that it deserves the discipline applied to any other significant asset, such as a fleet of trucks or a real-estate portfolio. A company would weigh a new physical asset against a specific business need, and investment in data should be justified the same way.
+Data usually accumulates as a by-product of business processes. The book Modern Data Strategy argues that data deserves the discipline applied to any other significant asset, such as a fleet of trucks or a real-estate portfolio. A company would weigh a new physical asset against a specific business need, and investment in data should be justified the same way.
 
 This takes dedicated roles and formal practices. The most visible role is the Chief Data Officer, whose seniority gives real authority across departments and not only within IT. The practices are called management domains. They are data quality, governance, architecture, warehousing, master data management, interoperability, privacy and security. Each is treated as a discipline with its own standards and certifications.
 
@@ -23,23 +23,23 @@ The work is mostly unglamorous. Preparing data for analysis, often called wrangl
 
 ### Accountability and ownership
 
-A common failure appeared when business units behaved as though they owned the data in their own systems. That was rational for each unit's efficiency and competitive position, but it fragmented and duplicated data across the enterprise and made enterprise-wide management hard.
+A common failure appeared when business units behaved as though they owned the data in their own systems. That was rational for each unit's efficiency and competitive position, but it fragmented and duplicated data across the enterprise and made enterprise-wide management difficult.
 
-The remedy is to separate two ideas. Data accountability means who answers for a dataset's quality, security and appropriate use. Ownership of the data, in contrast, should sit at the enterprise level and not with whichever department generates or first uses it. A data steward is accountable for a data domain across its entire life cycle and across business processes, and not for a single application. The steward is the go-to person for questions about the data and escalates issues to a governance council.
+The remedy is to separate two ideas. Data accountability means who answers for a dataset's quality, security and appropriate use. Ownership of the data, in contrast, should sit at the enterprise level and not with whichever department generates or first uses it. A data steward is accountable for a data domain across its entire life cycle and across business processes, and not for a single application. The steward is the main contact for questions about the data and escalates issues to a governance council.
 
 ### Why more data is not a strategy
 
 Big data is defined by three features. Volume is the amount of data. Variety is the mix of structured and unstructured formats. Velocity is the speed at which data changes. When all three are severe, conventional data management cannot cope.
 
-This pressure moved the design of data pipelines from ETL to ELT. In ETL, data is transformed to fit its target before it is loaded. In ELT, raw data is loaded first and transformed only when an analysis needs it. Organizations wanted to keep as much raw data as possible, to preserve the option of using it later.
+This pressure moved the design of data pipelines from ETL to ELT. In ETL, which stands for extract, transform and load, data is transformed to fit its target before it is loaded. In ELT, raw data is loaded first and transformed only when an analysis needs it. Organizations wanted to keep as much raw data as possible, to preserve the option of using it later.
 
 Hoarding raw data is not a strategy, though. A frequently cited reason for failure in large-scale data projects is not a shortage of new data but an inability to manage the data already held. Research on elite data organizations found that their two most consistent practices were getting governance genuinely right and treating information as a valuable asset in practice, and not only in mission statements.
 
 ### Putting a value on data
 
-Whether data should be valued and carried on the balance sheet remains unresolved. Most organizations do not estimate data value with the cost, market-value or revenue approaches used for other intangible assets. Part of the reason is financial. Treating data costs as an expense and not as a capitalized asset keeps data off the balance sheet, which has tax implications.
+Whether data should be valued and carried on the balance sheet remains unresolved. Most organizations do not estimate data value with the cost, market-value or revenue approaches used for other intangible assets. Part of the reason is financial. Expensing data costs, instead of capitalizing them as an asset, keeps data off the balance sheet and avoids the tax consequences that would follow.
 
-The book still sees practical reasons to value data internally. A value gives greater accountability for quality and use, a basis for measuring how well IT performs and a stronger case for spending on information systems. It proposes starting with an internal data balance sheet, which tracks the value of data assets without settling the formal accounting question. The candidate approaches include cost, for example the price of third-party data, fair market value, future revenue and indirect measures such as the cost of poor quality, of regulatory non-compliance or of failing to adapt to demand.
+The book still sees practical reasons to value data internally. Valuing data brings greater accountability for quality and use, gives a basis for measuring how well IT performs and strengthens the case for spending on information systems. The book proposes starting with an internal data balance sheet, which tracks the value of data assets without settling the formal accounting question. The candidate approaches include cost, for example the price of third-party data, fair market value, future revenue and indirect measures such as the cost of poor quality, of regulatory non-compliance or of failing to adapt to demand.
 
 Inventory management offers a useful analogy. Fleckenstein and Fellows map it onto data management along four dimensions.
 

@@ -15,7 +15,7 @@ Data only creates value when it changes a decision. This chapter explains what d
 
 ### What data mining is
 
-Data mining is the process of finding patterns in data. A pattern counts as meaningful if it predicts accurately on new data. The process is automatic or partly automatic, and machine learning supplies the techniques.
+Data mining is the process of finding patterns in data. A pattern counts as meaningful if it predicts accurately on new data. The search is automatic or partly automatic, and machine learning supplies the techniques.
 
 A pattern can be expressed in two ways. A black box is accurate but cannot be interpreted. A structural description, such as a decision tree or a set of rules, can be examined and used directly to inform decisions. In most practical applications, the insight gained from a structural description is as valuable as the accuracy of the predictions. See [Data Mining Fundamentals](#/concept/data-mining-fundamentals).
 
@@ -24,21 +24,21 @@ A pattern can be expressed in two ways. A black box is accurate but cannot be in
 Four kinds of learning task cover most applications.
 
 - **Classification** predicts a known category from labeled examples, such as whether a transaction is fraudulent.
-- **Association** finds strong relationships among attributes, and not only those that predict one chosen category.
+- **Association** finds strong relationships among attributes, which are the recorded characteristics of each example, and not only those that predict one chosen category.
 - **Clustering** groups examples that naturally belong together, with no predefined labels.
 - **Numeric prediction** predicts a continuous quantity, such as a sales figure, and not a category.
 
 ### The project process
 
-The CRISP-DM process structures a project in six phases. They are business understanding, data understanding, data preparation, modeling, evaluation and deployment. Insights gained in a later phase routinely send the team back to an earlier one. The most common return is to reconsider the business objective itself, once the real limits of the available data become clear.
+The CRISP-DM process, short for Cross-Industry Standard Process for Data Mining, structures a project in six phases. They are business understanding, data understanding, data preparation, modeling, evaluation and deployment. Insights gained in a later phase routinely send the team back to an earlier one. The most common return is to reconsider the business objective itself, once the real limits of the available data become clear.
 
 ### The choices behind every algorithm
 
-Any machine learning system rests on three kinds of deliberate constraint, called biases. They make an otherwise endless search among possible descriptions manageable.
+Any machine learning system rests on three kinds of deliberate constraint, called biases. Here the word means a built-in preference and does not mean unfairness. These constraints make an otherwise endless search among possible descriptions manageable.
 
 - **Language bias** is the choice of the language used to describe patterns, and whether it is universal or constrained.
 - **Search bias** is the order in which possible descriptions are searched, for example from general to specific or the reverse.
-- **Overfitting-avoidance bias** is the choice of when a description is complex enough and pruning should stop.
+- **Overfitting-avoidance bias** is the choice of when a description is complex enough and pruning, which means cutting a description back, should stop.
 
 Overfitting occurs when a model fits its training data more closely than it fits new data. It can be controlled in two ways. Forward pruning stops the search before a description becomes too complex. Backward pruning first finds a complex, well-fitting description and then simplifies it.
 
