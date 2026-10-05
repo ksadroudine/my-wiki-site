@@ -76,7 +76,7 @@ summary {
 
 /* ── Right column: header + article ────────────────────── */
 .main { display: flex; flex-direction: column; height: 100vh; min-width: 0; background: var(--main-bg); }
-#masthead { flex: none; height: var(--header-height); padding: 0 48px; display: flex; align-items: center; border-bottom: 1px solid var(--salmon-mid); }
+#masthead { flex: none; height: var(--header-height); padding: 0 48px; display: flex; align-items: center; background: var(--salmon); border-bottom: 1px solid var(--salmon-mid); }
 #masthead a { font-family: var(--font-sans); font-size: 30px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--salmon-dark); line-height: 1; text-decoration: none; }
 #masthead a:hover { color: var(--navy); text-decoration: none; }
 .article { flex: 1; overflow-y: auto; padding: 0 48px 72px; background: var(--main-bg); }
