@@ -1,6 +1,6 @@
 ## Summary
 
-Analytics models change decisions only when they are built for how executives decide, and a four-layer framework of data, analytics, decision and narrative addresses this. Google's small-business analytics team developed it after a technically sound staffing model failed to gain traction, and each layer targets a specific failure mode, from inconsistent metric definitions to poor storytelling.
+Analytics models change decisions only when they are built around how executives actually decide, not just how data is analyzed. Google's small-business analytics team learned this when a technically sound staffing model gained little traction with senior stakeholders, and it then developed a four-layer framework of data, analytics, decision and narrative. Each layer addresses a specific reason executives disengage, such as inconsistent metric definitions, models that cannot be explained, outputs that ignore real-world constraints and presentations that do not lead with the business decision. Storytelling is built into the structure of the analysis from the start, and the framework has since been applied to sales strategy and business planning.
 
 ## Highlights
 

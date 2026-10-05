@@ -1,6 +1,6 @@
 ## Summary
 
-Artificial general intelligence is AI with human-comparable cognitive breadth, tested by the Turing test, and it differs from today's narrow AI systems. Researchers believe it needs eight capabilities before it can emerge, and most place its arrival decades away, although evidence of models accelerating their own development suggests a nearer timeline.
+Artificial general intelligence is AI whose cognitive breadth rivals a human's, which would be shown by passing the Turing test, and it differs in kind from today's narrow AI systems that predict answers for specific tasks. Researchers have identified eight capabilities that AI would need to master first, including perception, fine motor skills, language, problem-solving, navigation and creativity, and most place its arrival decades away. Evidence that AI is already helping to improve AI, as with Google DeepMind's AlphaEvolve, and Anthropic co-founder Jack Clark's estimate of a 60 percent chance that an AI system could build its own successor without human involvement by the end of 2028 point to a nearer timeline. Executives are advised to treat it as a long-term strategic question to track and prepare for, while investing in AI now.
 
 ## Highlights
 

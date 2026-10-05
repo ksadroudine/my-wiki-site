@@ -1,6 +1,6 @@
 ## Summary
 
-Agentic AI creates a large new software market by turning expensive cross-system coordination labor into software spending, and computer-using agents already work in production on narrow back-office tasks. Durable advantage lies in workflow context, verification and harness design rather than in the model itself.
+Agentic AI can take over coordination work that employees now do between business systems, such as pulling figures from an ERP system, checking them against spreadsheets, interpreting free-text replies and deciding when to escalate a problem. Bain estimates that this work is worth about $100 billion a year in US spending. Because agents turn labor cost into spending on software, they open a new market for software vendors instead of only threatening their existing products. Agents that operate a computer like a person already work in production on narrow, rule-following back-office tasks, such as entering data into supplier portals and processing IT tickets, at a cost close to offshore outsourcing. Lasting advantage will come less from the underlying model than from a company's knowledge of how work flows across its systems, its ability to check that an agent's output is correct and the surrounding tools that handle errors, permissions and escalations.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-AI agents fail to scale less because models lack intelligence than because enterprise data lacks shared meaning, with terms such as customer or revenue defined differently across systems. A machine-readable semantic layer of taxonomies, ontologies and knowledge graphs, supported by real-time data architecture and a shared substrate of data, models and governance beneath applications, lets agents reason consistently instead of guessing.
+AI agents fail to scale less because the models lack intelligence than because enterprise data lacks shared meaning, since the same term, such as customer or revenue, is defined differently across systems. BCG Platinion calls this semantic debt, and MIT CISR found that only 21 percent of surveyed executives rated their data curation practices as well developed. The remedy is a machine-readable semantic layer built from standard definitions, ontologies that model how entities relate and knowledge graphs, supported by a real-time data architecture that includes process intelligence, event-driven integration and governance. Together these let agents reason consistently across business functions instead of guessing, and retrieval-augmented generation alone is not enough because documents do not encode business logic.
 
 ## Highlights
 

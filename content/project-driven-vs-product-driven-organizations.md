@@ -1,6 +1,6 @@
 ## Summary
 
-Two HBR articles prescribe opposite ways of organizing digital work. One argues that the entire enterprise should become project-driven around a fast pipeline of short initiatives, while the other argues that IT should abandon project-based delivery for permanent digital product teams, and reconciling them suggests the real divide is between temporary infrastructure-style work suited to projects and ongoing customer-facing systems suited to products.
+Two HBR articles prescribe opposite ways of organizing digital work. Antonio Nieto-Rodriguez argues that the entire enterprise should become project-driven, with a fast pipeline of short initiatives, because projects are now the main engine of value creation. Ryan Nelson and Thomas Davenport argue that IT should abandon project-based delivery, which succeeds only 31 percent of the time, and move to permanent cross-functional digital product teams that stay with a product for its full life. Companies with a strong product focus earned higher shareholder returns and operating margins, and the New York Times, CarMax and Capital One show the shift in practice. Reconciling the two articles suggests that the real divide is between temporary, infrastructure-style work, which suits projects, and ongoing customer-facing systems, which suit products.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Most corporate boards rank AI as a low priority and rarely use it, but pioneering boards are using it to close the information gap with management, improve scenario planning and even seat a non-voting AI observer. A 2024 focus group of more than 50 board chairs suggests that the risks, including leaks, sample bias and anchoring in the past, are more manageable than most directors assume.
+Most corporate boards give AI a low priority and rarely use it, yet a few pioneering boards already use it to narrow the information gap between directors and management, to run scenario planning and, in one case, to seat a virtual non-voting observer. Directors who meet only a few times a year use tools such as ChatGPT to prepare for meetings, benchmark performance and draft questions. A 2024 focus group of more than 50 board chairs suggests that the main concerns, namely leaks of confidential information, bias from limited data and an over-reliance on past patterns, are more manageable than most directors assume. The recommended route is learning by doing, starting with one-on-one conversations to gauge each director's comfort and then practicing together as a board.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-A small but growing number of executives are creating AI replicas trained on their own writing, speeches and communication style to handle routine tasks, public appearances and employee questions. Early adopters report substantial time savings, but the practice raises unresolved questions about accuracy, workforce acceptance and who owns the accumulated knowledge.
+A small but growing number of executives are creating AI replicas trained on their own writing, speeches and communication style to handle routine tasks, public appearances and employee questions. LinkedIn co-founder Reid Hoffman's twin, trained on 22 years of his material, has delivered more than 75 presentations, and companies are also using twins for internal coaching and mentoring. Early adopters report substantial time savings, but the practice raises open questions about accuracy, since twins can invent answers or misjudge tone, about whether employees will accept them and about who owns a twin's accumulated knowledge when an employee leaves. The clearest governance principle so far is that digital twins should support human decisions without replacing human accountability.
 
 ## Highlights
 

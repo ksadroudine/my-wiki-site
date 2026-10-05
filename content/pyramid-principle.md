@@ -1,6 +1,6 @@
 ## Summary
 
-Barbara Minto's pyramid principle is a method for structuring business writing and thinking as a pyramid of ideas. It rests on the SCQA introduction of situation, complication, question and answer, a vertical question-and-answer dialogue and strict deductive or inductive grouping of supporting ideas.
+Barbara Minto's pyramid principle is a method for structuring business writing and thinking, based on the observation that the mind automatically arranges information into a pyramid, so a document is easier to read when its ideas are deliberately arranged that way. The main point sits at the top, supported by groups of ideas that each summarize the ideas below them, and ideas in a group must be the same kind of idea. An introduction follows the SCQA pattern, in which a situation the reader already accepts is disrupted by a complication that raises a question, which the document then answers. Ideas relate to each other either deductively or inductively, a document is built from the top down by asking the reader's question first, and logic trees help test the thinking when solving analytical problems.
 
 ## Highlights
 

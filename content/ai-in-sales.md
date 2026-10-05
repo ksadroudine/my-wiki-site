@@ -1,6 +1,6 @@
 ## Summary
 
-Predictive AI optimizes internal sales operations such as territory design, quotas and forecasting, while generative AI helps individual reps research customers before each conversation. Both shift sales from generic, volume-driven outreach toward customer-specific engagement, and recent studies add evidence on agentic AI at the top of the funnel and a five-journey model for rewiring B2B commercial operations.
+Predictive AI improves the internal management of sales, including territory design, quotas, incentives and forecasting, while generative AI helps individual sales representatives research a customer before each conversation. Both shift sales away from generic, high-volume outreach toward engagement tailored to the customer, which matters because business buyers increasingly avoid contact with new suppliers. Surveys show a large gap between executives who want AI in their sales programs and those who know how to proceed, and the main obstacle is a culture that treats selling as purely relationship-driven. Recent evidence on agentic AI used early in the sales funnel and a five-journey model for rewiring business-to-business commercial operations extend the picture.
 
 ## Highlights
 

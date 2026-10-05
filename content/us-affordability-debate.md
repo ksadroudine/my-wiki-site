@@ -1,6 +1,6 @@
 ## Summary
 
-The Economist argues that America's affordability crisis is mostly a mirage, because real wages are near record highs across income groups. There are real exceptions in superstar-city housing, mortgage rates and electricity, and the political anger is real and risks pushing policymakers toward price controls.
+The Economist argues that America's affordability crisis is mostly a mirage, because real wages have risen steadily for a decade and are near record highs across income groups, especially for the poorest. Perceptions diverge from the data because people focus on price levels, which are about 25 percent higher than before the pandemic, instead of on rates of change, and because they credit wage gains to their own skill while blaming price rises on outside forces. There are real exceptions, however, in housing in superstar cities, in mortgage rates and in electricity. Political anger over costs is real, polling shows strong support for price caps, and the Economist warns that price controls distort markets and tend to become permanent.
 
 ## Highlights
 

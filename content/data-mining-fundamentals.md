@@ -1,6 +1,6 @@
 ## Summary
 
-Data mining and machine learning rest on a core vocabulary and process, including structural versus black-box predictions, the task types of classification, association, clustering and numeric prediction, and the CRISP-DM project lifecycle. The concept also covers the language, search and overfitting-avoidance choices that shape what any learning algorithm can discover, and the related discipline of business analytics.
+Data mining is the process of finding patterns in data that are meaningful because they predict accurately on new data, and machine learning supplies the techniques for doing so. Patterns can be expressed as black boxes that are accurate but hard to interpret or as structural descriptions such as decision trees that people can examine. Most applications fall into four task types, which are classification, association, clustering and numeric prediction, and projects follow the CRISP-DM lifecycle from business understanding through deployment. The concept also explains the choices that shape what any learning algorithm can find, how to avoid overfitting, why removing obvious identifiers does not truly anonymize data and how business analytics differs from business intelligence by focusing on decisions about what to do next.
 
 ## Highlights
 

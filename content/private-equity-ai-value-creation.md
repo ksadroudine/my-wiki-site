@@ -1,6 +1,6 @@
 ## Summary
 
-Private equity firms can build AI capability across many portfolio companies at once, as Apollo Global Management's playbook shows, through pre-investment AI risk assessment, post-acquisition use-case implementation, a startup incubator and cross-portfolio procurement AI. From the acquirer's side, AI readiness has become the key due-diligence lens for buying undervalued IT-services companies and for software buyouts, which face slower growth and need new diligence metrics.
+Private equity firms can build AI capability across many portfolio companies at once, as Apollo Global Management's playbook shows. Apollo assesses AI risk before an investment and helps each company implement AI use cases after acquisition. It supplies recommended tools, vendors and hires so that companies become self-sufficient, runs a startup incubator with the venture firm 25madison and operates a central AI system that compares purchase prices across more than 40 portfolio companies. Portfolio companies report measured results, such as Cengage cutting costs by 40 percent in some content production and Yahoo raising engineering productivity by more than 20 percent. From the buyer's side, AI readiness has become the key due-diligence question when acquiring undervalued IT-services companies and in software buyouts, which face slower growth and need new diligence metrics.
 
 ## Highlights
 

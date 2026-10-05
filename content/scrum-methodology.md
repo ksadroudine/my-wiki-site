@@ -1,6 +1,6 @@
 ## Summary
 
-Jeff Sutherland's Scrum is a framework for team-based, iterative work built on fixed-length sprints, a product owner who orders a prioritized backlog and a scrum master who removes impediments. Its estimation and retrospective practices make a team's actual velocity visible and improvable.
+Jeff Sutherland's Scrum is a framework for team-based, iterative work that replaces traditional project management's detailed upfront plans with short cycles of delivery and learning. Work happens in fixed-length sprints, commonly two weeks, in which the team commits to a set of backlog items and no one outside the team may add work. There are three roles, the team that does the work, the product owner who owns and orders the backlog and the scrum master who removes impediments, and there are routines such as a fifteen-minute daily stand-up and a retrospective at the end of each sprint. Teams estimate stories in relative points using Planning Poker, which makes their velocity, the points they reliably complete in a sprint, visible and improvable, and Scrum treats multitasking as a measurable source of waste.
 
 ## Highlights
 

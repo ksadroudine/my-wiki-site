@@ -1,6 +1,6 @@
 ## Summary
 
-Digital transformation succeeds or fails on culture, process and continuous adaptation rather than technology. HBR case studies of six legacy companies and a four-year Harvard Business School study of more than 8,300 leaders show that progress comes from building a digitally dexterous workforce, and the foundational Digital Masters research and a Pfizer case study support the same conclusion that technology is never the real bottleneck.
+Digital transformation succeeds or fails on culture, process and continuous adaptation more than on technology. Accounts from six legacy companies, such as Moody's and Levi's, show that employee buy-in and a willingness to change mindsets mattered more than the choice of tools. A four-year Harvard Business School study of more than 8,300 leaders found that progress comes from building a digitally dexterous workforce, and that it helps when the chief executive and C-suite lead the effort personally and when bridgers translate between groups with different priorities. Building digital dexterity takes far longer than leaders expect, and the earlier Digital Masters research and a Pfizer case study support the conclusion that technology is rarely the real bottleneck.
 
 ## Highlights
 

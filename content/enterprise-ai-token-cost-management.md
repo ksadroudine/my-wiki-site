@@ -1,6 +1,6 @@
 ## Summary
 
-The enterprise operating-expense mix is shifting from headcount toward AI tokens, but total agent cost stays invisible until it is measured directly. Companies are already rationing AI use as token bills rise, and the sources describe Agent FinOps disciplines such as rightsizing models, instrumenting cost per task and measuring return on AI. Governance works best when it targets the few workflows where cost risk concentrates rather than imposing per-user caps.
+Companies are shifting part of their operating expense from headcount to AI tokens, the units of computing used by AI models, but the total cost of AI agents stays hidden until it is measured directly. Token charges are only the visible part, because an agent also carries costs for licenses, platforms, governance, change management and failures, and a task that cost $0.04 two years ago can cost $1.20 now as agents add planning and tool use. Companies are already rationing AI use as bills rise, and one study found that only 18 percent of spending on AI coding tokens turns into shipped products. The sources describe Agent FinOps practices such as choosing smaller models for simpler work, measuring the cost of each task and tracking the return on AI spending, and they advise targeting controls at the few workflows where cost risk concentrates, not setting per-user caps.
 
 ## Highlights
 

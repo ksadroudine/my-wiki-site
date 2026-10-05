@@ -1,6 +1,6 @@
 ## Summary
 
-Anthropic's Claude Code and Cowork have made vibe coding, which means building working software through natural-language conversation rather than hand-written code, accessible to non-engineers and small businesses. Small companies are already building custom CRMs to replace or avoid enterprise software, and Bain argues that the industry is shifting from AI-assisted to AI-led development, in which the traditional boundary between product and software development breaks down.
+Vibe coding means building working software through natural-language conversation with an AI instead of writing code by hand, and Anthropic's Claude Code and Cowork have made it accessible to non-engineers and small businesses. Claude Code reached $1 billion in revenue within six months of launch, and Cowork, introduced in January 2026, lets knowledge workers automate tasks such as contract review and sales analysis. Small companies are already building custom customer-management systems to replace or avoid enterprise software such as Salesforce, which analysts see as an indirect threat to incumbent vendors. Bain argues that the industry is shifting from AI-assisted to AI-led development, in which AI executes full workflows end to end and the traditional boundary between product and software development breaks down, although most companies still see only single-digit efficiency gains.
 
 ## Highlights
 

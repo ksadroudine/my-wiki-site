@@ -1,6 +1,6 @@
 ## Summary
 
-Retrieval-augmented generation lets a large language model ground its answers in an organization's own up-to-date, proprietary data. The concept covers the ingestion phase that indexes content as vector embeddings, the retrieval phase that fetches and synthesizes relevant material, the data-quality, bias and licensing challenges that decide whether a system is trustworthy, six tactics for deploying it responsibly, and fine-tuning and prompt engineering as alternatives and complements.
+Retrieval-augmented generation lets a large language model ground its answers in an organization's own current, proprietary information instead of relying only on what the model learned in training. It works in two phases, in which ingestion indexes documents as numerical representations called vector embeddings, and retrieval searches that index when a user asks a question and passes the relevant material to the model. The main uses are enterprise knowledge chatbots and customer service, and the quality of the answers is limited by the quality of the source data, including stale information, bias, licensing and difficulty with graphs and images. The sources describe six tactics for deploying it responsibly, such as defining use cases jointly and screening them by risk, and they explain why it remains useful even when context windows are large and how it compares with fine-tuning and prompt engineering.
 
 ## Highlights
 

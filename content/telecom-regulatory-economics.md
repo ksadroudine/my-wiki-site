@@ -1,6 +1,6 @@
 ## Summary
 
-Jonathan Nuechterlein and Philip Weiser explain the economic concepts of network effects, natural monopoly and monopoly leveraging that shaped a century of US telecommunications regulation. They trace the path from the rate-of-return era before 1996, through the unbundling regime of the 1996 Telecom Act, to the debates over open access and net neutrality that broadband and the internet's layered architecture triggered.
+Jonathan Nuechterlein and Philip Weiser explain the economic ideas that shaped a century of US telecommunications regulation, which are network effects, natural monopoly and the question of whether a monopolist will also monopolize adjacent markets. They trace the history from rate-of-return regulation before 1996, which gave incumbents an incentive to over-invest and relied on implicit cross-subsidies, through the Telecommunications Act of 1996, which gave new entrants rights to interconnect with incumbents and lease parts of their networks. They then follow the debates over open access and net neutrality that arose when broadband replaced dial-up and marginalized independent internet service providers, and they explain how the internet's layered architecture, in which open protocols let developers innovate on top of the network, shaped those debates.
 
 ## Highlights
 

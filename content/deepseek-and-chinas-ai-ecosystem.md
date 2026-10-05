@@ -1,6 +1,6 @@
 ## Summary
 
-DeepSeek's January 2025 release shocked Western markets by matching leading US chatbots at a fraction of the training cost, but management theory treats it as predictable classic disruption rather than a fluke. It reflects a broader, purpose-built Chinese AI ecosystem built on customization, cost leadership and real-world calibration, which global companies now need a deliberate dual-track strategy to engage with.
+DeepSeek's January 2025 release of its R1 reasoning model shocked Western markets by claiming to match leading US chatbots at a fraction of the training cost. HBR argues that this fits classic disruption theory, in which a cheaper product that is good enough moves up the market, and was not a fluke. The efficiency came from established techniques executed well, such as a mixture-of-experts design, and the models were released as open source. DeepSeek is part of a wider Chinese AI ecosystem that HBR summarizes in three parts, which are customization, cost leadership and real-world calibration. HBR advises global companies to choose deliberately among using several model providers, relying on one, or combining external suppliers with internal development, for example pairing a Western model for general research with an internally tuned Chinese model for company-specific tasks.
 
 ## Highlights
 

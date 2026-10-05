@@ -1,6 +1,6 @@
 ## Summary
 
-Agentic AI systems are autonomous, goal-directed programs that perceive, reason and act rather than only respond to prompts. The sources cover the main types of business agents, the four-step loop an agent follows to complete work, and the goals, team design and accountability practices that decide whether a deployment succeeds.
+Agentic AI systems are software agents that pursue a goal on their own by perceiving their environment, reasoning about it and taking actions, instead of only answering prompts the way a chatbot does. The sources describe the main types of business agents, from assistants for one user to platforms that run multi-step workflows. They also explain the four-step loop an agent follows, in which it receives a goal, plans subtasks, carries them out with tools and adjusts from feedback. Success depends less on the model than on setting clear goals, building the right team and assigning accountability for what the agent does.
 
 ## Highlights
 

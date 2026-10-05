@@ -1,6 +1,6 @@
 ## Summary
 
-Predictive machine learning projects often fail because data scientists report technical metrics such as accuracy that mean nothing to business stakeholders, and generative AI application teams often underinvest in automated evaluations. Those evaluations would show whether an LLM-based application is good enough to ship, keeps working after launch and survives an underlying model upgrade.
+AI projects often fail to show business value because the people who build them measure the wrong things. Data scientists say business metrics such as return on investment matter most but in practice report technical metrics such as accuracy, which mean little to business stakeholders and treat all errors as equally costly, although a wrongly blocked legitimate payment and a missed fraud cost very different amounts. An IBM study found that average enterprise AI return on investment was only 5.9 percent in late 2021, below the cost of capital. For applications built on large language models, the sources recommend a rigorous process of automated evaluations, known as evals, which uses a representative set of test questions, error analysis and continued logging of real user interactions after launch. These evaluations show whether an application is good enough to ship, keeps working after launch and survives an upgrade of the underlying model.
 
 ## Highlights
 

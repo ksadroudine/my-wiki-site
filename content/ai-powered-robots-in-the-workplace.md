@@ -1,6 +1,6 @@
 ## Summary
 
-Generative AI is turning robots from rigidly scripted machines into adaptive systems that learn from demonstration and generalize across tasks. This enables a new wave of workplace deployment, from warehouse collaboration to service robots and humanoid factory workers, and it requires safety engineering and real-world training-data infrastructure.
+Generative AI is turning robots from machines that follow rigid scripts into adaptive systems that learn from human demonstrations and from trial and error, and that can carry a skill from one setting to another. This is enabling a new wave of workplace deployment, from collaboration in warehouses to service robots and humanoid robots on factory floors, such as BMW's pilot with Figure 02. The sources report that the clearest risk is trust among customers and employees, since service robots sometimes added to staff workload instead of reducing it. Responsible use also requires safety engineering, ongoing oversight of robots that carry cameras and microphones into physical spaces and real-world training data.
 
 ## Highlights
 

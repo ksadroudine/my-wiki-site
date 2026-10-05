@@ -1,6 +1,6 @@
 ## Summary
 
-Sovereign AI, meaning AI capability built under domestic control by nations and organizations, follows the same post-globalization arc that Bain traced through semiconductor supply chains. Most initiatives stall because sovereignty is treated as an input checklist instead of a coordinated, multi-layer ecosystem effort. Organizations pursue resilient interdependence rather than absolute independence, since full independence from both the US and Chinese AI stacks is unrealistic for nearly every country.
+Sovereign AI means AI capability built under the control of a nation or organization, and Bain sees it as the next phase of de-globalization that began with semiconductor supply chains. McKinsey estimates that 30 to 40 percent of global AI spending could be influenced by sovereignty requirements, a market of $500 to $600 billion by 2030, and nearly three-quarters of enterprises put sovereign AI on their 2026 roadmaps. Most initiatives stall because sovereignty is treated as a checklist of inputs instead of a coordinated effort across several layers of an ecosystem. Sovereign offerings also cost 10 to 30 percent more than global alternatives, so organizations pursue resilient interdependence rather than absolute independence, since full independence from both the US and Chinese AI stacks is unrealistic for nearly every country.
 
 ## Highlights
 

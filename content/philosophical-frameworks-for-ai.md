@@ -1,6 +1,6 @@
 ## Summary
 
-Every AI system encodes philosophical assumptions about knowledge, purpose and reality, whether or not an organization chooses them deliberately, and unexamined assumptions produce concrete business failures. Choosing epistemological, ontological, teleological and ethical frameworks for AI training, rather than relying on technical metrics alone, becomes more important as AI shifts from passive language models to autonomous, goal-pursuing agents.
+Every AI system carries philosophical assumptions about knowledge, purpose and reality, whether or not its builders choose them deliberately, and unexamined assumptions lead to concrete business failures. The article argues that ethics, which dominates public discussion, is only one part of philosophy's role, and that questions of purpose, knowledge and the nature of things matter too. It diagnoses Google's 2024 Gemini image controversy as a failure of purpose, not of data, and shows that companies who optimize proxy metrics such as churn rate without defining what loyalty means end up optimizing the wrong thing. Starbucks and Amazon Prime are offered as positive examples. Organizations should choose epistemological, ontological, teleological and ethical frameworks deliberately for AI training instead of relying on technical metrics alone, and this matters more as AI moves from passive language models to autonomous agents that set and pursue goals.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Successful workplace AI adoption depends less on model capability than on solving predictable human and organizational problems, including employees hiding productivity gains, missing output-based metrics, management systems built for a pre-AI workforce and low-quality workslop. Companies that handle this well treat AI adoption as a change-management and incentive-design challenge rather than a technology rollout, and they pay particular attention to the middle-manager layer that absorbs the strain.
+Workplace AI adoption depends less on how capable the models are than on solving predictable human and organizational problems. Employees have reasons to hide productivity gains, for example to avoid signaling that their job could be cut, and managers often lack output-based measures and use management systems designed for a workforce without AI. AI also produces workslop, which is polished-looking content with too little substance, reported by 40 percent of surveyed US workers in a single month. Companies that handle adoption well treat it as a change-management and incentive-design challenge and not a technology rollout, they reward output rather than effort, they separate generic AI skills from domain-specific ones, and they invest in middle managers, who absorb most of the strain. Johnson and Johnson's move from open experimentation to a central AI governance council shows a common maturation path.
 
 ## Highlights
 

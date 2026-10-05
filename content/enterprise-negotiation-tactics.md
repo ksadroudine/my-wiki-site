@@ -1,6 +1,6 @@
 ## Summary
 
-Skilled negotiators can create leverage even without a clear best alternative to a deal, through partial alternatives, procedural moves and reframing threats as warnings. Large-company negotiations also underperform for structural reasons of agency and alignment, which proactive deal value boards can fix in place of deal review boards.
+Skilled negotiators can create leverage even when they have no complete alternative to a deal, by using partial alternatives that cover only part of the need, by taking actions that do not require the other side's agreement and by presenting a possible walk-away as a warning instead of a threat. Dependence between buyer and supplier is also usually more balanced than it feels, since a sole-source supplier typically needs the customer's revenue too. Large-company negotiations tend to underperform for structural reasons, because frontline negotiators are rewarded for closing any deal and because the people who negotiate are not aligned with those who decide. The recommended fixes are to give negotiators no authority to commit, so that they act as problem-solvers who bring recommendations to decision-makers, and to replace deal review boards with proactive deal value boards that give teams a view across related deals.
 
 ## Highlights
 

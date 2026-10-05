@@ -1,6 +1,6 @@
 ## Summary
 
-Organizational bottlenecks are of two types, task bottlenecks driven by the centralization and complexity of a work system and resource bottlenecks driven by the fungibility and slack of a resource portfolio. A two-decade study of 28 US airlines finds that performance depends on aligning each pair of factors rather than fixing bottlenecks one at a time.
+Organizational bottlenecks come in two kinds. A task bottleneck arises when a task waits on the output of another task, and it depends on how centralized and how complex the work system is. A resource bottleneck arises when the needed resource is not available, and it depends on how flexibly resources can be reused, called fungibility, and on how much spare capacity, or slack, exists. A study of 28 large US airlines from 2002 to 2020 found that performance is best when each pair of factors is aligned, not when any one factor is minimized, and that task and resource bottlenecks interact. Southwest Airlines' storm meltdown in December 2022 and JetBlue's Valentine's Day failure in 2007 show what happens when factors are misaligned or slack is too thin. Managers can follow a five-step process of locating bottlenecks, classifying them and addressing each according to its type.
 
 ## Highlights
 

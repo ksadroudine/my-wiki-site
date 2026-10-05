@@ -1,6 +1,6 @@
 ## Summary
 
-A small number of individuals and firms, chiefly Nvidia's Jensen Huang and the five best-known frontier AI lab leaders, have accumulated economic and technological power comparable to historical industrial tycoons. The concept examines the historical pattern of tycoon-led technology diffusion and the 2026 political and regulatory turning point triggered by Anthropic's Mythos model.
+A small group of individuals and firms, chiefly Nvidia's Jensen Huang and the five best-known frontier AI lab leaders, have gathered economic and technological power that The Economist compares with that of the industrial tycoons of earlier technology waves. Scored against 11 historical American technology waves, the leaders most closely tied to AI models rank in the bottom half, because model-making needs few employees and is not tied to physical assets. Huang's influence runs through Nvidia's supply chain, his soft power in Taiwan and his offers of sovereign AI to foreign governments. The Economist treats April 7, 2026, when Anthropic announced it would withhold its Mythos model because of its ability to find software vulnerabilities, as a turning point that brought political and regulatory pressure and growing voter concern about AI's effect on jobs.
 
 ## Highlights
 

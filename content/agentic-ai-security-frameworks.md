@@ -1,6 +1,6 @@
 ## Summary
 
-Agentic AI systems act as digital insiders and introduce security risks beyond those of traditional AI. McKinsey proposes controls for each phase of deployment and a shared data-risk taxonomy that unites privacy, cybersecurity and data governance teams, and a healthcare provider's threat-modeling project illustrates the approach.
+Agentic AI systems behave like trusted insiders, because they hold access privileges inside company systems and can cause harm by mistake or after being compromised. McKinsey lays out security controls for each phase of deployment, and BCG argues that privacy, cybersecurity and data governance teams, which are usually separate, need one shared way of classifying data risk. The risks that agents add include flaws that cascade from one agent to another, sensitive information that persists in agent memory and data that spreads beyond its intended boundaries. A Brazilian healthcare provider's threat-modeling project shows how an organization can apply these controls in practice.
 
 ## Highlights
 

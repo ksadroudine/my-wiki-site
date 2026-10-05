@@ -1,6 +1,6 @@
 ## Summary
 
-Building an AI-first leadership team means redefining the mandate of each senior role, including people, marketing, transformation, finance, operations and technology, rather than adding AI tools to old job descriptions. Only about 5 percent of companies capture significant bottom-line AI value, and BCG attributes success roughly 70 percent to people and process, 20 percent to technology and 10 percent to algorithms.
+Becoming an AI-first company means redefining the mandate of each senior role, including the heads of people, marketing, transformation, finance, operations and technology, instead of adding AI tools to old job descriptions. BCG's survey of more than 1,250 companies found that nearly all are experimenting with AI, 60 percent have generated no value from it and only about 5 percent capture significant bottom-line value. BCG attributes success roughly 70 percent to people and process, 20 percent to technology and 10 percent to algorithms. Each role changes in a specific way, for example the finance chief shifts time from producing numbers to advising the business, and the technology chief remains necessary even as business teams build their own agents.
 
 ## Highlights
 

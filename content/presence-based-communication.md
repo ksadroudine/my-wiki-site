@@ -1,6 +1,6 @@
 ## Summary
 
-As AI can generate scripts, polish slides and coach delivery, what differentiates a business communicator is presence, meaning verifiable human presentation across a widening toolkit of formats. Trust in AI-generated content erodes because AI cannot explain its reasoning, which makes confirmed human authorship newly valuable, and audiences increasingly expect conversational formats and deliberate self-presentation.
+As AI can write scripts, polish slides and coach delivery, what distinguishes a business communicator is presence, meaning a verifiable human appearing across a widening set of formats. Trust in AI-generated content erodes because AI cannot explain how it reached a conclusion, which makes confirmed human authorship newly valuable, and audiences increasingly want conversational formats such as moderated panels and podcasts and deliberate self-presentation. Communication has also become a system in which one message moves through several formats, and each of five formats, from written memos to virtual live meetings, needs its own mastery. Casual-feeling formats are not faster to produce, since a panel takes as much planning as a staged talk. What AI cannot do is read a room, so audiences value the sense that the presenter cared enough to make their time worthwhile, and executive coach Andrea Wojnicki advises leaders to shape their career narrative through a present, past and future introduction.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-R&D productivity has been falling for decades, with sustaining Moore's Law costing 18 times more than in 1971 and drug approvals per R&D dollar down roughly 80-fold since 1950. McKinsey identifies three channels through which AI can reverse this decline, including faster design generation and surrogate models that replace slow simulations, together worth an estimated $360 to $560 billion in annual value.
+Research and development productivity has fallen for decades, with the cost of sustaining Moore's Law rising 18-fold between 1971 and 2014 and drug approvals per R&D dollar down roughly 80-fold since 1950. McKinsey identifies three ways AI can reverse this decline, namely generating many more design candidates, evaluating them faster with surrogate models that replace slow physics simulations, and speeding the interpretation of results. It estimates the combined potential at $360 to $560 billion a year, concentrated in industries that are research-intensive and already innovative. The technology alone does not deliver the gains, since companies also need to move quickly beyond pilots, rewire their organizations and build supporting skills.
 
 ## Highlights
 

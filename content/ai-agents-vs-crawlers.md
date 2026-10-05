@@ -1,6 +1,6 @@
 ## Summary
 
-User-driven AI assistants differ fundamentally from web crawlers, because they fetch content only in response to a specific user request instead of systematically indexing the web. Perplexity argues that conflating the two, as Cloudflare did in a 2025 dispute, risks a two-tiered internet gated by infrastructure providers.
+User-driven AI assistants differ from web crawlers because they fetch a page only when a specific user asks for it, whereas crawlers systematically visit and index the web whether or not anyone requested the content. Perplexity argues that infrastructure providers such as Cloudflare wrongly treat the two the same way, as in their 2025 dispute over Cloudflare's accusation of stealth crawling. If providers cannot tell a helpful assistant from a malicious scraper, the result could be a two-tiered internet in which access is controlled by a few infrastructure companies. Perplexity also points to Google, which already treats its search crawler differently from fetchers that act on a user's behalf.
 
 ## Highlights
 

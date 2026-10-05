@@ -1,6 +1,6 @@
 ## Summary
 
-AI relaxes the cognitive limits that shaped strategy work by generating thousands of options, building living models and staging structured challenge, and decision agents now bring evidence into executive committees. Sources agree that judgment, proprietary data and critical thinking remain the human strategist's differentiators.
+AI loosens the limits on human thinking that shaped traditional strategy tools such as SWOT and Porter's five forces, because it can search thousands of options, build living models of a business and stage structured challenge to a plan. Decision agents now gather evidence from across functions and test scenarios live during executive meetings, although few leaders rank decision-making among their top AI priorities. Because everyone can use the same models, lasting advantage comes from proprietary data, proprietary processes and speed, not from analysis alone. The sources agree that human judgment, critical thinking and the ability to scan the horizon remain what distinguishes a good strategist.
 
 ## Highlights
 

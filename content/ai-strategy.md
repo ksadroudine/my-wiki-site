@@ -1,6 +1,6 @@
 ## Summary
 
-Building an enterprise AI strategy is a staged process that runs from executive literacy through opportunity discovery to a prioritized roadmap, backed by mechanisms that carry the strategy into company-wide adoption. The sources add a framework for choosing among four strategic postures and McKinsey's Rewired thesis that operating-model redesign beats tool deployment. They also argue that AI is only partly platformed, so firms should invest in learning and durable complements.
+Building an enterprise AI strategy is a staged process that begins with executive AI literacy, moves through a transformation vision and the discovery and ranking of opportunities, and ends in a prioritized roadmap. The sources trace most project failures to executives who do not understand AI and treat it like a conventional IT project with a predictable scope and timeline. They add a framework for choosing among four strategic postures and McKinsey's argument in Rewired that redesigning the operating model matters more than deploying tools. They also argue that AI is only partly a shared platform, so firms should invest in learning and in durable complements that rivals cannot copy.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-AI is reshaping how organizations work with external partners, including competitors, through shared data integration, multi-agent coordination and jointly built AI products. The sources offer a six-step blueprint, four partnership archetypes, pitfalls specific to the agentic era, and a view of how the right partner type changes as a company's generative AI maturity grows.
+AI is changing how organizations work with outside partners, including competitors, through shared data integration, coordination between AI agents and jointly built AI products. The sources distinguish bilateral partnerships from larger AI-driven ecosystems and give examples such as Airbus's Skywise and Ping An's health cloud. BCG offers a six-step blueprint for building collaborations, four partnership types and six pitfalls that most often derail them, and it reports that nine in ten tech-industry AI partnerships missed their goals in 2024. The right type of partner also changes as a company's generative AI maturity grows, and new governance and liability questions arise as agents begin to act across organizational boundaries.
 
 ## Highlights
 

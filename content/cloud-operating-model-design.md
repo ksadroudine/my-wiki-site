@@ -1,6 +1,6 @@
 ## Summary
 
-Forrester's six-layer framework replaces an obsolete shared-services IT operating model with one built for cloud at scale. The layers are customers, value, capabilities, structure, governance and leadership, and each poses questions an organization must answer for itself, with an additional playbook covering vendor ecosystems and sourcing governance.
+Forrester's six-layer framework describes how to replace the older shared-services IT operating model, which relied on hierarchy and rationing because on-premises data centers could not meet every demand, with an operating model built for cloud at scale. The layers are customers, value, capabilities, structure, governance and leadership, and each poses questions that an organization must answer for itself. A companion playbook covers vendor ecosystems and sourcing governance, and related research finds that digitally advanced enterprises rely more heavily on third-party services for transformation than less advanced ones. It also recommends modernizing application architecture around composability, so that business processes can be reconfigured quickly, and around democratized work styles that let business staff build their own solutions.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-AI agents are changing how customers discover and judge brands, which makes the chief marketing officer's role more consequential. BCG's research shows a gap between marketers who claim an agentic transformation and those whose agents actually run workflows. It also describes the new marketing stack, the need to align brand promise with performance, and the changing economics of consumer-goods marketing.
+AI agents now research and compare products for consumers, so brands are judged on observable performance such as price and availability and not on messaging alone, which makes the chief marketing officer's role more consequential. BCG's 2026 survey of about 300 chief marketing officers finds that nearly all say AI is transforming marketing, yet many still use generative AI only as a task assistant and few have agents that run entire workflows. The research describes a four-layer marketing stack and the need to align the brand promise with real performance. It also covers the demand for far more content at far lower cost in consumer goods, and the finding that agents become reliable only after expert practice has been written down and encoded for them.
 
 ## Highlights
 

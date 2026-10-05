@@ -1,6 +1,6 @@
 ## Summary
 
-Forecasts of the economic significance of AI diverge sharply depending on what is measured. Bain projects the AI technology market growing to nearly a trillion dollars by 2027, Daron Acemoglu expects only a modest contribution to GDP and productivity over the next decade, and labor-economics research suggests that even a modest aggregate effect could reshape which US cities win and lose.
+Forecasts of how much AI will matter economically differ sharply because they measure different things. Bain projects that spending on AI hardware and software will reach roughly $780 to $990 billion by 2027, which measures how much money is spent building and buying the technology. Daron Acemoglu estimates that AI will raise US GDP by only about 1 percent over the next decade, because only a small share of tasks across the economy can be performed profitably by AI. Labor-economics research adds a geographic point that neither forecast covers, which is that even a modest overall effect could change which US cities gain and which lose jobs.
 
 ## Highlights
 

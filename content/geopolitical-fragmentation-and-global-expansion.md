@@ -1,6 +1,6 @@
 ## Summary
 
-The global digital economy is fragmenting into divergent national and regional trajectories shaped as much by US-China rivalry, regulation and AI computing capacity as by markets and technology. Chinese companies' microregion strategy of targeting subnational units rather than entire countries offers a company-level playbook for expanding globally despite this fragmentation.
+The global digital economy is splitting into diverging national and regional paths, shaped as much by US-China rivalry, regulation and access to AI computing capacity as by markets and technology. The 2026 Digital Evolution Index covers 125 countries. It finds that the United States and China together account for just over half of digital GDP and pursue structurally different AI strategies, that global digital momentum has slowed since the pandemic and that digital regulation is diverging by region. Chinese companies facing trade tensions and tighter foreign-investment scrutiny are responding by targeting microregions, meaning provinces, cities and economic zones, instead of entire countries. Their approach, which often favors Singapore for its talent, trade infrastructure and neutrality, offers a company-level playbook for expanding globally despite fragmentation.
 
 ## Highlights
 

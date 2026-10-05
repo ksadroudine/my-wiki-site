@@ -1,6 +1,6 @@
 ## Summary
 
-Generative AI and large language models are automating two connected supply-chain functions, planning and analytics on one side and supplier contracting and negotiation on the other. Both are progressing through the same maturity arc, from AI as a copilot answering plain-language questions to AI handling routine decisions autonomously within defined guardrails.
+Generative AI and large language models are automating two connected supply-chain functions, which are planning and analytics, and supplier contracting and negotiation. In planning, Microsoft uses a language model to let planners ask plain-language questions about server supply across more than 300 data centers, with the model translating each question into a change to the existing mathematical optimization model. In negotiation, companies move through three stages, from AI that flags risks and drafts terms while a human sends everything, to AI that can accept pre-approved clauses, to fully autonomous negotiation on low-margin routine items, as Walmart does. Both functions depend on the same disciplines, namely precise language so that the AI reads ambiguous terms correctly, ways to catch and recover from errors, and guardrails, and both shift human time from routine work to strategic work.
 
 ## Highlights
 

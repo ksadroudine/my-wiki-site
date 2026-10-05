@@ -1,6 +1,6 @@
 ## Summary
 
-Four terms shaped how AI insiders talked about the technology in 2025, namely reasoning models, evals, synthetic data and vibes. Each term reflects a specific shift in how frontier models were built, tested and judged that year.
+Four terms captured how people inside the AI industry talked about the technology in 2025, namely reasoning models, evals, synthetic data and vibes. Reasoning models work through multi-step problems by backtracking and revising, at a much higher computing cost than earlier models. Evals are batteries of automated tests that decide whether a frontier model is safe and capable enough to release. Synthetic data is training material produced by one AI model for another, which became necessary as the supply of human-written text ran out and carries the risk of passing on errors. Vibes refers to judging a chatbot by its qualitative feel instead of benchmark scores, and projects such as Chatbot Arena and VibeCheck try to measure it.
 
 ## Highlights
 

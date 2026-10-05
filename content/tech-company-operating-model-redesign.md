@@ -1,6 +1,6 @@
 ## Summary
 
-Most tech companies run an operating model in which small teams own their work but every cross-team conflict escalates up the hierarchy, and Bain's analysis of 290 companies finds that this model breaks down at scale. The rare sustained high-growth performers adopt habit cultivator, authority weaver or flow instrumentalist models that resolve friction at the front line, and related work on enterprise architecture, IT delivery and centralized AI hubs supports the same pattern.
+Most tech companies organize into small teams that own their work, and any conflict between teams escalates up the management hierarchy. Bain analyzed 290 tech companies and found that this model breaks down as companies scale, since only 33 sustained annual growth of at least 20 percent. The sustained high-growth companies are flatter, and their front-line employees are more likely to think like owners. They resolve friction at the front line in one of three ways. Habit cultivators reinforce decision habits instead of reopening debates, authority weavers delegate control within clear guardrails, and flow instrumentalists use measurement to expose bottlenecks early. Most high performers blend these approaches. As agentic AI speeds up work, models that rely on escalation will feel increasingly slow, and related work on enterprise architecture, IT delivery and centralized AI hubs supports the same pattern.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Organizations keep building analytics and AI models that never reach production, and a new role, the data product manager, exists to translate business needs into adopted data products. Meanwhile the Chief Data Officer role is proving unstable, which points toward data leadership dissolving into broader business roles, and the same debate extends to whether a dedicated Chief AI Officer or a combined innovation and transformation officer is needed.
+Many organizations build analytics and AI models that never reach production, and HBR argues that a new role, the data product manager, exists to close the gap by translating business needs into data products that people actually adopt. The role depends more on coordination across teams than on deep technical skill, and companies such as Vista and Regions Bank report large financial gains from data products. At the same time the Chief Data Officer role is unstable, because it faces pressure to show profit contribution, and MIT Sloan Management Review argues that data leadership is likely to dissolve into broader business roles instead of becoming a permanent position. A related article asks whether a dedicated Chief AI Officer or a combined chief innovation and transformation officer is needed, since AI implementation is mostly an organizational challenge.
 
 ## Highlights
 

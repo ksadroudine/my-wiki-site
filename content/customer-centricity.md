@@ -1,6 +1,6 @@
 ## Summary
 
-Peter Fader's customer-centricity framework argues that firms should organize around customer lifetime value rather than around products. It uses a customer-by-time data cube, the Five Lenses audit and lifetime value methods to identify and invest disproportionately in the most valuable customers, and a relationship-strength segmentation of acquaintances, friends and partners offers a practical alternative route to the same prioritization.
+Peter Fader's customer-centricity framework argues that firms should organize around the lifetime value of their customers instead of around products, and should invest disproportionately in the customers who are worth the most. It provides tools for doing so, including a customer-base audit that arranges transaction history by customer and time, the Five Lenses questions that structure the audit and methods for calculating customer lifetime value and customer equity, the sum of all customers' lifetime values. A second approach, customer portfolio management, segments customers by the strength of their relationship with the firm as acquaintances, friends and partners, and a European building-materials retailer found that its partners, 20 percent of customers, produced 45 percent of portfolio value. The framework also lists common mistakes in using lifetime value, such as treating all customers as equally valuable and overspending on acquisition relative to retention.
 
 ## Highlights
 

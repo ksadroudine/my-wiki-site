@@ -1,6 +1,6 @@
 ## Summary
 
-Apple's manufacturing excellence traces back through an unbroken chain to an almost forgotten American engineer who taught postwar Japan the quality philosophy that Steve Jobs later absorbed at NeXT and Pixar. After Jobs returned, Apple turned those lessons into a supply-chain playbook that drew manufacturing know-how from Japanese suppliers and helped build China's industrial capacity into a strategic rival.
+Apple's manufacturing excellence traces back through an unbroken chain of teachers and students to Homer Sarasohn, an American engineer who taught quality management to Japanese executives in postwar Japan. Steve Jobs absorbed the philosophy at NeXT and Pixar and, after returning to Apple in 1997, rebuilt Apple's product process around it. Apple then built a supply-chain playbook that drew manufacturing knowledge from suppliers, wrote it into patents and specifications that Apple owned, and used that ownership to bring up competing suppliers. The same approach helped build China's industrial capacity into a strategic rival, which fits a Chinese strategy of raising, entrapping and then displacing foreign partners.
 
 ## Highlights
 

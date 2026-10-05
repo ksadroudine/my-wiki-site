@@ -1,6 +1,6 @@
 ## Summary
 
-Economists argue that whether AI helps workers depends on design choices, with automation-first deployment favouring capital while new-task-creating AI raises the value of human expertise. China shows the displacement side at speed, as AI-generated video, driver-assist trucks and robots reshape jobs faster than policy can respond.
+Economists argue that whether AI helps workers depends on design choices, since AI that automates existing work favors the owners of capital, while AI that creates new tasks raises the value of human expertise. A Brookings Hamilton Project paper by Acemoglu, Autor and Johnson sorts technologies into five types and treats only new-task-creating technologies as clearly pro-worker, and Schneider Electric's troubleshooting assistant for electricians is cited as an example of AI that extends field expertise. Acemoglu also argues that organizations deploy AI as automation when it is really an information technology, which helps explain weak productivity gains. China shows the displacement side at speed, with AI-generated video cutting microdrama production costs and actors' pay, driver-assist trucks reducing the number of drivers needed and courts and advisers beginning to respond with rules on dismissal, retraining and possible robot taxes.
 
 ## Highlights
 

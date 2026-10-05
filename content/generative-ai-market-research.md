@@ -1,6 +1,6 @@
 ## Summary
 
-Generative AI is compressing marketing research timelines from months to days through synthetic consumer digital twins, AI-moderated interviews at scale and fast analysis of unstructured qualitative data. Validation studies show that synthetic and AI-collected data closely track human results, but researchers still need human oversight, and insights flow only where culture, data standards and agency ownership are fixed.
+Generative AI is shortening marketing research from months to days through synthetic consumer personas, called digital twins, interviews conducted by AI at large scale and fast analysis of open-ended answers. A blind validation study by EY found that synthetic personas reproduced its real brand-survey results closely, and other work shows that digital twins can replicate real respondents' answers. Both sources identify limits, which are that language models inherit demographic and cultural biases from their training data, that synthetic answers can lack variation, and that it becomes cheap to produce credible-looking but low-quality research. Researchers therefore still need human oversight, and insights reach decisions only where culture, data standards and ownership of the work are settled.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Customer Development and the Lean Startup's build-measure-learn loop reframe a startup as a temporary organization searching for a repeatable, scalable business model instead of executing a known plan. The concept covers the business model canvas, minimum viable products and pass-or-fail experiments that turn founder hypotheses into validated facts.
+Customer Development and the Lean Startup reframe a startup as a temporary organization searching for a repeatable, scalable business model, not as a smaller version of an established company executing a known plan. The method proceeds through customer discovery, customer validation, customer creation and company building, where the first two are the search for a model and the last two the execution of it. The concept covers the business model canvas, the pivot as a substantive change to one of its nine boxes, early adopters called earlyvangelists as the target of a minimum viable product, and the build-measure-learn loop, in which each product version is an experiment that turns a hypothesis into validated fact. It also describes startup metrics that track hypotheses turning into facts and growth hacking as a cross-functional responsibility.
 
 ## Highlights
 

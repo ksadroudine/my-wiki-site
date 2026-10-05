@@ -1,6 +1,6 @@
 ## Summary
 
-AI reliably outperforms humans at tactical finance tasks such as short-term budget allocation, forecasting and variance analysis, but strategic financial planning under uncertainty still depends on human judgment. Most finance functions remain stuck at the pilot stage because the constraint is leadership practice and culture rather than technology, although process-level redesign shows large potential gains in areas such as order-to-cash.
+AI consistently outperforms human managers at tactical finance tasks such as allocating short-term budgets, forecasting and analyzing variances, but strategic financial planning under uncertainty still depends on human judgment. Its tactical results depend on being given the right strategic context, because it optimizes narrowly for whatever metrics it is handed. Most finance functions remain stuck at the pilot stage, and the main reasons are leadership practice and culture, since a profession built around avoiding errors tends to resist experimentation. Finance teams that embed AI successfully share four leadership practices. Redesigning entire processes, such as order-to-cash, shows far larger potential gains than automating the existing steps.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Carl Shapiro and Hal Varian analyze information goods, which have high fixed first-copy costs and near-zero marginal reproduction costs, so cost-based pricing fails and value-based and differential pricing take its place. The same cost structure has strategic consequences in network externalities, lock-in and standards competition.
+Carl Shapiro and Hal Varian analyze information goods, which are expensive to create the first time but almost free to reproduce, so pricing based on cost fails and sellers price by the value to different customers instead, charging different segments different prices. Because people cannot judge information before consuming it, it behaves as an experience good every time it is bought, and sellers must find ways to let buyers sample it. The same cost structure has strategic consequences. Network effects make growth a strategic imperative, and an information market can sustain only two long-run structures, a market dominated by one firm with a durable scale advantage or a market of many firms offering differentiated varieties of similar information. Lock-in and standards competition also shape how companies compete, and an incumbent threatened by copycats can price low enough to make entry unattractive or build a reputation for retaliating against new entrants.
 
 ## Highlights
 

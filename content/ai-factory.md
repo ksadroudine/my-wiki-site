@@ -1,6 +1,6 @@
 ## Summary
 
-The AI factory is a scalable decision engine that combines a data pipeline, algorithm development, an experimentation platform and software infrastructure. Iansiti and Lakhani argue that it has replaced the human-driven operating model as the operational core of the modern firm, and Procter and Gamble's own AI factory shows the model holds once generative and agentic AI are absorbed into it.
+The AI factory is a decision engine that combines a data pipeline, algorithm development, an experimentation platform and the software infrastructure that supports them. Iansiti and Lakhani argue that it has replaced the human-driven way of running a company as the core of the modern firm, because digital operating models can grow in scale, scope and learning at almost no extra cost. They describe four stages that organizations pass through on the way to a mature factory and five principles for building an AI-centered firm. Procter and Gamble's own AI factory shows that the model still holds once generative and agentic AI are added to it.
 
 ## Highlights
 

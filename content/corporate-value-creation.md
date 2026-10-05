@@ -1,6 +1,6 @@
 ## Summary
 
-McKinsey's four cornerstones of corporate finance hold that growth and return on invested capital create value, that only cash flow creates it, that share price tracks market expectations as well as performance, and that value depends on who manages a business. The concept applies them to growth, portfolio management, acquisitions and capital structure, and a study of stable firms shows that return on capital alone can drive market-beating returns.
+McKinsey's four cornerstones of corporate finance hold that value is created by growth and by returns on invested capital that exceed the cost of capital, that only cash flow creates value, that share prices reflect market expectations as well as performance, and that the value of a business depends on who manages it. The concept applies them to growth strategy, portfolio management, acquisitions, capital structure and investor communication. Acquisitions raise the combined value of acquirer and target by only about 4 percent on average. A 20-year study of more than 10,000 companies found 172 stable firms with near-zero revenue growth that matched market-average shareholder returns with lower volatility. High-return businesses should therefore pursue growth, while low-return businesses should first improve their returns.
 
 ## Highlights
 

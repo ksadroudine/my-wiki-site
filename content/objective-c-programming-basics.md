@@ -1,6 +1,6 @@
 ## Summary
 
-Objective-C builds on the C language, and its core concepts are memory management, the class, object and method model, and the framework and header system. Aaron Hillegass and Mikey Ward's introductory text explains memory management through the stack, the heap and automatic reference counting.
+Objective-C extends the C language with objects and messaging, and its core concepts are memory management, the class, object and method model, and the system of frameworks and header files. In the introductory text by Aaron Hillegass and Mikey Ward, a program runs through functions whose local variables live on the stack and disappear when the function returns, so data that must outlive a function is placed on the heap. Automatic reference counting tracks how many references point to each heap object and destroys it when the count reaches zero, which removes the manual bookkeeping of earlier versions. A class acts both as a blueprint for objects and as an object itself, sending a message to nil is legal and does nothing, and a framework such as Apple's Foundation bundles related classes and functions.
 
 ## Highlights
 

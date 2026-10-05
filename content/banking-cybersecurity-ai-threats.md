@@ -1,6 +1,6 @@
 ## Summary
 
-Banks face a sharper cyber threat because AI models can find software vulnerabilities at scale, as shown when Anthropic's Claude Mythos model found thousands of high-severity flaws in major banks' software. The concept covers UK regulatory testing regimes such as CBEST, third-party risk tiering, the emerging quantum threat to encryption and the operating-model changes needed to cope with an AI-driven flood of vulnerability alerts.
+Banks face a sharper cyber threat because AI models can now find software vulnerabilities at scale, as shown when Anthropic's Claude Mythos found thousands of high-severity flaws in software used by major financial institutions. Anthropic is keeping the model out of general release because it surpasses all but the most skilled humans at finding and exploiting vulnerabilities, and regulators and bank leaders have responded with alarm. Financial services remain among the best-prepared sectors thanks to UK resilience rules, the CBEST testing regime and the practice of tiering third-party suppliers by risk, though testing still finds foundational gaps such as staff open to social engineering. The sources also cover the emerging threat to encryption from quantum computing and the operating-model changes banks need to cope with a flood of AI-generated vulnerability alerts.
 
 ## Highlights
 

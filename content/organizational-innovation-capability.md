@@ -1,6 +1,6 @@
 ## Summary
 
-Durable innovation capability requires treating innovation as a permanent organizational system rather than an episodic program or a single clever bet. Successful companies combine disciplined business-model design, a dedicated strategic-innovation function, a playbook for scaling transformational projects and engagement with outsiders and external ecosystems, while avoiding the identity, architecture and collaboration traps that derail reinvention.
+Lasting innovation capability comes from treating innovation as a permanent organizational system and not as an occasional program or a single clever bet. Research finds that outsiders, who are unburdened by a field's norms, are well placed to connect distant ideas, but they gain traction only if they learn insiders' language and win at least one ally inside. Creative success tends to belong to people who straddle boundaries, and organizations such as Pixar and the National Science Foundation deliberately create that position. A study of 300 firms found that a novel business model predicts good performance only when paired with operational discipline, efficiency and fit with strategy, as Spotify showed and Clubhouse did not. Successful companies also have a dedicated strategic-innovation function, a playbook for scaling transformational projects and engagement with outside ecosystems, and they avoid traps involving identity, architecture and collaboration.
 
 ## Highlights
 

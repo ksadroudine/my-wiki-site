@@ -1,6 +1,6 @@
 ## Summary
 
-The real organizational value of generative AI lies less in automating individual tasks than in transforming how knowledge and learning move through the enterprise. Three research teams propose complementary lenses, namely a capability-maturity framework built around the work of words, images, numbers and sounds, a workflow-embedding framework that turns static knowledge repositories into living systems, and a collective-intelligence framework. An HBR piece adds adoption tactics based on pilots, champions and measurement.
+The main organizational value of generative AI lies less in automating individual tasks than in changing how knowledge and learning move through an enterprise. Three research teams offer complementary views. MIT Sloan Management Review's first framework sorts work by whether it involves words, images, numbers or sounds, and shows how unevenly gen AI affects different kinds of cognitive work. Its second framework turns static knowledge repositories into living systems by embedding generative AI in workflows, with five groundwork requirements such as getting data and documents in order first. HBR's collective-intelligence framework argues that augmentation does not avoid automation, since it hides automation at a lower level, and it points to tools that help distributed teams find expertise, such as NVIDIA's ChipNeMo chatbot for chip designers. Further adoption tactics rely on pilots, champions and measurement.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Generative AI is already delivering measurable value for early adopters in five business functions, namely software and product development, customer support, sales and marketing, new products and features, and the back office. Companies capturing that value follow practices that others lack, and a 2026 update argues the main constraint is now how fast enterprises can absorb AI, with transformation leaders reporting 10 to 25 percent EBITDA growth.
+Generative AI is already producing measurable value for early adopters in five business functions, namely software and product development, customer support, sales and marketing, new products and features, and back-office work. Bain finds that the companies capturing the most value follow a particular sequence of diagnosing the business, setting targets, redesigning processes and only then deploying AI tools, and that they treat AI as a priority set by the chief executive. Recurring barriers include scattered data sources, weak technology support and the difficulty of moving from pilots to production. A 2026 update reports that enterprises running AI as a business transformation sponsored by the executive team see 10 to 25 percent EBITDA growth, while many remain at tool deployment, and that the main constraint is now how fast enterprises can absorb AI.
 
 ## Highlights
 

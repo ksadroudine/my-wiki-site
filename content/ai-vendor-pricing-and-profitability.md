@@ -1,6 +1,6 @@
 ## Summary
 
-Generative AI vendors are pricing far below the true cost of inference to win market share in a field they treat as commoditized, which Andy Wu of Harvard Business School describes as the gap between value created and value captured that defines a bubble. Application vendors can respond by pricing at the highest layer of value they can measure, such as credits or outcomes, rather than per token.
+Generative AI vendors price their products well below the true cost of running them, because every prompt costs real computing power while revenue per user stays low and the underlying models are becoming commodities. Andy Wu of Harvard Business School describes a bubble as a time when everyone can see the value being created but no one is thinking about how to capture it. Flat-fee subscriptions are in effect capped usage pricing, and the typical $20 monthly price does not cover costs for heavy users. Application vendors can respond by pricing at the highest layer of value they can measure, such as credits or outcomes, instead of per token, and several investors argue that current prices are too low for the value delivered.
 
 ## Highlights
 

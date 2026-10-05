@@ -1,6 +1,6 @@
 ## Summary
 
-Ethan Mollick describes writing a book with judicious, tool-like AI assistance while drafting every chapter himself. The concept also covers a new problem, designing web content that AI agents will read, evaluate and recommend on behalf of human visitors.
+Ethan Mollick describes writing his book Co-Existence with careful use of AI, drafting every chapter himself because AI is a weak long-form writer, while using it as a reader that gave feedback and as a council of models that helped check citations. Building the book's website, by contrast, was driven almost entirely by AI and took minutes. The concept also covers a new problem, which is that a web page now has two audiences, human readers and the AI agents that read content on behalf of users and decide what to recommend. A hidden prompt injection once worked against weaker models, but the current approach is honest design that asks several frontier models for direct feedback and tests the page against many simulated users.
 
 ## Highlights
 

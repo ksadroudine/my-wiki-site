@@ -1,6 +1,6 @@
 ## Summary
 
-Individuals and organizations are systematically bad at prioritization, because people struggle to abandon goals even when pursuing all of them guarantees failure and companies accumulate so many priorities that attention is spread too thin. The concept surveys common frameworks such as the Eisenhower matrix, RICE, MoSCoW and 70:20:10 and argues that explicit deprioritization rules matter as much as the choice of framework.
+Individuals and organizations are systematically poor at prioritizing, because people struggle to give up goals even when pursuing all of them makes success less likely, and companies accumulate so many priorities that attention is spread too thin, which is known as the peanut-butter problem. Indebted consumers, for example, pay off small debts first because progress feels tangible, even though that costs more. The concept surveys common frameworks, including the Eisenhower matrix of urgent and important tasks, RICE scoring, MoSCoW and the 70:20:10 rule. It also stresses that priorities must be communicated, since a 2017 study found that in a typical company only about half of senior executives could recite their own firm's strategic priorities, and that deliberately deprioritizing, meaning actively stopping something, matters as much as the choice of framework.
 
 ## Highlights
 

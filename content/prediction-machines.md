@@ -1,6 +1,6 @@
 ## Summary
 
-AI can be understood economically as a technology that makes prediction cheap, which raises the value of its complements, namely data, judgment and action, and lowers the value of substitutes such as human prediction. Seeing where automation makes sense requires decomposing any decision into prediction, judgment and action.
+AI can be understood economically as a technology that makes prediction cheap, where prediction means using the data you have to fill in information you lack. As prediction gets cheaper, more of it is used. That raises the value of its complements, namely data, judgment and action, and lowers the value of its substitutes, such as human prediction. Any decision can be broken into prediction, judgment about the value of outcomes, and action. A prediction machine replaces only the first part, so people still supply the judgment unless it is specified in advance as a reward function. The authors offer a way of classifying known and unknown situations to divide work between humans and machines, an AI canvas of seven questions for deciding where to insert a prediction machine into a task, and four ways in which AI changes jobs, by augmenting, contracting, reconstituting or shifting the relative value of skills.
 
 ## Highlights
 

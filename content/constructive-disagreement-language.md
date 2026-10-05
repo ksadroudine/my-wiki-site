@@ -1,6 +1,6 @@
 ## Summary
 
-Observable language, not private intentions, determines whether a workplace disagreement stays constructive. The concept covers the intention-behavior and behavior-perception gaps that undermine good intentions, five linguistic techniques that close them, and how organizations can train, measure and hire for this skill.
+The words people use, more than their private intentions, decide whether a workplace disagreement stays constructive. Research identifies two gaps that undermine good intentions. In the intention-behavior gap, people who mean to be curious and respectful cannot sustain it under the emotional pressure of a disagreement, and in the behavior-perception gap, even behavior that is carried out well may be read differently by the other person, as when a curious question sounds sarcastic. Five tested linguistic techniques close these gaps, such as stating curiosity directly and acknowledging the other view, and a study of 1,113 people found that those taught the techniques were rated as more objective and trustworthy. Organizations can train, measure and hire for this skill, and language is the right lever because most professional communication now happens in writing.
 
 ## Highlights
 

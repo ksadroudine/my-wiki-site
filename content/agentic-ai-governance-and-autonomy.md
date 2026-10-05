@@ -1,6 +1,6 @@
 ## Summary
 
-Organizations should set the autonomy of an AI agent according to how well a risk is understood rather than how large it is. The Ethical Nightmare Challenge addresses risks that grow as systems become more complex, and a taxonomy of complicated, ambiguous and uncertain problems shows how much supervision an agent needs.
+Organizations should decide how much independence to give an AI agent according to how well the risk is understood, not according to how large the risk is. The sources describe five stages at which risk grows more complex as AI components are combined, and the breakdowns in oversight that follow, such as human reviewers being unable to keep pace with the volume of decisions. They also separate problems into complicated, ambiguous and uncertain types, and each type needs a different level of supervision and a different kind of control. As agents multiply, governance has to move from checking individual decisions to designing and managing the systems that produce those decisions, and leaders are asked to identify the worst outcomes AI could cause in their organization and prepare to prevent them.
 
 ## Highlights
 

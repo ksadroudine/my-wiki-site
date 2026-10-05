@@ -1,6 +1,6 @@
 ## Summary
 
-AI agents are replacing traditional customer service software and call centers, and they can outperform humans on consistency even though the underlying models are imperfect. Outcomes-based pricing is replacing software licensing in this category, and defense-in-depth controls such as supervisor models manage the risk.
+AI agents are replacing traditional customer service software and call centers, and they can be more consistent than human agents even though the underlying models are imperfect and do not always give the same answer twice. Sierra's co-founder Bret Taylor argues that by 2026 every company will need an AI agent, in the way every company needed a website in 1995. Sierra charges only when an agent actually resolves a customer's problem, which replaces software licensing with outcome-based pricing. Risk is managed with layers of defense borrowed from cybersecurity, including supervisor models that watch the main agent's decisions in real time for errors and rule violations.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Eckhart Tolle's teaching on presence and the nature of the mind holds that psychological suffering comes mainly from identification with compulsive thinking. The book is a topical outlier in this vault, included for ingest completeness but outside its predominant business, technology and telecom scope.
+Eckhart Tolle's book teaches that psychological suffering comes mainly from identifying with compulsive thinking, especially dwelling on the past and worrying about the future, and not from present circumstances. His remedy is presence, the practice of living in the present moment and observing the mind instead of being controlled by it. The book is a topical outlier in this vault, included for completeness of the ingest but outside the vault's mainly business, technology and telecom scope.
 
 ## Highlights
 

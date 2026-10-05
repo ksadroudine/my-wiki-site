@@ -1,6 +1,6 @@
 ## Summary
 
-Sarah Frier describes how Instagram grew by deliberately rejecting Facebook's move-fast-and-break-things culture in favor of community-first curation, editorial taste-making and simplicity. Metrics-driven optimization for likes and followers nonetheless reshaped user behavior into an influencer economy over time.
+Sarah Frier describes how Instagram grew by deliberately rejecting the move-fast culture of Facebook, which acquired it, and building on three values, community first, simplicity and inspiring creativity. Its founders launched a minimal product to test the idea with real users, and a small team curated a suggested-user list and wrote blog posts that spotlighted exemplary accounts, instead of relying on algorithms. As Instagram scaled it adopted more data-driven optimization, and its own growth mission created the same blind spot as Facebook's, which was inattention to the pressure the platform put on users. Optimization for likes and followers reshaped user behavior into an influencer economy over time, which illustrates the point that each platform's incentive structure ends up defining what the platform is in practice, whatever its founders intended.
 
 ## Highlights
 

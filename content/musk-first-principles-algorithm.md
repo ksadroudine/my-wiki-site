@@ -1,6 +1,6 @@
 ## Summary
 
-Elon Musk reportedly applies a five-step process of questioning every requirement, deleting, simplifying, accelerating and automating to solve large engineering and manufacturing problems at Tesla and SpaceX. The process rests on first-principles thinking and is being applied to Terafab, a planned chip factory meant to remove a supply-chain single point of failure across his AI ambitions.
+Elon Musk reportedly solves large engineering and manufacturing problems at Tesla and SpaceX with a five-step process that former Tesla president Jon McNeill documents, which is to question every requirement, delete every possible step or part, simplify what remains, speed up the cycle time and then automate. The process rests on first-principles thinking, meaning breaking a problem down to its most basic elements instead of reasoning by analogy, and on a less formal practice of driving one or two urgent issues relentlessly through recurring reviews. Musk is applying it to Terafab, a planned chip factory costing $20 billion or more that is meant to remove a single point of failure in the chip supply for Tesla, SpaceX and xAI. The source is skeptical, noting that the same playbook produced ideas that fizzled, such as Tesla's abandoned goal of 20 million vehicles a year.
 
 ## Highlights
 

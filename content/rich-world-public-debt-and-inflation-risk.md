@@ -1,6 +1,6 @@
 ## Summary
 
-The Economist argues that advanced economies' public debt, near 110% of GDP, has no politically viable repayment path. Spending cuts, immigration, AI-driven growth and tax rises each fall short, leaving inflation as the most likely resolution and long-term bondholders as the likeliest losers.
+The Economist argues that the advanced economies' public debt, near 110 percent of GDP and close to an all-time high, has no politically workable path to repayment. Spending cuts are blocked by the political power of an aging population, immigration only defers the problem because migrants also age, faster AI-driven growth would not rescue budgets because pensions rise with wages and investment demand pushes up interest rates, and large tax rises are politically hard. Since 1913 big economies have rarely repaid debt through budget surpluses, and Britain's post-war reduction came about half through inflation above interest rates. Of Gregory Mankiw's five exits from unsustainable debt, the Economist concludes that only tax rises, default and inflation remain, with inflation the most likely and long-term bondholders the likeliest losers.
 
 ## Highlights
 

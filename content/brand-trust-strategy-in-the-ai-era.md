@@ -1,6 +1,6 @@
 ## Summary
 
-Brands face AI-driven trust risk from several directions at once. Undisclosed AI use erodes customer trust before anything goes wrong, five psychological pitfalls turn an inevitable AI failure into disproportionate brand damage, and agentic commerce forces brands to compete for the recommendation logic of AI agents through a new discipline called share of model.
+AI creates trust risks for brands from several directions at once. A panel of AI experts convened by MIT Sloan Management Review and BCG found that most agree companies should disclose their use of AI to customers, especially when customers are dealing with an AI system or when AI contributes to consequential decisions. Failing to disclose can damage trust before anything goes wrong. Research identifies five psychological pitfalls that turn an AI failure into disproportionate brand damage. People blame AI first, one AI failure colors perceptions of all AI, and humanized or overstated AI is judged more harshly when it fails. Agentic commerce adds a further challenge, because brands must now compete to be recommended by the AI agents that act for consumers, a discipline called share of model.
 
 ## Highlights
 

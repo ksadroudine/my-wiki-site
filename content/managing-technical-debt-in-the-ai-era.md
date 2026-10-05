@@ -1,6 +1,6 @@
 ## Summary
 
-AI-generated code accumulates technical debt faster than human-written code, especially in legacy systems and in the hands of inexperienced developers, but the goal is to manage debt strategically rather than eliminate it. Leaders can prioritize remediation by business value, treat debt reduction as an investment in AI-readiness, and avoid six myths that derail AI-driven modernization of legacy systems.
+Technical debt, the accumulated cost of shortcuts in software, costs the United States at least $2.4 trillion a year, yet most organizations spend less than 20 percent of their technology budgets on paying it down. AI-generated code adds debt faster than human-written code, as GitClear's analysis of millions of lines found more duplicated code and more rework since AI coding tools appeared, and the problem is worst in legacy systems and in the hands of inexperienced developers. The goal is to manage debt strategically instead of eliminating it, since some debt is a reasonable investment. Leaders can rank remediation by business value, using a framework called PAID, set aside around 15 percent of the IT budget for it and treat reducing debt as an investment in AI readiness, avoiding six myths that derail AI-driven modernization of legacy systems.
 
 ## Highlights
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Generative AI and analytical AI serve different roles and should be matched to the decision at hand. Analytical AI suits narrow, measurable decisions, generative AI accelerates analytics and synthesis in wide, ambiguous ones, and causal machine learning covers what-if questions that plain prediction cannot answer. Treating all AI as interchangeable is why most organizations struggle to turn adoption into measurable business impact.
+Analytical AI and generative AI do different jobs, and organizations should match each to the kind of decision at hand. Narrow decisions have clear objectives, usable data and fast feedback, such as where to open a store or which customers will leave, and they suit analytical AI, with generative AI acting as an accelerator that structures unstructured data and explains results. Wide decisions have contested goals, incomplete information and political stakes, such as a brand repositioning, and generative AI helps there by surfacing assumptions, framing scenarios and making trade-offs clear, while causal machine learning answers what-if questions that plain prediction cannot. The main risk in wide decisions is mistaking AI's fluent writing for understanding. McKinsey's 2025 State of AI report found that 88 percent of companies use AI but only about 40 percent see a positive bottom-line impact, which the sources attribute to treating all AI as interchangeable.
 
 ## Highlights
 

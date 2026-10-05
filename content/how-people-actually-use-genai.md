@@ -1,6 +1,6 @@
 ## Summary
 
-Social-listening research over three years shows generative AI use shifting from technical assistance in 2024 to emotional and self-actualization needs such as therapy, life organization and finding purpose in 2025, a pattern that OpenAI's and Anthropic's own usage data broadly corroborate. A separate meta-analysis of 106 studies found that human-AI combinations underperform the best human-only or AI-only system on average and succeed only when each party is assigned the subtasks it does better.
+Research that mined online discussions over three years shows that the most common uses of generative AI shifted from technical assistance in 2024 to emotional and self-actualization needs in 2025, with therapy and companionship becoming the top use and organizing one's life and finding purpose entering the top ranks. Usage data from OpenAI and Anthropic broadly corroborate this, and all three sources show that usage is highly concentrated in a few categories, although they disagree on how much AI is used for coding. A separate meta-analysis of 106 experiments by MIT researchers found that human-AI combinations on average beat humans working alone but did not beat the better of human-only or AI-only performance. Combinations succeed mainly when each party is given the subtasks it does better, and content creation is one area where they produced a real gain.
 
 ## Highlights
 

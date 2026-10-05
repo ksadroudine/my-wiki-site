@@ -1,6 +1,6 @@
 ## Summary
 
-Strategic thinking is developed as a skill through deliberate, informal learning rather than formal training. Julia Sloan's surf-and-dive learning domains and the personal attributes of effective strategic thinkers sit alongside game theory's insight that strategic decisions must account for how other rational actors will respond.
+Strategic thinking is developed mainly through informal, self-directed learning, not through formal training programs. Julia Sloan describes effective strategic thinkers as moving between two learning modes, surfing broadly across many domains to stay exposed to new ideas and diving deeply into a specific area when something demands it. The concept also covers the personal attributes of effective strategic thinkers. It sets these beside the central insight of game theory, which is that a decision cannot be judged in isolation from how other rational actors will respond, and that a credible commitment, a deliberate and visible reduction of one's own future options, can change how rivals behave.
 
 ## Highlights
 

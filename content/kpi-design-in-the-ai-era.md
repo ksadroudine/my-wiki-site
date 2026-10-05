@@ -1,6 +1,6 @@
 ## Summary
 
-Organizations that chase a single perfect KPI fall prey to Goodhart's Law, in which a metric is gamed until it stops reflecting the goal it was meant to track. Machine learning offers four borrowed anti-overfitting techniques to counter this, and Agoda's long search for one comprehensive KPI shows why AI is often needed to build a robust metric and why the search for one KPI usually ends in three.
+Organizations that search for a single perfect performance indicator fall into Goodhart's Law, which holds that when a measure becomes a target it is gamed until it stops reflecting the goal, as in Wells Fargo's cross-selling scandal. Machine learning offers four techniques for avoiding overfitting that translate into KPI design, which are reassessing metrics against the true objective, adding unpredictability such as random audits, matching a metric's complexity to the organization's ability to oversee it and adding constraints that make gaming more costly than performing well. Agoda's long search for one comprehensive metric shows why AI is often needed to build a robust one, since its Supply Equity Points metric, which assigns a machine-learned expected margin to each business action, took five years to develop and is still unfinished. The search for one KPI usually ends with several.
 
 ## Highlights
 

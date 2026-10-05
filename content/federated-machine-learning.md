@@ -1,6 +1,6 @@
 ## Summary
 
-Federated learning lets organizations train a shared AI model on data from several decentralized sources without any party releasing its raw data, because the algorithm travels to the data rather than the data to the algorithm. A four-type data framework of poor, horizontal, vertical and rich data tells business leaders which kind of external partner would improve their own AI systems.
+Federated learning lets several organizations train a shared AI model on their combined data without any of them handing over raw data, because the training algorithm travels to each organization's data instead of the data traveling to a central location. Combined with encryption, it has allowed Zurich Insurance to improve a prediction model using Orange's data and has let competing hospitals and banks cooperate without revealing their records. The sources classify an organization's data into four types, poor, horizontal, vertical and rich, according to how many samples and how many features per sample it holds. The type of data an organization holds shows what kind of partner would improve its own AI systems, and organizations with rich data can still gain by contributing it to train other organizations' systems while keeping full ownership.
 
 ## Highlights
 

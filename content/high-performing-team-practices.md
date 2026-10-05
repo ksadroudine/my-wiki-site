@@ -1,6 +1,6 @@
 ## Summary
 
-Research on roughly 6,000 people across high-performing and average teams found that the strongest predictor of team success is a culture of experimentation rather than a concentration of talent. Teams that keep improving share five reinforcing habits, which are trying new approaches, valuing curiosity over ego, surfacing problems early, staying close to the actual work and investing deliberately in individual growth.
+Research on roughly 6,000 people in teams rated as high-performing or average found that the strongest predictor of team success is a culture of experimentation, not a concentration of talent. Teams that keep improving share five habits that reinforce one another, namely trying new approaches routinely, valuing curiosity over ego, surfacing problems early, staying close to the actual work and investing deliberately in people's growth. Surfacing problems early separates high performers most clearly from average teams, since problems caught early are cheap to fix and those caught late compound. Frequent, specific feedback, as in Adobe's overhaul of its performance reviews and Spotify's Confidence platform, supports the growth habit.
 
 ## Highlights
 

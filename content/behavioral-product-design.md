@@ -1,6 +1,6 @@
 ## Summary
 
-Products need to work well and also become habitual, and two frameworks cover these needs. Nir Eyal's Hook Model describes how triggers, actions, variable rewards and investment form user habits, while Don Norman's human-centered design principles make products usable in the first place.
+Successful products have to be both usable and habit-forming, and two frameworks address these needs. Nir Eyal's Hook Model describes a four-step cycle of trigger, action, variable reward and investment that turns repeated use into habit, and the investment step, such as a completed profile or accumulated history, is what separates a habit-forming product from one that is merely engaging. Don Norman's human-centered design principles make products usable in the first place by designing from how people actually behave and think instead of from what customers say they want or what engineers want to show off. Norman also treats unused features as a cost, since each one clutters the interface and makes the useful features harder to find.
 
 ## Highlights
 

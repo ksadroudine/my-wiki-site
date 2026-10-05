@@ -1,6 +1,6 @@
 ## Summary
 
-The seat-based subscription model of software as a service is under pressure from AI labs, AI-native startups, vibe coding and incumbents' own AI efforts, and credit markets already price the risk unevenly. Escape routes include consumption-based pricing tied to AI work performed, defensible governance and domain knowledge, and careful choices about which data to expose to agents. Companies are also rebuilding around agents as a new control layer forms above the software stack.
+The seat-based subscription model of software as a service, in which customers pay per user, is under pressure from large AI labs, AI-native startups, vibe coding and incumbents' own AI efforts, and credit markets already price the risk unevenly. Cybersecurity and vertical software that handles sensitive data in narrow niches have held up better, while software-engineering tools have fallen furthest. Seat pricing breaks down because AI agents cost the supplier more as usage grows and can replace the human users who pay the fees. McKinsey recommends moving toward pricing based on the AI work performed, and the sources add that defensible governance, domain knowledge and careful choices about which data to expose to agents are the main protections, as a new control layer forms above the software stack.
 
 ## Highlights
 

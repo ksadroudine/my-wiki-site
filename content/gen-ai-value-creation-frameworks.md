@@ -1,6 +1,6 @@
 ## Summary
 
-Most organizations adopt generative AI broadly but capture little strategic value from it, and many research teams propose complementary ways to close that gap. The sources cover task-level use-case selection, organizational structure, staged risk management, capability maturity, learning loops, testing and ways to measure return on investment, and survey evidence shows that strategic clarity combined with applied AI yields about five times the value.
+Most organizations adopt generative AI widely but capture little strategic value from it, and several research teams propose complementary ways to close that gap. MIT Sloan Management Review's study of 23 Swiss companies found that only two scaled gen AI into a strategic capability, and both had built a cross-functional structure called an AI spine that pulls business, data and technology people together. Other frameworks cover choosing use cases task by task, managing risk in stages as use moves from individual tasks to wider processes, four levels of capability maturity, feedback loops that let value compound and the temporary performance dip, known as the productivity J-curve, that often precedes gains. The sources also cover experiments and ways to measure return on investment, and survey evidence shows that strategic clarity combined with applied AI yields about five times the value.
 
 ## Highlights
 

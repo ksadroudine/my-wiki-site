@@ -1,6 +1,6 @@
 ## Summary
 
-Large language models generate statistically plausible text without understanding or feeling, yet the industry markets them with humanlike language that encourages users to form unhealthy parasocial relationships with them. Anthropic's deliberate character training of Claude toward warmth shows the same dynamic from inside a developer, including the company's own stated unease.
+Large language models produce statistically likely text without understanding or feeling anything, yet technology companies often describe them in humanlike terms, and that language encourages some users to form unhealthy one-sided emotional attachments. The sources cite cases of users who came to believe a chatbot was a spiritual guide or a god, and they point to marketing that presents AI as a replacement for human relationships. Anthropic's deliberate training of Claude to show warmth and to avoid flattery shows the same tension from inside a developer, since even its own researchers say they feel uneasy about how far users anthropomorphize the system.
 
 ## Highlights
 
