@@ -79,7 +79,7 @@
   function showConcept(slug) {
     var c = bySlug[slug];
     if (!c) { $("article").innerHTML = "<h1>Not found</h1><p>No concept called " + esc(slug) + ".</p>"; return; }
-    document.title = c.title + " — My Wiki";
+    document.title = c.title + " — Karim's Knowledge Database";
     fetch("content/" + encodeURIComponent(slug) + ".md")
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
       .then(function (md) {

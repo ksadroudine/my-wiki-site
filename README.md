@@ -1,4 +1,4 @@
-# My Wiki site
+# Karim's Knowledge Database site
 
 Static site for the Obsidian wiki concepts. Plain HTML, CSS and JavaScript, no build tools needed to view it.
 

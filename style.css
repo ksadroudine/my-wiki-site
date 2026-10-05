@@ -17,7 +17,7 @@
   --text-xlight:   #AEAAA6;
   --font-serif:    Georgia, "Times New Roman", serif;
   --font-sans:     Arial, Helvetica, sans-serif;
-  --sidebar-width: 450px;
+  --sidebar-width: 410px;
   --header-height: 76px;
   --input-bg:      rgba(255,255,255,0.7);
   --input-focus-bg:#FFFFFF;
@@ -78,7 +78,7 @@ a:hover { text-decoration: underline; color: var(--navy-hover); }
 
 summary {
   cursor: pointer; user-select: none; list-style-position: inside;
-  font-family: var(--font-sans); font-size: 9.5px; font-weight: 700;
+  font-family: var(--font-sans); font-size: 11.5px; font-weight: 700;
   letter-spacing: 0.13em; text-transform: uppercase; color: var(--salmon-dark);
   padding: 4px 0;
 }
@@ -94,7 +94,7 @@ summary {
 
 /* tag tree: second level sits under the group label */
 .tag-group { margin-top: 2px; }
-.tag-group > details > summary { font-size: 10px; color: var(--text-mid); letter-spacing: 0.08em; }
+.tag-group > details > summary { font-size: 11px; color: var(--text-mid); letter-spacing: 0.08em; }
 .tag-group details details > summary { text-transform: none; letter-spacing: 0; font-size: 12px; font-weight: 400; color: var(--text-mid); padding: 3px 0 3px 10px; }
 .tag-group .list { padding-left: 10px; }
 
@@ -104,7 +104,7 @@ summary {
 /* ── Right column: header + article ────────────────────── */
 .main { display: flex; flex-direction: column; height: 100vh; min-width: 0; background: var(--main-bg); }
 #masthead { flex: none; height: var(--header-height); padding: 0 48px; display: flex; align-items: center; justify-content: space-between; gap: 12px; background: var(--salmon); border-bottom: 1px solid var(--salmon-mid); }
-#masthead a { font-family: var(--font-sans); font-size: 30px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--salmon-dark); line-height: 1; text-decoration: none; }
+#masthead a { font-family: var(--font-sans); font-size: 26px; font-weight: 700; letter-spacing: 0.02em; color: var(--salmon-dark); line-height: 1; text-decoration: none; }
 #masthead a:hover { color: var(--navy); text-decoration: none; }
 .article { flex: 1; overflow-y: auto; padding: 0 48px 72px; background: var(--main-bg); }
 .article::-webkit-scrollbar { width: 5px; }
@@ -117,7 +117,7 @@ summary {
 .meta { font-family: var(--font-sans); font-size: 11.5px; color: var(--text-light); letter-spacing: 0.02em; margin: 10px 0 8px; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 24px; }
 .chip {
-  font-family: var(--font-sans); font-size: 9.5px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase;
+  font-family: var(--font-sans); font-size: 11.5px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase;
   padding: 2px 7px 3px; border-radius: 2px; background: var(--salmon); color: var(--salmon-dark); text-decoration: none;
 }
 .chip:hover { background: var(--salmon-mid); text-decoration: none; color: var(--text-black); }
@@ -164,7 +164,7 @@ summary {
   /* Header stays at the top while the article scrolls */
   .main { height: auto; min-height: 100vh; }
   #masthead { position: sticky; top: 0; z-index: 100; padding: 0 16px; }
-  #masthead a { font-size: 22px; }
+  #masthead a { font-size: 18px; }
 
   #filter-toggle {
     display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px;
