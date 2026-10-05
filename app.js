@@ -44,7 +44,11 @@
         ' <span class="count">(' + tags[t].length + ")</span></summary><ul class=\"list\">" + items + "</ul></details>";
     }
 
-    var html = Object.keys(groups).sort().map(function (top) {
+    var html = Object.keys(groups).sort(function (x, y) {
+      if (x === "(untagged)") return 1;
+      if (y === "(untagged)") return -1;
+      return x < y ? -1 : x > y ? 1 : 0;
+    }).map(function (top) {
       var g = groups[top];
       if (g.length === 1 && g[0].tag === top) return '<div class="tag-group">' + tagBlock(top, top) + "</div>";
       var total = {};
