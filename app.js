@@ -96,7 +96,7 @@
 
   // ---------- Article ----------
   function showHome() {
-    $("article").innerHTML = "<p class=\"muted\" style=\"margin-top:28px\">Start with the <a href=\"#/bok\">Book of Knowledge</a>, choose a concept on the left, browse by tag, or search.</p>";
+    $("article").innerHTML = "<p class=\"muted\" style=\"margin-top:28px\">Start with the <a href=\"#/bok\">Book of Knowledge</a>, choose a Concept on the left, browse by Tag, or search.</p>";
     markActive(null);
   }
 
