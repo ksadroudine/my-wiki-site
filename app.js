@@ -132,7 +132,7 @@
     bok.forEach(function (b) { (sections[b.section] = sections[b.section] || []).push(b); });
     $("article").innerHTML = "<h1>Book of Knowledge</h1>" +
       Object.keys(sections).map(function (name) {
-        return "<h2>Section: " + esc(name) + "</h2><ul>" + sections[name].map(function (b) {
+        return "<h2>Section: " + esc(name) + "</h2><ul class=\"toc-list\">" + sections[name].map(function (b) {
           return '<li><a href="#/bok/' + b.slug + '">' + esc(bokLabel(b)) + "</a> — <span class=\"muted\">" + esc(b.summary.split(". ")[0].replace(/\.$/, "")) + ".</span></li>";
         }).join("") + "</ul>";
       }).join("");
