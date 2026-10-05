@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="search">
+        <input id="search" type="search" placeholder="Search concepts…" autocomplete="off" aria-label="Search">
+      </div>
+      <div id="results" class="results" hidden></div>
+      <nav id="nav">
+        <details id="concepts-section" open>
+          <summary>Concepts <span id="concept-count" class="count"></span></summary>
+          <ul id="concept-list" class="list"></ul>
+        </details>
+        <details id="tags-section">
+          <summary>Tags</summary>
+          <div id="tag-tree"></div>
+        </details>
+      </nav>
+    </aside>
+    <main id="article" class="article">
+      <p class="muted">Loading…</p>
+    </main>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
