@@ -1,6 +1,6 @@
 ## Summary
 
-A small number of individuals and firms, chiefly Nvidia's Jensen Huang and the famous five frontier AI lab leaders, have accumulated economic and technological power comparable to historical industrial tycoons. The concept examines the historical pattern of tycoon-led technology diffusion and the 2026 political and regulatory turning point triggered by Anthropic's Mythos model.
+A small number of individuals and firms, chiefly Nvidia's Jensen Huang and the five best-known frontier AI lab leaders, have accumulated economic and technological power comparable to historical industrial tycoons. The concept examines the historical pattern of tycoon-led technology diffusion and the 2026 political and regulatory turning point triggered by Anthropic's Mythos model.
 
 ## Highlights
 

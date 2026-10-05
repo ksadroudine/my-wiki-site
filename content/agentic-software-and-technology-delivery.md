@@ -1,6 +1,6 @@
 ## Summary
 
-Agentic AI shifts the bottleneck in software delivery from writing code to review, verification, release approval and decision-making, so productivity gains stall unless organizations redesign the whole development system. Research from MIT, Bain and McKinsey shows that leaders capture value by capturing engineering knowledge for agents, automating verification, reorganizing into small pods with redistributed decision rights, running agent-driven workflows such as the 24-hour sprint and reinvesting freed capacity. The same shift compresses demand for traditional technology services while opening new value pools, which pushes providers toward agentic enablement, outcome-based pricing and forward-deployed delivery.
+Agentic AI shifts the bottleneck in software delivery from writing code to review, verification, release approval and decision-making, so productivity gains stall unless organizations redesign the end-to-end development system. Research from MIT, Bain and McKinsey shows that leaders realize value by codifying engineering knowledge for agents, automating verification, reorganizing into small pods with redistributed decision rights, running agent-driven workflows such as the 24-hour sprint and reinvesting freed capacity. The same shift compresses demand for traditional technology services while opening new value pools, which pushes providers toward agentic enablement, outcome-based pricing and forward-deployed delivery.
 
 ## Highlights
 

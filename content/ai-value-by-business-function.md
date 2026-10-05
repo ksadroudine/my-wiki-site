@@ -31,7 +31,7 @@ Bain identifies three recurring barriers standing between experimentation and th
 - [tech company operating model redesign](#/concept/tech-company-operating-model-redesign) — A companion Bain "tech report 2024" piece on how the technology function itself must be reorganized to scale generative AI, complementary to this concept's focus on where AI value shows up functionally.
 - [ai strategy](#/concept/ai-strategy) — That concept covers the staged strategy-development and adoption process that a company would use to decide which of this concept's five functions to prioritize first.
 - [measuring ai project value and quality](#/concept/measuring-ai-project-value-and-quality) — That concept covers how to measure whether an individual AI project is delivering real value, complementary to this concept's functional-level, already-realized value findings.
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — McKinsey's agent factory and agentic mesh offer a parallel account of redesigning whole processes rather than deploying tools.
+- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — McKinsey's agent factory and agentic mesh offer a parallel account of redesigning entire processes rather than deploying tools.
 
 ## Open Questions
 

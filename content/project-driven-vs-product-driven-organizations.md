@@ -1,6 +1,6 @@
 ## Summary
 
-Two HBR articles prescribe opposite ways of organizing digital work. One argues that the whole enterprise should become project-driven around a fast pipeline of short initiatives, while the other argues that IT should abandon project-based delivery for permanent digital product teams, and reconciling them suggests the real divide is between temporary infrastructure-style work suited to projects and ongoing customer-facing systems suited to products.
+Two HBR articles prescribe opposite ways of organizing digital work. One argues that the entire enterprise should become project-driven around a fast pipeline of short initiatives, while the other argues that IT should abandon project-based delivery for permanent digital product teams, and reconciling them suggests the real divide is between temporary infrastructure-style work suited to projects and ongoing customer-facing systems suited to products.
 
 ## Highlights
 
@@ -30,7 +30,7 @@ Read side by side, the two articles' apparent contradiction resolves into someth
 ## Open Questions
 
 - Neither article addresses how an organization should handle a system that starts as clearly project-appropriate (e.g., a first-generation MVP) but evolves into something customer-facing and ongoing — at what point, and by what trigger, should a project team transition into a permanent product team, and who makes that call?
-- Nieto-Rodriguez's project-driven examples (Haier, Bayer, Repsol, Saudi Arabia's PIF) are drawn from operations, manufacturing, energy, and national economic policy, while Nelson and Davenport's product examples (NYT, CarMax, Capital One) are all specifically digital/software products — it's unclear whether Nieto-Rodriguez's model, if applied narrowly to ongoing digital-product work specifically (rather than the whole enterprise), would actually produce different guidance than Nelson and Davenport's, or whether the apparent disagreement is partly an artifact of the two articles simply choosing different illustrative case studies.
+- Nieto-Rodriguez's project-driven examples (Haier, Bayer, Repsol, Saudi Arabia's PIF) are drawn from operations, manufacturing, energy, and national economic policy, while Nelson and Davenport's product examples (NYT, CarMax, Capital One) are all specifically digital/software products — it's unclear whether Nieto-Rodriguez's model, if applied narrowly to ongoing digital-product work specifically (rather than the entire enterprise), would actually produce different guidance than Nelson and Davenport's, or whether the apparent disagreement is partly an artifact of the two articles simply choosing different illustrative case studies.
 
 ## Sources
 
