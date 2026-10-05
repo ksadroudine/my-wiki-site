@@ -44,7 +44,7 @@ summary { cursor: pointer; font-weight: 600; padding: 6px 2px; user-select: none
 .results small { display: block; color: var(--muted); font-size: 12px; }
 
 /* Right column: article */
-.article { overflow-y: auto; padding: 32px 48px 64px; max-width: 900px; font-family: var(--font-article); font-size: 17px; line-height: 1.65; }
+.article { overflow-y: auto; padding: 32px 48px 64px; font-family: var(--font-article); font-size: 17px; line-height: 1.65; }
 .article h1 { font-family: var(--font); font-size: 30px; line-height: 1.2; margin: 0 0 8px; }
 .article h2 { font-family: var(--font); font-size: 20px; margin: 28px 0 8px; padding-bottom: 4px; border-bottom: 1px solid var(--border); }
 .article a { color: var(--accent); }
