@@ -1,6 +1,6 @@
 ## Summary
 
-Sovereign AI — nations and organizations building AI capability under domestic control — is following the same post-globalization arc Bain first traced through semiconductor supply chains, but McKinsey's later research on a projected $500-600 billion market finds most initiatives stall not from immature technology but from treating sovereignty as an input checklist (GPUs, data centers, national models) rather than the coordinated, multi-layer ecosystem effort it actually requires. A companion Capgemini survey of 1,300 executives extends the same logic beyond AI to the full digital tech stack, finding organizations pursuing "resilient interdependence" rather than absolute independence. The Economist and BCG add the hard geopolitical constraint underneath all of this — full independence from both US and Chinese AI stacks is "a pipe dream" for nearly every country, and the two superpowers' stacks are bifurcating fast enough that most companies will soon have to choose a side.
+Sovereign AI, meaning AI capability built under domestic control by nations and organizations, follows the same post-globalization arc that Bain traced through semiconductor supply chains. Most initiatives stall because sovereignty is treated as an input checklist instead of a coordinated, multi-layer ecosystem effort. Organizations pursue resilient interdependence rather than absolute independence, since full independence from both the US and Chinese AI stacks is unrealistic for nearly every country.
 
 ## Highlights
 
@@ -47,11 +47,11 @@ BCG's "Great Divide" analysis supplies the sharpest empirical picture of why sov
 
 ## Related
 
-- [deepseek and chinas ai ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — China's Ascend chip series and its broader 3C ecosystem (customization, cost leadership, calibration), covered there, is one of the most developed real-world examples of the sovereign-AI ecosystem dynamics analyzed abstractly in this concept
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — the 10-30% price premium enterprises perceive for sovereign AI offerings here directly informs the model-portfolio and cost-rightsizing decisions covered in depth there
-- [geopolitical fragmentation and global expansion](#/concept/geopolitical-fragmentation-and-global-expansion) — the broader geopolitical de-globalization dynamics driving both AI-specific and full-tech-stack sovereignty pursuits covered in this concept
-- [ai power concentration and new tycoons](#/concept/ai-power-concentration-and-new-tycoons) — Nvidia CEO Jensen Huang's personal "sovereign AI" pitch to foreign governments, covered there, is the vendor-side sales pitch behind the demand this concept documents
-- [ai investment bubble](#/concept/ai-investment-bubble) — Bell's Sherwood data centre protest and stalled federal review are a Canadian instance of the same rural data-centre backlash documented there
+- [deepseek and chinas ai ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — China's Ascend chip series and its broader 3C ecosystem (customization, cost leadership, calibration), covered there, is one of the most developed real-world examples of the sovereign-AI ecosystem dynamics analyzed abstractly in this concept.
+- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — The 10-30% price premium enterprises perceive for sovereign AI offerings here directly informs the model-portfolio and cost-rightsizing decisions covered in depth there.
+- [geopolitical fragmentation and global expansion](#/concept/geopolitical-fragmentation-and-global-expansion) — That concept covers the broader geopolitical de-globalization dynamics driving both AI-specific and full-tech-stack sovereignty pursuits covered in this concept.
+- [ai power concentration and new tycoons](#/concept/ai-power-concentration-and-new-tycoons) — Nvidia CEO Jensen Huang's personal "sovereign AI" pitch to foreign governments, covered there, is the vendor-side sales pitch behind the demand this concept documents.
+- [ai investment bubble](#/concept/ai-investment-bubble) — Bell's Sherwood data centre protest and stalled federal review are a Canadian instance of the same rural data-centre backlash documented there.
 
 ## Open Questions
 

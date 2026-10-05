@@ -1,6 +1,6 @@
 ## Summary
 
-Organizations keep building analytics and AI models that never make it into production, and a new operational role — the data product manager — exists specifically to translate business needs into reusable, adopted data products, while at the executive level the Chief Data Officer role itself is proving unstable, pointing toward a future where data leadership dissolves into broader business roles rather than persisting as a standalone C-suite seat. This same dissolution debate extends to whether organizations need a dedicated Chief AI Officer at all, and to a proposed synthesis role — the Chief Innovation and Transformation Officer — that combines technical, cultural, and change-management responsibility in one office.
+Organizations keep building analytics and AI models that never reach production, and a new role, the data product manager, exists to translate business needs into adopted data products. Meanwhile the Chief Data Officer role is proving unstable, which points toward data leadership dissolving into broader business roles, and the same debate extends to whether a dedicated Chief AI Officer or a combined innovation and transformation officer is needed.
 
 ## Highlights
 
@@ -35,10 +35,10 @@ While HBR's research addresses the operational role needed to turn data into dep
 
 ## Related
 
-- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — the AI spine's independent, revenue/savings-tied funding model addresses the same "prove business value or lose the mandate" pressure that this concept's CDO and CAIO research documents playing out at the executive level
-- [enterprise data strategy fundamentals](#/concept/enterprise-data-strategy-fundamentals) — the data product manager and CDO roles described here are the organizational mechanisms responsible for executing the quality, monetization, and cross-functional data-strategy work covered in depth there
-- [philosophical frameworks for ai](#/concept/philosophical-frameworks-for-ai) — cited directly by this concept's CITO source as part of the case for cultural and ethical AI leadership, not just technical oversight
-- [ai organizational design](#/concept/ai-organizational-design) — the broader thesis of AI pressuring organizations to restructure work and process, of which the C-suite leadership consolidation covered here is the executive-level instance
+- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — The AI spine's independent, revenue/savings-tied funding model addresses the same "prove business value or lose the mandate" pressure that this concept's CDO and CAIO research documents playing out at the executive level.
+- [enterprise data strategy and governance](#/concept/enterprise-data-strategy-and-governance) — The data product manager and CDO roles described here are the organizational mechanisms responsible for executing the quality, monetization, and cross-functional data-strategy work covered in depth there.
+- [philosophical frameworks for ai](#/concept/philosophical-frameworks-for-ai) — That concept is cited directly by this concept's CITO source as part of the case for cultural and ethical AI leadership, not just technical oversight.
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the broader thesis of AI pressuring organizations to restructure work and process, of which the C-suite leadership consolidation covered here is the executive-level instance.
 
 ## Open Questions
 

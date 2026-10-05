@@ -1,6 +1,6 @@
 ## Summary
 
-The Economist argues America's affordability crisis is mostly a mirage, since real wages are near record highs across incomes, with real exceptions in superstar-city housing, mortgage rates and electricity. The political anger is real and risks pushing policymakers toward price controls.
+The Economist argues that America's affordability crisis is mostly a mirage, because real wages are near record highs across income groups. There are real exceptions in superstar-city housing, mortgage rates and electricity, and the political anger is real and risks pushing policymakers toward price controls.
 
 ## Highlights
 
@@ -21,8 +21,8 @@ The accompanying leader generalises the argument: affordability combines phantom
 
 ## Related
 
-- [rich world public debt and inflation risk](#/concept/rich-world-public-debt-and-inflation-risk) — the debt-driven inflation risk analysed there would worsen the price-level grievances that drive the affordability politics documented here
-- [ai investment bubble](#/concept/ai-investment-bubble) — the data-centre electricity-price claim examined here (and found weak by the Economist's own analysis) connects to the rural and energy backlash documented there
+- [rich world public debt and inflation risk](#/concept/rich-world-public-debt-and-inflation-risk) — The debt-driven inflation risk analysed there would worsen the price-level grievances that drive the affordability politics documented here.
+- [ai investment bubble](#/concept/ai-investment-bubble) — The data-centre electricity-price claim examined here (and found weak by the Economist's own analysis) connects to the rural and energy backlash documented there.
 
 ## Open Questions
 

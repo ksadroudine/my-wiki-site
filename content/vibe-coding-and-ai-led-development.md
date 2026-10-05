@@ -1,6 +1,6 @@
 ## Summary
 
-Anthropic's Claude Code and Cowork have made "vibe coding" — building working software through natural-language conversation rather than hand-written code — accessible to non-engineers and small businesses alike, pushing Bain to argue the industry is shifting from AI-assisted to AI-led development, where the traditional boundary between product and software development breaks down entirely.
+Anthropic's Claude Code and Cowork have made vibe coding, which means building working software through natural-language conversation rather than hand-written code, accessible to non-engineers and small businesses. Small companies are already building custom CRMs to replace or avoid enterprise software, and Bain argues that the industry is shifting from AI-assisted to AI-led development, in which the traditional boundary between product and software development breaks down.
 
 ## Highlights
 
@@ -28,9 +28,9 @@ Bain situates both of these ground-level shifts — professional developers work
 
 ## Related
 
-- [managing technical debt in the ai era](#/concept/managing-technical-debt-in-the-ai-era) — Bain's warning that rising velocity can mask growing technical debt, and the FT's "comprehension debt" concern, are the direct risk-side counterpart to this concept's productivity-gain narrative
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — the same Claude Code adoption driving the productivity gains documented here is also the proximate cause of the token-cost rationing (Microsoft limiting Claude Code access, Uber's budget exhaustion) documented there
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — MCP, cited here as one of Anthropic's two key breakthroughs, is the same interoperability protocol covered in architectural depth in that concept
+- [managing technical debt in the ai era](#/concept/managing-technical-debt-in-the-ai-era) — Bain's warning that rising velocity can mask growing technical debt, and the FT's "comprehension debt" concern, are the direct risk-side counterpart to this concept's productivity-gain narrative.
+- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — The same Claude Code adoption driving the productivity gains documented here is also the proximate cause of the token-cost rationing (Microsoft limiting Claude Code access, Uber's budget exhaustion) documented there.
+- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — MCP, cited here as one of Anthropic's two key breakthroughs, is the same interoperability protocol covered in architectural depth in that concept.
 
 ## Open Questions
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Ethan Mollick's account of writing a book with judicious, tool-like AI assistance. Also covers the emerging, separate problem of designing web content to be read, evaluated, and recommended by AI agents rather than by human visitors.
+Ethan Mollick describes writing a book with judicious, tool-like AI assistance while drafting every chapter himself. The concept also covers a new problem, designing web content that AI agents will read, evaluate and recommend on behalf of human visitors.
 
 ## Highlights
 
@@ -26,8 +26,7 @@ The broader arc the author draws from this experience is that the working relati
 
 ## Related
 
-- [prompt engineering](#/concept/prompt-engineering) — the practical prompting and iterative-use techniques (Cyborg-style back-and-forth with an AI reader/editor) that this concept's book-writing process applies directly
-- [jagged frontier centaurs cyborgs](#/concept/jagged-frontier-centaurs-cyborgs) — the same author's earlier, more systematic account of the Centaur/Cyborg human-AI division of labor this essay's writing process is a personal illustration of
+- [working with generative ai](#/concept/working-with-generative-ai) — That concept covers the practical prompting and iterative-use techniques (Cyborg-style back-and-forth with an AI reader/editor) that this concept's book-writing process applies directly. The same author's earlier, more systematic account of the Centaur/Cyborg human-AI division of labor this essay's writing process is a personal illustration of.
 
 ## Open Questions
 

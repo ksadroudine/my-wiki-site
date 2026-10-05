@@ -1,6 +1,6 @@
 ## Summary
 
-Predictive AI and generative AI are transforming two distinct layers of the sales function — predictive AI optimizes internal sales operations like territory design, quotas, and forecasting, while generative AI helps individual reps conduct sharper customer-discovery research before every conversation. Both shift sales from generic, volume-driven outreach toward customer-specific, insight-driven engagement. Two 2026 consulting studies add evidence on agentic AI at the top of the funnel and a five-journey model for rewiring B2B commercial operations.
+Predictive AI optimizes internal sales operations such as territory design, quotas and forecasting, while generative AI helps individual reps research customers before each conversation. Both shift sales from generic, volume-driven outreach toward customer-specific engagement, and recent studies add evidence on agentic AI at the top of the funnel and a five-journey model for rewiring B2B commercial operations.
 
 ## Highlights
 
@@ -32,10 +32,10 @@ Read together, the two articles describe AI transforming sales at two different 
 
 ## Related
 
-- [matching ai type to decision type](#/concept/matching-ai-type-to-decision-type) — a complementary general framework for calibrating analytical (predictive) AI versus generative AI to a decision; this concept's predictive-vs-generative sales split is a specific, function-level instance of that same underlying logic
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — covers the broader organizational and cultural barriers to AI adoption this concept's sales-specific findings (relationship-driven vs. data-driven culture resistance) directly instantiate
-- [agentic marketing transformation](#/concept/agentic-marketing-transformation) — BCG's CMO-side transformation research covers the marketing half of the same commercial engine this concept's sales material addresses
-- [telecom b2b customer demand trends](#/concept/telecom-b2b-customer-demand-trends) — McKinsey's B2B buyer data there shares the Pulse survey lineage with the B2B growth-champion findings here
+- [matching ai type to decision type](#/concept/matching-ai-type-to-decision-type) — A complementary general framework for calibrating analytical (predictive) AI versus generative AI to a decision; this concept's predictive-vs-generative sales split is a specific, function-level instance of that same underlying logic.
+- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — That concept covers the broader organizational and cultural barriers to AI adoption this concept's sales-specific findings (relationship-driven vs. data-driven culture resistance) directly instantiate.
+- [agentic marketing transformation](#/concept/agentic-marketing-transformation) — BCG's CMO-side transformation research covers the marketing half of the same commercial engine this concept's sales material addresses.
+- [telecom growth beyond core](#/concept/telecom-growth-beyond-core) — McKinsey's B2B buyer data there shares the Pulse survey lineage with the B2B growth-champion findings here.
 
 ## Open Questions
 

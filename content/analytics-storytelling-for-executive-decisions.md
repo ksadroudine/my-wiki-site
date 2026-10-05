@@ -1,16 +1,16 @@
 ## Summary
 
-A four-layer framework — data, analytics, decision, narrative — for building analytics models that executives actually act on, developed by Google's SMB analytics team after a technically sound staffing model failed to gain traction. Each layer targets a specific failure mode, from inconsistent metric definitions through to poor storytelling.
+Analytics models change decisions only when they are built for how executives decide, and a four-layer framework of data, analytics, decision and narrative addresses this. Google's small-business analytics team developed it after a technically sound staffing model failed to gain traction, and each layer targets a specific failure mode, from inconsistent metric definitions to poor storytelling.
 
 ## Highlights
 
 - A Google SMB analytics team built a sophisticated model forecasting staffing needs across more than 100 countries, complete with seasonality, geography, and customer-prioritization rules — but senior stakeholders showed little enthusiasm and the resulting business decision stalled, because the presentation lacked practical business framing.
-- The core lesson: analytics must be built for how decisions are made, not just how data is analyzed — sophisticated, technically validated models routinely fail to gain traction with executives if they lack a clear narrative and business context.
+- The core lesson is that analytics must be built for how decisions are made, not just how data is analyzed — sophisticated, technically validated models routinely fail to gain traction with executives if they lack a clear narrative and business context.
 - The four-layer framework — data, analytics, decision, narrative — is a pyramid where each layer builds on the one below it, and each targets a distinct, specific source of executive disengagement rather than treating "storytelling" as a single post-hoc communication problem.
-- Data layer: inconsistent metric definitions silently corrupt downstream analysis — different teams counted "customer meeting" so differently (from a brief email to an all-day conference) that reported meeting counts varied by more than 2x across regions, producing wildly different staffing recommendations until a single cross-functional definition was agreed and enforced.
-- Analytics layer: executives prioritize model explainability and practical relevance over technical sophistication, so the team built an interactive model with transparent, adjustable key drivers (meeting frequency, meeting length, available rep time) that recalculated staffing impact in real time and highlighted which specific drivers caused a result to shift.
-- Decision layer: outputs must be grounded in real-world constraints (e.g. country-specific labor laws requiring native-speaker representatives) — rather than building every legal and operational constraint into the model itself, the team instead labeled which levers were actually feasible, which shifted discussion from questioning the model's legitimacy to optimizing within known boundaries.
-- Narrative layer: storytelling was embedded into the structure of the analysis from the start rather than added as dashboard polish at the end — presentations led with business context and the decision at stake (e.g. the effect of a 10% efficiency increase) before descending into supporting technical detail, the reverse of a typical technical-logic-first walkthrough.
+- At the data layer, inconsistent metric definitions silently corrupt downstream analysis — different teams counted "customer meeting" so differently (from a brief email to an all-day conference) that reported meeting counts varied by more than 2x across regions, producing wildly different staffing recommendations until a single cross-functional definition was agreed and enforced.
+- At the analytics layer, executives prioritize model explainability and practical relevance over technical sophistication, so the team built an interactive model with transparent, adjustable key drivers (meeting frequency, meeting length, available rep time) that recalculated staffing impact in real time and highlighted which specific drivers caused a result to shift.
+- At the decision layer, outputs must be grounded in real-world constraints (e.g. country-specific labor laws requiring native-speaker representatives) — rather than building every legal and operational constraint into the model itself, the team instead labeled which levers were actually feasible, which shifted discussion from questioning the model's legitimacy to optimizing within known boundaries.
+- At the narrative layer, storytelling was embedded into the structure of the analysis from the start rather than added as dashboard polish at the end — presentations led with business context and the decision at stake (e.g. the effect of a 10% efficiency increase) before descending into supporting technical detail, the reverse of a typical technical-logic-first walkthrough.
 - The framework has since been applied beyond its original staffing use case to sales strategy optimization, business planning, and executive decision enablement at Google SMB, and has been adopted by cross-functional teams in Google's finance and marketing organizations.
 
 ## Concept
@@ -23,8 +23,8 @@ Since its initial application to global sales capacity planning, the framework h
 
 ## Related
 
-- [kpi design in the ai era](#/concept/kpi-design-in-the-ai-era) — a complementary concern with designing metrics and KPIs that hold up under real organizational use, paralleling this concept's data-layer emphasis on shared, unambiguous metric definitions
-- [how people actually use genai](#/concept/how-people-actually-use-genai) — shares this concept's underlying theme that a tool's technical quality is not sufficient for adoption; usability and trust in how output is framed and understood matter as much as raw capability
+- [kpi design in the ai era](#/concept/kpi-design-in-the-ai-era) — That concept provides a complementary concern with designing metrics and KPIs that hold up under real organizational use, paralleling this concept's data-layer emphasis on shared, unambiguous metric definitions.
+- [how people actually use genai](#/concept/how-people-actually-use-genai) — That concept shares this concept's underlying theme that a tool's technical quality is not sufficient for adoption; usability and trust in how output is framed and understood matter as much as raw capability.
 
 ## Open Questions
 

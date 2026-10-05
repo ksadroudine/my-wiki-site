@@ -1,6 +1,6 @@
 ## Summary
 
-How RAG lets an LLM ground its answers in an organization's own up-to-date, proprietary data. Covers the ingestion phase that indexes content as vector embeddings, the retrieval phase that fetches and synthesizes relevant material for a query, the data-quality, bias, and licensing challenges that determine whether a RAG system is actually trustworthy, and six practical tactics for deploying it responsibly at enterprise scale. Also covers fine-tuning as RAG's costlier alternative and prompt engineering as a complementary technique.
+Retrieval-augmented generation lets a large language model ground its answers in an organization's own up-to-date, proprietary data. The concept covers the ingestion phase that indexes content as vector embeddings, the retrieval phase that fetches and synthesizes relevant material, the data-quality, bias and licensing challenges that decide whether a system is trustworthy, six tactics for deploying it responsibly, and fine-tuning and prompt engineering as alternatives and complements.
 
 ## Highlights
 
@@ -40,9 +40,9 @@ RAG itself continues to evolve along three fronts. Standardization of the underl
 
 ## Related
 
-- [llm mechanics and limitations](#/concept/llm-mechanics-and-limitations) — RAG is one of the primary mitigations discussed there for LLM hallucination and knowledge limitations
-- [agentic ai fundamentals](#/concept/agentic-ai-fundamentals) — custom AI agents commonly use RAG as their mechanism for grounding actions in enterprise-specific proprietary data
-- [ai guardrails](#/concept/ai-guardrails) — data-quality and bias guardrails are the operational mechanism for managing the RAG failure modes (stale data, bias, licensing) identified here
+- [llm mechanics limitations and scaling](#/concept/llm-mechanics-limitations-and-scaling) — RAG is one of the primary mitigations discussed there for LLM hallucination and knowledge limitations.
+- [agentic ai fundamentals](#/concept/agentic-ai-fundamentals) — Custom AI agents commonly use RAG as their mechanism for grounding actions in enterprise-specific proprietary data.
+- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — Data-quality and bias guardrails are the operational mechanism for managing the RAG failure modes (stale data, bias, licensing) identified here.
 
 ## Open Questions
 

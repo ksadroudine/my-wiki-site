@@ -1,6 +1,6 @@
 ## Summary
 
-A small but growing number of executives are creating AI replicas trained on their own writing, speeches, and communication style to handle routine tasks, public appearances, and employee questions on their behalf. Early adopters report substantial time savings, but the practice raises unresolved questions about accuracy, workforce acceptance, and who owns the accumulated knowledge.
+A small but growing number of executives are creating AI replicas trained on their own writing, speeches and communication style to handle routine tasks, public appearances and employee questions. Early adopters report substantial time savings, but the practice raises unresolved questions about accuracy, workforce acceptance and who owns the accumulated knowledge.
 
 ## Highlights
 
@@ -23,8 +23,8 @@ The article closes on the practice's most unresolved dimension: ownership of the
 
 ## Related
 
-- [ai organizational design](#/concept/ai-organizational-design) — a broader account of AI redistributing organizational work and hierarchy, of which the executive-digital-twin pattern is one specific, high-profile instance
-- [Strategy in an Era of Abundant Expertise](#/concept/ai-abundant-expertise-strategy) — the economic logic (collapsing cost of accessing expertise) that helps explain why replicating a single executive's judgment at scale is now commercially attractive
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept provides a broader account of AI redistributing organizational work and hierarchy, of which the executive-digital-twin pattern is one specific, high-profile instance.
+- [Strategy in an Era of Abundant Expertise](#/concept/ai-sustainable-competitive-advantage) — That concept covers the economic logic (collapsing cost of accessing expertise) that helps explain why replicating a single executive's judgment at scale is now commercially attractive.
 
 ## Open Questions
 

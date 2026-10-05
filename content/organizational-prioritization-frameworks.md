@@ -1,6 +1,6 @@
 ## Summary
 
-Why individuals and organizations are systematically bad at prioritization — people struggle to abandon goals even when pursuing all of them guarantees failure, and companies accumulate so many "priorities" that attention gets spread too thin (the "peanut-butter problem"). Surveys common frameworks (Eisenhower matrix, RICE, MoSCoW, 70:20:10) and argues explicit deprioritization rules matter as much as picking a framework.
+Individuals and organizations are systematically bad at prioritization, because people struggle to abandon goals even when pursuing all of them guarantees failure and companies accumulate so many priorities that attention is spread too thin. The concept surveys common frameworks such as the Eisenhower matrix, RICE, MoSCoW and 70:20:10 and argues that explicit deprioritization rules matter as much as the choice of framework.
 
 ## Highlights
 
@@ -21,8 +21,8 @@ Choosing a framework, however, solves only part of the problem, since establishi
 
 ## Related
 
-- [enterprise negotiation tactics](#/concept/enterprise-negotiation-tactics) — that concept's advice to decide upfront which deals and issues are worth negotiating hard is the same prioritization discipline applied specifically to enterprise dealmaking
-- [pyramid principle](#/concept/pyramid-principle) — Minto's MECE grouping discipline is a complementary structuring tool for the kind of clear, unambiguous priority communication this concept finds most organizations fail at
+- [enterprise negotiation tactics](#/concept/enterprise-negotiation-tactics) — That concept's advice to decide upfront which deals and issues are worth negotiating hard is the same prioritization discipline applied specifically to enterprise dealmaking.
+- [pyramid principle](#/concept/pyramid-principle) — Minto's MECE grouping discipline is a complementary structuring tool for the kind of clear, unambiguous priority communication this concept finds most organizations fail at.
 
 ## Open Questions
 

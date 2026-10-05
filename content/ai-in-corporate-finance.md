@@ -1,6 +1,6 @@
 ## Summary
 
-AI reliably outperforms humans at tactical finance tasks — short-term budget allocation, forecasting, variance analysis — but strategic financial planning under uncertainty still depends on human judgment. Even where this split is well understood, most finance functions remain stuck at the pilot stage because the constraint is leadership practice and culture, not the technology itself. A Hackett Group benchmark study models large order-to-cash gains from redesigning finance processes around AI rather than automating tasks.
+AI reliably outperforms humans at tactical finance tasks such as short-term budget allocation, forecasting and variance analysis, but strategic financial planning under uncertainty still depends on human judgment. Most finance functions remain stuck at the pilot stage because the constraint is leadership practice and culture rather than technology, although process-level redesign shows large potential gains in areas such as order-to-cash.
 
 ## Highlights
 
@@ -28,9 +28,8 @@ The Hackett Group's June 2026 study argues that finance's value comes from end-t
 
 ## Related
 
-- [ai organizational design](#/concept/ai-organizational-design) — the general thesis of AI pressuring organizational and leadership practice to change, of which this concept's finance-function-specific leadership findings are one domain instance
-- [gen ai organizational learning and knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — covers organizational learning mechanisms for gen AI more broadly, complementary to this concept's finance-specific experimentation and diffusion practices
-- [ai driven process and work redesign](#/concept/ai-driven-process-and-work-redesign) — the process-redesign methods there are the general version of the finance-specific redesign Hackett describes
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general thesis of AI pressuring organizational and leadership practice to change, of which this concept's finance-function-specific leadership findings are one domain instance. The process-redesign methods there are the general version of the finance-specific redesign Hackett describes.
+- [gen ai organizational learning and knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — That concept covers organizational learning mechanisms for gen AI more broadly, complementary to this concept's finance-specific experimentation and diffusion practices.
 
 ## Open Questions
 

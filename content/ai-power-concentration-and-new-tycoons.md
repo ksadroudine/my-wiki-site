@@ -1,6 +1,6 @@
 ## Summary
 
-How a small number of individuals and firms — chiefly Nvidia's Jensen Huang and the "famous five" frontier AI lab leaders — have accumulated concentrated economic and technological power comparable to historical industrial tycoons. Examines the historical pattern of tycoon-led technology diffusion, and the specific 2026 political and regulatory turning point triggered by Anthropic's Mythos model.
+A small number of individuals and firms, chiefly Nvidia's Jensen Huang and the famous five frontier AI lab leaders, have accumulated economic and technological power comparable to historical industrial tycoons. The concept examines the historical pattern of tycoon-led technology diffusion and the 2026 political and regulatory turning point triggered by Anthropic's Mythos model.
 
 ## Highlights
 
@@ -25,9 +25,9 @@ A third source personalizes this concentration-of-power theme through the one AI
 
 ## Related
 
-- [ai investment bubble](#/concept/ai-investment-bubble) — Nvidia's central role in this concept's account of personal and corporate power converts directly into the concentrated financial risk documented there, via Nvidia's vendor-financing web and centrality to hyperscaler capex
-- [banking cybersecurity ai threats](#/concept/banking-cybersecurity-ai-threats) — covers the same Mythos-triggered event from the banking-sector cybersecurity-defense angle, complementing this concept's political and power-concentration framing of the same episode
-- [sovereign ai ecosystems](#/concept/sovereign-ai-ecosystems) — Huang's "sovereign AI" pitch to foreign governments is the vendor-side counterpart to the national AI-infrastructure strategies examined there
+- [ai investment bubble](#/concept/ai-investment-bubble) — Nvidia's central role in this concept's account of personal and corporate power converts directly into the concentrated financial risk documented there, via Nvidia's vendor-financing web and centrality to hyperscaler capex.
+- [banking cybersecurity ai threats](#/concept/banking-cybersecurity-ai-threats) — That concept covers the same Mythos-triggered event from the banking-sector cybersecurity-defense angle, complementing this concept's political and power-concentration framing of the same episode.
+- [sovereign ai ecosystems](#/concept/sovereign-ai-ecosystems) — Huang's "sovereign AI" pitch to foreign governments is the vendor-side counterpart to the national AI-infrastructure strategies examined there.
 
 ## Open Questions
 

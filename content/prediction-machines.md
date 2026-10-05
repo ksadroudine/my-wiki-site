@@ -1,6 +1,6 @@
 ## Summary
 
-An economic framing of AI as a technology that makes prediction cheap, which raises the value of its complements — data, judgment, action — while reducing the value of substitutes like human prediction. Requires decomposing any decision into prediction, judgment, and action to see where automation actually makes sense.
+AI can be understood economically as a technology that makes prediction cheap, which raises the value of its complements, namely data, judgment and action, and lowers the value of substitutes such as human prediction. Seeing where automation makes sense requires decomposing any decision into prediction, judgment and action.
 
 ## Highlights
 
@@ -27,10 +27,10 @@ This job-level anxiety about AI-driven change is a documented worker-side phenom
 
 ## Related
 
-- [ai strategy](#/concept/ai-strategy) — this concept's AI canvas and task-decomposition discipline is a concrete methodology for the "know a realistic range of AI use cases and capability boundaries" component of Executive AI Fluency
-- [jagged frontier centaurs cyborgs](#/concept/jagged-frontier-centaurs-cyborgs) — the empirical BCG/Harvard study's finding that overreliance on AI degrades human performance on tasks outside its capability is a real-world instance of this concept's "unknown knowns" failure mode, where a confident-sounding AI prediction is actually wrong
-- [ai risk prediction tool failures](#/concept/ai-risk-prediction-tool-failures) — the vendor "human in the loop" bait-and-switch pattern documented there is a direct organizational failure to properly decompose prediction from judgment as this concept recommends
-- [ai factory](#/concept/ai-factory) — describes the data pipeline and algorithm infrastructure that operationalizes prediction machines at firm scale
+- [ai strategy](#/concept/ai-strategy) — This concept's AI canvas and task-decomposition discipline is a concrete methodology for the "know a realistic range of AI use cases and capability boundaries" component of Executive AI Fluency.
+- [working with generative ai](#/concept/working-with-generative-ai) — The empirical BCG/Harvard study's finding that overreliance on AI degrades human performance on tasks outside its capability is a real-world instance of this concept's "unknown knowns" failure mode, where a confident-sounding AI prediction is actually wrong.
+- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — The vendor "human in the loop" bait-and-switch pattern documented there is a direct organizational failure to properly decompose prediction from judgment as this concept recommends.
+- [ai factory](#/concept/ai-factory) — That concept describes the data pipeline and algorithm infrastructure that operationalizes prediction machines at firm scale.
 
 ## Open Questions
 

@@ -1,6 +1,6 @@
 ## Summary
 
-Forecasts of AI's economic significance diverge sharply depending on what is actually being measured. Bain projects the AI technology market itself growing to nearly a trillion dollars by 2027, Nobel laureate economist Daron Acemoglu argues AI's actual contribution to GDP and productivity over the next decade will be comparatively modest, and separate labor-economics research suggests even a modest aggregate effect could still reshape which U.S. cities win and lose.
+Forecasts of the economic significance of AI diverge sharply depending on what is measured. Bain projects the AI technology market growing to nearly a trillion dollars by 2027, Daron Acemoglu expects only a modest contribution to GDP and productivity over the next decade, and labor-economics research suggests that even a modest aggregate effect could reshape which US cities win and lose.
 
 ## Highlights
 
@@ -26,8 +26,8 @@ Read together, the three sources are not directly contradicting each other so mu
 
 ## Related
 
-- [ai investment bubble](#/concept/ai-investment-bubble) — examines whether the financial structure behind current AI infrastructure spending meets a strict definition of an economic bubble, a related but distinct question from this concept's focus on the market-size-versus-GDP-impact gap
-- [Strategy in an Era of Abundant Expertise](#/concept/ai-abundant-expertise-strategy) — a complementary account of how AI collapses the cost of accessing expertise, offering one mechanism by which Acemoglu's "reliable, context-dependent information" prescription might actually be realized in practice
+- [ai investment bubble](#/concept/ai-investment-bubble) — That concept examines whether the financial structure behind current AI infrastructure spending meets a strict definition of an economic bubble, a related but distinct question from this concept's focus on the market-size-versus-GDP-impact gap.
+- [Strategy in an Era of Abundant Expertise](#/concept/ai-sustainable-competitive-advantage) — A complementary account of how AI collapses the cost of accessing expertise, offering one mechanism by which Acemoglu's "reliable, context-dependent information" prescription might actually be realized in practice.
 
 ## Open Questions
 

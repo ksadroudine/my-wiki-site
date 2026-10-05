@@ -1,6 +1,6 @@
 ## Summary
 
-Sarah Frier's account of how Instagram grew by deliberately rejecting Facebook's "move fast and break things" culture in favor of community-first curation, editorial taste-making, and simplicity. Also covers how metrics-driven optimization for likes and followers nonetheless reshaped user behavior into an influencer economy over time.
+Sarah Frier describes how Instagram grew by deliberately rejecting Facebook's move-fast-and-break-things culture in favor of community-first curation, editorial taste-making and simplicity. Metrics-driven optimization for likes and followers nonetheless reshaped user behavior into an influencer economy over time.
 
 ## Highlights
 
@@ -21,9 +21,9 @@ Despite this deliberate cultural distinction, the source documents Instagram con
 
 ## Related
 
-- [platform business models](#/concept/platform-business-models) — Instagram's curation and matching decisions (suggested user list, editorial content strategy) are a real-world instance of the "facilitate" and "match" functions described in that concept's platform-design framework
-- [behavioral product design](#/concept/behavioral-product-design) — the metrics-driven behavior change documented here (users optimizing for likes/followers) is a large-scale case of the same behavior-design mechanisms covered in the Hook Model
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — contrasts with Instagram's deliberately manual, human-curated approach to personalization versus the largely algorithmic approaches described there
+- [platform business models](#/concept/platform-business-models) — Instagram's curation and matching decisions (suggested user list, editorial content strategy) are a real-world instance of the "facilitate" and "match" functions described in that concept's platform-design framework.
+- [behavioral product design](#/concept/behavioral-product-design) — The metrics-driven behavior change documented here (users optimizing for likes/followers) is a large-scale case of the same behavior-design mechanisms covered in the Hook Model.
+- [customer personalization strategy](#/concept/customer-personalization-strategy) — That concept contrasts with Instagram's deliberately manual, human-curated approach to personalization versus the largely algorithmic approaches described there.
 
 ## Open Questions
 

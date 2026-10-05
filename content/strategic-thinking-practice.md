@@ -1,6 +1,6 @@
 ## Summary
 
-How strategic thinking is developed as a skill through deliberate, informal learning rather than formal training. Covers Julia Sloan's "surf and dive" learning domains and the personal attributes of effective strategic thinkers, alongside game theory's core insight that strategic decisions must account for how other rational actors will respond.
+Strategic thinking is developed as a skill through deliberate, informal learning rather than formal training. Julia Sloan's surf-and-dive learning domains and the personal attributes of effective strategic thinkers sit alongside game theory's insight that strategic decisions must account for how other rational actors will respond.
 
 ## Highlights
 
@@ -16,8 +16,8 @@ Thinking Strategically (Avinash Dixit and Barry Nalebuff) contributes game theor
 
 ## Related
 
-- [pyramid principle](#/concept/pyramid-principle) — both concepts address structured habits of thought (argument structuring there, strategic-input synthesis here) that improve the quality of business reasoning independent of subject-matter expertise
-- [corporate value creation](#/concept/corporate-value-creation) — the "best owner" cornerstone and acquisition-archetype analysis there are exercises in exactly the kind of strategic, competitor-aware reasoning this concept's game-theory component describes
+- [pyramid principle](#/concept/pyramid-principle) — Both concepts address structured habits of thought (argument structuring there, strategic-input synthesis here) that improve the quality of business reasoning independent of subject-matter expertise.
+- [corporate value creation](#/concept/corporate-value-creation) — The "best owner" cornerstone and acquisition-archetype analysis there are exercises in exactly the kind of strategic, competitor-aware reasoning this concept's game-theory component describes.
 
 ## Open Questions
 

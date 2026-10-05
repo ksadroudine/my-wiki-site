@@ -1,6 +1,6 @@
 ## Summary
 
-R&D productivity has been declining for decades — it now costs 18 times more to sustain Moore's Law than in 1971, and drug approvals per R&D dollar have fallen roughly 80-fold since 1950. McKinsey identifies three specific channels through which AI can reverse this decline, together worth an estimated $360-560 billion in annual economic value.
+R&D productivity has been falling for decades, with sustaining Moore's Law costing 18 times more than in 1971 and drug approvals per R&D dollar down roughly 80-fold since 1950. McKinsey identifies three channels through which AI can reverse this decline, including faster design generation and surrogate models that replace slow simulations, together worth an estimated $360 to $560 billion in annual value.
 
 ## Highlights
 
@@ -25,9 +25,9 @@ Realizing this potential, per the article, depends on organizational changes wel
 
 ## Related
 
-- [organizational innovation capability](#/concept/organizational-innovation-capability) — the general organizational-capability-building discipline (business-model design, strategic-innovation function, scaling playbook, external ecosystem engagement) that this concept's AI-specific acceleration channels operate alongside, and depend on for actually converting throughput gains into commercialized value
-- [ai abundant expertise strategy](#/concept/ai-abundant-expertise-strategy) — a complementary Coase-based account of how AI collapses the cost of accessing expertise, a related but distinct mechanism from this concept's design-generation and evaluation-acceleration channels
-- [ai ml fundamentals](#/concept/ai-ml-fundamentals) — the foundation-model and deep-learning mechanics this concept's design-generation and surrogate-model channels are built on
+- [organizational innovation capability](#/concept/organizational-innovation-capability) — That concept covers the general organizational-capability-building discipline (business-model design, strategic-innovation function, scaling playbook, external ecosystem engagement) that this concept's AI-specific acceleration channels operate alongside, and depend on for actually converting throughput gains into commercialized value.
+- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — A complementary Coase-based account of how AI collapses the cost of accessing expertise, a related but distinct mechanism from this concept's design-generation and evaluation-acceleration channels.
+- [ai and machine learning foundations](#/concept/ai-and-machine-learning-foundations) — The foundation-model and deep-learning mechanics this concept's design-generation and surrogate-model channels are built on.
 
 ## Open Questions
 

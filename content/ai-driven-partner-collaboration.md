@@ -1,6 +1,6 @@
 ## Summary
 
-AI is reshaping how organizations collaborate with external partners — competitors included — by enabling new forms of data integration, multi-agent coordination, and shared AI-powered products across bilateral relationships, multi-partner ecosystems, and research consortia. A six-step blueprint covers deciding what to transform, building diverse partnerships, developing shared value-added services, and prioritizing ethics as data-sharing scales; a companion BCG framework adds four tech-industry partnership archetypes and six pitfalls specific to the agentic-AI era, where nine in ten such partnerships currently fail to meet their goals. A second BCG/AWS survey maps how partner-type engagement shifts across five GenAI maturity phases, from early-stage strategy consulting to agentic-transformation orchestration.
+AI is reshaping how organizations work with external partners, including competitors, through shared data integration, multi-agent coordination and jointly built AI products. The sources offer a six-step blueprint, four partnership archetypes, pitfalls specific to the agentic era, and a view of how the right partner type changes as a company's generative AI maturity grows.
 
 ## Highlights
 
@@ -28,9 +28,9 @@ From this analysis, the article proposes a six-step blueprint spanning strategic
 
 ## Related
 
-- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — covers the related but distinct question of whether AI itself confers durable advantage; this concept's ecosystem partnerships are one candidate mechanism for building the kind of hard-to-replicate collaborative moat that concept's sources treat as increasingly rare
-- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — the AutoGen-style multi-agent coordination this concept describes as an emerging collaboration substrate raises the same security and accountability questions that concept addresses for agentic AI deployments generally
-- [telecom ai scaling playbook](#/concept/telecom-ai-scaling-playbook) — KPN's partnership with McKinsey/QuantumBlack to build in-house agentic capability, documented there, is a concrete real-world instance of this concept's Tech Co-creator archetype
+- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — That concept covers the related but distinct question of whether AI itself confers durable advantage; this concept's ecosystem partnerships are one candidate mechanism for building the kind of hard-to-replicate collaborative moat that concept's sources treat as increasingly rare.
+- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — The AutoGen-style multi-agent coordination this concept describes as an emerging collaboration substrate raises the same security and accountability questions that concept addresses for agentic AI deployments generally.
+- [telecom ai transformation](#/concept/telecom-ai-transformation) — KPN's partnership with McKinsey/QuantumBlack to build in-house agentic capability, documented there, is a concrete real-world instance of this concept's Tech Co-creator archetype.
 
 ## Open Questions
 

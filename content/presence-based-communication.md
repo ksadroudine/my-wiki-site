@@ -1,6 +1,6 @@
 ## Summary
 
-As AI can generate scripts, polish slides, and coach delivery, what actually differentiates a business communicator is presence — verifiable human presentation across a widening toolkit of formats. Trust in AI-generated content erodes precisely because AI cannot explain its reasoning, making confirmed human authorship newly valuable, while audiences increasingly expect conversational rather than one-way formats. A Globe and Mail column on managing a career narrative extends the theme to deliberate self-presentation.
+As AI can generate scripts, polish slides and coach delivery, what differentiates a business communicator is presence, meaning verifiable human presentation across a widening toolkit of formats. Trust in AI-generated content erodes because AI cannot explain its reasoning, which makes confirmed human authorship newly valuable, and audiences increasingly expect conversational formats and deliberate self-presentation.
 
 ## Highlights
 
@@ -25,10 +25,9 @@ To actually "own the room" across this widened landscape, the article identifies
 
 ## Related
 
-- [pyramid principle](#/concept/pyramid-principle) — a complementary discipline for structuring written business communication specifically, addressing the same underlying persuasion challenge this concept covers for live and multi-format presentation
-- [constructive disagreement language](#/concept/constructive-disagreement-language) — shares this concept's core finding that observable behavior (specific language and delivery choices), not underlying intention or content quality alone, is what determines a communication's actual effect on an audience
-- [co intelligence working with ai](#/concept/co-intelligence-working-with-ai) — the broader framework for calibrating what AI should versus shouldn't be delegated, a judgment call this concept applies specifically to presentation preparation and delivery
-- [constructive disagreement language](#/concept/constructive-disagreement-language) — another account of how observable language shapes how others perceive intentions
+- [pyramid principle](#/concept/pyramid-principle) — A complementary discipline for structuring written business communication specifically, addressing the same underlying persuasion challenge this concept covers for live and multi-format presentation.
+- [constructive disagreement language](#/concept/constructive-disagreement-language) — That concept shares this concept's core finding that observable behavior (specific language and delivery choices), not underlying intention or content quality alone, is what determines a communication's actual effect on an audience. Another account of how observable language shapes how others perceive intentions.
+- [working with generative ai](#/concept/working-with-generative-ai) — The broader framework for calibrating what AI should versus shouldn't be delegated, a judgment call this concept applies specifically to presentation preparation and delivery.
 
 ## Open Questions
 

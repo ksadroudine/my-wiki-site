@@ -1,6 +1,6 @@
 ## Summary
 
-BCG's series on building an AI-first senior leadership team argues each C-suite function — people, marketing, transformation, finance, operations, and technology — needs a fundamentally redefined mandate, not just AI tools layered onto old job descriptions. Across every role the same pattern holds — only about 5% of companies capture significant bottom-line AI value, and BCG attributes success roughly 70% to people and process, 20% to technology, and 10% to the algorithms themselves.
+Building an AI-first leadership team means redefining the mandate of each senior role, including people, marketing, transformation, finance, operations and technology, rather than adding AI tools to old job descriptions. Only about 5 percent of companies capture significant bottom-line AI value, and BCG attributes success roughly 70 percent to people and process, 20 percent to technology and 10 percent to algorithms.
 
 ## Highlights
 
@@ -33,9 +33,9 @@ Across all six roles, BCG returns repeatedly to the same underlying ratio, somet
 
 ## Related
 
-- [data leadership roles evolution](#/concept/data-leadership-roles-evolution) — a complementary, more skeptical account of whether the CDO and Chief AI Officer titles should persist as standalone C-suite seats at all, which stands in some tension with this concept's assumption that existing C-suite roles simply need re-mandating
-- [ai organizational design](#/concept/ai-organizational-design) — the broader organizational-redesign literature this concept's role-by-role reinvention (especially the COO and CFO sections) draws on and extends
-- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — MIT CISR's and KPMG's maturity/scaling frameworks describe the same pilot-to-production gap this concept's CTrO and CFO sections diagnose from a leadership-mandate angle rather than an architecture angle
+- [data leadership roles evolution](#/concept/data-leadership-roles-evolution) — A complementary, more skeptical account of whether the CDO and Chief AI Officer titles should persist as standalone C-suite seats at all, which stands in some tension with this concept's assumption that existing C-suite roles simply need re-mandating.
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — The broader organizational-redesign literature this concept's role-by-role reinvention (especially the COO and CFO sections) draws on and extends.
+- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — MIT CISR's and KPMG's maturity/scaling frameworks describe the same pilot-to-production gap this concept's CTrO and CFO sections diagnose from a leadership-mandate angle rather than an architecture angle.
 
 ## Open Questions
 

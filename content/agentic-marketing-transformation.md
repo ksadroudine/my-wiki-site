@@ -1,6 +1,6 @@
 ## Summary
 
-BCG's 2026 research finds nearly all CMOs claim an AI-driven transformation of marketing while only about a third have agents actually running workflows. It argues the CMO's role grows more consequential as AI agents mediate discovery, reveal brand promise-performance gaps, and force a new marketing operating model and economics.
+AI agents are changing how customers discover and judge brands, which makes the chief marketing officer's role more consequential. BCG's research shows a gap between marketers who claim an agentic transformation and those whose agents actually run workflows. It also describes the new marketing stack, the need to align brand promise with performance, and the changing economics of consumer-goods marketing.
 
 ## Highlights
 
@@ -24,10 +24,10 @@ Three BCG pieces from mid-2026 describe the same shift from different seats. <sp
 
 ## Related
 
-- [brand trust strategy in the ai era](#/concept/brand-trust-strategy-in-the-ai-era) — the "share of model" discipline and agentic-commerce brand strategy covered there is the HBR-sourced counterpart to this concept's agent-mediated discovery and promise-performance material
-- [martech stack strategy](#/concept/martech-stack-strategy) — Forrester's martech ecosystem and genAI adoption-maturity work is the earlier framing that BCG's agentic four-layer stack extends
-- [ai first c suite playbook](#/concept/ai-first-c-suite-playbook) — BCG's AI-first CMO profile there is the leadership-mandate view of the same function
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — the cross-functional "agentic mesh" and value-gap analysis there are the enterprise-wide counterpart to this concept's marketing-specific transformation
+- [brand trust strategy in the ai era](#/concept/brand-trust-strategy-in-the-ai-era) — The "share of model" discipline and agentic-commerce brand strategy covered there is the HBR-sourced counterpart to this concept's agent-mediated discovery and promise-performance material.
+- [martech stack strategy](#/concept/martech-stack-strategy) — Forrester's martech ecosystem and genAI adoption-maturity work is the earlier framing that BCG's agentic four-layer stack extends.
+- [ai first c suite playbook](#/concept/ai-first-c-suite-playbook) — BCG's AI-first CMO profile there is the leadership-mandate view of the same function.
+- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — The cross-functional "agentic mesh" and value-gap analysis there are the enterprise-wide counterpart to this concept's marketing-specific transformation.
 
 ## Open Questions
 

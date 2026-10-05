@@ -1,6 +1,6 @@
 ## Summary
 
-Carl Shapiro and Hal Varian's economic analysis of information goods — high fixed "first-copy" costs against near-zero marginal reproduction cost, which rules out cost-based pricing in favor of value-based and differential pricing. Also covers network externalities, lock-in, and standards competition as strategic consequences of that cost structure.
+Carl Shapiro and Hal Varian analyze information goods, which have high fixed first-copy costs and near-zero marginal reproduction costs, so cost-based pricing fails and value-based and differential pricing take its place. The same cost structure has strategic consequences in network externalities, lock-in and standards competition.
 
 ## Highlights
 
@@ -25,9 +25,9 @@ Because information systems are typically assembled from complementary component
 
 ## Related
 
-- [platform business models](#/concept/platform-business-models) — network externalities are the same underlying economic force examined there through the lens of platform design and the four-way network-effect taxonomy; this concept supplies the classical economic vocabulary (network externalities, dominant-firm vs. differentiated-product markets) that platform-strategy literature builds on
-- [api strategy](#/concept/api-strategy) — the complementary-component and standards-competition logic here (encouraging competition among partners' components while protecting one's own) directly parallels API providers' decisions about how open to make their own platform
-- [corporate value creation](#/concept/corporate-value-creation) — shares an interest in pricing and competitive-positioning strategy, though applied to information goods specifically rather than corporate portfolios generally
+- [platform business models](#/concept/platform-business-models) — Network externalities are the same underlying economic force examined there through the lens of platform design and the four-way network-effect taxonomy; this concept supplies the classical economic vocabulary (network externalities, dominant-firm vs. differentiated-product markets) that platform-strategy literature builds on.
+- [api and digital value chain strategy](#/concept/api-and-digital-value-chain-strategy) — The complementary-component and standards-competition logic here (encouraging competition among partners' components while protecting one's own) directly parallels API providers' decisions about how open to make their own platform.
+- [corporate value creation](#/concept/corporate-value-creation) — That concept shares an interest in pricing and competitive-positioning strategy, though applied to information goods specifically rather than corporate portfolios generally.
 
 ## Open Questions
 

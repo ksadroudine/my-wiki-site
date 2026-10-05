@@ -1,6 +1,6 @@
 ## Summary
 
-Every AI system encodes philosophical assumptions about knowledge, purpose, and reality, whether or not an organization deliberately chooses them, and unexamined assumptions produce concrete business failures. Deliberately selecting epistemological, ontological, teleological, and ethical frameworks for AI training — rather than defaulting to technical metrics alone — becomes increasingly critical as AI systems shift from passive language models to autonomous, goal-pursuing agents.
+Every AI system encodes philosophical assumptions about knowledge, purpose and reality, whether or not an organization chooses them deliberately, and unexamined assumptions produce concrete business failures. Choosing epistemological, ontological, teleological and ethical frameworks for AI training, rather than relying on technical metrics alone, becomes more important as AI shifts from passive language models to autonomous, goal-pursuing agents.
 
 ## Highlights
 
@@ -23,8 +23,8 @@ The article's second half turns to why philosophical training becomes newly urge
 
 ## Related
 
-- [intelligent choice architectures](#/concept/intelligent-choice-architectures) — by the same author pair (Michael Schrage and David Kiron) and published in the same window, this concept's libertarian-paternalism/choice-architect framing directly draws on the same Thaler-Sunstein choice-architecture theory underlying the separate intelligent-choice-architecture research, though the two concepts are not explicitly linked as a series and address distinct core questions (philosophical training of AI reasoning versus AI-generated decision-option sets and decision rights)
-- [responsible ai program design](#/concept/responsible-ai-program-design) — addresses the ethics/governance dimension of AI deployment this concept explicitly argues is only one part, not the whole, of philosophy's role in shaping effective AI
+- [intelligent choice architectures](#/concept/intelligent-choice-architectures) — By the same author pair (Michael Schrage and David Kiron) and published in the same window, this concept's libertarian-paternalism/choice-architect framing directly draws on the same Thaler-Sunstein choice-architecture theory underlying the separate intelligent-choice-architecture research, though the two concepts are not explicitly linked as a series and address distinct core questions (philosophical training of AI reasoning versus AI-generated decision-option sets and decision rights).
+- [ai governance programs](#/concept/ai-governance-programs) — That concept addresses the ethics/governance dimension of AI deployment this concept explicitly argues is only one part, not the whole, of philosophy's role in shaping effective AI.
 
 ## Open Questions
 

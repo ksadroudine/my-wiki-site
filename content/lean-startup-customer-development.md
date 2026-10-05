@@ -1,6 +1,6 @@
 ## Summary
 
-The Customer Development methodology and the Lean Startup's Build-Measure-Learn loop, which reframe a startup as a temporary organization searching for a repeatable, scalable business model rather than executing a known plan. Covers the business model canvas, minimum viable products, and pass/fail experiments used to convert founder hypotheses into validated facts.
+Customer Development and the Lean Startup's build-measure-learn loop reframe a startup as a temporary organization searching for a repeatable, scalable business model instead of executing a known plan. The concept covers the business model canvas, minimum viable products and pass-or-fail experiments that turn founder hypotheses into validated facts.
 
 ## Highlights
 
@@ -27,9 +27,9 @@ A complementary account of what happens once a startup has validated its busines
 
 ## Related
 
-- [platform business models](#/concept/platform-business-models) — platform launch strategies share the same chicken-or-egg, evidence-before-scale logic that Customer Development applies to single-sided products
-- [scrum methodology](#/concept/scrum-methodology) — Agile/Scrum is the engineering-side discipline that Customer Development is explicitly meant to be paired with, so that validated learning from customers can be converted into working product increments quickly
-- [consumption economics](#/concept/consumption-economics) — describes how, once a company moves past validation into execution, ongoing usage data continues to drive the same build-measure-learn cycle inside an already-scaled product
+- [platform business models](#/concept/platform-business-models) — Platform launch strategies share the same chicken-or-egg, evidence-before-scale logic that Customer Development applies to single-sided products.
+- [scrum methodology](#/concept/scrum-methodology) — Agile/Scrum is the engineering-side discipline that Customer Development is explicitly meant to be paired with, so that validated learning from customers can be converted into working product increments quickly.
+- [cloud and saas business economics](#/concept/cloud-and-saas-business-economics) — That concept describes how, once a company moves past validation into execution, ongoing usage data continues to drive the same build-measure-learn cycle inside an already-scaled product.
 
 ## Open Questions
 

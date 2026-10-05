@@ -1,6 +1,6 @@
 ## Summary
 
-Generative AI vendors are pricing far below the true cost of inference to win market share in a field they treat as commoditized, and Harvard Business School's Andy Wu argues this gap between value created and value captured is the definition of a bubble — the same underpricing that keeps AI companies unprofitable is, some entrepreneurs argue, also cheap enough to threaten the entry-level jobs that give new workers their start. An a16z argument that AI applications should price at the highest measurable layer of value, not per token, adds the vendor-side pricing logic.
+Generative AI vendors are pricing far below the true cost of inference to win market share in a field they treat as commoditized, which Andy Wu of Harvard Business School describes as the gap between value created and value captured that defines a bubble. Application vendors can respond by pricing at the highest layer of value they can measure, such as credits or outcomes, rather than per token.
 
 ## Highlights
 
@@ -26,9 +26,8 @@ The same underpricing dynamic that undermines AI vendors' own profitability is, 
 
 ## Related
 
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — the mirror image of this concept: the same below-cost vendor pricing that Wu identifies as the source of AI's profitability problem is what enterprises are now scrambling to ration and manage on the cost side
-- [agentic ai adoption and consolidation](#/concept/agentic-ai-adoption-and-consolidation) — PwC's finding that AI agent trust is lowest for high-stakes, autonomous use cases connects to Wu's commodity/differentiation argument: undifferentiated models compete primarily on price precisely because they're hard to trust-differentiate
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — the buyer-side view of the same token-metering issue
+- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — That concept is the mirror image of this one, because the same below-cost vendor pricing that Wu identifies as the source of AI's profitability problem is what enterprises are now scrambling to ration and manage on the cost side. That concept presents the buyer-side view of the same token-metering issue.
+- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — PwC's finding that AI agent trust is lowest for high-stakes, autonomous use cases connects to Wu's commodity/differentiation argument: undifferentiated models compete primarily on price precisely because they're hard to trust-differentiate.
 
 ## Open Questions
 

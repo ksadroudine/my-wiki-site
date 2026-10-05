@@ -1,6 +1,6 @@
 ## Summary
 
-How a private equity firm systematically builds AI capability across many portfolio companies at once, illustrated by Apollo Global Management's playbook — pre-investment AI risk/opportunity assessment, post-acquisition use-case implementation, an AI startup incubator supplying portfolio companies, and a cross-portfolio procurement AI that benchmarks pricing across dozens of companies simultaneously. A companion A.D. Little analysis reframes the same opportunity from the acquirer's side — enterprise IT services companies have lost over a third of their value since 2021, and AI readiness is now the key due-diligence lens for buying and transforming undervalued targets. Bain also finds software buyouts under pressure, with growth halved and new diligence and metrics needed for AI.
+Private equity firms can build AI capability across many portfolio companies at once, as Apollo Global Management's playbook shows, through pre-investment AI risk assessment, post-acquisition use-case implementation, a startup incubator and cross-portfolio procurement AI. From the acquirer's side, AI readiness has become the key due-diligence lens for buying undervalued IT-services companies and for software buyouts, which face slower growth and need new diligence metrics.
 
 ## Highlights
 
@@ -33,11 +33,10 @@ Four named portfolio-company case studies illustrate the playbook's results in p
 
 ## Related
 
-- [ai abundant expertise strategy](#/concept/ai-abundant-expertise-strategy) — the Coase-based logic there (AI collapsing the cost of accessing expertise) explains why a centralized firm like Apollo can economically supply AI capability-building across dozens of otherwise-unrelated portfolio companies at once
-- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — PwC's private-equity diligence guidance there for software-specific assets is a complementary, narrower-scope counterpart to this concept's broader operational AI-capability-building playbook across an entire portfolio
-- [ai factory](#/concept/ai-factory) — Apollo's cross-portfolio procurement AI, reused as a proprietary benchmark for future deal diligence, is a private-equity-specific instance of turning an internal AI capability into a durable, reusable decision-making asset
-- [agentic ai startups vs incumbents](#/concept/agentic-ai-startups-vs-incumbents) — the AI-native consulting challengers attracting private capital there are a demand-side instance of the same IT-services-sector AI disruption this concept's A.D. Little source addresses from the acquirer's side
-- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — the SaaS disruption forces behind the buyout pressure described here
+- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — The Coase-based logic there (AI collapsing the cost of accessing expertise) explains why a centralized firm like Apollo can economically supply AI capability-building across dozens of otherwise-unrelated portfolio companies at once.
+- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — PwC's private-equity diligence guidance there for software-specific assets is a complementary, narrower-scope counterpart to this concept's broader operational AI-capability-building playbook across an entire portfolio. That concept covers the SaaS disruption forces behind the buyout pressure described here.
+- [ai factory](#/concept/ai-factory) — Apollo's cross-portfolio procurement AI, reused as a proprietary benchmark for future deal diligence, is a private-equity-specific instance of turning an internal AI capability into a durable, reusable decision-making asset.
+- [agentic ai startups vs incumbents](#/concept/agentic-ai-startups-vs-incumbents) — The AI-native consulting challengers attracting private capital there are a demand-side instance of the same IT-services-sector AI disruption this concept's A.D. Little source addresses from the acquirer's side.
 
 ## Open Questions
 

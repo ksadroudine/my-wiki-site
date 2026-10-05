@@ -1,6 +1,6 @@
 ## Summary
 
-Intelligent choice architectures (ICAs) combine predictive and generative AI to produce and refine sophisticated sets of decision options rather than a single "best" answer, extending behavioral economics' choice-architecture concept into an AI-driven system. As ICAs mature, they force organizations to redesign decision rights and accountability structures, shifting the central leadership question from who should decide to how decision environments themselves should be designed and governed. MIT CISR research on an AI Decision Matrix and HBR research on why RACI-style decision-rights tools fail add practical guidance on who or what should decide.
+Intelligent choice architectures combine predictive and generative AI to produce and refine sets of decision options rather than a single best answer, extending behavioral economics' choice architecture into an AI-driven system. As they mature, organizations must redesign decision rights and accountability so that the leadership question shifts from who should decide to how decision environments are designed and governed. Research on decision matrices and RACI-style tools gives practical guidance on who or what should decide.
 
 ## Highlights
 
@@ -31,10 +31,10 @@ Read together as a deliberate two-part research series, the articles build from 
 
 ## Related
 
-- [philosophical frameworks for ai](#/concept/philosophical-frameworks-for-ai) — by the same author pair (Michael Schrage and David Kiron), published in the same window; draws on the same Thaler-Sunstein choice-architecture theory to argue agentic AI needs deliberate philosophical training, a complementary but distinct argument from this concept's decision-rights focus
-- [matching ai type to decision type](#/concept/matching-ai-type-to-decision-type) — a complementary framework for calibrating analytical AI and generative AI to specific decisions, addressing a related but distinct question from this concept's focus on how AI reshapes decision rights and organizational power once deployed
-- [ai organizational design](#/concept/ai-organizational-design) — the general thesis of AI pressuring organizations to redesign structures and processes, of which this concept's decision-rights redistribution is one specific mechanism
-- [ai in strategy and decision making](#/concept/ai-in-strategy-and-decision-making) — the strategy-process and decision-agent material there applies this concept's decision-rights logic to the executive committee
+- [philosophical frameworks for ai](#/concept/philosophical-frameworks-for-ai) — By the same author pair (Michael Schrage and David Kiron), published in the same window; draws on the same Thaler-Sunstein choice-architecture theory to argue agentic AI needs deliberate philosophical training, a complementary but distinct argument from this concept's decision-rights focus.
+- [matching ai type to decision type](#/concept/matching-ai-type-to-decision-type) — That concept provides a complementary framework for calibrating analytical AI and generative AI to specific decisions, addressing a related but distinct question from this concept's focus on how AI reshapes decision rights and organizational power once deployed.
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general thesis of AI pressuring organizations to redesign structures and processes, of which this concept's decision-rights redistribution is one specific mechanism.
+- [ai in strategy and decision making](#/concept/ai-in-strategy-and-decision-making) — The strategy-process and decision-agent material there applies this concept's decision-rights logic to the executive committee.
 
 ## Open Questions
 

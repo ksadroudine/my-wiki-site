@@ -1,6 +1,6 @@
 ## Summary
 
-Generative AI and analytical AI (prediction, optimization) serve fundamentally different roles and should be matched to the decision or project at hand — analytical AI as the decision engine for narrow, measurable decisions, generative AI as an accelerator for analytics work, project ideation, and synthesis in wide, ambiguous decisions. A complementary technical framework extends the same logic to implementation choices — whether a specific task is a prediction or generation problem, and whether its data is tabular or unstructured, determines the pragmatic choice among machine learning, deep learning, and generative AI. A further technical addition, causal machine learning, supplies the missing category for genuine "what-if" counterfactual decisions that plain prediction cannot answer. Treating all AI as interchangeable is why most organizations struggle to convert AI adoption into measurable business impact.
+Generative AI and analytical AI serve different roles and should be matched to the decision at hand. Analytical AI suits narrow, measurable decisions, generative AI accelerates analytics and synthesis in wide, ambiguous ones, and causal machine learning covers what-if questions that plain prediction cannot answer. Treating all AI as interchangeable is why most organizations struggle to turn adoption into measurable business impact.
 
 ## Highlights
 
@@ -39,8 +39,8 @@ Read together, the four articles trace a single line of research spanning nearly
 
 ## Related
 
-- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — a complementary set of frameworks for scaling gen AI value organization-wide, addressing the "how to organize for AI value" question this concept's decision-calibration framework operates alongside
-- [ai project selection frameworks](#/concept/ai-project-selection-frameworks) — covers frameworks for scoping and prioritizing AI projects once candidates exist (risk/demand matrices, pilot traits, deep-vs-broad deployment); this concept's ideation-workshop material addresses the earlier step of generating those candidates in the first place
+- [gen ai value creation frameworks](#/concept/gen-ai-value-creation-frameworks) — A complementary set of frameworks for scaling gen AI value organization-wide, addressing the "how to organize for AI value" question this concept's decision-calibration framework operates alongside.
+- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — That concept covers frameworks for scoping and prioritizing AI projects once candidates exist (risk/demand matrices, pilot traits, deep-vs-broad deployment); this concept's ideation-workshop material addresses the earlier step of generating those candidates in the first place.
 
 ## Open Questions
 

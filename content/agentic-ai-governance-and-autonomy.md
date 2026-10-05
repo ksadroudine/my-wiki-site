@@ -1,6 +1,6 @@
 ## Summary
 
-How organizations should calibrate AI agent autonomy as systems evolve from narrow to generative to multi-agentic AI. Covers the "Ethical Nightmare Challenge" framework for managing emerging risks, and a three-type problem taxonomy — complicated, ambiguous, uncertain — for deciding how much supervision an agent actually needs.
+Organizations should set the autonomy of an AI agent according to how well a risk is understood rather than how large it is. The Ethical Nightmare Challenge addresses risks that grow as systems become more complex, and a taxonomy of complicated, ambiguous and uncertain problems shows how much supervision an agent needs.
 
 ## Highlights
 
@@ -24,10 +24,10 @@ Waymo's self-driving taxi service offers a concrete illustration of applying thi
 
 ## Related
 
-- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — the technical security and data-risk controls that complement this concept's higher-level governance and autonomy-calibration framing
-- [agentic ai fundamentals](#/concept/agentic-ai-fundamentals) — the underlying definitions of agentic AI (agent types, execution loop) that this concept's governance discussion assumes
-- [multi agent orchestration](#/concept/multi-agent-orchestration) — orchestration design (role clarity, supervisory logic) is the practical mechanism through which the autonomy calibration discussed here gets implemented across a team of agents
-- [ai guardrails](#/concept/ai-guardrails) — guardrails are one concrete technical implementation of the "internal resources" this concept's Ethical Nightmare Challenge calls for building
+- [agentic ai security frameworks](#/concept/agentic-ai-security-frameworks) — That concept covers the technical security and data-risk controls that complement this concept's higher-level governance and autonomy-calibration framing.
+- [agentic ai fundamentals](#/concept/agentic-ai-fundamentals) — That concept covers the underlying definitions of agentic AI (agent types, execution loop) that this concept's governance discussion assumes.
+- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — Orchestration design (role clarity, supervisory logic) is the practical mechanism through which the autonomy calibration discussed here gets implemented across a team of agents.
+- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — Guardrails are one concrete technical implementation of the "internal resources" this concept's Ethical Nightmare Challenge calls for building.
 
 ## Open Questions
 

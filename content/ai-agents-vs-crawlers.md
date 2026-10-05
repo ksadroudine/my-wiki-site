@@ -1,6 +1,6 @@
 ## Summary
 
-Perplexity's argument that user-driven AI assistants are fundamentally different from traditional web crawlers, since they fetch content only in response to a specific user request rather than systematically indexing the web. Conflating the two — as Cloudflare did in a 2025 dispute — risks a two-tiered internet gated by infrastructure providers.
+User-driven AI assistants differ fundamentally from web crawlers, because they fetch content only in response to a specific user request instead of systematically indexing the web. Perplexity argues that conflating the two, as Cloudflare did in a 2025 dispute, risks a two-tiered internet gated by infrastructure providers.
 
 ## Highlights
 
@@ -22,8 +22,8 @@ The broader stake the source identifies goes beyond this one vendor dispute: if 
 
 ## Related
 
-- [agentic ai in telecom](#/concept/agentic-ai-in-telecom) — a differently-scoped account of AI agent governance and access control, in a context (telecom infrastructure) where the gatekeeping stakes are even higher
-- [prompt engineering](#/concept/prompt-engineering) — background on how user-driven, request-triggered AI interaction (the pattern this concept defends) actually works from the user's side of the exchange
+- [telecom ai technology](#/concept/telecom-ai-technology) — That concept provides a differently-scoped account of AI agent governance and access control, in a context (telecom infrastructure) where the gatekeeping stakes are even higher.
+- [working with generative ai](#/concept/working-with-generative-ai) — Background on how user-driven, request-triggered AI interaction (the pattern this concept defends) actually works from the user's side of the exchange.
 
 ## Open Questions
 

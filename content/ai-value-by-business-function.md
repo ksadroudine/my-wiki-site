@@ -1,6 +1,6 @@
 ## Summary
 
-Bain's account of the five business functions — software and product development, customer support, sales and marketing, new products and features, and back office — where generative AI is already delivering measurable, quantified value for early adopters. Covers the operational and organizational practices that separate companies capturing that value from those still stuck in scattered pilots. A 2026 Bain update reframes the constraint as how fast enterprises can absorb AI, and reports 10-25% EBITDA growth for full-transformation leaders.
+Generative AI is already delivering measurable value for early adopters in five business functions, namely software and product development, customer support, sales and marketing, new products and features, and the back office. Companies capturing that value follow practices that others lack, and a 2026 update argues the main constraint is now how fast enterprises can absorb AI, with transformation leaders reporting 10 to 25 percent EBITDA growth.
 
 ## Highlights
 
@@ -28,10 +28,10 @@ Bain identifies three recurring barriers standing between experimentation and th
 
 ## Related
 
-- [tech company operating model redesign](#/concept/tech-company-operating-model-redesign) — a companion Bain "tech report 2024" piece on how the technology function itself must be reorganized to scale generative AI, complementary to this concept's focus on where AI value shows up functionally
-- [ai strategy](#/concept/ai-strategy) — the staged strategy-development and adoption process that a company would use to decide which of this concept's five functions to prioritize first
-- [measuring ai project value and quality](#/concept/measuring-ai-project-value-and-quality) — covers how to measure whether an individual AI project is delivering real value, complementary to this concept's functional-level, already-realized value findings
-- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — McKinsey's agent factory and agentic mesh offer a parallel account of redesigning whole processes rather than deploying tools
+- [tech company operating model redesign](#/concept/tech-company-operating-model-redesign) — A companion Bain "tech report 2024" piece on how the technology function itself must be reorganized to scale generative AI, complementary to this concept's focus on where AI value shows up functionally.
+- [ai strategy](#/concept/ai-strategy) — That concept covers the staged strategy-development and adoption process that a company would use to decide which of this concept's five functions to prioritize first.
+- [measuring ai project value and quality](#/concept/measuring-ai-project-value-and-quality) — That concept covers how to measure whether an individual AI project is delivering real value, complementary to this concept's functional-level, already-realized value findings.
+- [agentic ai enterprise transformation](#/concept/agentic-ai-enterprise-transformation) — McKinsey's agent factory and agentic mesh offer a parallel account of redesigning whole processes rather than deploying tools.
 
 ## Open Questions
 

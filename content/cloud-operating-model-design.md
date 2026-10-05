@@ -1,6 +1,6 @@
 ## Summary
 
-Forrester's six-layer framework for replacing an obsolete, shared-services IT operating model with one purpose-built for cloud at scale — customers, value, capabilities, structure, governance, and leadership. Each layer poses a specific set of questions an organization must answer for itself rather than adopt off the shelf. A companion Forrester report extends the vendor-ecosystem and sourcing-governance dimensions with a dedicated playbook for architecting enterprise applications and strategic partnerships.
+Forrester's six-layer framework replaces an obsolete shared-services IT operating model with one built for cloud at scale. The layers are customers, value, capabilities, structure, governance and leadership, and each poses questions an organization must answer for itself, with an additional playbook covering vendor ecosystems and sourcing governance.
 
 ## Highlights
 
@@ -34,10 +34,9 @@ A companion Forrester report, <span class="src">Architect Enterprise — Applica
 
 ## Related
 
-- [cloud value capture maturity](#/concept/cloud-value-capture-maturity) — Bain's "Strategic Value Creator" state, the rarest and most valuable stage in that concept's maturity model, is the outcome a well-executed version of this concept's six-layer operating model is specifically designed to produce
-- [cloud transformation value realization](#/concept/cloud-transformation-value-realization) — Forrester's Next-Generation Cloud Strategy Model (platforms/partners/practices) there is a complementary, more externally-facing companion to this concept's more internally-facing operating-model layers
-- [cloud strategy planning](#/concept/cloud-strategy-planning) — the staged planning process covered there (assess, imagine, explore, plan, implement) precedes and feeds directly into the structural and governance decisions this concept's Layers Four and Five formalize
-- [ai organizational design](#/concept/ai-organizational-design) — the general pressure toward redesigning organizational structure around AI that this concept's Layer Six (leadership vision, culture, performance) applies specifically to cloud operations
+- [cloud value realization and maturity](#/concept/cloud-value-realization-and-maturity) — Bain's "Strategic Value Creator" state, the rarest and most valuable stage in that concept's maturity model, is the outcome a well-executed version of this concept's six-layer operating model is specifically designed to produce. Forrester's Next-Generation Cloud Strategy Model (platforms/partners/practices) there is a complementary, more externally-facing companion to this concept's more internally-facing operating-model layers.
+- [cloud strategy and migration](#/concept/cloud-strategy-and-migration) — The staged planning process covered there (assess, imagine, explore, plan, implement) precedes and feeds directly into the structural and governance decisions this concept's Layers Four and Five formalize.
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the general pressure toward redesigning organizational structure around AI that this concept's Layer Six (leadership vision, culture, performance) applies specifically to cloud operations.
 
 ## Open Questions
 

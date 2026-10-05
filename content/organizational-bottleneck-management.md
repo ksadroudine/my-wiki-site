@@ -1,6 +1,6 @@
 ## Summary
 
-Organizational bottlenecks come in two distinct types — task bottlenecks (driven by a work system's centralization and complexity) and resource bottlenecks (driven by a resource portfolio's fungibility and slack) — and a 28-carrier, two-decade airline-industry study finds performance depends on aligning each pair rather than fixing bottlenecks one at a time.
+Organizational bottlenecks are of two types, task bottlenecks driven by the centralization and complexity of a work system and resource bottlenecks driven by the fungibility and slack of a resource portfolio. A two-decade study of 28 US airlines finds that performance depends on aligning each pair of factors rather than fixing bottlenecks one at a time.
 
 ## Highlights
 
@@ -11,7 +11,7 @@ Organizational bottlenecks come in two distinct types — task bottlenecks (driv
 - Southwest Airlines' response to a severe December 2022 winter storm illustrates misaligned task-and-resource characteristics compounding each other: unlike rivals operating a hub-and-spoke model, Southwest's point-to-point model left planes and crews scattered across airports with none in position at some locations, and because its cycle lengths were long (high complexity) without slack resources available to reposition quickly, recovery time stretched into nearly 3,000 cancellations on a single day, followed by three more days of thousand-plus cancellations.
 - JetBlue's 2007 Valentine's Day operational meltdown (affecting over 130,000 customers and resulting in the airline's "customer bill of rights") illustrates the downside of too little slack: insufficient personnel to handle both thousands of simultaneous rebookings and flight-crew reassignment turned a weather disruption into a systemic operational failure — but the article cautions that excess slack is also costly, since idle resources incur costs even when they're never needed.
 - Task and resource bottlenecks interact rather than operate independently: even a well-aligned task system will produce task bottlenecks if resource bottlenecks exist elsewhere (since needed resources can't be allocated to unblock tasks), and even well-aligned resources (fungible and available) will produce resource bottlenecks if task misalignment keeps incomplete tasks holding their assigned resources hostage, preventing reallocation.
-- A five-step practical process for managers: locate and identify specific bottlenecks and classify each as task- or resource-driven; for task bottlenecks, evaluate whether the delay has a hidden coordination benefit (aggregating information for better decisions) before concluding it's pure waste, then determine the sequence's complexity and redesign centralization to match (short/simple stays centralized, long/complex gets decentralized or shortened); for resource bottlenecks, determine whether resources are missing because they're unavailable (add slack) or inapplicable (add fungibility), while remembering that both excess slack and excess specificity carry real costs.
+- Managers can follow a five-step practical process: locate and identify specific bottlenecks and classify each as task- or resource-driven; for task bottlenecks, evaluate whether the delay has a hidden coordination benefit (aggregating information for better decisions) before concluding it's pure waste, then determine the sequence's complexity and redesign centralization to match (short/simple stays centralized, long/complex gets decentralized or shortened); for resource bottlenecks, determine whether resources are missing because they're unavailable (add slack) or inapplicable (add fungibility), while remembering that both excess slack and excess specificity carry real costs.
 
 ## Concept
 
@@ -27,9 +27,9 @@ The article translates these findings into a five-step practical process for man
 
 ## Related
 
-- [tech company operating model redesign](#/concept/tech-company-operating-model-redesign) — Bain's habit-cultivator/authority-weaver/flow-instrumentalist operating models describe complementary organizational-design responses to the same underlying escalation-and-coordination problem this concept analyzes through the task/resource bottleneck lens
-- [organizational prioritization frameworks](#/concept/organizational-prioritization-frameworks) — the discipline of deliberately choosing what NOT to pursue is a complementary response to the same resource-scarcity dynamics this concept's fungibility/slack framework addresses at the task-execution level
-- [cloud operating model design](#/concept/cloud-operating-model-design) — Forrester's Layer Three (capabilities: activities, metrics, skills, competencies, technologies) operationalizes a similar resource-alignment discipline specifically for cloud operating models
+- [tech company operating model redesign](#/concept/tech-company-operating-model-redesign) — Bain's habit-cultivator/authority-weaver/flow-instrumentalist operating models describe complementary organizational-design responses to the same underlying escalation-and-coordination problem this concept analyzes through the task/resource bottleneck lens.
+- [organizational prioritization frameworks](#/concept/organizational-prioritization-frameworks) — The discipline of deliberately choosing what NOT to pursue is a complementary response to the same resource-scarcity dynamics this concept's fungibility/slack framework addresses at the task-execution level.
+- [cloud operating model design](#/concept/cloud-operating-model-design) — Forrester's Layer Three (capabilities: activities, metrics, skills, competencies, technologies) operationalizes a similar resource-alignment discipline specifically for cloud operating models.
 
 ## Open Questions
 

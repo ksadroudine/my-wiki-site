@@ -1,6 +1,6 @@
 ## Summary
 
-Peter Fader's customer-centricity framework, which argues firms should organize around customer lifetime value rather than products. Uses the customer-times-time data cube, the Five Lenses audit, and CLV methodology to identify and invest disproportionately in the most valuable customers. A companion customer portfolio management framework supplies a relationship-strength segmentation (acquaintances, friends, partners) as a practical alternative route to the same CLV-driven prioritization.
+Peter Fader's customer-centricity framework argues that firms should organize around customer lifetime value rather than around products. It uses a customer-by-time data cube, the Five Lenses audit and lifetime value methods to identify and invest disproportionately in the most valuable customers, and a relationship-strength segmentation of acquaintances, friends and partners offers a practical alternative route to the same prioritization.
 
 ## Highlights
 
@@ -28,9 +28,8 @@ Taken together, the three books converge on four tenets that distinguish a genui
 
 ## Related
 
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — BCG's Five Promises of Personalization framework operationalizes a similar customer-value-first logic at the level of individual engagement design, complementary to this concept's portfolio-level CLV framing
-- [behavioral product design](#/concept/behavioral-product-design) — the Hook Model and human-centered design principles describe how to design the individual product experiences that customer-centric organizations use to retain and grow the high-value customers this concept identifies
-- [next best experience](#/concept/next-best-experience) — a telecom-specific application of value-driven customer engagement strategy that parallels Fader's CLV-driven resource allocation
+- [customer personalization strategy](#/concept/customer-personalization-strategy) — BCG's Five Promises of Personalization framework operationalizes a similar customer-value-first logic at the level of individual engagement design, complementary to this concept's portfolio-level CLV framing. A telecom-specific application of value-driven customer engagement strategy that parallels Fader's CLV-driven resource allocation.
+- [behavioral product design](#/concept/behavioral-product-design) — The Hook Model and human-centered design principles describe how to design the individual product experiences that customer-centric organizations use to retain and grow the high-value customers this concept identifies.
 
 ## Open Questions
 

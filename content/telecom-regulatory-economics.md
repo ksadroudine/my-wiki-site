@@ -1,6 +1,6 @@
 ## Summary
 
-Jonathan Nuechterlein and Philip Weiser's account of the economic concepts — network effects, natural monopoly, monopoly leveraging — that shaped a century of US telecommunications regulation. Traces the path from the pre-1996 rate-of-return era, through the 1996 Telecom Act's unbundling regime, to the platform-leveraging debates (open access, net neutrality) triggered by broadband and the internet's layered architecture.
+Jonathan Nuechterlein and Philip Weiser explain the economic concepts of network effects, natural monopoly and monopoly leveraging that shaped a century of US telecommunications regulation. They trace the path from the rate-of-return era before 1996, through the unbundling regime of the 1996 Telecom Act, to the debates over open access and net neutrality that broadband and the internet's layered architecture triggered.
 
 ## Highlights
 
@@ -24,9 +24,8 @@ The book's later chapters extend this same regulatory logic to the Internet era,
 
 ## Related
 
-- [telecom hybrid cloud strategy](#/concept/telecom-hybrid-cloud-strategy) — covers contemporary telecom operator strategy; this concept supplies the regulatory-economic history and vocabulary (network effects, natural monopoly, monopoly leveraging) underlying why telecom has historically been so heavily regulated compared to adjacent tech industries
-- [platform business models](#/concept/platform-business-models) — the "one monopoly profit" and platform-leveraging concepts here directly parallel, and predate, the platform-economics literature covered in that concept, applied specifically to regulated network industries
-- [strategic network effects](#/concept/strategic-network-effects) — shares the network-effects vocabulary applied here to the specific historical case of telephone-market tipping
+- [telecom ai technology](#/concept/telecom-ai-technology) — That concept covers contemporary telecom operator strategy; this concept supplies the regulatory-economic history and vocabulary (network effects, natural monopoly, monopoly leveraging) underlying why telecom has historically been so heavily regulated compared to adjacent tech industries.
+- [platform business models](#/concept/platform-business-models) — The "one monopoly profit" and platform-leveraging concepts here directly parallel, and predate, the platform-economics literature covered in that concept, applied specifically to regulated network industries. That concept shares the network-effects vocabulary applied here to the specific historical case of telephone-market tipping.
 
 ## Open Questions
 

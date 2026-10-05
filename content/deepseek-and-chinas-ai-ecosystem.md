@@ -1,6 +1,6 @@
 ## Summary
 
-DeepSeek's January 2025 release shocked Western markets by matching leading US chatbots at a fraction of the training cost, but management theory says this was predictable classic disruption, not a fluke — and understanding the widely-used "distillation" technique DeepSeek was accused of exploiting reveals it as the broader, purpose-built Chinese AI ecosystem (customization, cost leadership, real-world calibration) rather than a one-off model that global companies now need a deliberate dual-track strategy to engage with.
+DeepSeek's January 2025 release shocked Western markets by matching leading US chatbots at a fraction of the training cost, but management theory treats it as predictable classic disruption rather than a fluke. It reflects a broader, purpose-built Chinese AI ecosystem built on customization, cost leadership and real-world calibration, which global companies now need a deliberate dual-track strategy to engage with.
 
 ## Highlights
 
@@ -28,8 +28,8 @@ A later HBR analysis, published after the initial DeepSeek shock had settled int
 
 ## Related
 
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — the price differential this concept documents between Chinese and Western LLMs (as low as $0.30 vs. $60+ per million output tokens) is a direct input into the model-rightsizing and portfolio-pricing strategies that concept recommends for managing enterprise token spend
-- [ai vendor pricing and profitability](#/concept/ai-vendor-pricing-and-profitability) — DeepSeek's cost-efficiency breakthrough directly undercuts Andy Wu's argument there that high inference costs structurally constrain AI vendor profitability, suggesting the cost floor for capable models may be considerably lower than Western labs' spending implied
+- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — The price differential this concept documents between Chinese and Western LLMs (as low as $0.30 vs. $60+ per million output tokens) is a direct input into the model-rightsizing and portfolio-pricing strategies that concept recommends for managing enterprise token spend.
+- [ai vendor pricing and profitability](#/concept/ai-vendor-pricing-and-profitability) — DeepSeek's cost-efficiency breakthrough directly undercuts Andy Wu's argument there that high inference costs structurally constrain AI vendor profitability, suggesting the cost floor for capable models may be considerably lower than Western labs' spending implied.
 
 ## Open Questions
 

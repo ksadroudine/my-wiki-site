@@ -1,6 +1,6 @@
 ## Summary
 
-Core Objective-C and underlying C concepts — memory management (stack vs. heap, ARC), the class/object/method model, and the framework/header system. Covered in Aaron Hillegass and Mikey Ward's introductory Objective-C text.
+Objective-C builds on the C language, and its core concepts are memory management, the class, object and method model, and the framework and header system. Aaron Hillegass and Mikey Ward's introductory text explains memory management through the stack, the heap and automatic reference counting.
 
 ## Highlights
 
@@ -16,7 +16,7 @@ This source is an introductory programming text covering C and Objective-C funda
 
 ## Related
 
-- [data mining fundamentals](#/concept/data-mining-fundamentals) — no direct topical connection, but both are foundational technical-reference sources in this vault's Readwise/Books collection
+- [data mining fundamentals](#/concept/data-mining-fundamentals) — No direct topical connection, but both are foundational technical-reference sources in this vault's Readwise/Books collection.
 
 ## Open Questions
 

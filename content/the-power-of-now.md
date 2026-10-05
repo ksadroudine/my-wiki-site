@@ -1,6 +1,6 @@
 ## Summary
 
-Eckhart Tolle's spirituality and mindfulness teaching on presence and the nature of the mind — a topical outlier in this vault, included for ingest completeness but outside the vault's predominant business/technology/telecom scope.
+Eckhart Tolle's teaching on presence and the nature of the mind holds that psychological suffering comes mainly from identification with compulsive thinking. The book is a topical outlier in this vault, included for ingest completeness but outside its predominant business, technology and telecom scope.
 
 ## Highlights
 

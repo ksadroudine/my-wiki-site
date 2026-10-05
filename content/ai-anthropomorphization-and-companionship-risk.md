@@ -1,6 +1,6 @@
 ## Summary
 
-Large language models generate statistically plausible text without understanding or feeling, but the industry markets them using humanlike language — intelligence, emotional sensitivity, empathy — that leads users to form corrosive parasocial relationships with them. Anthropic's own deliberate "character training" of Claude toward warmth and insight illustrates the same anthropomorphization dynamic from the inside, including the company's own stated unease about it.
+Large language models generate statistically plausible text without understanding or feeling, yet the industry markets them with humanlike language that encourages users to form unhealthy parasocial relationships with them. Anthropic's deliberate character training of Claude toward warmth shows the same dynamic from inside a developer, including the company's own stated unease.
 
 ## Highlights
 
@@ -24,8 +24,8 @@ The article's author, Kevin Roose, states directly that he is "nervous about the
 
 ## Related
 
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — addresses trust and adoption dynamics around AI in professional settings, a more measured counterpart to the personal/emotional over-trust this concept documents
-- [co intelligence working with ai](#/concept/co-intelligence-working-with-ai) — frames a deliberately collaborative, tool-like relationship with AI that stands in direct contrast to the parasocial, companion-like relationships this concept describes as a risk
+- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — That concept addresses trust and adoption dynamics around AI in professional settings, a more measured counterpart to the personal and emotional over-trust documented here.
+- [working with generative ai](#/concept/working-with-generative-ai) — That concept frames a deliberately collaborative, tool-like relationship with AI that stands in direct contrast to the parasocial, companion-like relationships this concept describes as a risk.
 
 ## Open Questions
 

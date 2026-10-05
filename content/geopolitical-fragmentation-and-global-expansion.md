@@ -1,6 +1,6 @@
 ## Summary
 
-The global digital economy is fragmenting into divergent national and regional trajectories, shaped as much by US-China rivalry, regulation, and AI computing capacity as by markets and technology. Chinese companies' "microregion" internationalization strategy — targeting subnational units rather than whole countries — offers a concrete company-level playbook for expanding globally despite this fragmentation.
+The global digital economy is fragmenting into divergent national and regional trajectories shaped as much by US-China rivalry, regulation and AI computing capacity as by markets and technology. Chinese companies' microregion strategy of targeting subnational units rather than whole countries offers a company-level playbook for expanding globally despite this fragmentation.
 
 ## Highlights
 
@@ -25,9 +25,9 @@ Three place-based strategies recur across the companies studied. Finding new rou
 
 ## Related
 
-- [deepseek and chinas ai ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — a deeper account of China's AI-specific competitive strategy, complementary to this concept's broader digital-economy and internationalization framing
-- [telecom regulatory economics](#/concept/telecom-regulatory-economics) — sector-specific regulatory divergence that instantiates this concept's broader thesis about diverging national digital-regulatory logics
-- [sovereign ai ecosystems](#/concept/sovereign-ai-ecosystems) — national AI self-sufficiency strategies that are a direct driver of the digital-economy fragmentation this concept documents at the country level
+- [deepseek and chinas ai ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — That concept provides a deeper account of China's AI-specific competitive strategy, complementary to this concept's broader digital-economy and internationalization framing.
+- [telecom regulatory economics](#/concept/telecom-regulatory-economics) — Sector-specific regulatory divergence that instantiates this concept's broader thesis about diverging national digital-regulatory logics.
+- [sovereign ai ecosystems](#/concept/sovereign-ai-ecosystems) — National AI self-sufficiency strategies that are a direct driver of the digital-economy fragmentation this concept documents at the country level.
 
 ## Open Questions
 

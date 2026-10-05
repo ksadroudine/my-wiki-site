@@ -1,6 +1,6 @@
 ## Summary
 
-Research on roughly 6,000 people across high- and average-performing teams found the strongest predictor of team success is a culture of experimentation, not talent concentration. Teams that keep improving share five reinforcing habits — trying new approaches, valuing curiosity over ego, surfacing problems early, staying close to the actual work, and investing deliberately in individual growth.
+Research on roughly 6,000 people across high-performing and average teams found that the strongest predictor of team success is a culture of experimentation rather than a concentration of talent. Teams that keep improving share five reinforcing habits, which are trying new approaches, valuing curiosity over ego, surfacing problems early, staying close to the actual work and investing deliberately in individual growth.
 
 ## Highlights
 
@@ -22,8 +22,8 @@ A further habit — staying close to the actual work — describes leaders and s
 
 ## Related
 
-- [organizational bottleneck management](#/concept/organizational-bottleneck-management) — a complementary framework for diagnosing and clearing what actually limits team and organizational throughput, relevant to why some teams sustain the experimentation habit this concept describes and others don't
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — discusses psychological safety as a precondition for AI-adoption experimentation, the same underlying mechanism this concept identifies behind the curiosity-over-ego and early-problem-surfacing habits
+- [organizational bottleneck management](#/concept/organizational-bottleneck-management) — A complementary framework for diagnosing and clearing what actually limits team and organizational throughput, relevant to why some teams sustain the experimentation habit this concept describes and others don't.
+- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — That concept discusses psychological safety as a precondition for AI-adoption experimentation, the same underlying mechanism this concept identifies behind the curiosity-over-ego and early-problem-surfacing habits.
 
 ## Open Questions
 

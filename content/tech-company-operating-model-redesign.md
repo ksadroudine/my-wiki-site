@@ -1,6 +1,6 @@
 ## Summary
 
-Most tech companies default to an operating model where small teams own their own work but every cross-team conflict escalates up the hierarchy, and Bain's analysis of 290 tech companies finds this escalation-dependent model breaks down at scale — the rare sustained high-growth performers instead adopt one of three alternative models (habit cultivators, authority weavers, or flow instrumentalists) that resolve friction at the front line instead of in leadership meetings. Companion research corroborates the same pattern from three angles — enterprise architecture as a front-line enabler rather than gatekeeper, McKinsey's profit-margin-correlated IT delivery capabilities, and Bain's own account of how generative AI is reshaping the technology function specifically. A BCG companion piece adds the specific organizational mechanism for capturing AI value at scale — a centralized "AI hub" that evolves through four phases as the enterprise's own AI maturity grows.
+Most tech companies run an operating model in which small teams own their work but every cross-team conflict escalates up the hierarchy, and Bain's analysis of 290 companies finds that this model breaks down at scale. The rare sustained high-growth performers adopt habit cultivator, authority weaver or flow instrumentalist models that resolve friction at the front line, and related work on enterprise architecture, IT delivery and centralized AI hubs supports the same pattern.
 
 ## Highlights
 
@@ -36,11 +36,11 @@ A companion Bain report, <span class="src">Updating Enterprise Technology to Sca
 
 ## Related
 
-- [vibe coding and ai led development](#/concept/vibe-coding-and-ai-led-development) — Bain's own companion research there on the "AI development life cycle" describes the same organizational redesign pressure at the level of individual engineering teams, rather than the whole-company operating-model level covered here
-- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — the operating-model agility this concept describes is a direct enabler of the pricing-model and go-to-market redesign that concept argues SaaS incumbents need to execute quickly to survive AI disruption
-- [cloud operating model design](#/concept/cloud-operating-model-design) — Forrester's six-layer cloud-specific operating model is a complementary, more narrowly-scoped companion to this concept's whole-company operating-model redesign thesis, with direct overlap in Layer Four (structure) and Layer Five (governance)
-- [ai organizational design](#/concept/ai-organizational-design) — a broader, cross-industry account of AI-driven hierarchy flattening that this concept's tech-sector-specific escalation-vs-front-line-resolution findings instantiate
-- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — KPMG's five-priority CIO roadmap there addresses the same pilot-to-production and centralization-vs-devolution questions this concept's AI hub phases describe, from an enterprise-architecture rather than organizational-structure angle
+- [vibe coding and ai led development](#/concept/vibe-coding-and-ai-led-development) — Bain's own companion research there on the "AI development life cycle" describes the same organizational redesign pressure at the level of individual engineering teams, rather than the whole-company operating-model level covered here.
+- [ai disruption of saas business models](#/concept/ai-disruption-of-saas-business-models) — The operating-model agility this concept describes is a direct enabler of the pricing-model and go-to-market redesign that concept argues SaaS incumbents need to execute quickly to survive AI disruption.
+- [cloud operating model design](#/concept/cloud-operating-model-design) — Forrester's six-layer cloud-specific operating model is a complementary, more narrowly-scoped companion to this concept's whole-company operating-model redesign thesis, with direct overlap in Layer Four (structure) and Layer Five (governance).
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — A broader, cross-industry account of AI-driven hierarchy flattening that this concept's tech-sector-specific escalation-vs-front-line-resolution findings instantiate.
+- [ai scaling and maturity](#/concept/ai-scaling-and-maturity) — KPMG's five-priority CIO roadmap there addresses the same pilot-to-production and centralization-vs-devolution questions this concept's AI hub phases describe, from an enterprise-architecture rather than organizational-structure angle.
 
 ## Open Questions
 

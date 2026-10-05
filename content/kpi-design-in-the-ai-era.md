@@ -1,6 +1,6 @@
 ## Summary
 
-Organizations chasing a single perfect KPI keep falling prey to Goodhart's Law — the metric gets gamed until it stops reflecting the goal it was meant to track — and machine learning research offers four concrete, borrowed anti-overfitting techniques to fight that pattern, while Agoda's five-year, still-unfinished search for one comprehensive KPI for its business development team shows both why AI itself is often required to build a KPI robust enough to survive real-world noise, and why the search for the "one KPI to rule them all" usually ends in three.
+Organizations that chase a single perfect KPI fall prey to Goodhart's Law, in which a metric is gamed until it stops reflecting the goal it was meant to track. Machine learning offers four borrowed anti-overfitting techniques to counter this, and Agoda's long search for one comprehensive KPI shows why AI is often needed to build a robust metric and why the search for one KPI usually ends in three.
 
 ## Highlights
 
@@ -22,8 +22,8 @@ Agoda's own multiyear account of its search for a single comprehensive KPI illus
 
 ## Related
 
-- [measuring ai project value and quality](#/concept/measuring-ai-project-value-and-quality) — Eric Siegel's argument there that business metrics (not technical ones) should drive AI project evaluation is the mirror image of this concept's argument that AI-derived techniques should drive better organizational KPI design; both concern the gap between what's easy to measure and what actually reflects value
-- [gen ai organizational learning and knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — the "measure the cycle, not just the output" discipline covered there for organizational gen AI learning shares the same underlying insight as this concept's early-stopping and regularization techniques: consumption/output metrics alone invite exactly the kind of gaming Goodhart's Law predicts
+- [measuring ai project value and quality](#/concept/measuring-ai-project-value-and-quality) — Eric Siegel's argument there that business metrics (not technical ones) should drive AI project evaluation is the mirror image of this concept's argument that AI-derived techniques should drive better organizational KPI design; both concern the gap between what's easy to measure and what actually reflects value.
+- [gen ai organizational learning and knowledge](#/concept/gen-ai-organizational-learning-and-knowledge) — The "measure the cycle, not just the output" discipline covered there for organizational gen AI learning shares the same underlying insight as this concept's early-stopping and regularization techniques: consumption/output metrics alone invite exactly the kind of gaming Goodhart's Law predicts.
 
 ## Open Questions
 

@@ -1,6 +1,6 @@
 ## Summary
 
-The "AI factory" — a scalable decision engine combining a data pipeline, algorithm development, an experimentation platform, and software infrastructure. Iansiti and Lakhani argue it has replaced the traditional human-driven operating model as the operational core of the twenty-first-century firm, and Procter & Gamble's own independently-built AI factory confirms the model still holds once generative and agentic AI are absorbed into it.
+The AI factory is a scalable decision engine that combines a data pipeline, algorithm development, an experimentation platform and software infrastructure. Iansiti and Lakhani argue that it has replaced the human-driven operating model as the operational core of the modern firm, and Procter and Gamble's own AI factory shows the model holds once generative and agentic AI are absorbed into it.
 
 ## Highlights
 
@@ -38,11 +38,11 @@ This architectural challenge is deeper than a simple integration backlog: Conway
 
 ## Related
 
-- [strategic network effects](#/concept/strategic-network-effects) — the companion half of this book's argument, covering how network structure and learning effects (rather than the AI factory's internal mechanics) shape competitive advantage once a digital operating model exists
-- [ai strategy](#/concept/ai-strategy) — a more general, industry-agnostic staged process for AI strategy formation that this book's AI-factory maturity stages parallel
-- [ai organizational design](#/concept/ai-organizational-design) — a complementary, more incremental account of how AI reshapes organizational process and structure
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — a specific application of this concept's data-pipeline/algorithm/experimentation architecture to customer personalization
-- [cloud data management](#/concept/cloud-data-management) — the cloud storage, integration, and big-data infrastructure that an AI factory's data pipeline is typically built on top of
+- [platform business models](#/concept/platform-business-models) — The companion half of this book's argument, covering how network structure and learning effects (rather than the AI factory's internal mechanics) shape competitive advantage once a digital operating model exists.
+- [ai strategy](#/concept/ai-strategy) — That concept provides a more general, industry-agnostic staged process for AI strategy formation that this book's AI-factory maturity stages parallel.
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept gives a complementary and more incremental account of how AI reshapes organizational process and structure.
+- [customer personalization strategy](#/concept/customer-personalization-strategy) — That concept applies the data-pipeline, algorithm and experimentation architecture described here specifically to customer personalization.
+- [cloud operations data and security](#/concept/cloud-operations-data-and-security) — That concept covers the cloud storage, integration, and big-data infrastructure that an AI factory's data pipeline is typically built on top of.
 
 ## Open Questions
 

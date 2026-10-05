@@ -1,6 +1,6 @@
 ## Summary
 
-Successful workplace AI adoption depends less on model capability than on solving a set of predictable human and organizational problems — employees hiding productivity gains for fear of losing work, output-based metrics that don't yet exist, management systems still designed for a pre-AI workforce, and low-quality "workslop" that silently shifts effort onto coworkers. Companies that get this right treat AI adoption as a change-management and incentive-design challenge, not a technology rollout. HBR interviews at two consulting firms show the middle-manager layer absorbing the strain of AI adoption.
+Successful workplace AI adoption depends less on model capability than on solving predictable human and organizational problems, including employees hiding productivity gains, missing output-based metrics, management systems built for a pre-AI workforce and low-quality workslop. Companies that handle this well treat AI adoption as a change-management and incentive-design challenge rather than a technology rollout, and they pay particular attention to the middle-manager layer that absorbs the strain.
 
 ## Highlights
 
@@ -41,9 +41,8 @@ Read together, the five articles describe the same underlying challenge from com
 
 ## Related
 
-- [ai organizational design](#/concept/ai-organizational-design) — covers the broader thesis of AI pressuring organizational redesign, including the "shadow AI" / "secret cyborgs" phenomenon this concept's clandestine-use findings directly corroborate with additional company examples
-- [ai driven process and work redesign](#/concept/ai-driven-process-and-work-redesign) — covers task-level methodologies for redesigning work around AI capability, complementary to this concept's focus on the incentive and management-culture conditions that determine whether such redesigns actually get adopted
-- [pro worker ai and labor displacement](#/concept/pro-worker-ai-and-labor-displacement) — the design-choice framing there complements this concept's management-system diagnosis
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept covers the broader thesis of AI pressuring organizational redesign, including the "shadow AI" / "secret cyborgs" phenomenon this concept's clandestine-use findings directly corroborate with additional company examples. That concept covers task-level methodologies for redesigning work around AI capability, complementary to this concept's focus on the incentive and management-culture conditions that determine whether such redesigns actually get adopted.
+- [pro worker ai and labor displacement](#/concept/pro-worker-ai-and-labor-displacement) — The design-choice framing there complements this concept's management-system diagnosis.
 
 ## Open Questions
 

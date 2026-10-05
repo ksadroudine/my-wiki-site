@@ -1,6 +1,6 @@
 ## Summary
 
-Jeff Sutherland's Scrum framework for team-based, iterative work, built on fixed-length Sprints, a Product Owner who orders a prioritized Backlog, and a Scrum Master who removes impediments. Covers the estimation and retrospective practices designed to make a team's actual velocity visible and improvable.
+Jeff Sutherland's Scrum is a framework for team-based, iterative work built on fixed-length sprints, a product owner who orders a prioritized backlog and a scrum master who removes impediments. Its estimation and retrospective practices make a team's actual velocity visible and improvable.
 
 ## Highlights
 
@@ -26,8 +26,8 @@ Estimation is handled through relative sizing rather than absolute time estimate
 
 ## Related
 
-- [lean startup customer development](#/concept/lean-startup-customer-development) — the source explicitly recommends pairing Customer Development with Agile/Scrum engineering so that validated customer learning converts into working increments quickly
-- [ai organizational design](#/concept/ai-organizational-design) — a broader account of how organizations restructure work around AI, complementary to Scrum's narrower focus on team-level iteration and estimation practice
+- [lean startup customer development](#/concept/lean-startup-customer-development) — The source explicitly recommends pairing Customer Development with Agile/Scrum engineering so that validated customer learning converts into working increments quickly.
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — That concept provides a broader account of how organizations restructure work around AI, complementary to Scrum's narrower focus on team-level iteration and estimation practice.
 
 ## Open Questions
 

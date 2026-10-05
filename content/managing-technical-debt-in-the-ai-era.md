@@ -1,6 +1,6 @@
 ## Summary
 
-AI-generated code accumulates technical debt faster than human-written code, especially in legacy ("brownfield") systems and in the hands of inexperienced developers, but the goal for leaders isn't zero debt — it's managing debt strategically, using frameworks like PAID to prioritize remediation by business value and treating tech debt reduction as an investment in AI-readiness rather than a pure cost center. A companion BCG framework flips the lens from AI-generated debt to AI-remediated debt, mapping six myths that derail AI-driven modernization of pre-existing legacy systems and the orchestrated, evidence-grounded toolchain that actually works.
+AI-generated code accumulates technical debt faster than human-written code, especially in legacy systems and in the hands of inexperienced developers, but the goal is to manage debt strategically rather than eliminate it. Leaders can prioritize remediation by business value, treat debt reduction as an investment in AI-readiness, and avoid six myths that derail AI-driven modernization of legacy systems.
 
 ## Highlights
 
@@ -15,7 +15,7 @@ AI-generated code accumulates technical debt faster than human-written code, esp
 - CTT, Portugal's 500-year-old national postal service, cut IT operating costs 15% by migrating on-premises workloads to the cloud, and can now start work on a new AI solution in hours rather than weeks — direct evidence that tech debt remediation converts into AI-deployment speed. <span class="src">How to Manage Tech Debt in the AI Era</span>
 - Sungard Availability Services filed for bankruptcy in 2022 in part because its accumulated technical debt left it unable to compete with cloud-focused rivals once COVID-19 accelerated customer demand for cloud-based backup and remote-work capabilities faster than the company could modernize. <span class="src">How to Manage Tech Debt in the AI Era</span>
 - BCG's practical method for AI-driven modernization achieves 25-35% cost reduction and 30-40% faster delivery, but only when organizations avoid six myths — including the belief that a single LLM or agent can modernize an entire system (a large organization's AI-generated code accuracy rose from 30% to 85% only after the team stopped relying on the model alone and fed it an automated, fact-based dependency map first) and that AI can reliably explain legacy behavior from code alone (a telecom operator team paired AI with a deterministic system map across 60 applications and 10 million lines of code, accelerating documentation by 80% and improving accuracy by roughly 60%). <span class="src">Six Myths CIOs Must Avoid in AI-Based IT Modernization</span>
-- BCG's remaining myths: AI can design architecture from specifications alone (specs capture intent, but drift from actual system behavior means architecture still requires human tradeoff decisions AI can only inform); AI-assisted coding alone accelerates modernization (a major transportation operator's AI-rewritten legacy code was unreliable until the team spent one week building a trusted dependency map first); and AI reduces the need for testing and de-risks cutover (AI can draft test cases and accelerate triage, but only inside an environment with clearly defined outcomes and robust regression baselines). <span class="src">Six Myths CIOs Must Avoid in AI-Based IT Modernization</span>
+- BCG's remaining myths are these: AI can design architecture from specifications alone (specs capture intent, but drift from actual system behavior means architecture still requires human tradeoff decisions AI can only inform); AI-assisted coding alone accelerates modernization (a major transportation operator's AI-rewritten legacy code was unreliable until the team spent one week building a trusted dependency map first); and AI reduces the need for testing and de-risks cutover (AI can draft test cases and accelerate triage, but only inside an environment with clearly defined outcomes and robust regression baselines). <span class="src">Six Myths CIOs Must Avoid in AI-Based IT Modernization</span>
 
 ## Concept
 
@@ -27,9 +27,9 @@ An earlier, broader MIT SMR piece on the same underlying problem — co-authored
 
 ## Related
 
-- [vibe coding and ai led development](#/concept/vibe-coding-and-ai-led-development) — Bain's warning there that rising AI-driven velocity can mask accumulating technical debt is the direct productivity-side counterpart to the debt-accumulation risk detailed in depth here
-- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — both concepts describe costs that are structurally invisible until specifically measured for (token spend there, technical debt here), and both recommend dedicated, protected budget lines as the fix
-- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — McKinsey QuantumBlack's build/partner/buy discipline and this concept's orchestrated-toolchain finding both converge on the same lesson: no single AI tool or model should be trusted to handle an entire complex technical task alone
+- [vibe coding and ai led development](#/concept/vibe-coding-and-ai-led-development) — Bain's warning there that rising AI-driven velocity can mask accumulating technical debt is the direct productivity-side counterpart to the debt-accumulation risk detailed in depth here.
+- [enterprise ai token cost management](#/concept/enterprise-ai-token-cost-management) — Both concepts describe costs that are structurally invisible until specifically measured for (token spend there, technical debt here), and both recommend dedicated, protected budget lines as the fix.
+- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — McKinsey QuantumBlack's build/partner/buy discipline and this concept's orchestrated-toolchain finding both converge on the same lesson: no single AI tool or model should be trusted to handle an entire complex technical task alone.
 
 ## Open Questions
 

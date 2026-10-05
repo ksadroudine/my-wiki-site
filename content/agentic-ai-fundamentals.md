@@ -1,6 +1,6 @@
 ## Summary
 
-Agentic AI systems are autonomous, goal-directed programs that perceive, reason, and act rather than simply respond to prompts. This concept covers the taxonomy of agent types businesses are deploying, the four-step loop an agent follows to execute work, and the implementation and governance practices — SMART goals, team composition, scaffolding, accountability — that determine whether a deployment actually succeeds.
+Agentic AI systems are autonomous, goal-directed programs that perceive, reason and act rather than only respond to prompts. The sources cover the main types of business agents, the four-step loop an agent follows to complete work, and the goals, team design and accountability practices that decide whether a deployment succeeds.
 
 ## Highlights
 
@@ -25,11 +25,11 @@ Despite this architectural sophistication, the evidence from real deployments is
 
 ## Related
 
-- [agentic ai in telecom](#/concept/agentic-ai-in-telecom) — a telecom-specific application of the general agentic AI architecture and governance concerns covered here
-- [retrieval augmented generation](#/concept/retrieval-augmented-generation) — RAG is one of the tools a custom agent can use to ground its actions in enterprise-specific data, as noted in the McKinsey agent taxonomy
-- [ai guardrails](#/concept/ai-guardrails) — the specific technical mechanism ("scaffolding" in this concept's vocabulary) for constraining and monitoring agent behavior in production
-- [jagged frontier centaurs cyborgs](#/concept/jagged-frontier-centaurs-cyborgs) — the Centaur/Cyborg human-AI collaboration patterns are the individual-level counterpart to this concept's team-composition guidance for human-agent teams
-- [ai risk prediction tool failures](#/concept/ai-risk-prediction-tool-failures) — documents what happens when the accountability and "human in the loop" governance this concept calls for is absent in practice
+- [telecom ai technology](#/concept/telecom-ai-technology) — That concept provides a telecom-specific application of the general agentic AI architecture and governance concerns covered here.
+- [retrieval augmented generation](#/concept/retrieval-augmented-generation) — RAG is one of the tools a custom agent can use to ground its actions in enterprise-specific data, as noted in the McKinsey agent taxonomy.
+- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — That concept covers the specific technical mechanism ("scaffolding" in this concept's vocabulary) for constraining and monitoring agent behavior in production.
+- [working with generative ai](#/concept/working-with-generative-ai) — The Centaur/Cyborg human-AI collaboration patterns are the individual-level counterpart to this concept's team-composition guidance for human-agent teams.
+- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — That concept documents what happens when the accountability and "human in the loop" governance this concept calls for is absent in practice.
 
 ## Open Questions
 

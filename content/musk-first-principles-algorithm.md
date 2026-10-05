@@ -1,6 +1,6 @@
 ## Summary
 
-The five-step process — question every requirement, delete, simplify, accelerate, automate — that Elon Musk reportedly applies at Tesla and SpaceX to solve large engineering and manufacturing problems. Grounded in first-principles thinking and applied to Musk's plan for Terafab, a chip factory meant to remove a supply-chain single point of failure across his AI ambitions.
+Elon Musk reportedly applies a five-step process of questioning every requirement, deleting, simplifying, accelerating and automating to solve large engineering and manufacturing problems at Tesla and SpaceX. The process rests on first-principles thinking and is being applied to Terafab, a planned chip factory meant to remove a supply-chain single point of failure across his AI ambitions.
 
 ## Highlights
 
@@ -22,9 +22,9 @@ A less formalized but explicitly named ingredient of how the Algorithm actually 
 
 ## Related
 
-- [ai abundant expertise strategy](#/concept/ai-abundant-expertise-strategy) — Musk's chip-supply single-point-of-failure logic is a concrete instance of the broader Coasian make-versus-buy calculation covered there, resolved here decisively toward "make" despite the cost and unfamiliarity of the new industry
-- [scrum methodology](#/concept/scrum-methodology) — the Algorithm's "accelerate cycle time" step and Scrum's emphasis on visible, improvable team velocity both target the same underlying goal of compounding advantage through faster iteration
-- [organizational prioritization frameworks](#/concept/organizational-prioritization-frameworks) — the Algorithm's "delete every possible step" discipline is a specific, aggressive version of the deliberate deprioritization this concept identifies as the step most organizations skip
+- [ai sustainable competitive advantage](#/concept/ai-sustainable-competitive-advantage) — Musk's chip-supply single-point-of-failure logic is a concrete instance of the broader Coasian make-versus-buy calculation covered there, resolved here decisively toward "make" despite the cost and unfamiliarity of the new industry.
+- [scrum methodology](#/concept/scrum-methodology) — The Algorithm's "accelerate cycle time" step and Scrum's emphasis on visible, improvable team velocity both target the same underlying goal of compounding advantage through faster iteration.
+- [organizational prioritization frameworks](#/concept/organizational-prioritization-frameworks) — The Algorithm's "delete every possible step" discipline is a specific, aggressive version of the deliberate deprioritization this concept identifies as the step most organizations skip.
 
 ## Open Questions
 

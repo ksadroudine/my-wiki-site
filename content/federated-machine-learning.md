@@ -1,6 +1,6 @@
 ## Summary
 
-Federated learning lets organizations train a shared AI model on data from multiple decentralized sources without any party releasing its raw data — sending the algorithm to the data rather than the data to the algorithm. A four-type data framework (poor, horizontal, vertical, rich) tells business leaders which kind of external partner to seek to improve their own AI systems.
+Federated learning lets organizations train a shared AI model on data from several decentralized sources without any party releasing its raw data, because the algorithm travels to the data rather than the data to the algorithm. A four-type data framework of poor, horizontal, vertical and rich data tells business leaders which kind of external partner would improve their own AI systems.
 
 ## Highlights
 
@@ -26,9 +26,9 @@ Beyond identifying the right partner, the article names practical obstacles that
 
 ## Related
 
-- [enterprise data strategy fundamentals](#/concept/enterprise-data-strategy-fundamentals) — the broader enterprise data strategy discipline this concept's four-type data-assessment framework operates within, specifically for the cross-organizational-collaboration use case
-- [genai supply chain and procurement](#/concept/genai-supply-chain-and-procurement) — a parallel account of AI-driven cross-organizational collaboration, though built around supply-chain data-sharing rather than model-training collaboration specifically
-- [data mining fundamentals](#/concept/data-mining-fundamentals) — the general data-mining vocabulary and process this concept's federated-training-specific techniques extend into a privacy-preserving, multi-organizational setting
+- [enterprise data strategy and governance](#/concept/enterprise-data-strategy-and-governance) — The broader enterprise data strategy discipline this concept's four-type data-assessment framework operates within, specifically for the cross-organizational-collaboration use case.
+- [genai supply chain and procurement](#/concept/genai-supply-chain-and-procurement) — A parallel account of AI-driven cross-organizational collaboration, though built around supply-chain data-sharing rather than model-training collaboration specifically.
+- [data mining fundamentals](#/concept/data-mining-fundamentals) — The general data-mining vocabulary and process this concept's federated-training-specific techniques extend into a privacy-preserving, multi-organizational setting.
 
 ## Open Questions
 

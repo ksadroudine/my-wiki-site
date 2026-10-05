@@ -1,6 +1,6 @@
 ## Summary
 
-Apple's manufacturing excellence traces back through an unbroken chain to a nearly forgotten American engineer who taught postwar Japan the quality-management philosophy Steve Jobs later absorbed at NeXT and Pixar — and once Jobs returned to Apple, the company weaponized those same quality lessons into a supply-chain playbook that extracted manufacturing know-how from Japanese suppliers and, in the process, helped build China's industrial capacity into a strategic rival.
+Apple's manufacturing excellence traces back through an unbroken chain to an almost forgotten American engineer who taught postwar Japan the quality philosophy that Steve Jobs later absorbed at NeXT and Pixar. After Jobs returned, Apple turned those lessons into a supply-chain playbook that drew manufacturing know-how from Japanese suppliers and helped build China's industrial capacity into a strategic rival.
 
 ## Highlights
 
@@ -24,8 +24,8 @@ The same extraction playbook that hollowed out Japan's manufacturing leadership 
 
 ## Related
 
-- [sovereign ai ecosystems](#/concept/sovereign-ai-ecosystems) — the same US-Japan-China industrial-capability transfer dynamic this concept documents for consumer electronics manufacturing is playing out again, in real time, for AI compute and model capability specifically
-- [deepseek and chinas ai ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — China's demonstrated ability to absorb foreign technical knowhow and turn it into independently competitive capability (illustrated here by BYD) is the same underlying pattern DeepSeek's AI-model efficiency breakthrough represents in a different industry
+- [sovereign ai ecosystems](#/concept/sovereign-ai-ecosystems) — The same US-Japan-China industrial-capability transfer dynamic this concept documents for consumer electronics manufacturing is playing out again, in real time, for AI compute and model capability specifically.
+- [deepseek and chinas ai ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem) — China's demonstrated ability to absorb foreign technical knowhow and turn it into independently competitive capability (illustrated here by BYD) is the same underlying pattern DeepSeek's AI-model efficiency breakthrough represents in a different industry.
 
 ## Open Questions
 

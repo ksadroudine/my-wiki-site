@@ -1,6 +1,6 @@
 ## Summary
 
-Durable innovation capability requires treating innovation as a permanent organizational system rather than an episodic program or a single clever bet. Companies that succeed combine disciplined business-model design, a dedicated strategic-innovation function, a structured playbook for scaling individual transformational projects, deliberate engagement with external innovation ecosystems and individual outsiders, and active avoidance of the identity, architecture, and collaboration traps that derail reinvention even when the other capabilities are already in place.
+Durable innovation capability requires treating innovation as a permanent organizational system rather than an episodic program or a single clever bet. Successful companies combine disciplined business-model design, a dedicated strategic-innovation function, a playbook for scaling transformational projects and engagement with outsiders and external ecosystems, while avoiding the identity, architecture and collaboration traps that derail reinvention.
 
 ## Highlights
 
@@ -51,8 +51,8 @@ Read together, the five sources describe complementary layers of the same underl
 
 ## Related
 
-- [digital transformation](#/concept/digital-transformation) — shares the theme of building organizational capability for sustained change rather than one-off initiatives
-- [platform business models](#/concept/platform-business-models) — a specific business-model category that the seven-essentials framework's design logic applies to
+- [digital transformation](#/concept/digital-transformation) — That concept shares the theme of building organizational capability for sustained change rather than one-off initiatives.
+- [platform business models](#/concept/platform-business-models) — That concept provides a specific business-model category that the seven-essentials framework's design logic applies to.
 
 ## Open Questions
 

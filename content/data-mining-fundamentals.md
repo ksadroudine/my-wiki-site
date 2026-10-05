@@ -1,6 +1,6 @@
 ## Summary
 
-The core vocabulary and process of data mining and machine learning — structural (explainable) versus black-box predictions, the classification/association/clustering/numeric-prediction task taxonomy, and the CRISP-DM project lifecycle. Also covers the "bias" choices — language, search, overfitting-avoidance — that shape what any learning algorithm can discover, plus the closely related discipline of business analytics.
+Data mining and machine learning rest on a core vocabulary and process, including structural versus black-box predictions, the task types of classification, association, clustering and numeric prediction, and the CRISP-DM project lifecycle. The concept also covers the language, search and overfitting-avoidance choices that shape what any learning algorithm can discover, and the related discipline of business analytics.
 
 ## Highlights
 
@@ -25,9 +25,9 @@ On the ethics and governance of the underlying data itself, the source cites rei
 
 ## Related
 
-- [prediction machines](#/concept/prediction-machines) — Prediction Machines applies the economic consequences of exactly the classification/prediction capability described here; this concept supplies the underlying technical vocabulary (structural vs. black-box, the bias taxonomy) that book largely takes for granted
-- [cloud data management](#/concept/cloud-data-management) — covers the storage, privacy, and integration infrastructure that data mining depends on as an input
-- [ai factory](#/concept/ai-factory) — describes how data pipelines and algorithms of the kind described here are operationalized at continuous, production scale inside a digital firm
+- [prediction machines](#/concept/prediction-machines) — Prediction Machines applies the economic consequences of exactly the classification/prediction capability described here; this concept supplies the underlying technical vocabulary (structural vs. black-box, the bias taxonomy) that book largely takes for granted.
+- [cloud operations data and security](#/concept/cloud-operations-data-and-security) — That concept covers the storage, privacy, and integration infrastructure that data mining depends on as an input.
+- [ai factory](#/concept/ai-factory) — That concept describes how data pipelines and algorithms of the kind described here are operationalized at continuous, production scale inside a digital firm.
 
 ## Open Questions
 

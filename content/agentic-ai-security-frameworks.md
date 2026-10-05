@@ -1,6 +1,6 @@
 ## Summary
 
-How organizations secure agentic AI deployments, which McKinsey frames as introducing "digital insiders" with five new risk drivers. Covers phase-by-phase security controls across the deployment lifecycle, the convergence of previously siloed privacy, cybersecurity, and data-governance functions around a shared data-risk taxonomy, and a Brazilian healthcare provider's three-phase threat-modeling case study.
+Agentic AI systems act as digital insiders and introduce security risks beyond those of traditional AI. McKinsey proposes controls for each phase of deployment and a shared data-risk taxonomy that unites privacy, cybersecurity and data governance teams, and a healthcare provider's threat-modeling project illustrates the approach.
 
 ## Highlights
 
@@ -26,10 +26,10 @@ BCG completes the picture by arguing that the organizational structure most comp
 
 ## Related
 
-- [agentic ai governance and autonomy](#/concept/agentic-ai-governance-and-autonomy) — the higher-level risk-assessment and autonomy-calibration framing that this concept's technical security controls are designed to implement
-- [ai guardrails](#/concept/ai-guardrails) — McKinsey's guardrails taxonomy (checker/corrector/rail/guard) is a specific technical mechanism referenced by this concept's input/output-guardrail recommendations
-- [multi agent orchestration](#/concept/multi-agent-orchestration) — agent-to-agent communication protocols and supervisory logic discussed there are the coordination layer this concept's agent-to-agent security controls must secure
-- [agentic ai fundamentals](#/concept/agentic-ai-fundamentals) — the baseline definitions of agentic AI and its execution loop that this concept's risk frameworks assume
+- [agentic ai governance and autonomy](#/concept/agentic-ai-governance-and-autonomy) — That concept covers the higher-level risk-assessment and autonomy-calibration framing that this concept's technical security controls are designed to implement.
+- [ai risk controls and reliability](#/concept/ai-risk-controls-and-reliability) — McKinsey's guardrails taxonomy (checker/corrector/rail/guard) is a specific technical mechanism referenced by this concept's input/output-guardrail recommendations.
+- [agentic ai platform architecture](#/concept/agentic-ai-platform-architecture) — Agent-to-agent communication protocols and supervisory logic discussed there are the coordination layer this concept's agent-to-agent security controls must secure.
+- [agentic ai fundamentals](#/concept/agentic-ai-fundamentals) — The baseline definitions of agentic AI and its execution loop that this concept's risk frameworks assume.
 
 ## Open Questions
 

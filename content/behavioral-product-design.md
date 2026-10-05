@@ -1,6 +1,6 @@
 ## Summary
 
-Nir Eyal's Hook Model (Trigger, Action, Variable Reward, Investment) for designing products that form user habits. Paired with Don Norman's human-centered design principles for making products usable in the first place, together covering how products both function well and become habitual.
+Products need to work well and also become habitual, and two frameworks cover these needs. Nir Eyal's Hook Model describes how triggers, actions, variable rewards and investment form user habits, while Don Norman's human-centered design principles make products usable in the first place.
 
 ## Highlights
 
@@ -19,9 +19,9 @@ Read together, these two disciplines describe complementary failure modes a prod
 
 ## Related
 
-- [consumption economics](#/concept/consumption-economics) — the source of Norman's feature-overshoot diagnosis as cited in this concept; that concept covers the broader Consumption Development discipline this design philosophy feeds into
-- [customer personalization strategy](#/concept/customer-personalization-strategy) — BCG's personalization framework shares the Hook Model's emphasis on triggers and rewards tailored to individual behavior, applied at the marketing-strategy level rather than the individual-product level
-- [platform growth culture instagram](#/concept/platform-growth-culture-instagram) — documents a large-scale, real-world case of variable-reward and investment mechanics (likes, follower counts, curated content) shaping user behavior across an entire platform
+- [cloud and saas business economics](#/concept/cloud-and-saas-business-economics) — That concept is the source of Norman's feature-overshoot diagnosis as cited here, and it covers the broader Consumption Development discipline that this design philosophy feeds into.
+- [customer personalization strategy](#/concept/customer-personalization-strategy) — BCG's personalization framework shares the Hook Model's emphasis on triggers and rewards tailored to individual behavior, applied at the marketing-strategy level rather than the individual-product level.
+- [platform growth culture instagram](#/concept/platform-growth-culture-instagram) — That concept documents a large-scale, real-world case of variable-reward and investment mechanics, such as likes, follower counts and curated content, shaping user behavior across an entire platform.
 
 ## Open Questions
 

@@ -1,6 +1,6 @@
 ## Summary
 
-How AI agents are replacing traditional customer service software and call centers, and why they can outperform humans on consistency despite being imperfect. Also covers why outcomes-based pricing is replacing software-licensing models in this category.
+AI agents are replacing traditional customer service software and call centers, and they can outperform humans on consistency even though the underlying models are imperfect. Outcomes-based pricing is replacing software licensing in this category, and defense-in-depth controls such as supervisor models manage the risk.
 
 ## Highlights
 
@@ -27,8 +27,8 @@ On the future of the underlying software industry, the source draws a distinctio
 
 ## Related
 
-- [agentic organizational redesign](#/concept/agentic-organizational-redesign) — cites AI-native customer support as one of the first business domains to complete a full agentic transition, consistent with the account given here
-- [agentic ai in telecom](#/concept/agentic-ai-in-telecom) — a parallel account of agentic AI adoption and risk management (including human-in-the-loop oversight) in a different, more safety-critical industry
+- [ai work and organization redesign](#/concept/ai-work-and-organization-redesign) — Cites AI-native customer support as one of the first business domains to complete a full agentic transition, consistent with the account given here.
+- [telecom ai technology](#/concept/telecom-ai-technology) — That concept gives a parallel account of agentic AI adoption and risk management, including human-in-the-loop oversight, in a different and more safety-critical industry.
 
 ## Open Questions
 

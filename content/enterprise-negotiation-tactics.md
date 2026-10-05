@@ -1,6 +1,6 @@
 ## Summary
 
-How skilled negotiators create leverage even without a clear BATNA — through partial alternatives, procedural moves, and reframing threats as warnings. Also covers why large-company negotiations structurally underperform due to agency and alignment problems, and how replacing deal review boards with proactive "deal value boards" fixes both.
+Skilled negotiators can create leverage even without a clear best alternative to a deal, through partial alternatives, procedural moves and reframing threats as warnings. Large-company negotiations also underperform for structural reasons of agency and alignment, which proactive deal value boards can fix in place of deal review boards.
 
 ## Highlights
 
@@ -25,8 +25,8 @@ The prescribed fix works by attacking both problems simultaneously rather than s
 
 ## Related
 
-- [algorithmic auditing frameworks](#/concept/algorithmic-auditing-frameworks) — the stakeholder-mapping discipline of the Ethical Matrix parallels this concept's principal-agent distinction between a counterparty organization and the specific individuals negotiating on its behalf
-- [pyramid principle](#/concept/pyramid-principle) — Minto's structured approach to organizing an argument is a complementary communication discipline for the "business plan" recommendations this concept's empowered-but-uncommitted negotiators bring back to decision-makers
+- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — The stakeholder-mapping discipline of the Ethical Matrix parallels this concept's principal-agent distinction between a counterparty organization and the specific individuals negotiating on its behalf.
+- [pyramid principle](#/concept/pyramid-principle) — Minto's structured approach to organizing an argument is a complementary communication discipline for the "business plan" recommendations this concept's empowered-but-uncommitted negotiators bring back to decision-makers.
 
 ## Open Questions
 

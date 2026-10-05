@@ -1,6 +1,6 @@
 ## Summary
 
-A 2024 focus group of 50+ board chairs found most directors ranked AI as a low priority and rarely used it for board work — but pioneering boards are already using AI to close the information gap with management, supply better scenario planning, and even sit in on deliberations as a non-voting observer. Managing the resulting risks (leaks, sample bias, anchoring in the past) is more tractable than most directors assume.
+Most corporate boards rank AI as a low priority and rarely use it, but pioneering boards are using it to close the information gap with management, improve scenario planning and even seat a non-voting AI observer. A 2024 focus group of more than 50 board chairs suggests that the risks, including leaks, sample bias and anchoring in the past, are more manageable than most directors assume.
 
 ## Highlights
 
@@ -24,9 +24,9 @@ Because few current directors were trained to use AI and many came of age before
 
 ## Related
 
-- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — the general change-management discipline for AI adoption this concept applies specifically to the unique constraints (part-time engagement, fiduciary responsibility, information asymmetry) of corporate boards
-- [ai strategy](#/concept/ai-strategy) — the executive-fluency-building process covered there operates one organizational level below this concept's board-specific fluency-building process, and the two share a similar staged, learning-by-doing structure
-- [ai risk prediction tool failures](#/concept/ai-risk-prediction-tool-failures) — a complementary account of AI risk-prediction failures (vendor overselling, evaluation inflation) relevant to the sample-bias and anchoring risks this concept identifies for board-level AI use specifically
+- [organizational readiness for ai collaboration](#/concept/organizational-readiness-for-ai-collaboration) — The general change-management discipline for AI adoption this concept applies specifically to the unique constraints (part-time engagement, fiduciary responsibility, information asymmetry) of corporate boards.
+- [ai strategy](#/concept/ai-strategy) — The executive-fluency-building process covered there operates one organizational level below this concept's board-specific fluency-building process, and the two share a similar staged, learning-by-doing structure.
+- [algorithmic auditing and ai failures](#/concept/algorithmic-auditing-and-ai-failures) — A complementary account of AI risk-prediction failures (vendor overselling, evaluation inflation) relevant to the sample-bias and anchoring risks this concept identifies for board-level AI use specifically.
 
 ## Open Questions
 

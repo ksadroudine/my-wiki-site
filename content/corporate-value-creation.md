@@ -1,6 +1,6 @@
 ## Summary
 
-McKinsey's four cornerstones of corporate finance — growth and return on invested capital drive value; only cash flow, not financial restructuring, creates it; share price tracks changing market expectations rather than performance alone; and a business's value depends on who manages it. Applied to growth strategy, portfolio management, acquisitions, capital structure, and investor communication. A companion empirical study of 172 stable, near-zero-growth firms shows how the ROIC side of this framework alone can drive market-beating returns when growth is unavailable.
+McKinsey's four cornerstones of corporate finance hold that growth and return on invested capital create value, that only cash flow creates it, that share price tracks market expectations as well as performance, and that value depends on who manages a business. The concept applies them to growth, portfolio management, acquisitions and capital structure, and a study of stable firms shows that return on capital alone can drive market-beating returns.
 
 ## Highlights
 
@@ -30,8 +30,8 @@ On capital structure, the source argues the trade-off between financial flexibil
 
 ## Related
 
-- [ai strategy](#/concept/ai-strategy) — the "ranking initiatives by cost, time-to-validate, strategic upside, and measurable upside" logic in AI strategy planning mirrors this concept's ROIC-and-growth prioritization discipline applied to a different kind of investment
-- [pyramid principle](#/concept/pyramid-principle) — the discipline of segmenting an audience (here, intrinsic investors specifically) and tailoring communication to what that specific audience needs is a domain-specific instance of the audience-centered communication principle covered there
+- [ai strategy](#/concept/ai-strategy) — The "ranking initiatives by cost, time-to-validate, strategic upside, and measurable upside" logic in AI strategy planning mirrors this concept's ROIC-and-growth prioritization discipline applied to a different kind of investment.
+- [pyramid principle](#/concept/pyramid-principle) — The discipline of segmenting an audience (here, intrinsic investors specifically) and tailoring communication to what that specific audience needs is a domain-specific instance of the audience-centered communication principle covered there.
 
 ## Open Questions
 
