@@ -21,7 +21,7 @@ The chips make this spending unusual. Railroads and fiber-optic cable keep their
 
 ### Is it a bubble?
 
-The sources give two main answers. One side points to how the spending is financed. Companies increasingly move data centers into separate legal structures funded by private credit, which keeps the debt off their own balance sheets. That reduces transparency, and opaque funding was the trigger in about half of 18 historical bubbles. Nvidia adds to the concern, because its guarantees and financing for customers could oblige it to pay more than $300 billion, so a downturn could concentrate losses in one company.
+The sources give three answers. One side points to how the spending is financed. Companies increasingly move data centers into separate legal structures funded by private credit, which keeps the debt off their own balance sheets. That reduces transparency, and opaque funding was the trigger in about half of 18 historical bubbles. Nvidia adds to the concern, because its guarantees and financing for customers could oblige it to pay more than $300 billion, so a downturn could concentrate losses in one company.
 
 The other side applies a strict test. By this test a bubble needs a market fall of 40 to 50 percent that lasts for years, and a similar fall in the investment behind the boom. Neither has happened. Generative AI also has real users, unlike many dot-com sites, and ChatGPT was projected to reach about $10 billion in annual revenue faster than Facebook or TikTok did. Nvidia funds its commitments from cash and operating profit rather than debt, which makes it different from Cisco in the dot-com years.
 
@@ -33,7 +33,7 @@ The buildout is also limited by physical supply, not only by money. Memory chips
 
 Every prompt costs real computing power, so AI has high variable costs. Revenue per user is low. Andy Wu of Harvard Business School calls a bubble a time when everyone can see the value being created but no one is thinking about how to capture it. Flat monthly subscriptions are in practice capped usage plans, and the usual $20 price does not cover the cost of heavy users.
 
-Models are also becoming commodities. Weak intellectual property protection lets well-funded entrants such as DeepSeek approach the leaders with far less investment, which limits how far any vendor can raise prices. Some investors argue that prices are too low for the value delivered. The venture firm a16z advises pricing at the highest layer of value that can be measured, such as credits for recognizable units of work or outcomes, instead of per token. See [AI Vendor Pricing and Profitability](#/concept/ai-vendor-pricing-and-profitability).
+Models are also becoming commodities. Weak intellectual property protection lets new entrants such as DeepSeek approach the leaders with far less investment, which limits how far any vendor can raise prices. Some investors argue that prices are too low for the value delivered. The venture firm a16z advises pricing at the highest layer of value that can be measured, such as credits for recognizable units of work or outcomes, instead of per token. See [AI Vendor Pricing and Profitability](#/concept/ai-vendor-pricing-and-profitability).
 
 ### Competing forecasts of AI's economic effect
 
@@ -43,17 +43,17 @@ Labor economists add a geographic point. Even a modest overall effect could help
 
 ### Power and geopolitics
 
-The Economist compared AI's best-known leaders with the industrial tycoons of 11 earlier technology waves. The people closest to AI models rank lower than might be expected, because model-making needs few employees and none of them has full control of their company. Nvidia's Jensen Huang has gathered a different kind of influence, through his supply-chain position, his popularity in Taiwan and his offers of sovereign AI to governments.
+The Economist compared AI's best-known leaders with the industrial tycoons of 11 earlier technology waves. The people closest to AI models rank lower than might be expected, because model-making needs few employees and none of them holds the kind of corporate control that Henry Ford or the Vanderbilts once had. Nvidia's Jensen Huang has gathered a different kind of influence, through his supply-chain position, his popularity in Taiwan and his offers of sovereign AI to governments.
 
 The Economist treats April 7, 2026 as a turning point. On that day Anthropic announced that it would withhold its Mythos model from general release because of its ability to find software vulnerabilities, and political pressure for regulation increased. See [AI Power Concentration and New Tycoons](#/concept/ai-power-concentration-and-new-tycoons).
 
 China shows a second path. DeepSeek's R1 model in January 2025 matched leading US chatbots at a fraction of the reported training cost and was released as open source. The Harvard Business Review reads this as classic disruption, in which a cheaper product that is good enough moves up the market. It advises companies to decide deliberately which model providers to use. See [DeepSeek and China's AI Ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem).
 
-Sovereign AI means AI capability under national or organizational control. McKinsey estimates that sovereignty requirements could influence 30 to 40 percent of global AI spending, a market of $500 to $600 billion by 2030. Sovereign offerings cost 10 to 30 percent more, and most initiatives stall because sovereignty is treated as a checklist. Organizations therefore pursue resilient interdependence instead of full independence. See [Sovereign AI Ecosystems](#/concept/sovereign-ai-ecosystems).
+Sovereign AI means AI capability under national or organizational control. McKinsey estimates that sovereignty requirements could influence 30 to 40 percent of global AI spending, a market of $500 to $600 billion by 2030. Sovereign offerings cost 10 to 30 percent more, and most initiatives stall because sovereignty is treated as a checklist. Most organizations agree that full sovereignty is unrealistic and aim for resilient interdependence instead, which means reducing dependence on any one provider without cutting ties. See [Sovereign AI Ecosystems](#/concept/sovereign-ai-ecosystems).
 
 ### Pressure on software businesses
 
-Software-as-a-service companies charge per user. AI agents cost the supplier more as they are used, and they replace the human users who pay the fees. The Economist names four threats, which are large AI labs, AI-native startups, companies building their own software and the incumbents' own AI products. Share prices show the uneven effect, with cybersecurity firms rising and seat-based software sellers such as Salesforce falling in the same period.
+Software-as-a-service companies, which rent software over the internet, usually charge per user. AI agents cost the supplier more as they are used, and they replace the human users who pay the fees. The Economist names four threats, which are large AI labs, AI-native startups, companies building their own software and the incumbents' own AI products. Share prices show the uneven effect, with cybersecurity firms rising and seat-based software sellers such as Salesforce falling in the same period.
 
 McKinsey recommends moving to pricing based on the AI work performed. It also notes that AI software was still less than 1 percent of software application spending. See [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models).
 
