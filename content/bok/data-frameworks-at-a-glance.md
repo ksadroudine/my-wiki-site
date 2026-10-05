@@ -29,7 +29,7 @@ This reference page lists the named frameworks that appear in the Data part of t
 |-----------|----------------------|-----|
 | Direct versus indirect monetization | Choose between charging for data and building it into existing offerings at no extra charge. | [Enterprise Data Strategy and Governance](#/concept/enterprise-data-strategy-and-governance) |
 | Three packaging tiers | Package data as raw data, insight services or commercially ready solutions, with rising pricing power. | [Enterprise Data Strategy and Governance](#/concept/enterprise-data-strategy-and-governance) |
-| Four data types | Classify data as poor, horizontal, vertical or rich, to see what kind of partner would improve it. | [Federated Machine Learning](#/concept/federated-machine-learning) |
+| Four data types | Classify data as poor, horizontal, vertical or rich, to see what type of partner would improve it. | [Federated Machine Learning](#/concept/federated-machine-learning) |
 | Six partner factors | Choose federated-learning partners by data state, partner structure, starting point, monetization, technical challenges and buy-in. | [Federated Machine Learning](#/concept/federated-machine-learning) |
 
 ### Roles and decisions

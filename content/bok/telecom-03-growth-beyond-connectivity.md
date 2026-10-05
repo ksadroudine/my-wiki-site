@@ -24,7 +24,7 @@ The incentive to do so is strong, because the traditional engines of consumer gr
 - Fixed-mobile convergence, which means selling fixed and mobile services together, has passed 50 percent of customers in markets such as Belgium, Portugal and Spain.
 - Headline price increases keep less than half of their value, because customers move to cheaper offers for new customers.
 
-Core connectivity has become table stakes, with growth projected below 5 percent a year by 2026. Beyond-core areas such as security, cloud and agentic AI are growing two to three times faster.
+Core connectivity has become table stakes, with growth projected below 5 percent a year by 2026. Beyond-core areas such as security, cloud and agentic AI, which is AI that acts toward goals on its own, are growing two to three times faster.
 
 ### Consumer ecosystems
 
@@ -38,7 +38,7 @@ Sustainability is a less obvious adjacency for consumers. Operators' connectivit
 
 On the enterprise side, growth comes from three sources.
 
-- **ICT services** extend connectivity into cloud, cybersecurity and managed IT services. They can reach as much as 20 percent of an operator's revenue. One European operator more than doubled its cloud-related revenue and earnings within four years by upgrading its infrastructure, training its staff and forming key partnerships.
+- **ICT services**, which is short for information and communications technology services, extend connectivity into cloud, cybersecurity and managed IT services. They can reach as much as 20 percent of an operator's revenue. One European operator more than doubled its cloud-related revenue and earnings within four years by upgrading its infrastructure, training its staff and forming key partnerships.
 - **Network APIs** expose standardized capabilities, such as speed on demand, low delay and discovery of edge computing, to enterprise developers. The developers build applications that need guaranteed and not best-effort performance, such as fraud prevention, glitch-free video conferencing and remotely operated industrial equipment. McKinsey estimates $100 to $300 billion of connectivity and edge-computing revenue over five to seven years, plus $10 to $30 billion from the APIs themselves.
 - **Private 5G** networks are customized for uses such as smart hospitals and factories, and operators such as T-Mobile, O2, Vodafone and KPN are launching them.
 
@@ -61,13 +61,13 @@ Accenture's independent survey of more than 1,200 enterprise leaders agrees and 
 
 ### Supplying the AI economy
 
-The AI economy gives operators a supplier's role as well. They can build and monetize the fiber, space, power and GPU capacity that AI workloads need, and not only connect users to AI services. Global demand for data centers is projected to more than triple by 2030. Operators' geographic reach and experience of running large networks under variable demand fit that need. Inaction risks leaving operators further behind the hyperscalers and new entrants, which captured most of the value from the last decade's growth in data use while operators' revenues stayed flat.
+The AI economy gives operators a supplier's role as well. They can build and monetize the fiber, space, power and GPU capacity that AI workloads need, and not only connect users to AI services. Global demand for data centers is projected to more than triple by 2030. Operators' geographic reach and experience of running large networks under variable demand fit that need. Inaction risks leaving operators further behind the hyperscalers, which are the very large cloud providers, and new entrants, which captured most of the value from the last decade's growth in data use while operators' revenues stayed flat.
 
 McKinsey describes four paths that operators can pursue singly or together, depending on market structure, assets and appetite for risk.
 
 - **Fiber for new data centers** is a global market of $30 to $50 billion, because providers of shared facilities and hyperscalers plan more than 2,600 new data centers by the early 2030s. In much of Europe and Asia-Pacific a telecom license is required to lay fiber, which gives incumbents the first choice of which markets to serve directly and which to lease to hyperscalers.
-- **Intelligent network services** are a next generation of software-defined networking. They help enterprises manage the $70 to $80 billion a year in cloud data-egress fees, and they could let operators move from declining usage-based business pricing toward value-based pricing. The market is too young to have a settled feature set or business model.
-- **Converting unused space and power** in data centers or central offices into revenue, through colocation, sale and leaseback or revenue sharing, is the lowest-risk path. New data-center construction takes five or more years and many power grids are at capacity, so operators with underused assets have a multi-year window and need little new investment. A site should offer at least about 500 kilowatts of power and be able to be retrofitted for the density and liquid cooling that AI equipment needs.
+- **Intelligent network services** are a next generation of software-defined networking. They help enterprises manage the $70 to $80 billion a year that they pay in fees for moving data out of clouds, and they could let operators move from declining usage-based business pricing toward value-based pricing. The market is too young to have a settled feature set or business model.
+- **Converting unused space and power** in data centers or central offices into revenue, through colocation, which means renting the space and power to other companies, or through sale and leaseback or revenue sharing, is the lowest-risk path. New data-center construction takes five or more years and many power grids are at capacity, so operators with underused assets have a multi-year window and need little new investment. A site should offer at least about 500 kilowatts of power and be able to be retrofitted for the density and liquid cooling that AI equipment needs.
 - **GPU as a service** rents graphics processors by the hour or on reserved terms. It addresses a market of $35 to $70 billion by 2030, excluding the hyperscalers' share, with projected returns on invested capital of 6 to 14 percent. It is the most capital-intensive and risky path because of uncertain demand, competition from hyperscalers, fast technology cycles and possible falls in GPU prices. McKinsey recommends a modest first investment focused on anchor tenants and partners.
 
 ### The operating model that growth needs

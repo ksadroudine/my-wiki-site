@@ -1,6 +1,6 @@
 ## Summary
 
-AI governance is the set of rules, controls and habits that keep AI systems safe, fair and accountable. This chapter explains how to match the type of control to the kind of AI system, how guardrails and incident plans make generative AI more reliable and why safety depends on the setting in which a model is used and not on the model alone. It also covers audits of algorithmic harm, the risks of treating chatbots as human and the case for choosing the philosophical assumptions behind AI deliberately. It ends with how much independence to give an agent and with Dario Amodei's view of the largest benefits and dangers.
+AI governance is the set of rules, controls and habits that keep AI systems safe, fair and accountable. This chapter explains how to match the type of control to the type of AI system, how guardrails and incident plans make generative AI more reliable and why safety depends on the setting in which a model is used and not on the model alone. It also covers audits of algorithmic harm, the risks of treating chatbots as human and the case for choosing the philosophical assumptions behind AI deliberately. It ends with how much independence to give an agent and with Dario Amodei's view of the largest benefits and dangers.
 
 ## Key Ideas
 

@@ -22,13 +22,13 @@ Operators have used AI for years in predictive maintenance and customer analytic
 Two prerequisites come before any specific capability.
 
 1. **Data handling.** Data from several vendors must be collected, normalized and cleaned. This is difficult in telecom, because equipment and software from many suppliers use inconsistent formats and conventions, and unreliable inputs produce unreliable outputs however sophisticated the model is.
-2. **A cloud-native architecture.** This means open interfaces, APIs and technologies that virtualize and softwarize the network, including Network Functions Virtualization, Software-Defined Networking and Open RAN. Automation needs programmable network functions to act on. Without that layer, an AI system might diagnose a problem correctly and still have no standard way to fix it.
+2. **A cloud-native architecture.** This means open interfaces, APIs and technologies that virtualize and softwarize the network, including Network Functions Virtualization, which runs network functions as software, Software-Defined Networking, which controls the network through software, and Open RAN, which opens the radio network to equipment from different vendors. Automation needs programmable network functions to act on. Without that layer, an AI system might diagnose a problem correctly and still have no standard way to fix it.
 
 ### Rethinking computing, networking and storage
 
 Three infrastructure domains need to be rethought.
 
-- **Computing** should add graphics processors for AI and machine-learning work. Training is compute-intensive and tolerant of delay, so it belongs in private clouds. Inference must respond to live conditions, so it belongs at the edge of the network.
+- **Computing** should add graphics processors for AI and machine-learning work. Training, in which a model learns from data, is compute-intensive and tolerant of delay, so it belongs in private clouds. Inference, in which a trained model produces an answer, must respond to live conditions, so it belongs at the edge of the network.
 - **Networking** should add SmartNICs, which are network cards that take over data processing, high-bandwidth Ethernet at 100 or 400 gigabits, and low-latency interconnects such as InfiniBand or RDMA over Converged Ethernet, because AI traffic can overwhelm conventional networks.
 - **Storage** should move to high-performance flash with object-storage capabilities that work coherently across hybrid and multicloud environments.
 

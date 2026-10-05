@@ -43,7 +43,7 @@ Labor economists add a geographic point. Even a modest overall effect could help
 
 ### Power and geopolitics
 
-The Economist compared AI's best-known leaders with the industrial tycoons of 11 earlier technology waves. The people closest to AI models rank lower than might be expected, because model-making needs few employees and none of them holds the kind of corporate control that Henry Ford or the Vanderbilts once had. Nvidia's Jensen Huang has gathered a different kind of influence, through his supply-chain position, his popularity in Taiwan and his offers of sovereign AI to governments.
+The Economist compared AI's best-known leaders with the industrial tycoons of 11 earlier technology waves. The people closest to AI models rank lower than might be expected, because model-making needs few employees and none of them holds the type of corporate control that Henry Ford or the Vanderbilts once had. Nvidia's Jensen Huang has gathered a different type of influence, through his supply-chain position, his popularity in Taiwan and his offers of sovereign AI to governments.
 
 The Economist treats April 7, 2026 as a turning point. On that day Anthropic announced that it would withhold its Mythos model from general release because of its ability to find software vulnerabilities, and political pressure for regulation increased. See [AI Power Concentration and New Tycoons](#/concept/ai-power-concentration-and-new-tycoons).
 

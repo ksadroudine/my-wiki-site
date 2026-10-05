@@ -55,7 +55,7 @@ Federated learning lets several organizations train a shared AI model on their c
 
 Zurich Insurance used a commercial platform to improve a prediction model with data from the telecom company Orange, and Orange never released any of its data. Zurich reported a 30 percent improvement in its predictions and a significant revenue increase, and Orange gained a private way to monetize its data. Cooperation works even between competitors. Pathology departments at competing private hospitals train a shared diagnostic algorithm on their combined tissue images, and ownership shares of the resulting algorithm follow each hospital's data contribution. Banks use federated learning with a form of encryption that allows calculations on scrambled data to check whether a competing bank has flagged a prospective client as unreliable, without either bank disclosing its client list. That reduces the cost of know-your-customer compliance, which runs to roughly 3 percent of banks' operating costs worldwide.
 
-The type of data an organization holds shows what kind of partner would help. Two measures decide the type. One is the number of samples, and the other is the number of features recorded for each sample.
+The type of data an organization holds shows what type of partner would help. Two measures decide the type. One is the number of samples, and the other is the number of features recorded for each sample.
 
 - **Poor data** has few samples and few features.
 - **Horizontal data** has many features per sample but too few samples. The organization should look for partners within its own industry, even direct competitors, because more samples of the same variables are what it needs.
@@ -67,7 +67,7 @@ Federated learning also has an underused internal application. Barriers to shari
 Six factors guide the choice of partners.
 
 1. The state of the organization's own data.
-2. What that implies about the kind of partner to seek.
+2. What that implies about the type of partner to seek.
 3. A logical starting point, with one algorithm and one trusted partner before scaling.
 4. The potential for data monetization.
 5. The likely technical challenges, such as converting unstructured data into machine-readable form and agreeing on labeling conventions across organizations.

@@ -5,7 +5,7 @@ Barbara Minto's Pyramid Principle is a method for structuring business writing a
 ## Key Ideas
 
 - The mind automatically groups ideas into a pyramid in order to understand them, so a document is easier to read when the writer has already done that work.
-- A valid pyramid obeys three rules. Ideas at each level summarize the ideas below, ideas in a group are the same kind of idea, and ideas in a group follow a logical order.
+- A valid pyramid obeys three rules. Ideas at each level summarize the ideas below, ideas in a group are the same type of idea, and ideas in a group follow a logical order.
 - An introduction follows the SCQA pattern of situation, complication, question and answer, and it reminds the reader of what the reader already knows.
 - Ideas relate either deductively or inductively, and the two should never be mixed in one group.
 - A pyramid is best built from the top down, by deciding the reader's question first.
@@ -24,7 +24,7 @@ In the pyramid, the main point sits at the top. Groups of supporting ideas sit b
 A pyramid must meet three rules at once.
 
 1. **Summarize.** Every idea at a given level must summarize the ideas grouped beneath it. A paragraph's point summarizes its sentences, and a section's point summarizes its paragraphs.
-2. **Group like with like.** Every idea within one group must be the same kind of idea. One test is whether the entire set can be described with a single plural noun, such as reasons, problems or steps.
+2. **Group like with like.** Every idea within one group must be the same type of idea. One test is whether the entire set can be described with a single plural noun, such as reasons, problems or steps.
 3. **Order logically.** Ideas within a group must follow one of four logical orders. Deductive order follows an argument. Chronological order follows time, as for the steps of a process. Structural order follows an existing structure, such as a list of cities in geographic sequence. Comparative order ranks ideas by importance.
 
 ### The introduction

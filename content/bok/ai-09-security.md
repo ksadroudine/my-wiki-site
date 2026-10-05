@@ -1,6 +1,6 @@
 ## Summary
 
-AI changes cybersecurity in two ways, because AI agents inside a company become a new kind of trusted insider, and AI models used by attackers find and exploit weaknesses much faster than people can. This chapter explains the new risks that agents add, the controls that can be applied at each phase of deployment and the practical case of a healthcare provider that tested its own agents. It also covers the priorities for enterprise cyber resilience, including accountability before an incident, and how banks are responding to a model that can find thousands of serious flaws in software.
+AI changes cybersecurity in two ways, because AI agents inside a company become a new type of trusted insider, and AI models used by attackers find and exploit weaknesses much faster than people can. This chapter explains the new risks that agents add, the controls that can be applied at each phase of deployment and the practical case of a healthcare provider that tested its own agents. It also covers the priorities for enterprise cyber resilience, including accountability before an incident, and how banks are responding to a model that can find thousands of serious flaws in software.
 
 ## Key Ideas
 

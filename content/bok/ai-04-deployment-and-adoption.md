@@ -1,6 +1,6 @@
 ## Summary
 
-Most companies can start AI projects, but few can move them from pilot to everyday use and show a financial return. This chapter explains how to choose a first project, how organizations mature from experiments to scaled use, and why messy data and weak knowledge systems hold projects back. It also covers how to measure the value and quality of AI work, how people really use generative AI and where it helps or misleads them. Finally, it describes the human and technical obstacles to adoption, including hidden use, low-quality output and technical debt, which is the accumulated cost of software shortcuts.
+Most companies can start AI projects, but few can move them from pilot to everyday use and show a financial return. This chapter explains how to choose a first project, how organizations mature from experiments to scaled use, and why messy data and weak knowledge systems hold projects back. It also covers how to measure the value and quality of AI work, how people use generative AI in practice and where it helps or misleads them. Finally, it describes the human and technical obstacles to adoption, including hidden use, low-quality output and technical debt, which is the accumulated cost of software shortcuts.
 
 ## Key Ideas
 

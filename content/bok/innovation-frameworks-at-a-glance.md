@@ -20,7 +20,7 @@ This reference page lists the named frameworks that appear in the Innovation par
 | Eight practices of strategic innovation | Set direction, build capabilities and manage the system over time, with a permanent function and a governing council. | [Organizational Innovation Capability](#/concept/organizational-innovation-capability) |
 | Discovery, incubation and acceleration | Staff the three competencies that a strategic-innovation function needs. | [Organizational Innovation Capability](#/concept/organizational-innovation-capability) |
 | Four problems of scaling | Give a validated innovation leadership attention, a team, resources and high-stakes decisions in turn. | [Organizational Innovation Capability](#/concept/organizational-innovation-capability) |
-| Innovation versus corporate ecosystems | Choose the right kind of outside engagement, according to whether the aim is early discovery or supply-chain optimization. | [Organizational Innovation Capability](#/concept/organizational-innovation-capability) |
+| Innovation versus corporate ecosystems | Choose the right type of outside engagement, according to whether the aim is early discovery or supply-chain optimization. | [Organizational Innovation Capability](#/concept/organizational-innovation-capability) |
 | Identity, architecture and collaboration traps | Anticipate the three traps that derail reinvention, in sequence. | [Organizational Innovation Capability](#/concept/organizational-innovation-capability) |
 
 ### Methods for solving hard problems

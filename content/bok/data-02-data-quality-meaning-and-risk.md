@@ -1,6 +1,6 @@
 ## Summary
 
-Data is only useful when it is accurate, understood in the same way by everyone and protected from harm. This chapter explains why most organizations get stuck correcting data errors after the fact, how preventing errors at the source works instead and how HelloFresh made that change. It also covers the questions managers should ask about the data behind an AI model, the shared business meaning that AI agents need in order to reason correctly and the five kinds of data risk that no single executive sees whole.
+Data is only useful when it is accurate, understood in the same way by everyone and protected from harm. This chapter explains why most organizations get stuck correcting data errors after the fact, how preventing errors at the source works instead and how HelloFresh made that change. It also covers the questions managers should ask about the data behind an AI model, the shared business meaning that AI agents need in order to reason correctly and the five kinds of data risk that no single executive sees completely.
 
 ## Key Ideas
 

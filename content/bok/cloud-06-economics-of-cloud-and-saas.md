@@ -1,6 +1,6 @@
 ## Summary
 
-The cloud changed the economics of the technology industry in three ways. It shifted growth toward a few leading providers, moved financial risk from customers to suppliers and made ongoing use, not the first sale, the source of revenue. This chapter explains how established technology companies that were not built for the cloud can still capture growth, how customers differ in the speed and reasons for adopting cloud, and how a discipline called Consumption Development closes the gap between the value a product could deliver and the value customers realize. It also covers how SaaS companies are judged, including the Rule of 40 and the metrics that investors must read with care.
+The cloud changed the economics of the technology industry in three ways. It shifted growth toward a few leading providers, moved financial risk from customers to suppliers and made ongoing use, not the first sale, the source of revenue. This chapter explains how established technology companies that were not built for the cloud can still capture growth, and how customers differ in the speed and reasons for adopting cloud. It also describes a discipline called Consumption Development, which closes the gap between the value a product could deliver and the value customers realize. Finally, it covers how SaaS companies are judged, including the Rule of 40 and the metrics that investors must read with care.
 
 ## Key Ideas
 

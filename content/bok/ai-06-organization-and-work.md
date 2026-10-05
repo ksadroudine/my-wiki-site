@@ -27,7 +27,7 @@ AI flattens hierarchies through role redefinition. A Harvard study of more than 
 
 Redesign means using AI throughout a workflow, not automating one step. In one case, a feature-design process fell from a week to one or two days. The sources suggest that teams should be free to develop and share their own methods and to build for more capable future models.
 
-Two methods help. One is Design for Dialogue, which treats AI as a team member whose lead role changes with the task. The other sorts tasks by the cost of an error and the kind of knowledge each task needs. Some authors go further and argue for rebuilding the company around AI agents in a separate unit. The sources also describe frictions that stall transformation programs. They note that identical use of AI by every competitor erodes any advantage, and that people must keep overseeing agents as these become more autonomous. See [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign).
+Two methods help. One is Design for Dialogue, which treats AI as a team member whose lead role changes with the task. The other sorts tasks by the cost of an error and the type of knowledge each task needs. Some authors go further and argue for rebuilding the company around AI agents in a separate unit. The sources also describe frictions that stall transformation programs. They note that identical use of AI by every competitor erodes any advantage, and that people must keep overseeing agents as these become more autonomous. See [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign).
 
 ### Who benefits
 
