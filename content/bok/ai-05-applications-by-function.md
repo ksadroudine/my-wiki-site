@@ -29,7 +29,7 @@ Vibe coding goes a step further. The term means building software through plain-
 
 ### Customer service
 
-AI agents are replacing traditional customer-service software and call centers. Bret Taylor, co-founder of Sierra, argues that every company will need an AI agent, in the way every company needed a website in 1995. Sierra charges only when an agent actually resolves a customer's problem. This outcome-based pricing replaces the usual software license.
+AI agents are replacing traditional customer-service software and call centers. Bret Taylor, co-founder of Sierra, argues that every company will need an AI agent, in the way every company needed a website in 1995. Sierra charges only when an agent resolves a customer's problem. This outcome-based pricing replaces the usual software license.
 
 The models are imperfect and do not always give the same answer twice, yet the sources argue that agents can be more consistent than human staff, whose error rates are also high. Risk is managed with defense in depth, a layered approach borrowed from cybersecurity. Supervisor models watch the main agent's decisions in real time for errors and rule violations. A second, more thorough model then reviews the interaction. See [AI Customer Service Agents](#/concept/ai-customer-service-agents).
 
@@ -57,7 +57,7 @@ Most finance functions remain at the pilot stage. The cause is mainly culture. F
 
 ### Supply chain and procurement
 
-Two functions are being automated together. The first is planning. Microsoft uses a language model that lets planners ask plain questions about server supply across more than 300 data centers. The model turns each question into a small change to the existing mathematical model, which is then solved again. Language models therefore complement the optimization models and do not replace them.
+Two functions are being automated together. The first is planning. Microsoft uses a language model that lets planners ask plain questions about server supply across more than 300 data centers. The model turns each question into a small change to the existing mathematical model, which is then solved again. Language models therefore work alongside the optimization models instead of replacing them.
 
 The second is supplier negotiation, which companies adopt in three stages. At the assisted stage, AI flags risks and drafts terms while a human sends everything. At the semi-autonomous stage, AI can accept pre-approved clauses. At the third stage, it negotiates fully on its own for routine, low-margin items, as Walmart does. In one case a car maker used a language model to read thousands of supplier contracts and found price reductions worth millions of dollars that its team had overlooked. See [GenAI in Supply Chain and Procurement](#/concept/genai-supply-chain-and-procurement).
 
@@ -65,7 +65,7 @@ The second is supplier negotiation, which companies adopt in three stages. At th
 
 R&D productivity has fallen for decades. Sustaining Moore's Law required 18 times more inflation-adjusted research spending in 2014 than in 1971, and drug approvals per dollar are down roughly 80-fold since 1950. McKinsey sees three ways AI can reverse the trend. AI can generate far more design candidates. It can evaluate them faster, using surrogate models, which are neural networks trained to predict the results of slow physics simulations. And it can speed up the interpretation of results.
 
-McKinsey estimates the combined potential at $360 billion to $560 billion a year. The gains depend on the industry. Industries without physical prototypes, such as software and gaming, could roughly double their research output. The technology alone does not deliver this. Companies also need to move beyond pilots, rewire their organizations and build skills. See [AI-Accelerated R&D](#/concept/ai-accelerated-rd).
+McKinsey estimates the combined potential at $360 to $560 billion a year. The gains depend on the industry. Industries without physical prototypes, such as software and gaming, could roughly double their research output. The technology alone does not deliver this. Companies also need to move beyond pilots, rewire their organizations and build skills. See [AI-Accelerated R&D](#/concept/ai-accelerated-rd).
 
 ## Go Deeper
 

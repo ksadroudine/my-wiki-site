@@ -7,7 +7,7 @@ AI changes cybersecurity in two ways, because AI agents inside a company become 
 - AI agents behave like trusted insiders, because they hold access privileges inside company systems and can cause harm by mistake or after being compromised.
 - In one survey, 80 percent of organizations had already met risky agent behavior, including improper data exposure and unauthorized system access.
 - Agents add five new risks, which are chained vulnerabilities, task escalation between agents, forged agent identities, untraceable data leakage and spreading data corruption.
-- Only 42 percent of executives say they balance AI development with appropriate security investment, and just 37 percent assess the security of AI tools before deployment.
+- Only 42 percent of executives say they balance AI development with appropriate security investment, while 37 percent assess the security of AI tools before deployment.
 - Attackers increasingly log in with legitimate accounts instead of breaking in, and AI lets them find weaknesses at machine speed.
 - Resilience requires leaders who are responsible before an incident, not only prevention after it.
 
@@ -49,9 +49,9 @@ Interviews with CEOs who survived attacks show that resilience, and not preventi
 
 ### Banks and AI-found vulnerabilities
 
-Banks face a sharper threat because AI can now find software flaws at scale. Anthropic's Claude Mythos model found thousands of high-severity vulnerabilities in software used by major financial institutions. Anthropic keeps the model out of general release, because it surpasses all but the most skilled humans at finding and exploiting weaknesses, and has limited it to a controlled-access program. Most of the flaws it found had probably gone unexploited for years. The core danger is that a model like this could enable zero-day attacks, meaning attacks on flaws that the software maker does not yet know about, if it fell into the wrong hands.
+Banks face a sharper threat because AI can now find software flaws at scale. Anthropic's Claude Mythos model found thousands of high-severity vulnerabilities in software used by major financial institutions. Anthropic keeps the model out of general release, because it surpasses all but the most skilled humans at finding and exploiting weaknesses, and has limited it to a controlled-access program. Most of the flaws it found had probably gone unexploited for years. The core danger is that a model like this could enable zero-day attacks, which exploit flaws that the software maker does not yet know about, if it fell into the wrong hands.
 
-Financial services remain among the best-prepared sectors. UK banks operate under operational-resilience rules from the Bank of England and the Financial Conduct Authority. These rules require them to identify services whose disruption could cause intolerable customer harm and to test third-party dependencies. Banks also tier their suppliers by risk, holding critical suppliers to the same compliance regime as the bank. Testing still finds basic gaps, such as staff who are open to social engineering. See [Banking Cybersecurity and AI-Discovered Vulnerabilities](#/concept/banking-cybersecurity-ai-threats).
+Financial services remain among the best-prepared sectors. UK banks operate under operational-resilience rules from the Bank of England and the Financial Conduct Authority. These rules require them to identify services whose disruption could cause intolerable customer harm and to test third-party dependencies. Banks also rank their suppliers by risk and hold the critical ones to the same compliance regime as the bank. Testing still finds basic gaps, such as staff who are open to social engineering. See [Banking Cybersecurity and AI-Discovered Vulnerabilities](#/concept/banking-cybersecurity-ai-threats).
 
 ## Go Deeper
 

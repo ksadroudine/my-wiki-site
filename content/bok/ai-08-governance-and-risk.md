@@ -4,7 +4,7 @@ AI governance is the set of rules, controls and habits that keep AI systems safe
 
 ## Key Ideas
 
-- Good governance matches the control to the system. Narrow systems can follow rules, generative systems need outcome testing and connected agent systems need oversight across organizations.
+- Good governance matches the control to the system. Narrow systems can follow fixed rules, generative ones need outcome testing and connected agent networks need oversight across organizations.
 - Companies with all six recommended controls for AI agents capture about three times the value of companies with one.
 - Generative AI cannot be made reliable by improving the model alone, so organizations add guardrails, incident plans and team review around it.
 - Whether a use is harmful usually depends on the setting, which a model cannot see, so safety belongs mainly at the point where the model is used.
@@ -35,7 +35,7 @@ Four recommendations follow. Misuse defenses belong mainly outside the model. Op
 
 ### Auditing for harm
 
-Algorithmic auditing identifies how a system could harm the people it affects and builds monitoring for those harms. The Ethical Matrix maps each stakeholder group's possible harms and benefits. It is color-coded, with red for a grave risk or a broken hard constraint. Explainable Fairness asks whether a gap between groups can be explained by legitimate factors, and its main value is forcing an explicit conversation about what counts as legitimate. Language models need benchmarks and red teaming together, because benchmarks suffer from data leakage and red teaming cannot catch unanticipated risks.
+An audit of an algorithm identifies how the system could harm the people it affects and sets up monitoring for those harms. The Ethical Matrix maps each stakeholder group's possible harms and benefits. It is color-coded, with red for a grave risk or a broken hard constraint. Explainable Fairness asks whether a gap between groups can be explained by legitimate factors, and its main value is forcing an explicit conversation about what counts as legitimate. Language models need benchmarks and red teaming together, because benchmarks suffer from data leakage and red teaming cannot catch unanticipated risks.
 
 Documented failures show what happens when checks are skipped. They include tools for beach safety, sepsis, welfare fraud, child welfare, hiring and pretrial detention, and the Tessa eating-disorder chatbot. The shared lesson is to treat an AI tool as suspect until its vendor shows both that it works and that it cannot cause harm even when it works. See [Algorithmic Auditing and AI Failures](#/concept/algorithmic-auditing-and-ai-failures).
 
@@ -45,7 +45,7 @@ Language models produce statistically likely text without understanding or feeli
 
 ### The assumptions behind AI
 
-Every AI system carries assumptions about knowledge, purpose and reality, whether or not its builders choose them. One article argues that ethics is only one part of philosophy's role. It diagnoses Google's 2024 Gemini image controversy as a failure of purpose, not of data. It also notes that companies that optimize a stand-in measure such as churn rate, without defining what loyalty means, end up optimizing the wrong thing. Starbucks defined the Starbucks experience as fostering human connection and built its AI around that definition. Organizations should choose these frameworks deliberately instead of relying on technical metrics alone. The point matters more as AI moves from language models to agents that set and pursue goals. See [Philosophical Frameworks for AI](#/concept/philosophical-frameworks-for-ai).
+Every AI system carries assumptions about knowledge, purpose and reality, whether or not its builders choose them. One article argues that ethics is only one part of philosophy's role. It diagnoses Google's 2024 Gemini image controversy as a failure of purpose, not of data. It also notes that companies that optimize a stand-in measure such as churn rate, without defining what loyalty means, end up optimizing the wrong target. Starbucks defined its experience as fostering human connection and built its AI around that definition. Organizations should choose these frameworks deliberately instead of relying on technical metrics alone. The point matters more as AI moves from language models to agents that set and pursue goals. See [Philosophical Frameworks for AI](#/concept/philosophical-frameworks-for-ai).
 
 ### How much independence for an agent
 
@@ -57,7 +57,7 @@ As risk grows across five stages of combined AI components, oversight breaks dow
 
 Dario Amodei, chief executive of Anthropic, defines powerful AI as a model smarter than a Nobel laureate across most fields, run as millions of parallel copies at 10 to 100 times human speed. His optimistic essay argues that AI-accelerated biology could deliver about a century of progress in 5 to 10 years. Progress will still be limited by factors other than intelligence, such as the physical speed of the world and the availability of data.
 
-His risk essay groups the dangers into autonomy, misuse for destruction, misuse for seizing power, economic disruption and indirect effects. It proposes a measured response of transparency legislation, technical defenses such as interpretability, export controls and economic policy, while avoiding doomerism and admitting uncertainty. See [Amodei on the Benefits and Risks of Powerful AI](#/concept/amodei-powerful-ai-benefits-and-risks).
+His risk essay groups the dangers into autonomy, misuse for destruction, the use of AI to seize power, economic disruption and indirect effects. It proposes a measured response of transparency legislation, technical defenses such as interpretability, export controls and economic policy, while avoiding doomerism and admitting uncertainty. See [Amodei on the Benefits and Risks of Powerful AI](#/concept/amodei-powerful-ai-benefits-and-risks).
 
 ## Go Deeper
 

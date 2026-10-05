@@ -4,8 +4,8 @@ Modern AI is software that learns patterns from data instead of following rules 
 
 ## Key Ideas
 
-- Artificial intelligence, machine learning and deep learning are nested fields, and nearly all current AI is built by letting machines learn from examples.
-- Foundation models are trained once on broad data and then adapted to many tasks, and large language models are the foundation models that work with text.
+- Artificial intelligence, machine learning and deep learning are nested fields, and nearly all current AI comes from letting machines find patterns in examples.
+- Foundation models are trained once on broad data and then adapted to many tasks. The ones that work with text are called large language models.
 - A language model produces text by predicting the next word fragment, so it can state falsehoods with confidence, and no current technique removes this entirely.
 - Better prediction has been the reliable result of scaling, while new abilities have not been predictable, and the supply of high-quality training data is a limit.
 - No system has shown human-level general intelligence, although some researchers now expect AI to start improving itself within a few years.
@@ -25,15 +25,15 @@ Deep learning became practical only about a decade ago, when three things came t
 
 ### Foundation models and language models
 
-A foundation model is a model trained on very broad data that can then be adapted to many different tasks. Stanford researchers coined the term in 2021. Instead of building one model for each job, organizations start from one large model and adapt it, for example by training it a little further on their own examples.
+A foundation model is a system trained on broad data and then adapted to many different tasks. Stanford researchers coined the term in 2021. Instead of building one model for each job, organizations start from one large model and adapt it, for example by training it a little further on their own examples.
 
-Most of today's foundation models rely on the Transformer, an architecture introduced by Google researchers in 2017. Its key idea is attention, which lets the model look at every part of a passage at once and decide which words matter most for understanding any other word. Large language models, or LLMs, are foundation models trained on text, and they power chatbots and writing assistants.
+Most of today's foundation models rely on the Transformer, an architecture introduced by Google researchers in 2017. Its key idea is attention, which lets the model look at every part of a passage at once and decide which words matter most for understanding any other word. Large language models, or LLMs, are the foundation models trained on text, and they power chatbots and writing assistants.
 
-Scale brings both benefits and a risk. Very large models show abilities that smaller versions lack. Because so many applications are built on the same few models, a flaw in one model is inherited by everything built on it. Researchers also admit that nobody fully understands how these models work internally or exactly when they fail.
+Scale brings both benefits and a risk. The largest models show abilities that smaller versions lack. Because so many applications are built on the same few models, a flaw in one model is inherited by everything built on it. Researchers also admit that nobody fully understands how these models work internally or exactly when they fail.
 
-### What a language model actually does
+### What a language model does
 
-A language model does one thing repeatedly. It predicts the most likely next word fragment, called a token, adds it to the text and repeats. Outside software controls when the loop stops. The model does not look anything up, and it does not learn from a single correction during a conversation. Any apparent memory of earlier chats comes from a separate feature that feeds stored facts back into the next prompt.
+Such a system does one thing repeatedly. It predicts the most likely next word fragment, called a token, adds it to the text and repeats. Outside software controls when the loop stops. The model does not look anything up, and it does not learn from a single correction during a conversation. Any apparent memory of earlier chats comes from a separate feature that feeds stored facts back into the next prompt.
 
 This design explains the main limits. The model generates text that sounds right, and it has no built-in way to check whether a statement is true. A confident but false statement is called a hallucination. Prompting, retrieval and fact-checking reduce hallucinations, but they cannot guarantee that none occur, and the same is true of the sources a model cites.
 
@@ -45,7 +45,7 @@ Organizations therefore design around these limits. They keep a person in the lo
 
 A model knows only what was in its training data. A customer service chatbot built on a general model cannot see a customer's account or the company's current policies. Retrieval-augmented generation, usually shortened to RAG, closes this gap. It works like a librarian. First, the company's documents are indexed so that their meaning can be searched. Then, when a question arrives, the system finds the most relevant passages and gives them to the model, which writes an answer based on them and can cite them.
 
-RAG is only as good as the data behind it. Out-of-date or biased documents produce confidently wrong or biased answers. RAG also stays useful when models can accept very long prompts, because too much material lowers quality, models pay less attention to the middle of a long prompt, and longer prompts cost more. See [Retrieval-Augmented Generation (RAG)](#/concept/retrieval-augmented-generation).
+RAG is only as good as the data behind it. Out-of-date or biased documents produce confidently wrong or biased answers. RAG also stays useful when models can accept extremely long prompts, because too much material lowers quality, models pay less attention to the middle of a long prompt, and longer prompts cost more. See [Retrieval-Augmented Generation (RAG)](#/concept/retrieval-augmented-generation).
 
 ### What scaling can and cannot deliver
 

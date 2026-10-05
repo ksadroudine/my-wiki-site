@@ -15,7 +15,7 @@ The AI industry is spending far more on infrastructure than it earns, and the ce
 
 ### The spending gap
 
-Technology companies are building AI infrastructure at a pace without precedent. In 2025 they were on track to spend $300 billion to $400 billion, while AI revenue was about $60 billion by a conservative estimate. That is a gap of roughly six to one.
+Technology companies are building AI infrastructure at a pace without precedent. In 2025 they were on track to spend $300 to $400 billion, while AI revenue was about $60 billion by a conservative estimate. That is a gap of roughly six to one.
 
 The chips make this spending unusual. Railroads and fiber-optic cable keep their value for decades, even if they sit unused for a while. Graphics processors lose value within about three years, so much of the spending must be repeated. About half of the data center budget goes to these chips.
 
@@ -37,7 +37,7 @@ Models are also becoming commodities. Weak intellectual property protection lets
 
 ### Competing forecasts of AI's economic effect
 
-Forecasts differ because they measure different things. Bain projects that spending on AI hardware and software will reach $780 billion to $990 billion by 2027. Economist Daron Acemoglu estimates that AI will raise US output by only about 1 percent over a decade, because only a small share of tasks across the economy can be done profitably by AI today. Neither is wrong. One measures how much money is spent on the technology, and the other measures the gain in output.
+Estimates differ because they measure different things. Bain projects that spending on AI hardware and software will reach $780 to $990 billion by 2027. Economist Daron Acemoglu estimates that AI will raise US output by only about 1 percent over a decade, because only a small share of tasks across the economy can be done profitably by AI today. Neither is wrong. One measures how much money is spent on the technology, and the other measures the gain in output.
 
 Labor economists add a geographic point. Even a modest overall effect could help some US cities and hurt others, especially midsize metropolitan areas. See [The AI Economic Impact Gap](#/concept/ai-economic-impact-gap). A related argument is that the direction of AI matters. Automation tends to favor owners of capital, while AI that creates new tasks raises the value of human expertise. See [Pro-Worker AI and Labor Displacement](#/concept/pro-worker-ai-and-labor-displacement).
 
@@ -49,17 +49,17 @@ The Economist treats April 7, 2026 as a turning point. On that day Anthropic ann
 
 China shows a second path. DeepSeek's R1 model in January 2025 matched leading US chatbots at a fraction of the reported training cost and was released as open source. The Harvard Business Review reads this as classic disruption, in which a cheaper product that is good enough moves up the market. It advises companies to decide deliberately which model providers to use. See [DeepSeek and China's AI Ecosystem](#/concept/deepseek-and-chinas-ai-ecosystem).
 
-Sovereign AI means AI capability under national or organizational control. McKinsey estimates that sovereignty requirements could influence 30 to 40 percent of global AI spending, a market of $500 billion to $600 billion by 2030. Sovereign offerings cost 10 to 30 percent more, and most initiatives stall because sovereignty is treated as a checklist. Organizations therefore pursue resilient interdependence instead of full independence. See [Sovereign AI Ecosystems](#/concept/sovereign-ai-ecosystems).
+Sovereign AI means AI capability under national or organizational control. McKinsey estimates that sovereignty requirements could influence 30 to 40 percent of global AI spending, a market of $500 to $600 billion by 2030. Sovereign offerings cost 10 to 30 percent more, and most initiatives stall because sovereignty is treated as a checklist. Organizations therefore pursue resilient interdependence instead of full independence. See [Sovereign AI Ecosystems](#/concept/sovereign-ai-ecosystems).
 
 ### Pressure on software businesses
 
-Software-as-a-service companies charge per user. AI agents cost the supplier more as they are used, and they replace the human users who pay the fees. The Economist names four threats, which are large AI labs, AI-native startups, companies building their own software and the incumbents' own AI products. Share prices show the uneven effect, with cybersecurity vendors rising and seat-based vendors such as Salesforce falling in the same period.
+Software-as-a-service companies charge per user. AI agents cost the supplier more as they are used, and they replace the human users who pay the fees. The Economist names four threats, which are large AI labs, AI-native startups, companies building their own software and the incumbents' own AI products. Share prices show the uneven effect, with cybersecurity firms rising and seat-based software sellers such as Salesforce falling in the same period.
 
 McKinsey recommends moving to pricing based on the AI work performed. It also notes that AI software was still less than 1 percent of software application spending. See [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models).
 
 ### The cost of AI inside a company
 
-For a company that uses AI, the bill is variable and easy to underestimate. A customer service chat that cost $0.04 two years ago can cost $1.20 now, once the agent plans, retrieves information and calls other agents. Model prices fall roughly tenfold per generation, but the cost of completing a task stays flat, because people move to the newest model, each task uses more tokens and usage grows.
+For a firm that uses AI, the bill is variable and easy to underestimate. A customer service chat that cost $0.04 two years ago can cost $1.20 now, once the agent plans, retrieves information and calls other agents. Model prices fall roughly tenfold per generation, but the cost of completing a task stays flat, because people move to the newest model, each task uses more tokens and usage grows.
 
 Companies are already rationing. Uber used its annual AI budget by March, and only about 18 percent of the money spent on AI coding tokens turns into shipped products, according to one study of 2,000 companies. The recommended response is a discipline called Agent FinOps, which tracks the full cost of each task, chooses the smallest adequate model and measures return. AT&T cut costs by 90 percent by routing work to smaller models. See [Enterprise AI Token Cost Management](#/concept/enterprise-ai-token-cost-management).
 

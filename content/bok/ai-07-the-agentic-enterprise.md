@@ -6,8 +6,8 @@ An AI agent is software that pursues a goal on its own by planning, using tools 
 
 - An agent differs from a chatbot because it makes decisions and acts toward a goal, following a loop of goal, plan, action and feedback.
 - More than 78 percent of companies use generative AI in at least one function, yet more than 80 percent report no material earnings contribution.
-- Value comes from reinventing end-to-end processes around agents, not from adding agents to old steps.
-- Enterprises need a platform of interchangeable parts, open protocols and a control layer, so that agents can scale without creating a new technology mess.
+- Value comes from reinventing end-to-end processes around agents, not from attaching them to old steps.
+- Enterprises need a platform of interchangeable parts, open protocols and a control layer, so that agents can scale without building up a new technology legacy.
 - Agents fail to scale when company data lacks shared meaning, a problem BCG Platinion calls semantic debt.
 - Bain estimates that agents can address about $100 billion a year of US spending on coordination work between systems.
 - Startups can now be built faster and cheaper, while incumbents keep advantages in trust, compliance and ownership of the system of record.
@@ -26,7 +26,7 @@ McKinsey calls the gap between use and results the gen AI paradox. More than 78 
 
 The call-center example shows the difference. Assistance gives gains of 5 to 10 percent. Adding agents to individual steps saves 20 to 40 percent of time. Redesigning the process with humans supervising the agents allows up to 80 percent of cases to be resolved autonomously. Early implementations report 40 to 50 percent faster IT modernization at more than 40 percent lower cost. At one bank, an agent factory of 100 agents supervised by five people cut time and labor costs by more than half.
 
-The main barriers are organizational. They include trust in high-stakes uses, readiness for change, coordination across vendors and agent sprawl. Walmart, for example, consolidated dozens of agents into four super agents. See [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation).
+The main barriers are organizational. They include trust in high-stakes uses, readiness for change, coordination across vendors and agent sprawl. Walmart, for example, consolidated dozens of them into four super agents. See [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation).
 
 ### The platform
 
@@ -36,7 +36,7 @@ Two open protocols lead. MCP, the Model Context Protocol, gives agents secure ac
 
 ### Shared meaning for data
 
-BCG Platinion explains why agents stall after the pilot. The cause is rarely a lack of models. The same term, such as customer or revenue, has valid but different definitions in different systems. The firm calls this semantic debt. MIT CISR found that only 21 percent of 349 surveyed executives rated their data curation practices as well developed.
+BCG Platinion explains why agents stall after the pilot. The cause is rarely a lack of models. The same term, such as customer or revenue, has several valid but conflicting definitions across systems. The firm calls this semantic debt. MIT CISR found that only 21 percent of 349 surveyed executives rated their data curation practices as well developed.
 
 The remedy is a semantic layer that machines can read. It has three levels. The first is standard definitions, with each entity defined once and reused everywhere. The second is ontologies, which model how entities relate, such as customers to products. The third is knowledge graphs. Retrieval-augmented generation alone is not enough, because documents do not encode business logic, and two agents that retrieve different pieces can produce contradictory results. See [Semantic Layer for Agentic AI](#/concept/semantic-layer-for-agentic-ai).
 
@@ -58,7 +58,7 @@ Intelligent choice architectures use AI to produce and refine a set of decision 
 
 ### Agents and the open web
 
-Agents also raise a question for the web. Perplexity argues that an assistant fetches a page only when a user asks for it, while a crawler visits pages systematically whether or not anyone asked. If infrastructure providers cannot tell a helpful assistant from a malicious scraper, the result could be a two-tiered internet controlled by a few companies. See [AI Agents vs Web Crawlers](#/concept/ai-agents-vs-crawlers).
+This technology also raises a question for the web. Perplexity argues that an assistant fetches a page only when a user asks for it, while a crawler visits pages systematically whether or not anyone asked. If infrastructure providers cannot tell a helpful assistant from a malicious scraper, the result could be a two-tiered internet controlled by a few companies. See [AI Agents vs Web Crawlers](#/concept/ai-agents-vs-crawlers).
 
 ## Go Deeper
 

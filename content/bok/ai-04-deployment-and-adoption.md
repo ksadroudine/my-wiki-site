@@ -30,7 +30,7 @@ After the first win, depth matters more than breadth. Reckitt chose a narrow foc
 
 ### Maturity
 
-MIT CISR describes four stages of AI maturity, which are measured across companies. The four stages are Experiment and Prepare (28 percent of companies), Build Pilots and Capabilities (34 percent), Industrialize (31 percent) and AI Future-Ready (7 percent). The first two stages perform below the industry average financially. The last two perform above it.
+MIT CISR describes four stages of AI maturity, which are measured across companies. Companies divide across the four stages as follows. In Experiment and Prepare, 28 percent. In Build Pilots and Capabilities, 34. In Industrialize, 31. In AI Future-Ready, 7. The first two stages perform below the industry average financially. The last two perform above it.
 
 ### Data and knowledge first
 
@@ -42,17 +42,17 @@ Used well, generative AI changes how knowledge moves through a firm. McKinsey's 
 
 ### Measuring value and quality
 
-AI projects often fail to show value because their builders measure the wrong things. Data scientists say business measures such as return on investment matter most, yet they usually report technical ones such as accuracy. Accuracy treats every error as equally costly, which is rarely true. A legitimate payment that is wrongly blocked and a fraud that is missed cost a bank very different amounts. An IBM study found that average return on enterprise AI was only 5.9 percent in late 2021, which is below the cost of capital.
+AI projects often fail to show value because their builders measure the wrong things. Data scientists say business measures such as return on investment matter most, yet they usually report technical ones such as accuracy. Accuracy treats every error as equally costly, which is rarely true. A legitimate payment that is wrongly blocked and a fraud that is missed cost a bank widely different amounts. An IBM study found that average return on enterprise AI was only 5.9 percent in late 2021, which is below the cost of capital.
 
 For applications built on language models, the recommended method is evaluations, known as evals. A team gathers a representative set of test questions, studies the errors by hand and keeps logging real user interactions after launch. These evaluations show whether an application is good enough to ship, whether it keeps working and whether it survives an upgrade of the underlying model. See [Measuring AI Project Value and Quality](#/concept/measuring-ai-project-value-and-quality).
 
-A related trap is Goodhart's Law. When a measure becomes a target, people game it until it no longer reflects the goal. Wells Fargo's cross-selling scandal is the standard example. Four ideas from machine learning help in designing indicators. Leaders can reassess metrics against the true objective, add unpredictability such as random audits, match the complexity of a metric to what the organization can oversee, and add constraints that make gaming costlier than performing well. The search for one perfect indicator usually ends with several. See [KPI Design in the AI Era](#/concept/kpi-design-in-the-ai-era).
+A related pitfall is Goodhart's Law. When a measure becomes a target, people game it until it no longer reflects the goal. Wells Fargo's cross-selling scandal is the standard example. Four ideas from machine learning help in designing indicators. Leaders can reassess metrics against the true objective, add unpredictability such as random audits, match the complexity of a metric to what the organization can oversee, and add constraints that make gaming costlier than performing well. The search for one perfect indicator usually ends with several. See [KPI Design in the AI Era](#/concept/kpi-design-in-the-ai-era).
 
 ### How people use generative AI
 
 Research that mined online discussions found that the most common use of generative AI moved from technical help in 2024 to emotional needs in 2025, with therapy and companionship at the top. Usage data from OpenAI and Anthropic broadly agree that use is concentrated in a few categories, although they disagree about how much is for coding. See [How People Actually Use Gen AI](#/concept/how-people-actually-use-genai).
 
-The results of working with AI depend on where the task sits. Ethan Mollick calls the uneven edge of AI capability the jagged frontier, because AI can generate ideas yet fail to write a poem of exactly 50 words. In a field experiment with 758 BCG consultants, users of GPT-4 completed 12.2 percent more tasks, finished 25.1 percent faster and produced output of 40 percent higher quality. Outside the frontier the picture reversed. Unaided consultants were right 84 percent of the time, and AI users fell to between 60 and 70 percent.
+The results of working with AI depend on where the task sits. Ethan Mollick calls the uneven edge of AI capability the jagged frontier, because AI can generate ideas yet fail to write a poem of exactly 50 words. In a field experiment with 758 BCG consultants, users of GPT-4 completed 12.2 percent more tasks, finished them 25.1 percent faster and produced output of 40 percent higher quality. Outside the frontier the picture reversed. Unaided consultants were right 84 percent of the time, and AI users fell to between 60 and 70 percent.
 
 Mollick describes two working patterns. In the Centaur pattern, human and AI divide the work cleanly. In the Cyborg pattern, they interleave effort within a task. An MIT review of 106 experiments found that human and AI teams on average beat humans alone, but did not beat the better of human-only or AI-only work. Combinations succeed mainly when each party handles the subtasks it does best. See [Working Effectively with Generative AI](#/concept/working-with-generative-ai).
 
@@ -62,7 +62,7 @@ Workers have reasons to hide productivity gains. They may want credit for the wo
 
 AI also creates workslop, which is polished-looking content with too little substance. In a survey of 1,150 US workers, 40 percent reported receiving it in the previous month. Middle managers carry much of the strain, because they must translate strategy into practice and now need both AI knowledge and change-management skills. Companies also separate horizontal skills, which almost every knowledge worker needs, from vertical skills specific to a domain.
 
-The company Johnson & Johnson shows a common path. After an open experimentation phase, it found that 85 percent of the value came from 15 percent of its applications, so it moved to a central governance council that vets projects. A four-country survey of executives found that almost three-quarters of businesses use AI, yet 86 percent of bosses saw no measurable labor-productivity gain over three years. See [Organizational Readiness for AI Collaboration](#/concept/organizational-readiness-for-ai-collaboration).
+Johnson & Johnson shows a common path. After an open experimentation phase, it found that 85 percent of the value came from 15 percent of its applications, so it moved to a central governance council that vets projects. A four-country survey of executives found that almost three-quarters of businesses use AI, yet 86 percent of bosses saw no measurable labor-productivity gain over three years. See [Organizational Readiness for AI Collaboration](#/concept/organizational-readiness-for-ai-collaboration).
 
 ### Technical debt
 
