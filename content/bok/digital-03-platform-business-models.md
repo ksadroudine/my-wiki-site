@@ -36,7 +36,7 @@ To sustain the interaction, a platform continuously performs three functions. **
 
 ### Network effects and learning effects
 
-A network effect means that a product becomes more valuable to each user as more users join. Platform Revolution divides these effects into four types, which a two-sided platform must manage together.
+A network effect means that a product becomes more valuable to each user as more users join. The book Platform Revolution divides these effects into four types, which a two-sided platform must manage together.
 
 - **Positive same-side effects** occur when more users of one type make the product better for others of that type. More subscribers make a phone network more valuable.
 - **Negative same-side effects** occur when more users of one type make it worse. Too many low-quality producers crowd a market.
@@ -49,7 +49,7 @@ Learning effects are different. They raise value because more data flowing throu
 
 ### The shape of the network
 
-The structure of the network decides how strongly value grows with size. In a globally integrated network, such as Airbnb's global marketplace, scale gained anywhere adds value everywhere. These networks tend to concentrate around a few dominant hubs, which raises barriers to entry and makes the leader's profitability easier.
+The structure of the network decides how strongly value grows with size. In a globally integrated network, such as Airbnb's global marketplace, scale gained anywhere adds value everywhere. These networks tend to concentrate around a few dominant hubs, which raises barriers to entry and makes it easier for the leader to be profitable.
 
 In a clustered network, value does not carry across clusters. Uber's global scale contributes little to its position in any single city, because a rider in one city gains nothing from driver density in another. The same is true of medical networks clustered around diseases and sports networks clustered around teams. Clustered networks stay far more competitive, because a focused challenger can win one cluster without matching the leader's global scale. This is an important test of whether a business is defensible.
 
@@ -61,7 +61,7 @@ Two forces work against a platform that tries to capture value from its network.
 
 **Disintermediation** happens when participants, once the platform has connected them, trust each other enough to deal directly. It is a chronic problem for pure connection marketplaces, such as Homejoy and early TaskRabbit, that deliver most of their value in the first match and then struggle to justify continuing fees. Hubs respond by staying valuable through escrow, insurance, dispute resolution and communication tools, though these lose value once trust is built. More durably, they lower direct transaction fees and earn from another side of the market.
 
-**Network bridging** connects a firm's network to a previously separate one, and it works reliably. Uber's entry into food delivery and non-emergency medical transport reuses its driver network and its data. The same logic explains why hubs such as Amazon and Alibaba keep expanding into seemingly unrelated markets.
+**Network bridging** is a way to grow beyond one network. It connects a firm's network to a previously separate one, and it works reliably. Uber's entry into food delivery and non-emergency medical transport reuses its driver network and its data. The same logic explains why hubs such as Amazon and Alibaba keep expanding into seemingly unrelated markets.
 
 ### Pipe businesses becoming platforms
 
@@ -110,7 +110,7 @@ Sarah Frier's account of Instagram shows how culture and the chosen measure of s
 
 Instagram defined three values in contrast to Facebook's culture. "Community first" means that decisions center on preserving how the app feels, and not only on growth. "Simplicity matters" means that every new feature must justify itself against a specific user problem. "Inspire creativity" means an editorial approach that highlights genuine, meaningful content over self-promotion. Where Facebook relied on algorithms, Instagram's small community team curated a suggested-user list by hand and wrote blog posts spotlighting exemplary accounts, deliberately picking favorites to show the type of behavior it wanted at scale.
 
-As Instagram grew, it adopted more data-driven optimization. Its own growth mission then created the same blind spot that Facebook's had. It paid too little attention to the pressure that aspirational content put on ordinary users, which surfaced only later, through interviews with teenage users. The lesson is that each platform's incentive structure ends up defining what the platform is in practice, whatever its founders intended. The quoted summary is that Facebook is for getting likes, YouTube for views, Twitter for retweets and Instagram for followers. The metric a platform optimizes becomes the metric its users optimize their own behavior around. Instagram also launched Stories to its entire user base at once, and not in stages, on the reasoning that a major change needs many users experiencing it at the same time to take hold. See [Platform Growth Culture (Instagram)](#/concept/platform-growth-culture-instagram).
+As Instagram grew, it adopted more data-driven optimization. Its own growth mission then created the same blind spot that Facebook's had. It paid too little attention to the pressure that aspirational content put on ordinary users, which surfaced only later, through interviews with teenage users. The lesson is that each platform's incentive structure ends up defining what the platform is in practice, whatever its founders intended. As one summary puts it, Facebook is for getting likes, YouTube for views, Twitter for retweets and Instagram for followers. The metric a platform optimizes becomes the metric its users optimize their own behavior around. Instagram also launched Stories to its entire user base at once, and not in stages, on the reasoning that a major change needs many users experiencing it at the same time to take hold. See [Platform Growth Culture (Instagram)](#/concept/platform-growth-culture-instagram).
 
 ## Go Deeper
 

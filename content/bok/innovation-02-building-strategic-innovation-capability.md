@@ -15,7 +15,7 @@ Lasting innovation capability comes from treating innovation as a permanent orga
 
 ### Why the defaults fail
 
-Most companies innovate in one of two ways. They improve their existing product lines step by step, or they reach for innovation outside the core through acquisitions and venture investments that are poorly connected to the main business. Neither approach secures the company's long-term future. A strategic-innovation capability is a different thing. It is the organizational machinery for generating and commercializing new business models repeatedly. See [Organizational Innovation Capability](#/concept/organizational-innovation-capability).
+Most companies innovate in one of two ways. They improve their existing product lines step by step, or they reach for innovation outside the core through acquisitions and venture investments that are poorly connected to the main business. Neither approach secures the company's long-term future. A strategic-innovation capability is something different. It is the organizational machinery for generating and commercializing new business models repeatedly. See [Organizational Innovation Capability](#/concept/organizational-innovation-capability).
 
 ### Eight practices
 

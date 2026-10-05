@@ -63,15 +63,15 @@ Five patterns of business-model reinvention recur across the companies studied.
 
 Despite broad enthusiasm, only 7 percent of surveyed companies said their digital initiatives were launching new businesses.
 
-Two tests help to choose where to aim. The strategic assets worth building a digital vision around should be tested against the VRIN criteria. They must be valuable, rare, inimitable and nonsubstitutable. And digital ambitions fall into three tiers of rising difficulty and payoff. Substitution replaces an existing function with a new technology. Extension widens what the function can do. Transformation redefines a process or product fundamentally, and does not merely speed it up.
+Two further ideas help to choose where to aim. The strategic assets worth building a digital vision around should be tested against the VRIN criteria. They must be valuable, rare, inimitable and nonsubstitutable. And digital ambitions fall into three tiers of rising difficulty and payoff. Substitution replaces an existing function with a new technology. Extension widens what the function can do. Transformation redefines a process or product fundamentally, and does not merely speed it up.
 
 ### Pfizer: when the obstacle is organizational
 
 Pfizer spent nearly two decades failing to digitize the paper batch records in its drug manufacturing, and it broke through only in 2025. The obstacle was never the electronic batch record technology. It was organizational. Governance was unclear between the central digital teams and the manufacturing sites. The digital team lacked credibility with manufacturing. And a one-size-fits-all deployment model treated plants as recipients of a solution, not as co-designers.
 
-The biggest turning point was a change of framing, from implementing a manufacturing execution system to enabling its capabilities. Pfizer also chose sites strategically, targeting 80 percent of revenue at 50 percent of the cost of full transformation, and it spent up to three months diagnosing each site before any technical work began.
+The biggest turning point was a change of framing, from implementing a manufacturing execution system, which is the software that runs production, to enabling its capabilities. Pfizer also chose sites strategically. It selected sites that together covered 80 percent of revenue at 50 percent of the cost of transforming every site. It also spent up to three months diagnosing each site before any technical work began.
 
-The results followed. Go-live schedule accuracy rose from 60 percent to over 80 percent. Yearly deployments of electronic batch records rose by more than 50 percent. The cost of implementing the system at a single site fell by 80 percent. The foundation of trust, governance and a repeatable process later made possible advanced optimization of batches and AI-driven process control. These could not have been added to the earlier paper-based, disconnected state at any cost.
+The results followed. Go-live schedule accuracy rose from 60 percent to over 80 percent. Yearly deployments of electronic batch records rose by more than 50 percent. The cost of implementing the system at a single site fell by 80 percent. The foundation of trust, governance and a repeatable process later made possible advanced optimization of production batches and AI-driven process control. Those could not have been added to the earlier paper-based state, with its disconnected islands of digital tools, at any cost.
 
 ## Go Deeper
 

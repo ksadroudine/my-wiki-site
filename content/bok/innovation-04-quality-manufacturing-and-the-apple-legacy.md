@@ -22,9 +22,9 @@ His students included executives from Fujitsu, Hitachi, NEC, Mitsubishi Electric
 
 ### Steve Jobs learns about process
 
-At his first company, NeXT, Jobs at first dismissed quality process as bureaucratic and opposed to his philosophy of hiring geniuses and applying pressure. Two quality experts from Sarasohn's lineage, Noriaki Kano and Joseph Juran himself, convinced him in 1990 and 1991 that quality required treating the entire organization as a repetitive process, to be measured and improved continuously, and that talent alone was not enough. These lessons came too late to save NeXT, which abandoned manufacturing by 1993.
+At NeXT, the company he founded after leaving Apple, Jobs at first dismissed quality process as bureaucratic and opposed to his philosophy of hiring geniuses and applying pressure. Two quality experts from Sarasohn's lineage, Noriaki Kano and Joseph Juran himself, convinced him in 1990 and 1991 that quality required treating the entire organization as a repetitive process, to be measured and improved continuously, and that talent alone was not enough. These lessons came too late to save NeXT, which abandoned manufacturing by 1993.
 
-Jobs applied them at Pixar. The studio had two different standards of quality, because burnt-out stars made up the A team and inexperienced staff made up the B team. Adapting Japanese process discipline to film production fixed this. Co-founder Ed Catmull called the resulting ability of any employee to "pull the cord" the studio's defining moment.
+Jobs applied them at Pixar. The studio had two different standards of quality, because burnt-out star employees formed the A team and inexperienced staff formed the B team. Adapting Japanese process discipline to film production fixed this. Co-founder Ed Catmull called the resulting ability of any employee to "pull the cord" the studio's defining moment.
 
 ### Rebuilding Apple's process
 
