@@ -1,4 +1,4 @@
-# My Book of Knowledge site
+# My Knowledge Database site
 
 Static site for the Obsidian wiki: the Book of Knowledge (BOK) and the concepts. Plain HTML, CSS and JavaScript, no build tools needed to view it.
 

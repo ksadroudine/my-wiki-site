@@ -103,7 +103,7 @@
   function showConcept(slug) {
     var c = bySlug[slug];
     if (!c) { $("article").innerHTML = "<h1>Not found</h1><p>No concept called " + esc(slug) + ".</p>"; return; }
-    document.title = c.title + " — My Book of Knowledge";
+    document.title = c.title + " — My Knowledge Database";
     fetch("content/" + encodeURIComponent(slug) + ".md")
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
       .then(function (md) {
@@ -137,13 +137,13 @@
         }).join("") + "</ul>";
       }).join("");
     markActive("bok");
-    document.title = "Table of Contents — My Book of Knowledge";
+    document.title = "Table of Contents — My Knowledge Database";
   }
 
   function showBok(slug) {
     var b = bokBySlug[slug];
     if (!b) { $("article").innerHTML = "<h1>Not found</h1><p>No page called " + esc(slug) + ".</p>"; return; }
-    document.title = b.title + " — My Book of Knowledge";
+    document.title = b.title + " — My Knowledge Database";
     fetch("content/bok/" + encodeURIComponent(slug) + ".md")
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
       .then(function (md) {
