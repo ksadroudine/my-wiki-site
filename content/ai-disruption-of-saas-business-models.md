@@ -1,6 +1,6 @@
 ## Summary
 
-The seat-based subscription model of software as a service, in which customers pay per user, is under pressure from large AI labs, AI-native startups, vibe coding and incumbents' own AI efforts, and credit markets already price the risk unevenly. Cybersecurity and vertical software that handles sensitive data in narrow niches have held up better, while software-engineering tools have fallen furthest. Seat pricing breaks down because AI agents cost the supplier more as usage grows and can replace the human users who pay the fees. McKinsey recommends moving toward pricing based on the AI work performed, and the sources add that defensible governance, domain knowledge and careful choices about which data to expose to agents are the main protections, as a new control layer forms above the software stack.
+The seat-based subscription model of software as a service, in which customers pay per user, is under pressure from large AI labs, AI-native startups, vibe coding and incumbents' own AI efforts, and credit markets already price the risk unevenly. Cybersecurity and vertical software that handles sensitive data in narrow niches have held up better, while software-engineering tools have fallen furthest. Seat pricing breaks down because AI agents cost the supplier more as usage grows and can replace the human users who pay the fees. McKinsey recommends moving toward pricing based on the AI work performed, and a survey of 400 European software chief technology officers finds that most vendors still bundle AI into existing subscriptions while their costs rise with usage. The sources add that defensible governance, domain knowledge and careful choices about which data to expose to agents are the main protections, as a new control layer forms above the software stack.
 
 ## Highlights
 
@@ -32,6 +32,7 @@ The seat-based subscription model of software as a service, in which customers p
 - Bain argues the larger prize is not defending SaaS but converting cross-system labor cost into software spending, a market it sizes at about $100 billion in the US. <span class="src">The $100-Billion SaaS Opportunity Hiding in Cross-System Labor</span>
 - Model Context Protocol servers grew from the late-2024 launch to more than 20,000 by July 2026, and Bain argues vendors should decide what data to expose and whether to offer MCP access before deciding pricing, weighing disintermediation against being bypassed by agents. <span class="src">How AI Is Changing Data Monetization</span>
 - LinkedIn guards its professional graph as the core asset while ServiceNow exposes governed workflows broadly and monetizes usage, and Atlassian pairs open access with its own Rovo agents; about half of vendors price programmatic access by usage or outcome, a third by capacity or rate limits and a fifth by access tier. <span class="src">How AI Is Changing Data Monetization</span>
+- In EY's survey of 400 European software chief technology officers, about 57% package AI features inside existing subscriptions without a separate charge, about 51% have not yet changed their pricing, and about 60% pass less than a quarter of AI usage cost on to customers. Inference and compute costs rise directly with usage. <span class="src">Beyond the Code</span>
 
 ## Concept
 
@@ -55,6 +56,8 @@ BCG's companion piece on CRM specifically shows what happens when the systems-of
 
 The labor-conversion market that Bain sizes is analysed in [Agentic Workflow Automation Opportunity](#/concept/agentic-workflow-automation-opportunity). <span class="src">The $100-Billion SaaS Opportunity Hiding in Cross-System Labor</span>
 
+EY-Parthenon's survey of 400 European software chief technology officers supplies data on how vendors are pricing AI today. More than one-third say that over 25% of their software or data-enabled revenue is linked to AI capabilities, yet about 57% still package AI inside existing subscriptions and about 51% have not changed their pricing models in the past year. EY matches different AI capabilities to different pricing logic. Copilots suit seat-based pricing, agents that execute workflows suit task or transaction pricing, infrastructure such as MCP servers and AI platforms suits usage, token or compute pricing, and decision engines can support outcome-based pricing when the value they create can be measured. Three forces squeeze margins at once, which are that inference costs scale with usage in a way traditional software costs never did, that pricing models largely absorb that growth, and that customers increasingly expect AI to be included at no extra charge. Respondents name customer expectations, competitors bundling AI for free and limits on willingness to pay as the main barriers, and about 60% pass less than a quarter of AI usage cost on to customers. Although more leaders place their company furthest behind peers on commercial model and monetization than on technical or organizational factors, pricing redesign ranks last among their 2026 priorities. An EY partner notes that seat-based pricing is challenged by AI components that bring fewer human users but far more token use and cost per user. <span class="src">Beyond the Code</span>
+
 <span class="src">How AI Is Changing Data Monetization</span> (Bain, September 2026) frames the seat-erosion threat as a data-access strategy question. Cheap MCP access can cannibalize higher-value seat licences if customers shift work from users to agents, exposing data is often a one-way decision, and abrupt tightening of access has triggered customer backlash and regulatory scrutiny, so Bain recommends phased pricing changes and deciding who pays (end customers or developers). <span class="src">How AI Is Changing Data Monetization</span>
 
 ## Related
@@ -65,6 +68,7 @@ The labor-conversion market that Bain sizes is analysed in [Agentic Workflow Aut
 - [Agentic Software and Technology Delivery](#/concept/agentic-software-and-technology-delivery) — PwC's "systems of control" governing action and outcomes across the enterprise stack is the software-asset-value counterpart to the agentic delivery-organization transformation covered there.
 - [Agentic Workflow Automation Opportunity](#/concept/agentic-workflow-automation-opportunity) — Bain's cross-system labor market and a16z's computer-use evidence describe where incumbents and entrants can expand rather than only defend.
 - [Private Equity AI Value Creation](#/concept/private-equity-ai-value-creation) — Bain's software-investing playbook there covers how owners underwrite the same disruption.
+- [Agentic AI Startups vs Incumbents](#/concept/agentic-ai-startups-vs-incumbents) — The EY findings there on where software moats now sit and how AI-native entrants actually win complement the pricing evidence here.
 
 ## Open Questions
 
@@ -74,6 +78,7 @@ The labor-conversion market that Bain sizes is analysed in [Agentic Workflow Aut
 - EY's "inertia moat" argument and the Economist's/WSJ's disruption-forward framing are never directly reconciled across sources: EY presents governance and compliance debt as a durable incumbent advantage, while the Economist treats AI labs' ability to bypass siloed SaaS products as the central threat — it's unresolved whether regulated-industry inertia is enough to protect incumbents broadly, or only in the specific regulated niches (banking, pharma) EY's examples are drawn from.
 - The WSJ account relies on founder and investor anecdote, and a few high-profile recoveries (Gong, Intercom) may not represent the wider population of pre-AI SaaS companies.
 - Bain's pricing-model shares come from an unspecified vendor sample, and the article does not say whether MCP pricing is converging.
+- The EY pricing data are self-reported by executives of European software companies, and the report does not show whether vendors that bundle AI differ in margin or growth from those that charge separately. <span class="src">Beyond the Code</span>
 
 ## Sources
 
@@ -88,3 +93,4 @@ The labor-conversion market that Bain sizes is analysed in [Agentic Workflow Aut
 - <span class="src">Facing AI ‘Apocalypse,’ Once-Hot Software Companies Race to Reinvent Themselves</span> — WSJ, Kate Clark, 2026-08-06; SaaS valuation damage and reinvention case studies.
 - <span class="src">The $100-Billion SaaS Opportunity Hiding in Cross-System Labor</span> — Bain & Company, 2026-09-29; market sizing covered in detail in the agentic workflow automation concept.
 - <span class="src">How AI Is Changing Data Monetization</span> — Bain & Company, 2026-09-29; decisions on data exposure, MCP and agent-access pricing.
+- <span class="src">Beyond the Code</span> — EY-Parthenon and Potloc, 2026; survey evidence on how European software vendors price and bundle AI and on the margin squeeze from usage-based costs.

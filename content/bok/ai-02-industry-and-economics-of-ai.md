@@ -1,15 +1,17 @@
 ## Summary
 
-The AI industry is spending far more on infrastructure than it earns, and the central question is whether that gap will close. This chapter explains the arguments for and against calling the spending a bubble, why vendors price AI below its cost, and how forecasts of AI's economic effect differ. It also covers the concentration of power in a few companies and leaders, the rise of Chinese and sovereign AI, the pressure on software-as-a-service businesses and the new problem of managing the cost of AI inside a company.
+The AI industry is spending far more on infrastructure than it earns, and the central question is whether that gap will close. This chapter explains the arguments for and against calling the spending a bubble, why vendors price AI below its cost, and how forecasts of AI's economic effect differ. It also covers the record borrowing by the largest cloud companies and the concentration of power in a few companies and leaders. It then looks at the rise of Chinese and sovereign AI, the pressure on software-as-a-service businesses and the new problem of managing the cost of AI inside a company, including the shift toward inference.
 
 ## Key Ideas
 
 - Spending on AI infrastructure is roughly six times AI revenue, and the chips involved lose value within a few years.
 - Whether this is a bubble depends on how the spending is financed, how fast revenue grows and whether losses could reach the banking system.
+- The five largest cloud companies are expected to issue more than $1 trillion of new debt over the next few years, which has repriced their bonds and changed how other borrowers raise money.
 - Vendors charge less than AI costs to run, and the models themselves are becoming commodities, which makes pricing the core business problem.
 - Forecasts of AI's economic effect differ because they measure different things, such as spending on technology or gains in national output.
 - Power is concentrated in Nvidia and a few frontier labs, and governments are responding with sovereignty policies and regulation.
-- Inside companies, AI costs are variable and easy to underestimate, so they need to be measured task by task.
+- Inference, the running of trained models to answer requests, is expected to make up about 60 percent of AI demand by 2030, so the cost to serve each outcome becomes the central measure.
+- Inside companies, AI costs are variable and hard to forecast, so they need to be measured task by task.
 
 ## Industry and Economics of AI
 
@@ -28,6 +30,12 @@ The other side applies a strict test. By this test a bubble needs a market fall 
 A third view in the Harvard Business Review changes the question. It asks how a bust could hurt the economy, through spending stopping, falling stock wealth or a credit crunch. It finds the boom smaller than headlines suggest, about 1 percent of national output, and concludes that systemic damage is unlikely while losses stay outside the banking system.
 
 The buildout is also limited by physical supply, not only by money. Memory chips are sold out through 2026, advanced packaging is fully booked, gas turbines have backlogs to 2030 and grid connections can take four to seven years. Local opposition blocked or delayed at least 75 projects in the first quarter of 2026 alone. This is the opposite of the dot-com fiber glut, when capacity sat idle until demand arrived. See [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble).
+
+### Borrowing at record scale
+
+The largest cloud companies now fund part of the buildout with debt. Goldman Sachs estimates that investors have provided about $500 billion to AI-linked groups in 2026, of which about $200 billion went to Amazon, Alphabet, Meta, Microsoft and Oracle. These five are expected to issue more than $1 trillion of new debt over the next few years. The flood of bonds has pushed down the price of hyperscaler debt, in some cases close to the level of lower-quality bonds, and set records in markets from Canada and Australia to Switzerland and the United Kingdom, including a bond that matures in 100 years. Other borrowers now time their bond sales to avoid the large deals and often borrow for shorter periods.
+
+Officials and investors disagree about the wider effect. The US Federal Reserve chair and Treasury secretary argue that hyperscalers compete for capital with the government bond market, where ten-year borrowing costs recently reached their highest level since 2007. Others attribute the rise in government yields to inflation and deficits. The risk lies in the links between borrowers, because chipmakers, data center operators and power suppliers lend to and borrow from each other, which makes it hard for pension funds and insurers to measure their exposure. Apollo's chief economist notes that the credit case rests on one assumption, which is that the operating cash flow of these companies triples from $600 billion to $2 trillion. See [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble).
 
 ### Why vendors cannot price AI profitably
 
@@ -55,11 +63,17 @@ Sovereign AI means AI capability under national or organizational control. McKin
 
 Software-as-a-service companies, which rent software over the internet, usually charge per user. AI agents cost the supplier more as they are used, and they replace the human users who pay the fees. The Economist names four threats, which are large AI labs, AI-native startups, companies building their own software and the incumbents' own AI products. Share prices show the uneven effect, with cybersecurity firms rising and seat-based software sellers such as Salesforce falling in the same period.
 
-McKinsey recommends moving to pricing based on the AI work performed. It also notes that AI software was still less than 1 percent of software application spending. See [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models).
+McKinsey recommends moving to pricing based on the AI work performed. It also notes that AI software was still less than 1 percent of software application spending.
+
+A survey of 400 European software chief technology officers by EY-Parthenon shows how vendors price AI today. About 57 percent bundle AI inside existing subscriptions without a separate charge, and about 51 percent have not changed their pricing models, even though the cost of running AI rises with usage. Different AI products suit different pricing. Copilots suit per-seat fees, agents that carry out workflows suit pricing per task, infrastructure suits pricing by usage, and decision engines whose value can be measured directly can be priced on outcomes. See [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models).
 
 ### The cost of AI inside a company
 
 For a firm that uses AI, the bill is variable and easy to underestimate. A customer service chat that cost $0.04 two years ago can cost $1.20 now, once the agent plans, retrieves information and calls other agents. Model prices fall roughly tenfold per generation, but the cost of completing a task stays flat, because people move to the newest model, each task uses more tokens and usage grows.
+
+The mix of AI work is also shifting. McKinsey expects inference, meaning the running of trained models to answer requests, to account for about 60 percent of AI demand by 2030, against about 40 percent for training. It expects companies to judge AI by the cost per useful outcome, such as the cost per resolved service ticket, and not by component benchmarks. That may move lasting value toward the memory, networking and software that lower the cost to serve. See [AI Investment Bubble and Capital Rotation](#/concept/ai-investment-bubble).
+
+Budgeting is hard. A study cited by the Wall Street Journal found that only 11 percent of nearly 400 companies could forecast their AI spending accurately. Researchers who tested models on more than 6,800 tasks found that the lower-priced model cost more than the higher-priced one in 32 percent of cases, because the cheaper model needed more steps or failed. The same model can also use a different number of tokens each time it does the same task.
 
 Companies are already rationing. Uber used its annual AI budget by March, and only about 18 percent of the money spent on AI coding tokens turns into shipped products, according to one study of 2,000 companies. The recommended response is a discipline called Agent FinOps, which tracks the full cost of each task, chooses the smallest adequate model and measures return. AT&T cut costs by 90 percent by routing work to smaller models. See [Enterprise AI Token Cost Management](#/concept/enterprise-ai-token-cost-management).
 

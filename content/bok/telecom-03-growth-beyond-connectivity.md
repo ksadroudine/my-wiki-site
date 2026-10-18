@@ -1,11 +1,12 @@
 ## Summary
 
-Core connectivity has become table stakes with slowing growth, so telecom operators are looking for new revenue in consumer ecosystems, enterprise IT services, network APIs, private 5G, sustainability and AI infrastructure. This chapter explains why the old growth engines are exhausted and what operators already earn from adjacent businesses. It shows that business customers are willing to buy beyond connectivity, with security and agentic AI driving demand, but that operators have not yet turned that preference into delivery. It also describes the four ways operators can supply AI infrastructure and the operating model that growth beyond the core requires.
+Core connectivity has become table stakes with slowing growth, and new competitors such as SpaceX are buying spectrum to enter mobile service. Telecom operators are therefore looking for new revenue in consumer ecosystems, enterprise IT services, network APIs, private 5G, sustainability and AI infrastructure. This chapter explains why the old growth engines are exhausted and what operators already earn from adjacent businesses. It shows that business customers are willing to buy beyond connectivity, with security and agentic AI driving demand, but that operators have not yet turned that preference into delivery. It also describes the four ways operators can supply AI infrastructure and the operating model that growth beyond the core requires.
 
 ## Key Ideas
 
 - Operators hold a structural advantage for new services, because they have real-time data on usage, devices and location, trusted customer relationships and ubiquitous infrastructure.
 - The old consumer growth engines are exhausted. Unlimited plans have used up the room for upselling, and price rises keep less than half of their value.
+- Satellite entrants such as SpaceX are buying cellular spectrum to compete for mobile customers, which adds pressure on the core.
 - About 80 percent of business decision-makers see operators as viable partners beyond connectivity, and security is the most durable driver of demand.
 - Operators have not yet turned this preference into delivery, and nearly half of enterprises are dissatisfied with operators' connectivity and IT delivery.
 - Network APIs create value only when they work across networks, which requires cooperation among competitors.
@@ -25,6 +26,12 @@ The incentive to do so is strong, because the traditional engines of consumer gr
 - Headline price increases keep less than half of their value, because customers move to cheaper offers for new customers.
 
 Core connectivity has become table stakes, with growth projected below 5 percent a year by 2026. Beyond-core areas such as security, cloud and agentic AI, which is AI that acts toward goals on its own, are growing two to three times faster.
+
+### A new competitor for the core
+
+The core is also under pressure from outside the industry. SpaceX agreed to buy cellular spectrum licenses in the 800-megahertz band from the investment firm Grain Management for about $8 billion in cash, its biggest move yet into a wireless market dominated by AT&T, Verizon and T-Mobile. Spectrum means the radio frequencies that carry wireless signals. These licenses are designed for service from cell towers and not from satellites. SpaceX says that, once the US Federal Communications Commission approves the purchase, it will combine its growing satellite network with a terrestrial network to reach places that satellites cannot, including the inside of buildings. The commission approved up to 15,000 satellites dedicated to mobile service earlier in the same week.
+
+SpaceX had already agreed to a deal worth about $17 billion in cash and stock with EchoStar for satellite spectrum rights, and it had bought EchoStar's ground-based licenses for $2.6 billion. A telecom analyst notes that Starlink still needs some ground infrastructure, such as towers or rooftop equipment. The three US carriers fell more than 6 percent in after-hours trading on the news. They had teamed up earlier in the year to extend service over satellite links, a move widely seen as defensive. The report does not say what prices or customers SpaceX will target, so the size of the threat is not yet known. See [Telecom Growth Beyond Core Connectivity](#/concept/telecom-growth-beyond-core).
 
 ### Consumer ecosystems
 

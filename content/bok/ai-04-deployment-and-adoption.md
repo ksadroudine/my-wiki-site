@@ -1,6 +1,6 @@
 ## Summary
 
-Most companies can start AI projects, but few can move them from pilot to everyday use and show a financial return. This chapter explains how to choose a first project, how organizations mature from experiments to scaled use, and why messy data and weak knowledge systems hold projects back. It also covers how to measure the value and quality of AI work, how people use generative AI in practice and where it helps or misleads them. Finally, it describes the human and technical obstacles to adoption, including hidden use, low-quality output and technical debt, which is the accumulated cost of software shortcuts.
+Most companies can start AI projects, but few can move them from pilot to everyday use and show a financial return. This chapter explains how to choose a first project, how organizations mature from experiments to scaled use, how much of the expected value companies actually obtain, and why messy data and weak knowledge systems hold projects back. It also covers how to measure the value and quality of AI work, how people use generative AI in practice and where it helps or misleads them. Finally, it describes the human and technical obstacles to adoption, including hidden use, low-quality output and technical debt, which is the accumulated cost of software shortcuts.
 
 ## Key Ideas
 
@@ -8,7 +8,9 @@ Most companies can start AI projects, but few can move them from pilot to everyd
 - A good first project is small enough to finish in 6 to 12 months, specific to the industry and tied to measurable value.
 - Going deep in one domain tends to pay off better than running many shallow pilots, yet only about 4 percent of companies take that path.
 - Organizations that reach higher maturity, meaning more advanced and systematic use of AI, tend to earn above-average financial results.
+- Across 951 companies, organizations realize only about 38 percent of the value they expect from AI, because they automate broken workflows and plan for more autonomy than they run.
 - Technical measures such as accuracy often hide the business effect, so teams should measure the cost of errors and test applications with structured evaluations.
+- Data quality and system design affect users through separate paths, so improving one while ignoring the other leads to a misdiagnosed failure.
 - People gain most from AI inside its area of strength and lose accuracy outside it, so users need to learn where that boundary lies.
 - Adoption is mostly a human problem. Workers hide their use, managers lack ways to measure output, and AI can produce polished text with little substance.
 
@@ -19,6 +21,8 @@ Most companies can start AI projects, but few can move them from pilot to everyd
 Many companies run a handful of AI pilots and then stall. KPMG describes the cause as a lack of enterprise readiness, not a failure of experiments. Pilots run on carefully prepared data. Production systems face data held in separate silos, many older interfaces and governance duties.
 
 CGI names five conditions for scaling. They are an operating model fit for AI, modernized information technology, a data strategy that lets systems share data, agentic automation and a supportive culture with the right talent. CGI also warns that organizations fail in two ways, by moving too cautiously or too recklessly. See [AI Maturity, Scaling and Project Selection](#/concept/ai-scaling-and-maturity).
+
+Bain measures how much of the expected value organizations actually obtain, which it calls the realization rate. Across 951 companies and 63 business processes, organizations converted about 38 percent of AI's potential into measured results, compared with 52 percent for traditional automation. Nearly 40 percent of the companies that measured AI cost savings realized less than 10 percent, against targets of 11 to 20 percent. Bain names two causes. AI does not repair a broken process but speeds it up and locks it in, which builds up what Bain calls workflow debt. In addition, only about 7 percent of companies run fully autonomous agents in production, although many business cases assume the economics of full autonomy. The leaders began where data was accessible and risk was manageable, used AI for analysis before autonomy, and reinvested the value from each stage into the next. See [AI Maturity, Scaling and Project Selection](#/concept/ai-scaling-and-maturity).
 
 ### Choosing the first project
 
@@ -44,7 +48,9 @@ Used well, generative AI changes how knowledge moves through a firm. McKinsey's 
 
 AI projects often fail to show value because their builders measure the wrong things. Data scientists say business measures such as return on investment matter most, yet they usually report technical ones such as accuracy. Accuracy treats every error as equally costly, which is rarely true. A legitimate payment that is wrongly blocked and a fraud that is missed cost a bank widely different amounts. An IBM study found that average return on enterprise AI was only 5.9 percent in late 2021, which is below the cost of capital.
 
-For applications built on language models, the recommended method is evaluations, known as evals. A team gathers a representative set of test questions, studies the errors by hand and keeps logging real user interactions after launch. These evaluations show whether an application is good enough to ship, whether it keeps working and whether it survives an upgrade of the underlying model. See [Measuring AI Project Value and Quality](#/concept/measuring-ai-project-value-and-quality).
+For applications built on language models, the recommended method is evaluations, known as evals. A team gathers a representative set of test questions, studies the errors by hand and keeps logging real user interactions after launch. These evaluations show whether an application is good enough to ship, whether it keeps working and whether it survives an upgrade of the underlying model.
+
+A third lens looks at the people who use the system. A study of 564 physicians found that the quality of the data and the design of the system affect users' mental effort through separate paths. Better data makes people reason more deeply, while a better interface removes effort wasted on navigation, clutter and needless alerts. Improving the data behind a clumsy interface raises the total burden on users, and simplifying the interface over incomplete data does not improve decisions. Postmortems that blame poor adoption or training often fix neither. The study recommends removing duplicated data, showing where each data point came from, requiring the fields that matter most and setting alerts so that they fire only when action is needed. See [Measuring AI Project Value and Quality](#/concept/measuring-ai-project-value-and-quality).
 
 A related pitfall is Goodhart's Law. When a measure becomes a target, people game it until it no longer reflects the goal. Wells Fargo's cross-selling scandal is the standard example. Four ideas from machine learning help in designing indicators. Leaders can reassess metrics against the true objective, add unpredictability such as random audits, match the complexity of a metric to what the organization can oversee, and add constraints that make gaming costlier than performing well. The search for one perfect indicator usually ends with several. See [KPI Design in the AI Era](#/concept/kpi-design-in-the-ai-era).
 

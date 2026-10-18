@@ -1,16 +1,18 @@
 ## Summary
 
-An AI agent is software that pursues a goal on its own by planning, using tools and adjusting to feedback, instead of only answering questions. This chapter explains what agents are, why most enterprises still see little earnings impact from them and how value appears when processes are rebuilt around agents. It also covers the platform an enterprise needs to run many agents, the shared business meaning that agents need in order to reason correctly and the new market for software that automates work between systems. Finally, it looks at how agents change the contest between startups and established firms, how they change decisions and the new questions they raise for the web.
+An AI agent is software that pursues a goal on its own by planning, using tools and adjusting to feedback, instead of only answering questions. This chapter explains what agents are, why most enterprises still see little earnings impact from them and how value appears when processes are rebuilt around agents. It shows that the operating model, meaning how decisions are made and work is organized, matters as much as the technology. It also covers the platform an enterprise needs to run many agents, the shared business meaning that agents need in order to reason correctly and the new market for software that automates work between systems. Finally, it looks at how agents change the contest between startups and established firms, how they change decisions and the new questions they raise for the web.
 
 ## Key Ideas
 
 - An agent differs from a chatbot because it makes decisions and acts toward a goal, following a loop of goal, plan, action and feedback.
 - More than 78 percent of companies use generative AI in at least one function, yet more than 80 percent report no material earnings contribution.
 - Value comes from reinventing end-to-end processes around agents, not from attaching them to old steps.
+- McKinsey finds that 48 percent of leaders in companies that have reinvented their operating model report meaningful value from AI, against 13 percent where employees only have AI tools.
 - Enterprises need a platform of interchangeable parts, open protocols and a control layer, so that agents can scale without building up a new technology legacy.
 - Agents fail to scale when company data lacks shared meaning, a problem BCG Platinion calls semantic debt.
 - Bain estimates that agents could take over work worth about $100 billion a year in US spending, much of it moving information between business systems.
 - Startups can now be built faster and cheaper, while incumbents keep advantages in trust, compliance and ownership of the system of record.
+- In software, the protection against copying has moved from the code to the context around it, such as proprietary data, workflows and trust.
 
 ## The Agentic Enterprise
 
@@ -27,6 +29,12 @@ McKinsey calls the gap between use and results the generative AI paradox. More t
 The call-center example shows the difference. Assistance gives gains of 5 to 10 percent. Adding agents to individual steps saves 20 to 40 percent of time. Redesigning the process with humans supervising the agents allows up to 80 percent of cases to be resolved autonomously. Early implementations report 40 to 50 percent faster IT modernization at more than 40 percent lower cost. At one bank, an agent factory of 100 agents supervised by five people cut time and labor costs by more than half.
 
 The main barriers are organizational. They include trust in high-stakes uses, readiness for change, coordination across vendors and agent sprawl. Walmart, for example, consolidated dozens of agents into four super agents. See [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation).
+
+### The operating model behind the value
+
+McKinsey sorts companies into three horizons of AI use. In the first, employees receive general AI tools. In the second, companies automate cross-functional workflows at scale. In the third, which McKinsey calls reinvention, they redesign roles, workflows and the operating model. Only 13 percent of the organizations in a survey of more than 700 executives were in the third horizon. Yet 48 percent of the leaders in that horizon report meaningful enterprise value from AI, against 24 percent in the second horizon and 13 percent in the first. These reinventors share no single design. They more often organize small cross-functional teams around products or processes, govern by quarterly outcomes or frequent reforecasting instead of long plans, standardize processes, push decisions down and reward team results as well as individual ones.
+
+Accenture reaches a similar view in five shifts. Companies should lead with the few decisions that matter most and specify how people and AI share them. They should organize around end-to-end value streams, manage people and agents as one workforce with a named human owner for every agent, measure cost per outcome instead of cost per head, and keep a record of past decisions so that learning builds over time. McKinsey adds that no single function owns AI reinvention. A senior leader therefore needs the authority to move funding and scarce talent, and some companies build an agentic mission factory. This is a cross-functional team that redesigns one business outcome at a time and leaves reusable agents and controls for the next. SAP, a software vendor, describes the same destination as the autonomous enterprise, in which people set direction and agents carry out routine coordination across finance, supply chain and other functions. See [Agentic AI Enterprise Transformation](#/concept/agentic-ai-enterprise-transformation).
 
 ### The platform
 
@@ -52,7 +60,9 @@ Agents that operate a computer like a person already run in production on narrow
 
 Agentic AI cuts the cost and time needed to build a company. HBR describes a second great compression of entrepreneurship, meaning that starting a company now takes far less money and time. It names five forces behind this, including instant iteration and radical capital efficiency. One venture studio's AI-native startups reached a Series A funding round on 80 percent less capital and 20 to 40 percent less time than its earlier companies. Established companies are slowed by organizational structures, data and workflows built for stability. If their data is siloed and their workflows undocumented, agents reproduce existing flaws faster.
 
-Incumbents keep real advantages in customer trust, compliance, specialized talent and ownership of the system of record. The venture firm a16z argues that the customer's job is bigger than any one system's record. That leaves room for specialized startups to rebuild a product around the full job across systems. See [Agentic AI Startups vs Incumbents](#/concept/agentic-ai-startups-vs-incumbents).
+Incumbents keep real advantages in customer trust, compliance, specialized talent and ownership of the system of record. The venture firm a16z argues that the customer's job is bigger than any one system's record. That leaves room for specialized startups to rebuild a product around the full job across systems.
+
+A survey of 400 European software chief technology officers by EY-Parthenon finds that the protection of software has moved from the code to the context around it, meaning proprietary data, workflows, integrations and trust. The layers most exposed to copying are reporting, the user interface and standard integrations. Most respondents report no effect from AI-native entrants, and the entrants that win do so on faster delivery and a better experience, mainly in commoditized areas. Service firms face the same pressure when clients use AI to do expert work themselves. MIT Sloan Management Review suggests three answers. Providers can lower the cost of each output, make buying as easy as asking, and take on the checking and maintenance work that clients would otherwise carry. See [Agentic AI Startups vs Incumbents](#/concept/agentic-ai-startups-vs-incumbents).
 
 ### Decisions and decision rights
 

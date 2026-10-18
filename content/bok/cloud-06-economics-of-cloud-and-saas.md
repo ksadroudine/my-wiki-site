@@ -71,7 +71,9 @@ Investors must also read alternative metrics with care. Annual recurring revenue
 
 McKinsey reports that the global SaaS market reached roughly $3 trillion by 2022, after nearly a decade in which software market value grew at twice the pace of the broader market. Growth then slowed as enterprises cut IT spending in response to higher interest rates. Generative AI has reached about 2 percent of the enterprise software market in a single year, a share that SaaS took four years to reach.
 
-McKinsey expects generative AI to make customers switch vendors more often as they chase new capabilities. SaaS companies therefore have to keep pace with development and defend client relationships, and they cannot assume renewal. Product-led growth, which puts the product and not a salesperson at the center of winning and expanding customers, is rarely successful alone. The more durable pattern is product-led sales, which adds it to a sales-led approach. See [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models).
+McKinsey expects generative AI to make customers switch vendors more often as they chase new capabilities. SaaS companies therefore have to keep pace with development and defend client relationships, and they cannot assume renewal. Product-led growth, which puts the product and not a salesperson at the center of winning and expanding customers, is rarely successful alone. The more durable pattern is product-led sales, which adds it to a sales-led approach.
+
+Pricing is changing as well. A survey of 400 European software chief technology officers found that about 57 percent still bundle AI into existing subscriptions without a separate charge, even though the cost of running AI rises with usage. See [AI Disruption of SaaS Business Models](#/concept/ai-disruption-of-saas-business-models).
 
 ## Go Deeper
 

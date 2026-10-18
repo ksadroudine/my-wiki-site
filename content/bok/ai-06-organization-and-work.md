@@ -1,11 +1,13 @@
 ## Summary
 
-AI changes how companies are structured and how people work, because it adds intelligence to a project without adding staff. This chapter explains how hierarchies flatten, how work is redesigned task by task and why the way AI is designed decides whether it helps or displaces workers. It also covers how data and AI leadership roles are evolving, how creativity and human skill are affected, and what the first uses of AI by executives, boards and robots reveal. The main message is that structure and incentives, more than the technology, decide who benefits.
+AI changes how companies are structured and how people work, because it adds intelligence to a project without adding staff. This chapter explains how hierarchies flatten, how teams and careers are redesigned around people and agents, how work is redesigned task by task and why the way AI is designed decides whether it helps or displaces workers. It also covers how data and AI leadership roles are evolving, how creativity and human skill are affected, and what the first uses of AI by executives, boards and robots reveal. The main message is that structure and incentives, more than the technology, decide who benefits.
 
 ## Key Ideas
 
 - Organizational forms such as the org chart and the assembly line were built around fixed human limits, and AI relaxes them.
 - Managers in flatter organizations spend less time coordinating and more time on hands-on work and conversations that AI cannot handle.
+- Teams are being redesigned around outcomes, with a mix of people and agents, and agents need a named human owner.
+- If agents take over entry-level work, companies must rebuild the path by which junior staff gain judgment.
 - Whether AI helps workers depends on design. AI that creates new tasks raises the value of expertise, while AI that only automates favors the owners of capital.
 - Fast-growing technology companies resolve friction at the front line, and operating models that rely on escalation will feel slower as agents speed up work.
 - AI raises the quality of individual creative work but narrows the variety of ideas across a group.
@@ -22,6 +24,12 @@ Employees often move first. A 2023 Salesforce survey found that more than half o
 ### Flatter hierarchies and new management roles
 
 AI flattens hierarchies through role redefinition. A Harvard study of more than 50,000 developers found that Copilot moved work toward core coding by 5 percent and away from project management by 10 percent. The remaining managers spend less time on coordination and more on upskilling, hands-on work, process improvement and client conversations that AI cannot handle. Robots flatten hierarchies by a different route. A robot makes each worker's output easy to measure, so one manager can supervise more people.
+
+### Teams, careers and the apprenticeship gap
+
+McKinsey describes a shift from an org chart to an orchestration chart. The new chart shows which people and agents come together around an outcome, what each does and which handoffs remain. In one product function, pods of eight to ten people became teams of four to six supported by agents. Roles that mainly move decisions around, such as project management, have grown about 1.5 to 2.0 times as fast as line roles over five years. A flatter structure works only if better information, clear decision rights and human judgment replace the coordination that is removed.
+
+Careers change as well. Agents take over research, drafting, coding and analysis, which creates a productivity gain. That gain becomes value only if leaders choose where the freed capacity goes. If agents also take the entry-level work through which people learn, today's gain can become a shortage of judgment later. In a survey of 400 European software chief technology officers, 95 percent had changed how junior engineers become senior ones, and about half had redesigned the path around review, testing and specification work. Accenture adds that every agent needs a named human owner and a place in workforce planning, beside people. See [AI-Driven Work and Organizational Redesign](#/concept/ai-work-and-organization-redesign).
 
 ### Redesigning the work itself
 
